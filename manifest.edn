@@ -1,0 +1,82 @@
+#:rendering{:label "ئۇيغۇرچە",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-16", :to "2026-09-17"},
+            :id "ug.v1",
+            :catalog {:ui "resources/i18n/ui/ug.edn"},
+            :license "CC BY-SA 4.0 (The Selah Uyghur Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23180, "glm-5.3" 33},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ug.md",
+             :rails-commit "bc323d2d",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "ئادوناي",
+              "אל" "ئەل",
+              "אלהים" "ئېلوھىم",
+              "אלוה" "ئەلوھ",
+              "יה" "ياھ",
+              "יהוה" "ياھۋەھ",
+              "שדי" "شادداي"},
+             :open-questions
+             ["THE INFLECTED MARKER, 4,212 rows: an inflected Hebrew surface glossed with a bare ⟨את⟩ — ואת 2,194 · אתו 581 · אתכם 347 · אתם 315 · אותם 190 · מאת 120. The chair flattens ~96%, preserves 4%. Standing recommendation is KEEP THE SUFFIX. BUT את IS TWO WORDS — the object marker and the preposition 'with' are homographs, and the READ-ONLY en floor brackets BOTH in 435 rows (2 Sam 3:27 reads אתו → ⟨את⟩ with him). A blanket expansion would stamp the object-marker bracket onto 435 prepositions FLEET-WIDE. The two questions must be answered together"
+              "THE TWELVE STONES have no house table. ug's breastplate gem names are transliterations where Uyghur has no fixed vocabulary, unchecked against a Uyghur Exodus 28 because we had none. tw invented Akanizations, bho and mai used the Indic gemstone tradition, yue inherited the Mandarin name-stock — four chairs, four answers, every translator flagging that it was guessing"
+              "NAMES NOT YET CANONISED: personal and place names were rendered per verse and have had no fleet-wide consistency pass"
+              "334 flow-parity losses and 14 gains left for a token-guided hand list; neither was stripped blindly, because a surplus marker may equally mean a missing gloss row"]},
+            :status :live,
+            :adjudication
+            ["THE ONE MECHANISM, four places: the chair substitutes an equivalent character from whichever writing system it holds, MID-WORD, STOPPING PARTWAY. Surfaces Hebrew→Arabic by COGNATE (4,345: לא→لא, מלך→مלך, and פ→پ, ג→گ which Arabic LACKS and Uyghur has); markers along the same gradient (637); supplied words Arabic→HEBREW, the reverse (8: ⟨אەلگە⟩ for ئەلگە); and Uyghur words UEY→ULY/USY (166: قېرىndاشلىرى, تويمايдۇ). The cognate map is correct scholarship applied in the one place it must never go"
+             "CHINESE IS THE ODD ONE OUT AND IS SEMANTIC, NOT ORTHOGRAPHIC: 葡萄زارىڭنى — 葡萄 is the Chinese word for GRAPE, substituted for ئۈزۈم inside the Uyghur word for vineyard; ئى穷تۇر likewise. The discipline doc named Chinese saturation as this chair's largest hazard and the probe looked for CHARACTERS. It arrived as WORD-SUBSTITUTION. A script check finds that only by accident"
+             "A REPEATED CLEAN SAMPLE IS NOT A CLEAN CORPUS: 'Han 0 · Cyrillic 0 on every window' was asserted ELEVEN times from fresh-300 windows — a 1.3% sample of 23,213 files. The tree held Han 5 and Cyrillic 4. Eleven clean windows were eleven draws that missed"
+             "A LIST WAS NEVER THE RIGHT INSTRUMENT: reading seats gave three damaged marker forms, the tree gave ten, and 110 MORE survived the first structural pass because ⟨ئאت⟩ inverts to אאת — a DOUBLED alef, since the Uyghur hamza-carrier is itself cognate to א. The fix is a structural probe (bracketed body empty, or mixing the Hebrew block with the Arabic block), never a longer list"
+             "A CURE THAT CAN ADD WHAT THE FLOOR NEVER HELD IS NOT A CURE: every marker repair is gated on the verse's own Hebrew. 1 Sam 9:26 carries ⟨ئەتكە⟩ where the Hebrew (ואשלחך) has no את at all. 11 rows refused. And mixed forms restore the BARE marker only — ⟨ئەتتى⟩ collapses to אתי ('with me') at 2 Chr 3:14 where the Hebrew is a bare את, so inventing a suffix is worse than not restoring one"
+             "THE ERASURE IS A HEDGE-SHAPE WITH THREE HABITATS, not a word: bare in the flow apposed to the rail (Deut 5:9, Exod 3:18, and 2 Kgs 17:7 reaching for پەرۋەردىگار — a DIFFERENT title, so a cure keyed on خۇدا alone would miss it); inside a ⟨supplied-word⟩ bracket (Jer 46:18 ⟨خۇدا⟩); and WORST, erasure-primary with the rail parenthesised in the row only (2 Chr 35:3 אלהיכם → خۇدايۇلار (ئېلوھىڭلار), where the flow carries خۇدايۇلار alone and the reader receives only the erasure). 29 verses → 0; 26 cleared on a re-render at 48000/glm-5.3/0.7 because the erasure is a groove a different sample shakes loose"
+             "SCOTT'S RULING 2026-09-17 — NO LATER PROPHETS IN THE TANAKH: پەيغەمبەر is Uyghur's ordinary word for prophet AND the word it uses for Muhammad. نەبى is cognate with נביא through נ-ב-א and carries no later figure into the text. 646 substitutions. The rule: a word a language reserves for a post-biblical figure never renders a Tanakh common noun, EVEN WHEN it is that language's ordinary word — the posture clause does not reach it"
+             "A WORD LIST CAN NEVER BE THE DISCRIMINATOR, because every word a defect uses is also a word the text uses. رەب is legitimate inside ئەرەب (Arabia, glossing ערב), ئەرەبە (the Arabah), رەبكە and رەبقە (both Rebekah), گارەب (Gareb), تېرەبىنت (terebinth), يارەب (Yareb), ئورەب (Oreb), رەببەسى (Rabbah), and as the gloss of רב in Rab-saris. دېمە lives inside دېمەك and is the correct rendering of אל תאמר at Prov 20:22. The test is LICENSING: text in the flow with no surface behind it is the chair speaking; text a gloss also carries is translation"
+             "THE MARKER GAP TRACKS THE BOOK, and the denominator matters as much as the gap: Lev 135/row315 · Isa 22/row59 · Ps 8/row23 · Prov 6/row12 · Chr 26/row83. Chronicles was predicted HIGHER and came in LOWER — that window is genealogy. The variable is CLAUSE DENSITY WITH DIRECT OBJECTS, not narrative-versus-poetry"
+             "DANIEL'S BILINGUAL SEAM IS A PASS, recorded because a clean result at a known hazard is worth as much as a defect: Dan 2:4 renders the Aramaic surfaces (מלכא → ئەي پادىشاھ, לעלמין → ئەبەدىي, חיי → ياشىغىن) without stumbling and the flow names the switch"
+             "SILENT TRUNCATION IS THE DEFAULT BURN FAILURE: all 51 residue verses landed by raising max-tokens 12000→24000, and the failures arrived in ADJACENT PAIRS because batch-of-2 calls truncate as a unit. Raise the ceiling first; it has never once been the model"],
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-ug",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :ug}
