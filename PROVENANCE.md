@@ -1,22 +1,95 @@
 # PROVENANCE — how this rendering came to be
 
-*Uyghur, chair 75. Lit and burned 2026-09-17. Floor 23,213 verses.*
+*Uyghur (ئۇيغۇرچە), chair 75. Lit and burned 2026-09-17. Floor 23,213 verses,
+305,507 token rows.*
 
-This is the working record of the machine that produced the text in this
-repository — written **while it was being produced**, not reconstructed
-afterwards. It is kept because a machine-assisted rendering has no standing
-unless you can see how it was made and what went wrong.
+This is the record of how the text in this repository was produced — written
+**while it was being produced**, not reconstructed afterwards. A
+machine-assisted rendering has no standing unless you can see how it was made
+and what went wrong with it, so this file says both.
 
-So it includes the failures. It opens with **corrections to facts the
-renderer itself reported and got wrong**, before any finding, because the
-findings are worth less than the knowledge of where the measurements failed.
-Counts that were revised are shown revised. Defects are named with the verse
-they were found in, so any of them can be looked up and checked against the
-Hebrew.
+---
 
-Nothing here asks to be taken on trust. Every count in this file was taken
-by a script in `dev/scripts/` against the files in this repository, and can
-be taken again.
+## The approach
+
+Every verse is rendered from the Hebrew of that verse, under a written
+discipline: `docs/methodology/translation-discipline/ug.md` in the Selah
+repository, which is itself written in Uyghur. Six rules govern it.
+
+1. **The Hebrew token is the unit.** Every change is tied to a Hebrew token;
+   word count equals gloss count. A rendering that cannot be laid beside the
+   Hebrew token by token is not this kind of rendering.
+2. **The Name stays the Name.** God's Name is not translated, it is
+   transliterated — **ياھۋەھ**. So are אלהים → **ئېلوھىم**, אדני →
+   **ئادوناي**, שדי → **شادداي**. The traditional titles a Uyghur reader
+   would expect — **خۇدا · اﷲ · تەڭرى · پەرۋەردىگار** — are *not* used where
+   the Name stands. They belong to the witnesses' tradition, not to this text.
+3. **Both truths of Deut 6:4** — what is written, and how the Hebrew sounds.
+4. **No foreknowledge.** The words of Gen 22:1 do not know Gen 22:13. Each
+   verse in its own light; no later book reads back into an earlier one.
+5. **Numbers and marks stay put.** Gematria, markers, letter counts — none is
+   broken for the sake of a smoother reading.
+6. **The translator has no word of his own.** Only the translation.
+   Interpretation lives in another layer.
+
+**The ⟨ ⟩ brackets do two different jobs, and the difference matters.**
+`⟨את⟩` is the Hebrew direct-object marker, which Uyghur has no word for; it
+is left standing so the reader can see it. `⟨word⟩` is a word Hebrew did not
+write but Uyghur grammar requires — visibly marked as supplied, so you can
+always tell what the Hebrew said from what the grammar needed.
+
+## How it was actually produced
+
+A relay rendered the corpus verse by verse against the discipline doc. It
+completed with **51 verses of residue**, all of which turned out to be silent
+truncation — raising the token ceiling from 12,000 to 24,000 landed every one.
+Twelve verses had arrived with a flow but no token rows, and twenty-six with
+a token count that disagreed with the Hebrew; those were re-pressed.
+
+Then five repair passes, each idempotent, each re-runnable, all in
+`dev/scripts/`:
+
+| pass | what it did | count |
+|---|---|---|
+| `surface_restore.py` | restored Hebrew surfaces from the read-only floor | 4,345 |
+| `ug_prophet_canon.py` | the prophet ruling below | 646 |
+| `marker_normalise.py` | recovered damaged את markers | 637 |
+| `ug_hand_pass.py` | Name spelling, and three erasure seats by hand | 264 |
+| `flow_parity.py` | carried every token-row marker into the verse line | 2,706 |
+
+## The decisions we had to make
+
+**No later prophets in the Tanakh.** The rendering was using **پەيغەمبەر**
+for **נביא**. It is an ordinary Uyghur word for *prophet* — and it is the word
+Uyghur uses for Muhammad. Scott's ruling, 2026-09-17: *"we need to be careful
+about bringing Muhammed into the Hebrew bible."* So **نەبى**, which is cognate
+with נביא through the shared Semitic root נ-ב-א and carries no later figure
+into the text. 646 substitutions.
+
+The general rule this settled: **a word a language reserves for a
+post-biblical figure does not render a Tanakh common noun, even when it is
+that language's ordinary word for the thing.** The usual preference — the
+language's own perfect word wins where one exists — does not reach that far.
+
+**The Name is spelled ياھۋەھ.** The corpus carried a minority spelling
+يەھۋەھ in 261 places. The discipline doc's own table names ياھۋەھ and the
+corpus agreed with it sixty to one, so this was a correction, not a choice.
+
+**Damaged markers are restored to the bare ⟨את⟩, never to an inflected
+form.** When a marker had to be reconstructed, it would sometimes have been
+possible to reconstruct it as ⟨אתי⟩ or ⟨אתו⟩. We do not: inventing a suffix
+the text may not carry is worse than not restoring one. The corpus majority
+is bare, 18,988 to 187.
+
+**No repair may add what the floor never held.** Every marker cure is gated
+on the Hebrew: a marker is only restored where the verse's own Hebrew carries
+an את-family word. Eleven rows were refused on that ground — the text there
+simply has no marker, and a repair that can invent one is not a repair.
+
+**Both surfaces get cured, or neither.** Each verse exists twice: as token
+rows and as a flowing line. A cure applied to one and not the other leaves
+the reader receiving something the corpus does not contain. That failed twice
+on an earlier chair before it became a rule.
 
 ---
 
@@ -29,7 +102,7 @@ were seen.
 
 ---
 
-## 00 · CORRECTIONS — things I reported as fact that were not
+## Corrections — facts this record reported and got wrong
 
 Written after the burn completed and the whole tree could be counted.
 Each of these was stated repeatedly during the burn on window evidence.
@@ -68,7 +141,7 @@ genre.
 
 ---
 
-## 0 · THE RATES BELOW ARE NOT CORPUS RATES — read this first
+## Why the per-window rates below understate the corpus
 
 At ~22,000 verses the window stopped walking forward and turned over into
 **five books at once** — Genesis 91, 2 Chronicles 76, Exodus 56, Leviticus
@@ -108,7 +181,7 @@ it a finding.
 
 ---
 
-## 1 · Erasure — a hedge-shape, not a word
+## Erasure — a hedge-shape, not a word
 
 ~0.05% of seats (tw was 0.24%). The chair sets the erasure and the rail
 **side by side for one Hebrew construct**, reaching for whichever
@@ -147,7 +220,7 @@ brackets misses A. Sweep both.**
 
 ---
 
-## 2 · `رەب` is never a bare substring match
+## `رەب` is never a bare substring match
 
 The eighth time a census without a whitelist measured its own blindness.
 A raw substring count said **8 erasure seats**; the truth was **3**.
@@ -165,7 +238,7 @@ seat whose surface is **רב** or **ערב**.
 
 ---
 
-## 3 · Register garble — the chair narrating its own rail
+## Register garble — the chair narrating its own rail
 
 Two seats, both in Ezekiel, both new to this chair and neither seen on
 tw or ff.
@@ -206,7 +279,7 @@ and that guard is not optional (it is what broke Gen 1:25 on tw when absent).
 
 ---
 
-## 3b · The marker arrives in the wrong script — and the count reads it as absent
+## The marker arrives in the wrong script — and the count reads it as absent
 
 `⟨ئەת⟩` — sorry, `⟨ئەت⟩` — is **את transliterated into Uyghur letters**. It
 has two behaviours, and only one of them is narration:
@@ -240,7 +313,7 @@ This is worth knowing before the repair pass runs: the wrapper is not
 random noise, and on an RTL postpositional chair it will be *more* common
 around supplied function words than around nouns.
 
-## 3c · Draft-speak — the verse rendered twice
+## Draft-speak — the verse rendered twice
 
 `psalms/31/9` —
 
@@ -265,7 +338,7 @@ half is wrong; the doubling is.
    `title-verses-included`. **Never check a Psalm seat against an English
    reference.**
 
-## 3d · The licensing test — what finally replaced the word lists
+## The licensing test — what finally replaced the word lists
 
 `proverbs/20/22` —
 
@@ -310,7 +383,7 @@ duplicates the gloss string without breaking `token count == gloss count`.
 Same family as the ratified case-suffix ruling — intact-stem inflection is
 lawful.
 
-## 3e · The marker does not arrive in one wrong form — it arrives partly converted
+## The marker does not arrive in one wrong form — it arrives partly converted
 
 The Esther window turned the transliterated-marker finding into something
 larger. **את does not fail into a single alternative spelling.** It fails
@@ -418,7 +491,7 @@ Uyghur is SOV and the object moved in front of it. Same postpositional
 collision that produced `⟨⟨את⟩ بىلەن⟩` at `psalms/21/7`. The repair pass
 cannot assume the marker precedes what it governs on this chair.
 
-## 3f · Daniel's bilingual seam — a PASS, recorded
+## Daniel's bilingual seam — a PASS, recorded
 
 Daniel 2:4 is where the Hebrew gives way to Aramaic, and it is a standing
 hazard. The chair handled it:
@@ -430,7 +503,7 @@ The token rows render Aramaic surfaces (`מלכא → ئەي پادىشاھ`,
 the switch. No finding — filed because a clean result at a known hazard is
 worth as much as a defect.
 
-## 4 · Marker gap tracks the BOOK — and the denominator matters
+## Marker gap tracks the BOOK — and the denominator matters
 
 Reading a small gap as improvement is as wrong as reading a large one as
 degradation. Always take the gap against the token-row count.
@@ -473,7 +546,7 @@ pass at seating (it closed 1,987 on tw).
 
 ---
 
-## 5 · Latin script — NOT a sibling language. Uyghur's own word, half-romanized.
+## Latin script — NOT a sibling language. Uyghur's own word, half-romanized.
 
 **I had this wrong for most of the burn and the Chronicles window corrected
 it.** I recorded `exodus/29/3`'s `üstige` as *Turkish bleed — a sibling
@@ -516,7 +589,7 @@ bracket, the tw *706 untranslated English* family.
 
 ---
 
-## 5b · THE ONE MECHANISM, stated properly at the end of the burn
+## THE ONE MECHANISM, stated properly at the end of the burn
 
 The chair substitutes **equivalent characters from whichever writing system
 it holds**, mid-word, stopping partway. It shows up in four places and they
@@ -546,7 +619,7 @@ transliteration (166 seats), the erasure cure (31 seats, three habitats),
 and `⟨is⟩`×5 / `⟨the⟩`×5 — English function words in supplied brackets,
 the tw *706 untranslated English* family.
 
-## 6 · FOR SCOTT — the prophet fork, an unadjudicated Class-B
+## The prophet fork — and the ruling that settled it
 
 `2-chronicles/36/12` and `36/16` render **הנביא** as **پەيغەمبەر**.
 `ezekiel/34/2` renders the verb as **نەبىلىك قىل**.
@@ -572,7 +645,7 @@ rather than a repair.
 
 ---
 
-## 7 · The erasure has a THIRD habitat — and this one reaches the reader
+## The erasure has a THIRD habitat — and this one reaches the reader
 
 `2-chronicles/35/3`, token row:
 
@@ -611,3 +684,104 @@ First-hour gate **passed at 333 verses**: Han 0, Cyrillic 0, Latin 0,
 erasure 0.
 
 > Gen 1:1 — باشلىنىشتا ئېلوھىم ⟨את⟩ ئاسمانلارنى ۋە ⟨את⟩ يەرنى ياراتتى.
+
+---
+
+## Why there are versions
+
+This is **ug.v1** — one rendering, produced once, under one discipline.
+
+It is not meant to stand alone. Selah renders a language more than once
+(en1, en2, en3 on the English chair), and the versions are not drafts
+superseding one another. They are independent samples from the space of
+faithful readings. Where two or three renderings **converge**, the Hebrew is
+constraining the reading. Where they **scatter**, either the Hebrew
+underdetermines it or the target language forces a choice the Hebrew never
+made — and that scatter is a finding, not noise. A single rendering cannot
+tell you which of those you are looking at.
+
+The standard is the text's own. Deuteronomy 19:15 uses one verb twice:
+
+> **לא יקום** עד אחד … על־פי שני עדים או על־פי שלשה־עדים **יקום דבר**
+>
+> *One witness shall **not rise up** … on the mouth of two witnesses or on
+> the mouth of three witnesses **a word shall rise**.*
+
+The verb is **יקום** — *stands, rises* — negated for the single witness and
+affirmed for the two or three. And the thing that rises is **דבר**: a word.
+
+Its plain sense is legal testimony, and reading it as a rule for translation
+is an analogy rather than something the verse itself names. But the analogy
+holds where it matters: **one rendering is one witness.** Read this version
+against the others, and against the Hebrew it is laid beside. Where they
+agree, the word stands. Where they do not, you have found the place worth
+looking at.
+
+---
+
+## What is still unresolved
+
+These are open at the time of writing. They are listed because a rendering
+that hides its unsettled questions is asking to be trusted rather than
+checked.
+
+**The inflected marker — 4,212 rows.** Hebrew writes the object marker with
+prefixes and suffixes: **ואת** (*and*), **אתו** (*him*), **אתכם** (*you*),
+**מאת** (*from*). This rendering flattens about 96% of them to a bare
+`⟨את⟩`, preserving the inflection in only 187 places. Whether to expand all
+4,212 is undecided — and it is harder than it looks, because **את is two
+different Hebrew words**: the object marker, and the preposition *with*.
+They are spelled identically. The English floor this rendering derives from
+brackets **both**, in 435 rows — so a blanket expansion would stamp the
+object-marker bracket onto 435 prepositions across every language at once.
+The two questions have to be answered together.
+
+**The twelve stones.** The breastplate stone names in the interface are
+transliterations where Uyghur has no fixed vocabulary for them. They were not
+checked against a Uyghur Bible's Exodus 28, because we did not have one. They
+should be.
+
+**Names not yet canonised.** Personal and place names were rendered per verse
+and have not had a fleet-wide consistency pass.
+
+## What is left in the text
+
+Honest residue, not hidden:
+
+- **334 verses** where a token-row marker could not be placed into the verse
+  line automatically, and **14** where the line carries a marker the rows do
+  not. Each needs a token-guided look; none was stripped blindly, because a
+  surplus marker may equally mean a missing row.
+- **22 damaged brackets** the floor gate correctly refused to repair — the
+  Hebrew there carries no marker to restore.
+- **182 token rows with an empty gloss**, which is why this corpus has
+  305,325 word-glosses against a floor of 305,507. An empty gloss produces no
+  entry rather than a false one.
+- **`genesis/40/13`** carries a stray `⟨ئىبرانىيچە⟩` — "⟨in Hebrew⟩" — left
+  over from the renderer explaining itself.
+
+## How to check any of this
+
+Every count in this file came from a script run against the files in this
+repository. None of it requires trusting the account.
+
+```bash
+# verses and token rows
+find . -name '*.json' | wc -l                      # 23,213
+
+# the Name, and that the erasure list is absent from it
+grep -rho 'ياھۋەھ' --include=*.json . | wc -l
+grep -rl 'خۇدا\|اﷲ\|تەڭرى\|پەرۋەردىگار' --include=*.json .   # expect none
+
+# markers intact vs damaged
+grep -rho '⟨את⟩' --include=*.json . | wc -l
+```
+
+The repair passes themselves are in the Selah repository under
+`dev/scripts/`, are idempotent, and report what they touch rather than
+silently overwriting it. Running one a second time should report zero; if it
+does not, something else has changed the tree.
+
+The Hebrew surfaces in every `tokens[].surface` field are the read-only
+floor, carried through unchanged. Any verse can be laid beside its Hebrew,
+token by token, and the two counts compared. That is the whole point.
