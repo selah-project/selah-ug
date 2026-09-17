@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":24,"ref":"exodus 26:24","book":"exodus","lang":"ug","chapter":26,"translation":"Ular pastدا qoʻsha بولىدۇ، ئۈستىدە بىر-بىرىگە قوشۇلgan holda بىر تۆمۈر ھالقىغا تاپىشىدۇ — shu ikki بۇرجى ئۈچۈن ham shunday بولىدۇ.","tokens":[{"surface":"ויהיו","gloss":"بولىدۇ"},{"surface":"תאמים","gloss":"qoʻsha"},{"surface":"מלמטה","gloss":"پاستدا"},{"surface":"ויחדו","gloss":"بىر-بىرىگە قوشۇلgan"},{"surface":"יהיו","gloss":"بولىدۇ"},{"surface":"תמים","gloss":"toʻliq (qoʻshilgan)"},{"surface":"על","gloss":"ئۈستىدە"},{"surface":"ראשו","gloss":"بېشىدا"},{"surface":"אל","gloss":"تاپىشىدۇ"},{"surface":"הטבעת","gloss":"ھالقىغا"},{"surface":"האחת","gloss":"بىر"},{"surface":"כן","gloss":"shunday"},{"surface":"יהיה","gloss":"بولىدۇ"},{"surface":"לשניהם","gloss":"ikkinning"},{"surface":"לשני","gloss":"ikkining"},{"surface":"המקצעת","gloss":"burchaklarining"},{"surface":"יהיו","gloss":"بولىدۇ"}],"timestamp":"2026-09-16T19:49:07.063075919Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 26:24",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ئۇلار ئاستىدىن قوش تەكشى بولسۇن، ئۈستىگە بىر يەرگە قوشۇلغان بولسۇن، بىر ھالقىغا ⟨ئۇنىڭ⟩ بېشىغىچە مۇكەممەل بولسۇن؛ ئىككىسىگە شۇنداق بولسۇن — بۇلۇڭلارنىڭ ئىككىسىگە بولسۇن.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "תאמים",
+      "gloss": "قوش تەكشى"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ئاستىدىن"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "بىر يەرگە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "مۇكەممەل"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ئۇنىڭ بېشى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غىچە"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "بىر ھالقىغا"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ئىككىسىگە"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ئىككىسىگە"
+    },
+    {
+      "surface": "המקצעת",
+      "gloss": "بۇلۇڭلارنىڭ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بولسۇن"
+    }
+  ],
+  "timestamp": "2026-09-17T02:05:43.946679804Z",
+  "model": "glm-5.3"
+}
