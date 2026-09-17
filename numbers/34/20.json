@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "شىمئون ئوغۇللىرىنىڭ قەبىلىسىدىن — شىمۇئەل بىن ئەممىھۇد.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شىمئون"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شىمۇئەل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بىن"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ئەممىھۇد"
+    }
+  ],
+  "timestamp": "2026-09-16T20:27:01.163775775Z",
+  "model": "glm-5.3"
+}

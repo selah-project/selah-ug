@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ياھۋەھ ئاتا-بوۋىلىرىڭلارغا قاتتىق غەزەپلەندى — غەزەپ!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "غەزەپلەندى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ئاتا-بوۋىلىرىڭلارغا"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "غەزەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:14:18.189035470Z",
+  "model": "glm-5.3"
+}

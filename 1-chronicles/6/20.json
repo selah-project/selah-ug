@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "زۇفنىڭ ئوغلى، ئەلقانەنىڭ ئوغلى، ماھاتنىڭ ئوغلى، ئاماساينىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "زۇف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "ماھات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ئاماساي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:21.623358155Z",
+  "model": "glm-5.3"
+}

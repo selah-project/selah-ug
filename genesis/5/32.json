@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "نۇھ بەش يۈز ياشقا كىرگەندە نۇھ شەمنى، ھامنى ۋە ياپەتنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "كىرگەندە"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى ⟨يېشىدا⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ياشقا"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شەمنى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شەمنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھامنى"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ھامنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ياپەتنى"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ياپەتنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:39.922411631Z",
+  "model": "glm-5.3"
+}

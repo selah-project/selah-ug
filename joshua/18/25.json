@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "گىبئون ۋە راما ۋە بېئېروت",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "گىبئون"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ۋە راما"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ۋە بېئېروت"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:54.186365139Z",
+  "model": "glm-5.3"
+}

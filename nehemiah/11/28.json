@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ھەمدەپ زىكلاغدا، مىكوندا ۋە ئۇنىڭ قىشلاقلىرىدا.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "زىكلاغدا"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "مىكوندا"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "ۋە ئۇنىڭ قىشلاقلىرىدا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:26.581797818Z",
+  "model": "glm-5.3"
+}

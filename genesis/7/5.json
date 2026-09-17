@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "نۇھ ياھۋەھ ئۇنىڭغا بۇيرۇغان نەرسىنىڭ ھەممىسىنى قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ھەممىسىنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…نىكى"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ئۇنىڭغا بۇيرۇغان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:05.627120390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ئۇنىڭ ئوغلى — چوڭى ئەۋدون، سۇر، قىش، بەئەل ۋە ناداۋ.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "چوڭى"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ئەۋدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "سۇر"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "قىش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "بەئەل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ناداۋ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:19.779423249Z",
+  "model": "glm-5.3"
+}

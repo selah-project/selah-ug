@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 22:13",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "قارا، سېنىڭ قىلغان ناھەق پايداڭغا ۋە ئىچىڭدە بولغان قېنىڭغا ئالقىنىمنى ئۇردۇم.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ئۇردۇم"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ئالقىنىمنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "ناھەق پايداڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "قىلغان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ۋە…غا"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "قېنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "ئىچىڭدە"
+    }
+  ],
+  "timestamp": "2026-09-16T22:48:27.181822509Z",
+  "model": "glm-5.3"
+}

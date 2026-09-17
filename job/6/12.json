@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "كۈچۈم تاشلارنىڭ كۈچىمۇ؟ گۆشۈم مىستىنمۇ؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "مىمۇ؟"
+    },
+    {
+      "surface": "כח",
+      "gloss": "كۈچى"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "تاشلارنىڭ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "كۈچۈم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مىمۇ؟"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "گۆشۈم"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "مىستىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:58:59.755486463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ياپەتنىڭ ئوغۇللىرى: گومەر، مەگوگ، ماداي، ياۋان، تۇبال، مەشەك ۋە تىراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ياپەتنىڭ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومەر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "مەگوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ماداي"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ياۋان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "تۇبال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "مەشەك"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ۋە تىراس"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:53.259136513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "مۇساپىرنى سۆيۈڭلار، چۈنكى سىلەر مىسر يېرىدە مۇساپىر ⟨ئىدىڭلار⟩.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "سۆيۈڭلار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۇساپىرنى"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "مۇساپىرنى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مۇساپىر"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يېرىدە"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مىسر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:56.093945356Z",
+  "model": "glm-5.3"
+}

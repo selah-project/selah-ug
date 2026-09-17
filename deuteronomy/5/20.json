@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ۋە ھەرگىز ⟨سەن⟩ قوشناڭغا قارشى يالغان گۇۋاھلىق بەرمە",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ھەرگىز"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جاۋاب بەرمە — گۇۋاھلىق بەرمە"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "قوشناڭغا قارشى"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گۇۋاھ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "يالغان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:29:54.173001061Z",
+  "model": "glm-5.3"
+}

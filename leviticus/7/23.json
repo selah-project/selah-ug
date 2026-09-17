@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئىسرائىل بالىلىرىغا ئېيتقىن: ئۆكۈزنىڭ، قوينىڭ ۋە ئۆچكىنىڭ ھېچقانداق يېغىنى يېمەيسىلەر.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨...⟩ غا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھېچقانداق"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ياغ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ئۆكۈز"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ئۆچكە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "يېمەيسىلەر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:57:34.411030937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ناغشىغۇچىغا — داۋۇدنىڭ مەزمۇنى",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغشىغۇچىغا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزمۇن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇدنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:22:28.859014015Z",
+  "model": "glm-5.3"
+}

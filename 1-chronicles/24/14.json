@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "بىلگاغا ئون بەشىنچى، ئىممېرگە ئون ئالتىنچى ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "بىلگاغا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئىممېرگە"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:27.933344864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 113,
+  "translation": "بولسۇن ⟨ئۇ⟩ ياھۋەھنىڭ ئىسمى مۇبارەك، ھازىردىن باشلاپ ⟨تا⟩ ئەبەدكە!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئىسمى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "مۇبارەك"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ھازىردىن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ئەبەدكە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:40:36.270056684Z",
+  "model": "glm-5.3"
+}

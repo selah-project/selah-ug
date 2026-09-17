@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئىككىنچى قاتاردا نوفېخ، ساپپىر ۋە يەھالوم بولسۇن.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "قاتاردا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ئىككىنچى"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نوفېخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ساپپىر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ۋە يەھالوم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:50:10.875785895Z",
+  "model": "glm-5.3"
+}

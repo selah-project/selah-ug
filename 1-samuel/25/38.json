@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئون كۈندىن كېيىن ياھۋەھ نابالنى ⟨את⟩ ئۇردى، ئۇ ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "ئون كۈندىن كېيىن"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ئۇردى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابالنى"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:16:59.328005678Z",
+  "model": "glm-5.3"
+}

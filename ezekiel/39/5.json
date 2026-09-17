@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 39,
+  "translation": "دالىنىڭ يۈزىدە يىقىلىسەن، چۈنكى مەن سۆزلىدىم — ئادوناي ياھۋەھنىڭ ئېيتقىنى.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزى"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "دالىنىڭ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "يىقىلىسەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "سۆزلىدىم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ئېيتقىنى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:55:16.617550320Z",
+  "model": "glm-5.3"
+}

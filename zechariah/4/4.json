@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "مەن جاۋاب بېرىپ، ماڭا سۆزلەۋاتقان پەرىشتىلەرگە: «ئى ئادوناي، بۇلار نېمە؟» دېدىم.",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "جاۋاب بەردىم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "پەرىشتىلەر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆزلەۋاتقان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    }
+  ],
+  "timestamp": "2026-09-16T23:15:12.922109888Z",
+  "model": "glm-5.3"
+}

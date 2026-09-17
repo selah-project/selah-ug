@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "گومەرنىڭ ئوغۇللىرى ⟨بولسا⟩: ئاشكەناز ۋە دىپات ۋە توگارما.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ۋە ئوغۇللىرى"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومەرنىڭ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ئاشكەناز"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ۋە دىپات"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ۋە توگارما"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:18.935878570Z",
+  "model": "glm-5.3"
+}

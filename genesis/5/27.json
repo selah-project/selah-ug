@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مېتۇشەلاخنىڭ بارلىق كۈنلىرى توققۇز يۈز ئاتمىش توققۇز يىل بولدى،ئۇ ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مېتۇشەلاخنىڭ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:31.564972024Z",
+  "model": "glm-5.3"
+}

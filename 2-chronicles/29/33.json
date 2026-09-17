@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ۋە مۇقەددەس قىلىنغان نەرسىلەر ⟨ئىدى⟩ — ئالتە يۈز باش كالا ۋە ئۈچ مىڭ قوي.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "مۇقەددەس قىلىنغان نەرسىلەر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ۋە قوي"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:05:56.884784430Z",
+  "model": "glm-5.3"
+}

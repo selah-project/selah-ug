@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "شۇڭا ئاپىتى تۇيۇقسىز كېلىدۇ، دەم ئىچىدە چېكىدۇ ۋە شىپا بولمايدۇ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڭا"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "تۇيۇقسىز"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "كېلىدۇ"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "ئاپىتى"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "دەم ئىچىدە"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "چېكىدۇ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ۋە بولمايدۇ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شىپا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:21.011263993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "پاك بارلىق قۇشلارنى يېسەڭلار بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "قۇشلارنى"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاك"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "يېسەڭلار بولىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:02.740983813Z",
+  "model": "glm-5.3"
+}

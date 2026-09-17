@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ناخشىچىلار: ئاسافنىڭ بالىلىرى — يۈز قىرىق سەككىز ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ناخشىچىلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاسافنىڭ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:07.178246612Z",
+  "model": "glm-5.3"
+}

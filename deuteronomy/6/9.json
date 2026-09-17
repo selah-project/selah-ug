@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "⟨ئۇلارنى⟩ ئۆيۈڭنىڭ ئىشىك ئىستىۋانلىرىغا ۋە دەرۋازىلىرىڭگە يازغىن.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "يازغىن"
+    },
+    {
+      "surface": "על",
+      "gloss": "غا"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ئىشىك ئىستىۋانلىرى"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ئۆيۈڭنىڭ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ۋە دەرۋازىلىرىڭگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:30:28.350834372Z",
+  "model": "glm-5.3"
+}

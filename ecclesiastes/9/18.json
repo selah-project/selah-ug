@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ھېكمەت ئۇرۇش قوراللىرىدىن ياخشى، ئەمما بىر ⟨گۇناھكار⟩ نۇرغۇن ياخشىلىقنى ۋەيران قىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "قوراللىرىدىن"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "گۇناھكار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ۋەيران قىلىدۇ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ياخشىلىقنى"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "نۇرغۇن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:06.791663163Z",
+  "model": "glm-5.3"
+}

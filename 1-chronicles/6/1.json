@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "لەۋىنىڭ ئوغۇللىرى: گېرشوم، قەھات ۋە مەرارى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لەۋى"
+    },
+    {
+      "surface": "גרשׁם",
+      "gloss": "گېرشوم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەھات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ۋە مەرارى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:03.580828226Z",
+  "model": "glm-5.3"
+}

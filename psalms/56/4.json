@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 56,
+  "translation": "قورققان كۈنۈمدە مەن ساڭا تايىنىمەن",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "كۈنۈمدە"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "قورققان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "تايىنىمەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:29:12.227145196Z",
+  "model": "glm-5.3"
+}

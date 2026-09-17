@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "مەڭزلىرىڭ چۆرگىلەر بىلەن چىرايلىق، بوينۇڭ مونچاقلار بىلەن.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "چىرايلىق"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "مەڭزلىرىڭ"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "چۆرگىلەر بىلەن"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "بوينۇڭ"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "مونچاقلار بىلەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:09:45.316928205Z",
+  "model": "glm-5.3"
+}

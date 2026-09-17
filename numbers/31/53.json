@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "قوشۇننىڭ ئەركەكلىرى ئولجا ئالدى، ھەر بىرى ئۆزىگە.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەركەكلىرى"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "قوشۇننىڭ"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ئولجا ئالدى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھەر بىرى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۆزىگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:24:49.521655190Z",
+  "model": "glm-5.3"
+}

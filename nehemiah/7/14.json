@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "زاككاينىڭ بالىلىرى — يەتتە يۈز ئاتمىش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زاككاي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:53.003411282Z",
+  "model": "glm-5.3"
+}

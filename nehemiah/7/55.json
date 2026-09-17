@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بارقوس ئوغۇللىرى، سىسرا ئوغۇللىرى، تەماح ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بارقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سىسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تەماح"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.078000590Z",
+  "model": "glm-5.3"
+}

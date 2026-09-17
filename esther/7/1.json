@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "پادىشاھ بىلەن ھامان ئېستېر خانىش ⟨بىلەن⟩ ئىچىشكە كىردى.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "كىردى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ۋە ھامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ئىچىشكە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ئېستېر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "خانىش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:21:42.345714657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 85,
+  "translation": "ھېسەد بىلەن ئەمەت ئۇچراشتى، سېدەق بىلەن شالوم سۆيۈشتى.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ھېسەد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "بىلەن ئەمەت"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ئۇچراشتى"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "سېدەق"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "بىلەن شالوم"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "سۆيۈشتى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:35:37.332661505Z",
+  "model": "glm-5.3"
+}

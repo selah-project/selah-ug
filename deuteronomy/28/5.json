@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "بەرىكەتلىك بولغاي سېنىڭ سېۋىتىڭ ۋە خېمىر قاچاڭ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەرىكەتلىك بولغاي"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سېنىڭ سېۋىتىڭ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ۋە خېمىر قاچاڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:05.881622611Z",
+  "model": "glm-5.3"
+}

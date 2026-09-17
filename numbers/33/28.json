@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇلار تاراھدىن يولغا چىقتى ۋە مىتقاھتا لاگېر قۇردى.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "يولغا چىقتى"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "تاراھدىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "لاگېر قۇردى"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "مىتقاھتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:33.540566795Z",
+  "model": "glm-5.3"
+}

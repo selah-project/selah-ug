@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئاندىن ياھۋەھنىڭ سۆزى ماڭا يېتىپ كەلدى، ئۇ مۇنداق دەيتتى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ئاندىن بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:15:29.273262303Z",
+  "model": "glm-5.3"
+}

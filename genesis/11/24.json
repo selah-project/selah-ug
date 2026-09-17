@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ناخور توققۇز ⟨يىل⟩ ۋە يىگىرمە يىل ياشىدى، ⟨את⟩ تاراخنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناخور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ۋە يىگىرمە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تاراخنى"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تاراخنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:14.012410763Z",
+  "model": "glm-5.3"
+}

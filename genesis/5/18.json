@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ۋە يارەد بىر يۈز ئاتمىش ئىككى يىل ياشىدى، ۋە ⟨ئۇ⟩ خېنوخنى ⟨تۇغدى⟩ ⟨⟨את⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارەد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ۋە ئاتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ۋە بىر يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خېنوخنى"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خېنوخ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:30.522294857Z",
+  "model": "glm-5.3"
+}

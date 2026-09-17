@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا كېلىپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:47:25.312549263Z",
+  "model": "glm-5.3"
+}

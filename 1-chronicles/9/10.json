@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "كاهىنلاردىن بولسا: يەدەياھ، يەھويارىب ۋە ياھىن.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "—دىن بولسا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "كاهىنلار"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يەدەياھ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "يەھويارىب"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ياھىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:54.228815679Z",
+  "model": "glm-5.3"
+}

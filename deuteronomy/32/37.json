@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ئۇ دەيدۇ: ئۇلارنىڭ ئېلوھىملىرى قەيەردە — پاناھلانغان <تاش> <ئۇ>؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ئۇ دەيدۇ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "قەيەردە"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "ئۇلارنىڭ ئېلوھىملىرى"
+    },
+    {
+      "surface": "צור",
+      "gloss": "<تاش>"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "پاناھلانغان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "<ئۇ>غا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:42:35.666987883Z",
+  "model": "glm-5.3"
+}

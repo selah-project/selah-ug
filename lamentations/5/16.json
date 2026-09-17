@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "بېشىمىزنىڭ تاجى چۈشۈپ كەتتى، ۋاي بىزگە! چۈنكى بىز گۇناھ قىلدۇق.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "چۈشۈپ كەتتى"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاجى"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "بېشىمىزنىڭ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ۋاي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ئىنتىزارلىق بەلگىسى⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بىزگە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "گۇناھ قىلدۇق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:36.883860698Z",
+  "model": "glm-5.3"
+}

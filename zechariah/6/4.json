@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "مەن جاۋاب بېرىپ، مەن بىلەن سۆزلەۋاتقان پەرىشتىگە: «بۇلار نېمە، ئىگەم؟» دېدىم.",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "جاۋاب بېرىپ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پەرىشتىگە"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "پەرىشتە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆزلەۋاتقان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مەن بىلەن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئىگەم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:14:56.243236570Z",
+  "model": "glm-5.3"
+}

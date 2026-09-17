@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ساڭا ئالتۇن چۆرگىلەرنى قىلىپ بېرەيلى، كۈمۈش نۇقتىلار بىلەن ⟨بىللە⟩.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "چۆرگىلەرنى"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "قىلىپ بېرەيلى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "نۇقتىلار"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "كۈمۈش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:09:45.317063987Z",
+  "model": "glm-5.3"
+}

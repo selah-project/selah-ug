@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئومېر بولسا ئېپانىڭ ئون بىر قىسمىدۇر ⟨ئۇ⟩.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ئومېر"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ئون بىر قىسمى"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ئېپانىڭ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئۇ⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:29.153465887Z",
+  "model": "glm-5.3"
+}

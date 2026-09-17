@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "سېنى توغقان ئاتاڭنىڭ سۆزىنى ئاڭلا، ئاناڭ قېرىغاندا ئۇنى كۆزگە ئىلما.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ئاڭلا"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "ئاتاڭنىڭ سۆزىنى"
+    },
+    {
+      "surface": "זה",
+      "gloss": "سېنى"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "توغقان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ئىلما"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "كۆزگە ئىلما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "قېرىغاندا"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ئاناڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:24.648575558Z",
+  "model": "glm-5.3"
+}

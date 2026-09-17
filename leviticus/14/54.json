@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "بۇ ⟨هۇ⟩ تورا — ئىششىق چىقما ۋە تېرە كېسىلىنىڭ بارلىق تۈرلىرى ۋە ناتېك ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ئىششىق چىقما"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "تېرە كېسىلى"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ناتېك"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:30.627815038Z",
+  "model": "glm-5.3"
+}

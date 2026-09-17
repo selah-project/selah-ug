@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئۇ ⟨يەنە⟩: «ماڭا ساڭا دەيدىغان بىر سۆز بار» دېدى؛ ئۇ: «سۆزلە» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلە"
+    }
+  ],
+  "timestamp": "2026-09-16T21:29:30.322007761Z",
+  "model": "glm-5.3"
+}

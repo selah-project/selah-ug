@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئۇنىڭ قورال توشۇغۇچىسى شائۇلنىڭ ئۆلگىنىنى كۆردى، ئۇ ھەم قىلىچ ئۈستىگە يىقىلدى ۋە ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "كۆردى"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "توشۇغۇچىسى"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "قوراللىرى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ئۆلگىنىنى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائۇلنىڭ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "يىقىلدى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "قىلىچ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:46:02.015912212Z",
+  "model": "glm-5.3"
+}

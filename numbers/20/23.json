@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ياھۋەھ ھور تېغىدا، ئەدوم يېرىنىڭ چېگرىسى ئۈستىدە، مۇساغا ۋە ئاھارونغا مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە …غا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاھارون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "تېغىدا"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ھور"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "چېگرىسى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يېرىنىڭ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:20:13.399343422Z",
+  "model": "glm-5.3"
+}

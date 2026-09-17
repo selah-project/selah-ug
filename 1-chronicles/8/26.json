@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە شامشېراي، ۋە شەھارىياھ، ۋە ئاتالىياھ.",
+  "tokens": [
+    {
+      "surface": "وשמשרי",
+      "gloss": "ۋە شامشېراي"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "ۋە شەھارىياھ"
+    },
+    {
+      "surface": "وעתליה",
+      "gloss": "ۋە ئاتالىياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:06.060792604Z",
+  "model": "glm-5.3"
+}

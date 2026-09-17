@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئۆزۈڭلار ئۈچۈن خەلقتىن ئون ئىككى كىشى ئېلىڭلار — ھەر قەبىلىدىن بىر كىشى، بىر كىشى.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ئېلىڭلار"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ئۆزۈڭلار ئۈچۈن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلقتىن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "قەبىلىدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:45:28.607028814Z",
+  "model": "glm-5.3"
+}

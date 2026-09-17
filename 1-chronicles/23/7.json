@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "گېرشونلۇقلاردىن: لادان ۋە شىمئىي.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "گېرشونلۇقلاردىن"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لادان"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ۋە شىمئىي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:31.388833381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "چۈنكى ھېكمەت كۆڭۈلگە كىرگەندە، بىلىم جېنىڭغا ياققاندا —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "كىرگەندە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "كۆڭۈلگە"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "بىلىم"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "جېنىڭغا"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ياققاندا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:47:51.307280720Z",
+  "model": "glm-5.3"
+}

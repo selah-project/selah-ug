@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئەنە شۇ چاغدا ئۇنىڭ ئالدىدىن بىر قول ئالقىنى ئەۋەتىلدى ۋە بۇ يازما يېزىلدى.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "شۇ چاغدا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ئۇنىڭ ئالدى"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "ئەۋەتىلدى"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ئالقىنى"
+    },
+    {
+      "surface": "די",
+      "gloss": "كى"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "قولنىڭ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "يازما"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "يېزىلدى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:23:55.203944482Z",
+  "model": "glm-5.3"
+}

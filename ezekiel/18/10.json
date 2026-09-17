@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ۋە ⟨ئۇ⟩ بىر زالىم، قان تۆككۈچى ئوغۇل توغسا، ۋە قېرىنداشقا بۇلاردىن بىرىنى <قىلسا> —",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "توغسا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "زالىم"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "تۆككۈچى"
+    },
+    {
+      "surface": "דם",
+      "gloss": "قان"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "قىلسا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "قېرىنداش"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "بىرىگە"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "بۇلاردىن"
+    }
+  ],
+  "timestamp": "2026-09-16T22:44:55.587521702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 83,
+  "translation": "ئېلوھىم، سۈكۈت ساڭا ياقمىسۇن، جىم تۇرما، شۈكۈر قىلما، ئەل ئەزىز",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ما (بۇيرۇقنىڭ سۇئالى)"
+    },
+    {
+      "surface": "דמي",
+      "gloss": "سۈكۈت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ما"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "جىم تۇرما"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە …ما"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "شۈكۈر قىلما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    }
+  ],
+  "timestamp": "2026-09-16T23:34:50.773984861Z",
+  "model": "glm-5.3"
+}

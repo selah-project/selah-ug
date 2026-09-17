@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئۇ چاغدا مۇسا ئۇرغاندىن ئۇ تەرەپتە، كۈن چىقىش تەرەپتە ئۈچ شەھەر ئايرىدى.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئۇ چاغدا"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ئايرىدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ئۇرغاندىن ئۇ تەرەپتە"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ئۇرغان"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "كۈن چىقىش تەرەپتە"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "كۈن"
+    }
+  ],
+  "timestamp": "2026-09-17T01:16:02.646122336Z",
+  "model": "glm-5.3"
+}

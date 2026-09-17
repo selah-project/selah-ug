@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ھوسۇل ئۆتۈپ كەتتى، ياز تۈگىدى، بىز بولساق قۇتۇلالمىدۇق.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ئۆتۈپ كەتتى"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ھوسۇل"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "تۈگىدى"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ياز"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "بىز بولساق"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "قۇتۇلالمىدۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T22:19:12.668055130Z",
+  "model": "glm-5.3"
+}

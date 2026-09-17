@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۆلتۈرۈشكە چاغ، ۋە ساقايتىشقا چاغ؛ بۇزۇشقا چاغ، ۋە قۇرۇشقا چاغ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "چاغ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ئۆلتۈرۈشكە"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە چاغ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ساقايتىشقا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "چاغ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "بۇزۇشقا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە چاغ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "قۇرۇشقا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:27.601696732Z",
+  "model": "glm-5.3"
+}

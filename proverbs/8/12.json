@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "مەن — ھېكمەت — ئېھتىيات بىلەن ياشايمەن، تەدبىر بىلىمىنى تاپىمەن.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ياشايمەن"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ئېھتىيات بىلەن"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "بىلىمىنى"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "تەدبىر"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "تاپىمەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:32.920866367Z",
+  "model": "glm-5.3"
+}

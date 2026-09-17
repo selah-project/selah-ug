@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 47,
+  "translation": "پىرئەۋن ياقۇپقا ئېيتتى: «ھاياتىڭنىڭ يىللىرىنىڭ كۈنلىرى قانچە؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پىرئەۋن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياقۇپ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "قانچە"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "שני",
+      "gloss": "يىللىرىنىڭ"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ھاياتىڭنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:36:28.609635255Z",
+  "model": "glm-5.3"
+}

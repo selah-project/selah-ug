@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئاندىن ياھۋەھنىڭ سۆزى ماڭا كەلدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ئاندىن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا كەلدى"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:23:25.785207747Z",
+  "model": "glm-5.3"
+}

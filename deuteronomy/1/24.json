@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۇلار بۇرۇلۇپ تاغقا چىقتى ۋە ئەشكول ۋادىسىغا كەلدى ھەم ئۇنى تەكشۈردى ⟨ئېتو⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "بۇرۇلۇپ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "تاغقا"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…غىچە"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ۋادىسى"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "ئەشكول"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "تەكشۈردى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:19.845104562Z",
+  "model": "glm-5.3"
+}

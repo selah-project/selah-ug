@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئادوناي ياھۋەھ شۇنداق دەيدۇ: «ئۇ قەد كۆتۈرمەيدۇ، ۋە بولمايدۇ.»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قەد كۆتۈرمەيدۇ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بولمايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:54:46.985435461Z",
+  "model": "glm-5.3"
+}

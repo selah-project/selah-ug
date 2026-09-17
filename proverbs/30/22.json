@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "قۇل پادىشاھ بولغاندا، نادان نانغا تويغاندا ⟨يەر تىترەيدۇ⟩،",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "...دىن"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "قۇل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...غاندا"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "پادىشاھ بولىدۇ"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...غاندا"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "تويىدۇ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-16T23:56:15.054706062Z",
+  "model": "glm-5.3"
+}

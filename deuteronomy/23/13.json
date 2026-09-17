@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ۋە بىر جاي بولغاي سېنىڭ ⟨ئۈچۈن⟩ لاگەرنىڭ سىرتىدا، ۋە سىرتقا چىقىسەن ئۇ يەرگە،",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "ۋە جاي"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بولغاي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "سېنىڭ ⟨ئۈچۈن⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "سىرتىدا"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لاگەرنىڭ"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "ۋە چىقىسەن"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئۇ يەرگە"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "سىرتقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:47.481483692Z",
+  "model": "glm-5.3"
+}

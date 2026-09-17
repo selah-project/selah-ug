@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 130,
+  "translation": "ئەگەر گۇناھلارنى ساقلىساڭ، ئى ياھ، — ئى ئادوناي، — كىم تۇرالايدۇ؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "گۇناھلارنى"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ساقلىساڭ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياھ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "تۇرالايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:44:21.842430609Z",
+  "model": "glm-5.3"
+}

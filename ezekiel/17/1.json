@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 17:1",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ۋە ياھۋەھنىڭ سۆزى ماڭا كەلدى، ئېيتقان:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتقان"
+    }
+  ],
+  "timestamp": "2026-09-16T22:45:37.133225392Z",
+  "model": "glm-5.3"
+}

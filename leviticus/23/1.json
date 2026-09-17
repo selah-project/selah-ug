@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ياھۋەھ مۇسا⟨غا⟩ سۆزلەدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:06:58.767791911Z",
+  "model": "glm-5.3"
+}

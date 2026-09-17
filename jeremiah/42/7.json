@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "ئون كۈننىڭ ئاخىرىدا بولدى، ياھۋەھنىڭ سۆزى يېرمىياھۇغا كەلدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ئاخىرىدا"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈننىڭ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يېرمىياھۇغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:33:58.595306299Z",
+  "model": "glm-5.3"
+}

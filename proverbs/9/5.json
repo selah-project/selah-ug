@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "كېلىڭلار، نېنىمنى يەڭلار، مەن زىمچىلىگەن شارابنى ئىچىڭلار.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "كېلىڭلار"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "يەڭلار"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "نېنىمنى"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ئىچىڭلار"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "شارابنى"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "مەن زىمچىلىگەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:50:07.269673475Z",
+  "model": "glm-5.3"
+}

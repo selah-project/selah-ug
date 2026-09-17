@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مېرايوت ئەمارىيانى توغدى، ئەمارىيا ⟨את⟩ ئاخىتۇبنى توغدى.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مېرايوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمارىيانى"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمارىيا"
+    },
+    {
+      "surface": "وאמריה",
+      "gloss": "ئەمارىيا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاخىتۇبنى"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئاخىتۇب"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:39.761445199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "ئۇ ھامىلدار بولدى ۋە بىر ئوغۇل تۇغدى، ئۇ ⟨את⟩ ئۇنىڭ ئىسمىنى ئەر دەپ ئاتىدى.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ھامىلدار بولدى"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ئاتىدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنىڭ ئىسمىنى"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ئىسمىنى"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ئەر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:32:45.336877516Z",
+  "model": "glm-5.3"
+}

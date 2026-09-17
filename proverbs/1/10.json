@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئوغلۇم، ئەگەر گۇناھكارلار سېنى ئازدۇرسا — سېنىڭ ماقۇللۇقۇڭنى بەرمىگىن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغلۇم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ئازدۇرسا"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گۇناھكارلار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-مىغىن"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ماقۇل بول"
+    }
+  ],
+  "timestamp": "2026-09-16T23:47:31.779605860Z",
+  "model": "glm-5.3"
+}

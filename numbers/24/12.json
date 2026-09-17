@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 24:12",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "بىلئام بالا ققا: «سەن ماڭا ئەۋەتكەن ئەلچىلىرىڭگىمۇ شۇنداق دېگەن ئەمەسمىدىم،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بىلئام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالا"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئەمەسمىدىم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "מלאכיך",
+      "gloss": "ئەلچىلىرىڭگىمۇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "سەن … ئەۋەتكەن"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ئەۋەتكەن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "دېگەن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:21:20.858968588Z",
+  "model": "glm-5.3"
+}

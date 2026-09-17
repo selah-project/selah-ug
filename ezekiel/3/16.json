@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "يەتتە كۈننىڭ ئاخىرىدا ياھۋەھنىڭ سۆزى ماڭا كېلىپ مۇنداق دېدى⟦⟧:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ئاخىرىدا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈننىڭ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:28:25.832744927Z",
+  "model": "glm-5.3"
+}

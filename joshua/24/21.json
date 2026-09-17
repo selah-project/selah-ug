@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ھەم خەلق يېھوشۇئاغا: «ياق، بەلكى ⟨את⟩ ياھۋەھگە قىلىمىز قۇللۇق» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يېھوشۇئا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ياق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەلكى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياھۋەھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "قىلىمىز قۇللۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:53:37.592781911Z",
+  "model": "glm-5.3"
+}

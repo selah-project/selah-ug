@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئېلوھىم ئادىل سوتچى، ئەل ھەر كۈنى غەزەپلىنىدۇ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "سوتچى"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ئادىل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غەزەپلىنىدۇ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ھەر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:18:18.569380466Z",
+  "model": "glm-5.3"
+}

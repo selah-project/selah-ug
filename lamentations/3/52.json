@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئوۋلاپ — مېنى ئوۋلىدى دۈشمەنلىرىم، قۇشتەك، سەۋەبسىز.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ئوۋلاپ"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ئوۋلىدى مېنى"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "قۇشتەك"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دۈشمەنلىرىم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "سەۋەبسىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.518461605Z",
+  "model": "glm-5.3"
+}

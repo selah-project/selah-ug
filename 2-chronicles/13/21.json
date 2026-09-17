@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 13:21",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەبىياھ كۈچەيدى ۋە ⟨ئۆزىگە⟩ ئون تۆت ئايال ئالدى، يىگىرمە ئىككى ئوغۇل ۋە ئون ئالتە قىز تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "كۈچەيدى"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ئەبىياھ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ئۆزىگە⟩"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:58:53.470043387Z",
+  "model": "glm-5.3"
+}

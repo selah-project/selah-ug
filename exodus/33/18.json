@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇ دېدى: «ئۆتۈنەي، ماڭا ⟨את⟩ شان-شەرىپىڭنى كۆرسەتكىن.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "كۆرسەتكىن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئۆتۈنەي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شان-شەرىپىڭ"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "شان-شەرىپىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:54:01.726576032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "سىلەر بىلگەننى مەنمۇ بىلىمەن، مەن سىلەردىن تۆۋەن ئەمەس.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "سىلەر بىلگەندەك"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "بىلىمەن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مەنمۇ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "تۆۋەن"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "سىلەردىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:00:48.979583873Z",
+  "model": "glm-5.3"
+}

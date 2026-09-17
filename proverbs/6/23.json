@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "چۈنكى پەرمان — چىراغ، تورا — نۇر، تۈزەتمىلەر ۋە ئىبرەتلەر — ھايات يولىدۇر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چىراغ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "پەرمان"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نۇر"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "يولى"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ھايات"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "تۈزەتمىلەر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ئىبرەت"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:18.108632821Z",
+  "model": "glm-5.3"
+}

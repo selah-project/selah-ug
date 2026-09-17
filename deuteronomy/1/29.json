@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "مەن سىلەرگە ئېيتتىم: ئۈركمەڭلار، ئۇلاردىن قورقماڭلار.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ئېيتتىم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ئۈركمەڭلار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "قورقماڭلار"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ئۇلاردىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:54.263792129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "قامبال باغ ⟨ئۇ⟩ — ئاچام، كېلىنچەكىم؛ قامبال بۇلاق، پېچىتلەنگەن مەنبە.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "قامبال"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ئاچام"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "كېلىنچەكىم"
+    },
+    {
+      "surface": "גל",
+      "gloss": "بۇلاق"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "قامبال"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "مەنبە"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "پېچىتلەنگەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:14.961342382Z",
+  "model": "glm-5.3"
+}

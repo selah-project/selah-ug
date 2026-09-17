@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەگەر پاكلىنىشىدىن كېيىن نەتەق تېرىدە تارقىلسا —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "تارقىلىش"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "تارقالسا"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نەتەق"
+    },
+    {
+      "surface": "بעור",
+      "gloss": "تېرىدە"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "كېيىن"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "پاكلىنىشىدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:35.526251359Z",
+  "model": "glm-5.3"
+}

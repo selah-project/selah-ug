@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "شەمۇئەلنىڭ ئوغۇللىرى: تۇغۇلغانى ⟨يەنى⟩ ۋاشنى، ۋە ئابىيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شەمۇئەلنىڭ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "تۇغۇلغانى"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ۋاشنى"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "ئابىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:22.890957662Z",
+  "model": "glm-5.3"
+}

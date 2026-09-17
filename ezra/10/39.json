@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋە شەلەمياھ، ۋە ناتان، ۋە ئادايەھ",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ۋە شەلەمياھ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ۋە ناتان"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "ۋە ئادايەھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:32:18.363284623Z",
+  "model": "glm-5.3"
+}

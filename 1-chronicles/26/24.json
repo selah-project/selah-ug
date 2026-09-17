@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "شېبۇئېل — گېرشومنىڭ ئوغلى، مۇسانىڭ ئوغلى — خەزىنىلەر ئۈستىدە باشلىق ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "شېبۇئېل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گېرشومنىڭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسانىڭ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "باشلىق"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خەزىنىلەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:52:15.398676917Z",
+  "model": "glm-5.3"
+}

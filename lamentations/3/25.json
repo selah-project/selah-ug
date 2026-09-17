@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھ ⟨ئۇ⟩ ياخشى، ⟨ئۇ⟩ ئۇنى كۈتكەنگە، ئۇنى ئىزدىگەن نەپەشكە ياخشىدۇر.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "كۈتكەنگە"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "نەپەشكە"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ئۇنى ئىزدىگەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:05.985862069Z",
+  "model": "glm-5.3"
+}

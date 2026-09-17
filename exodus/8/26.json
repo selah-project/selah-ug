@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "مۇسا پەرئەننىڭ يېنىدىن چىقتى ۋە ياھۋەھغا يالۋۇردى.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "يېنىدىن"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرئەن"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ۋە يالۋۇردى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ياھۋەھغا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:41:34.165471884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "مىكماس ئادەملىرى ⟨ئىدى⟩، بىر يۈز يىگىرمە ئىككى.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئادەملىرى"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "مىكماس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:32.847756467Z",
+  "model": "glm-5.3"
+}

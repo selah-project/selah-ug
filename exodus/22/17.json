@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "سېھىرگەر ئايالنى تىرىك قالدۇرما ⟨ئۇنى⟩.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "سېھىرگەر ئايال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئىمان"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "تىرىك قالدۇرما"
+    }
+  ],
+  "timestamp": "2026-09-16T19:47:58.856555053Z",
+  "model": "glm-5.3"
+}

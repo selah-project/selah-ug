@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇنىڭ ئوغلى بۇككى، ئۇنىڭ ئوغلى ئۇززى، ئۇنىڭ ئوغلى زەراھىيا.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "بۇككى"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ئۇززى"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زەراھىيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:37.290814350Z",
+  "model": "glm-5.3"
+}

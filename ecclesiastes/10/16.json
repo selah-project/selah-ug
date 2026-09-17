@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ساڭا ھەسرەت، ئى ئەي زېمىن، پادىشاھىڭ نېپىت بالا بولسا ۋە بەگلىرىڭ ئەتىگەندە يېسە!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ھەسرەت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ئەي زېمىن"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "پادىشاھىڭ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نېپىت بالا"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "بەگلىرىڭ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ئەتىگەندە"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يېسە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:24.251985121Z",
+  "model": "glm-5.3"
+}

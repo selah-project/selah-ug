@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "يىراقتۇر بولۇپ ئۆتكىنى، ۋە چوڭقۇر، چوڭقۇر — كىم ئۇنى تاپالايدۇ؟",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "يىراقتۇر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "بولۇپ ئۆتكىنى"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ۋە چوڭقۇر"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "چوڭقۇر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ئۇنى تاپالايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:32.892987167Z",
+  "model": "glm-5.3"
+}

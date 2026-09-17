@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ياھۋەھ، سىلەرنىڭ ئېلوھىمىڭلارغا ئۇنداق قىلماڭلار.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "قىلماڭلار"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئۇنداق"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھغا"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "سىلەرنىڭ ئېلوھىمىڭلار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:04.998679243Z",
+  "model": "glm-5.3"
+}

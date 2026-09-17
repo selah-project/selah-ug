@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ماڭا يۈزلەنگىن ۋە ماڭا رەھىم قىلغىن، چۈنكى مەن يالغۇز ۋە بىچارە⟨مەن⟩.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "يۈزلەنگىن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "رەھىم قىلغىن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "يالغۇز"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "بىچارە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:23:03.164646003Z",
+  "model": "glm-5.3"
+}

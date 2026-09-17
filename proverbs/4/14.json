@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 4:14",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "يامانلارنىڭ يولىغا كىرمە، رەزىللەرنىڭ يولىدا ماڭما.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "يولىغا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "يامانلارنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "كىرمە"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "كىرمە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ماڭما"
+    },
+    {
+      "surface": "תאשר",
+      "gloss": "ماڭما"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "يولىدا"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "رەزىللەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:48:36.781196712Z",
+  "model": "glm-5.3"
+}

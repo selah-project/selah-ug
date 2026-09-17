@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 15:40",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "كاببون، لاھماس ۋە كىتلىش،",
+  "tokens": [
+    {
+      "surface": "וכבון",
+      "gloss": "كاببون"
+    },
+    {
+      "surface": "ולחמס",
+      "gloss": "لاھماس"
+    },
+    {
+      "surface": "וכתליש",
+      "gloss": "كىتلىش"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:06.404295068Z",
+  "model": "glm-5.3"
+}

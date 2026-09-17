@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھازىر كۆزلىرىم ئوچۇق، قۇلاقلىرىم دىققەتتە بولىدۇ — بۇ جايدا قىلىنغان دۇئاغا.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ھازىر"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "كۆزلىرىم"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "ئوچۇق"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "قۇلاقلىرىم"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "دىققەتتە"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "دۇئاغا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاينىڭ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:57:56.038909601Z",
+  "model": "glm-5.3"
+}

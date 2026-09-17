@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئەلقانەھنىڭ ئوغۇللىرى ⟨بولسا⟩: ئاماساي ۋە ئاھىموت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانەھنىڭ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ئاماساي"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ئاھىموت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:56.261382075Z",
+  "model": "glm-5.3"
+}

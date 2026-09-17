@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "كۆزۈم ئېقىپ چۈشتى ۋە توختىمىدى، چۈنكى ئارام ⟨يوق⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "كۆزۈم"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ئېقىپ چۈشتى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "توختىدى"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بولمىغانلىقتىن"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ئارام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.517988740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "مەھلىدىن ئەلئازار بولدى؛ ئۇنىڭ بالىلىرى يوق ئىدى.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "مەھلىدىن"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئەلئازار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە يوق"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بالىلىرى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:36.821028731Z",
+  "model": "glm-5.3"
+}

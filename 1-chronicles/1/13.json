@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "كەنەئان سىدوننى — تۇنجى تۇغۇلىنى — ۋە خېتنى تۇغدى.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "كەنەئان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سىدوننى"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "سىدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "تۇنجى تۇغۇلى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خېتنى"
+    },
+    {
+      "surface": "חת",
+      "gloss": "خېت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:35.453044588Z",
+  "model": "glm-5.3"
+}

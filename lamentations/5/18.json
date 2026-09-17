@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "سىيون تېغى ⟨ئۈچۈن⟩ — ئۇ خاراب بولۇپ قالدى، چايكىلار ئۇنىڭ ئۈستىدە ماڭدى.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "⟨ئۈچۈن⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تېغى"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سىيون"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "خاراب بولۇپ قالدى"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "چايكىلار"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ماڭدى"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭ ئۈستىدە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:38.296665584Z",
+  "model": "glm-5.3"
+}

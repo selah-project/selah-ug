@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ۋە ياھۋەھ مۇساغا سۆزلەپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:26.970853675Z",
+  "model": "glm-5.3"
+}

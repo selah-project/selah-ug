@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "يەدىئەل، شىمرىنىڭ ئوغلى، ۋە ئۇنىڭ ئىنىسى يوھا — تىزىلىق",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "يەدىئەل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شىمرىنىڭ"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "ۋە يوھا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ئۇنىڭ ئىنىسى"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "تىزىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:10.142164502Z",
+  "model": "glm-5.3"
+}

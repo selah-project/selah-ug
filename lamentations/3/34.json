@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "پۈتۈن زېمىننىڭ ئەسىرلىرىنى ئۇنىڭ پۇتى ئاستىدا چېقىشنى ⟨ئۇ خالىمايدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "چېقىش"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدا"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ئۇنىڭ پۇتى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ئەسىرلىرىنى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىننىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:43.519304307Z",
+  "model": "glm-5.3"
+}

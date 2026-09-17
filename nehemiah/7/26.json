@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بەيت لەھەم ۋە نەتوپا ئەرلىرى — بىر يۈز سەكسەن سەككىز ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەھەم"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ۋە نەتوپا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "سەكسەن"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:08.549554894Z",
+  "model": "glm-5.3"
+}

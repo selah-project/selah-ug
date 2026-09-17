@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئۇللانىڭ ئوغۇللىرى — ئاراھ، خاننىئېل ۋەرىتسىيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ئۇللانىڭ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ئاراھ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "خاننىئېل"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ۋەرىتسىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:10.105245124Z",
+  "model": "glm-5.3"
+}

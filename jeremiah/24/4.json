@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ۋە ياھۋەھنىڭ سۆزى ماڭا كەلدى، دەپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:26:08.431973534Z",
+  "model": "glm-5.3"
+}

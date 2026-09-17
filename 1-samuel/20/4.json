@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "يىھوناتان داۋۇتقا: «جېنىڭ نېمە دېسە، مەن ساڭا شۇنى قىلىپ بېرەي» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يىھوناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دېسە"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "جېنىڭ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "مەن قىلىپ بېرەي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:13:13.511518188Z",
+  "model": "glm-5.3"
+}

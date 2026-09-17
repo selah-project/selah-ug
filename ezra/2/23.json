@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئاناتوتنىڭ ئەركەكلىرى — يۈز يىگىرمە سەككىز.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەركەكلىرى"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ئاناتوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ۋە سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:20.243074157Z",
+  "model": "glm-5.3"
+}

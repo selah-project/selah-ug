@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "بىز يېرۇسالېمغا كەلدۇق، ۋە ئۇ يەردە ئۈچ كۈن ئولتۇردۇق.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "كەلدۇق"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يېرۇسالېمغا"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "ئولتۇردۇق"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئۇ يەردە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:33:44.916316484Z",
+  "model": "glm-5.3"
+}

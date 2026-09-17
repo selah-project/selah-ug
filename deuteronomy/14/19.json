@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە ئۇچىدىغان ئۆمىلىگۈچى ھەممىسى سىلەرگە تەمىز — ئۇلار يېيىلمەيدۇ",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ۋە ھەممىسى"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ئۆمىلىگۈچى"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ئۇچىدىغان"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "تەمىز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئۇنداق"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يېيىلمەيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:04.699762986Z",
+  "model": "glm-5.3"
+}

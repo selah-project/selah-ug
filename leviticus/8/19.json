@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ھەمدە ⟨ئۇ⟩ سۇيدى؛ مۇسا ⟨את⟩ قاننى قۇربانلىق مۇنبىرىگە ئەتراپلىق چاچتى.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "سۇيدى"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "چاچتى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاننى"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "قاننى"
+    },
+    {
+      "surface": "על",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قۇربانلىق مۇنبىرى"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ئەتراپلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:16.013075883Z",
+  "model": "glm-5.3"
+}

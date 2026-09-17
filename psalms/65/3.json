@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 65,
+  "translation": "دۇئانى ئاڭلىغۇچى ⟨سەنسەن⟩؛ سېنىڭ دەرگاھىڭغا بارلىق گۆش كېلىدۇ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ئاڭلىغۇچى"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دۇئانى"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "سېنىڭ دەرگاھىڭغا"
+    },
+    {
+      "surface": "كל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆش"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "كېلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:30:36.711798195Z",
+  "model": "glm-5.3"
+}

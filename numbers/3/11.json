@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھ مۇساغا سۆزلەپ ئېيتتى.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—گە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:11:07.452523005Z",
+  "model": "glm-5.3"
+}

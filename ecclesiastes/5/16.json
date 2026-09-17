@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئۇنىڭ بارلىق كۈنلىرىدە قاراڭغۇلۇقتا يەيدۇ، كۆپ غەزەپ ۋە ئۇنىڭ كېسىلى ۋە ئاچچىق ⟨بىلەن⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "كۈنلىرىدە"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "قاراڭغۇلۇقتا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يەيدۇ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "غەزەپ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "كېسىلى"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ئاچچىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:40.402705305Z",
+  "model": "glm-5.3"
+}

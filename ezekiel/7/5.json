@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "شۇنداق دەيدۇ ئادوناي ياھۋەھ: بىر يامانلىق، بىرلا يامانلىق — قارا، كېلىۋاتىدۇ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "يامانلىق"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "يامانلىق"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "كېلىۋاتىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:39:53.779683097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا كەلدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:20:41.387346496Z",
+  "model": "glm-5.3"
+}

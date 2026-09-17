@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "سېنىڭ بېشىڭنىڭ ئۈستىدىكى ئاسمان ⟨كى⟩ مىس بولىدۇ، سېنىڭ ئاستىڭدىكى زېمىن ⟨كى⟩ تۆمۈر بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ۋە بولىدۇ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "سېنىڭ ئاسمىنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "سېنىڭ بېشىڭ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مىس"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ۋە زېمىن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ئاستىڭدا"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "تۆمۈر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:26.417123010Z",
+  "model": "glm-5.3"
+}

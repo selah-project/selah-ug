@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "ئەلىپازنىڭ ئوغۇللىرى بولدى: تەيمان، ئومار، تسەفو، گەئتام ۋە قەناز.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلىپازنىڭ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تەيمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ئومار"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "تسەفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "گەئتام"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "قەناز"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:25.472644037Z",
+  "model": "glm-5.3"
+}

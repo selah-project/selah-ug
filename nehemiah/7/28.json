@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بەيت ئەزماۋەت ئەرلىرى — قىرىق ئىككى ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ئەزماۋەت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:08.549788952Z",
+  "model": "glm-5.3"
+}

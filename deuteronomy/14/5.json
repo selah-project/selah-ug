@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ئايال (بۇغا)، تسيۋى (غايكا)، يەھمۇر، ئاققو (ياۋا ئۆچكە)، دىشون، تائو ۋە زامېر.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ئايال (بۇغا)"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "تسيۋى (غايكا)"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "يەھمۇر"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ئاققو"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "دىشون"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "تائو"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "زامېر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:18.593370034Z",
+  "model": "glm-5.3"
+}

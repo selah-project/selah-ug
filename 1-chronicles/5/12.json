@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "يۇئېل ⟨بېشى⟩، شاپام ئىككىنچى، يەنە ياناي بىلەن شاپات بەشەندە ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "يۇئېل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "باشچى"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "شاپام"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ئىككىنچى"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ياناي"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "شاپات"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "بەشەندە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:28.261668365Z",
+  "model": "glm-5.3"
+}

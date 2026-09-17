@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "دېڭىزدىن سۇلار ئازىيىدۇ، دەريا قاغىدۇ ۋە قۇرۇيدۇ.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ئازىيىدۇ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلار"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "دېڭىزدىن"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "دەريا"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "قاغىدۇ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "قۇرۇيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:58:36.284268803Z",
+  "model": "glm-5.3"
+}

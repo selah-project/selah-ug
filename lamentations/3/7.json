@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ مېنى تام بىلەن قامىۋالدى، چىقالمايمەن؛ كىشەنلىرىمنى ئېغىرلاتتى.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "تام بىلەن قامىۋالدى"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "مېنى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "چىقالمايمەن"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "چىقىش"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ئېغىرلاتتى"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "كىشەنلىرىمنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.384414271Z",
+  "model": "glm-5.3"
+}

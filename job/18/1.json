@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "بىلداد شۇھىيلىق ⟨ئۇ⟩ جاۋاب بەردى ۋە ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جاۋاب بەردى"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بىلداد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شۇھىيلىق"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:02:27.183860214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "قېروسنىڭ بالىلىرى، سىئانىڭ بالىلىرى، پادوننىڭ بالىلىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "قېروس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "سיעהא",
+      "gloss": "سىئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "فדון",
+      "gloss": "پادون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:30:10.944229220Z",
+  "model": "glm-5.3"
+}

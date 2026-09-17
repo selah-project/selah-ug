@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "چۈنكى ئۇلار مەسلىھەتتىن يوقالغان مىللەتتۇر، ئۇلاردا ئەقىل يوقتۇر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "مىللەت"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "يوقالغان"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "مەسلىھەتتىن"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ۋە يوق"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ئۇلاردا"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ئەقىل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:42:54.915921668Z",
+  "model": "glm-5.3"
+}

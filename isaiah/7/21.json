@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئۇ كۈنى بىر ئەر بىر موزاي كالا ۋە ئىككى قوينى تىرىكتۈرىدۇ،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "تىرىكتۈرىدۇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بىر ئەر"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "موزاي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ۋە ئىككى"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قوي"
+    }
+  ],
+  "timestamp": "2026-09-16T21:55:02.181529582Z",
+  "model": "glm-5.3"
+}

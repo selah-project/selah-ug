@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئەيلاھنىڭ بالىلىرى — مىڭ ئىككى يۈز ئەللىك تۆت ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ئەيلاھنىڭ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ئىككى يۈز"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تۆت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:37.681273155Z",
+  "model": "glm-5.3"
+}

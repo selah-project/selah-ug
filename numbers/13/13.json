@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئاشېر قەبىلىسىدىن ← مىخائېلنىڭ ئوغلى سەتتۇر.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشېر"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "سەتتۇر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "مىخائېل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:49.539976137Z",
+  "model": "glm-5.3"
+}

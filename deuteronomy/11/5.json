@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە چۆللۈكتە سىلەرگە نېمە قىلغانلىقىنى، بۇ ⟨ئ⟩ جايغا كەلگىنىڭلەرگە قەدەر،",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ۋە نېمە قىلغانلىقىنى"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "چۆللۈكتە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "قەدەر"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "كەلگىنىڭلەر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ئۇ جايغا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:33:16.351018123Z",
+  "model": "glm-5.3"
+}

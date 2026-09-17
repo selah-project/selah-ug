@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 26:24",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "Ular pastدا qoʻsha بولىدۇ، ئۈستىدە بىر-بىرىگە قوشۇلgan holda بىر تۆمۈر ھالقىغا تاپىشىدۇ — shu ikki بۇرجى ئۈچۈن ham shunday بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "תאמים",
+      "gloss": "qoʻsha"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "پاستدا"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "بىر-بىرىگە قوشۇلgan"
+    },
+    {
+      "surface": "יהיو",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "toʻliq (qoʻshilgan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "بېشىدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تاپىشىدۇ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ھالقىغا"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "يېهيە",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "לشنيهم",
+      "gloss": "ikkinning"
+    },
+    {
+      "surface": "لشني",
+      "gloss": "ikkining"
+    },
+    {
+      "surface": "همقصوت",
+      "gloss": "burchaklarining"
+    },
+    {
+      "surface": "يهيو",
+      "gloss": "بولىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:49:07.063075919Z",
+  "model": "glm-5.3"
+}

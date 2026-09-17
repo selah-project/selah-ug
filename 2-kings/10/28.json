@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "شۇنداق قىلىپ يەھۇ بەعەلنى ⟨את⟩ ئىسرائىلدىن يوقاتتى.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "يوقاتتى"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "يەھۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەعەلنى"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "بەعەل"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ئىسرائىلدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:45:25.685472870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "پادىشاھنىڭ سۆزى بار يەردە ھۆكۈمرانلىق بار، ئۇنىڭغا كىم «نېمە قىلىۋاتىسەن؟» دېيەلەيدۇ؟",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "يەردە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھنىڭ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ھۆكۈمرانلىق"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "دېيەلەيدۇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "قىلىۋاتىسەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:19:50.297803139Z",
+  "model": "glm-5.3"
+}

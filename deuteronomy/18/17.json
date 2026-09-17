@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ياھۋەھ ماڭا ئېيتتى: نېمىنى ئېيتقان بولسا، ئۇلار ياخشى ئېيتتى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ياخشى ئېيتتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "نېمىنى"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ئېيتقان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:37.687550027Z",
+  "model": "glm-5.3"
+}

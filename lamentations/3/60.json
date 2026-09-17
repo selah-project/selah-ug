@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۆچ ئېلىشلىرىنىڭ ھەممىسىنى كۆردۈڭ، ماڭا قارىتا پىلانلىرىنىڭ ھەممىسىنى.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "كۆردۈڭ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسىنى"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "ئۆچ ئېلىشلىرىنىڭ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسىنى"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "پىلانلىرىنىڭ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا قارىتا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:58.161912674Z",
+  "model": "glm-5.3"
+}

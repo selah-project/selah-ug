@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "لەمۇئەل پادىشاھنىڭ سۆزلىرى — ئانىسى ئۇنى تەربىيىلىگەن يۈك.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "سۆزلىرى"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "لەمۇئەل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "يۈك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ئۇ⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ئۇنى تەربىيىلىگەن"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ئانىسى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:30.608139003Z",
+  "model": "glm-5.3"
+}

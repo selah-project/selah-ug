@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "⟨את⟩ جەنۇب ⟨تەرەپ⟩ىنى ئۆلچىدى — بەش يۈز چىۋىق، ئۆلچەم چىۋىقى بىلەن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جەنۇب تەرىپى"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "تەرىپى"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "جەنۇب"
+    },
+    {
+      "surface": "مדד",
+      "gloss": "ئۆلچىدى"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "چىۋىق"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "چىۋىقى بىلەن"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ئۆلچەم"
+    }
+  ],
+  "timestamp": "2026-09-16T22:57:14.056704706Z",
+  "model": "glm-5.3"
+}

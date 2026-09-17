@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "مېنى ھاراق ئۆيىگە ئەكىردى، ئۇنىڭ بايرىقى — ⟨مېنىڭ ئۈستۈمدىكى⟩ — مۇھەببەت.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ئەكىردى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ھاراق"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ئۇنىڭ بايرىقى"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مېنىڭ ئۈستۈمدىكى"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "مۇھەببەت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:30.909780292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئون شېكەل ئالتۇندىن بىر كاپ، كۈندااشتا تولغان.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "كاپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "تولغان"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "كۈندااشتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:13:58.751267932Z",
+  "model": "glm-5.3"
+}

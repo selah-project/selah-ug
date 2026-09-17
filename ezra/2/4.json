@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "شېفاتىيا بالىلىرى — ئۈچ يۈز يەتمىش ئىككى ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شېفاتىيا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "يەتمىش"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:29:40.819897877Z",
+  "model": "glm-5.3"
+}

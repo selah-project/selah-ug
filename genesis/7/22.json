@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بۇرۇنلىرىدا جانلىق نەپىسى بار ھەممە نەرسە — قۇرغاق يەردىكى ھەممىسى — ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىمكى"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "نەپىسى"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روھى"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جانلىق"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "بۇرۇنلىرىدا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىمكى"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "قۇرغاق يەردە"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:33.899873130Z",
+  "model": "glm-5.3"
+}

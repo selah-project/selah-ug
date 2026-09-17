@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ئۇرۇشقا يېقىنلاشقان چېغىڭلاردا، كاھىن يېقىنلىشىپ خەلقكە سۆزلەيدۇ،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "يېقىنلاشقان چېغىڭلاردا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "يېقىنلىشىدۇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاھىن"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "سۆزلەيدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…كە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:37:31.182425754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "تاخاتنىڭ ئوغلى، ئاسسىرنىڭ ئوغلى، ئەۋىياساپنىڭ ئوغلى، قوراخنىڭ ئوغلى ⟨شۇ⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تاخات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ئاسسىر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ئەۋىياساپ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراخ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:20.937230608Z",
+  "model": "glm-5.3"
+}

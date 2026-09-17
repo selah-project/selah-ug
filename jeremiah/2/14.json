@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئىسرائىل ⟨بىر⟩ قۇل مۇ؟ ئۆي ⟨ئىچىدە⟩ تۇغۇلغان مۇ؟ نېمە ئۈچۈن ئۇ ئولجىغا ئايلاندى؟",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "قۇل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "تۇغۇلغان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "نېمە ئۈچۈن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ئولجىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:14:50.269296926Z",
+  "model": "glm-5.3"
+}

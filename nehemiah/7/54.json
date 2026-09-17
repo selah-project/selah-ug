@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "باسلىت ئوغۇللىرى، مەھىدا ئوغۇللىرى، حارشا ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "باسلىت"
+    },
+    {
+      "surface": "بני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "مەھىدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "حارشا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.077842246Z",
+  "model": "glm-5.3"
+}

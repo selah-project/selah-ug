@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئەخىناداۋ ئىددو ئوغلى — مەھانايىمدا.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "ئەخىناداۋ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "ئىددو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "مەھانايىمدا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:29:45.689188702Z",
+  "model": "glm-5.3"
+}

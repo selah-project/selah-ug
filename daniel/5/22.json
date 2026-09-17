@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "سەن ئۇنىڭ ئوغلى بولشاھار، بۇنىڭ ھەممىسىنى بىلىپ تۇرۇپ يۈرىكىڭنى پەس تۇتمىدىڭ.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بولشاھار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "پەس تۇتمىدىڭ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "يۈرىكىڭنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسىنى"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "گەرچە"
+    },
+    {
+      "surface": "די",
+      "gloss": "كى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "بۇنى"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "بىلدىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:23:55.203536156Z",
+  "model": "glm-5.3"
+}

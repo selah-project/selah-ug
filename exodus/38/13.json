@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "ۋە شەرق ⟨تەرىپىگە⟩ — كۈن چىقىشقا قاراپ — ئەللىك گەز.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "ۋە ⟨تەرىپىگە⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شەرق"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "كۈن چىقىشقا قاراپ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گەز"
+    }
+  ],
+  "timestamp": "2026-09-16T19:54:54.572210266Z",
+  "model": "glm-5.3"
+}

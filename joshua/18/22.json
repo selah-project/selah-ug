@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "بەيت ھائاراۋاھ، زېمارايم ۋە بەيت ئېل،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ھائاراۋاھ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "زېمارايم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئېل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:29.713102770Z",
+  "model": "glm-5.3"
+}

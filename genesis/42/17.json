@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "ئۇ ⟨את⟩ ئۇلارنى قاماق ئاستىغا ئالدى — ئۈچ كۈن.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇلارنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئاستىغا"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "قاماق"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:34:39.309720574Z",
+  "model": "glm-5.3"
+}

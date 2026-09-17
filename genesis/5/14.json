@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "قەيناننىڭ بارلىق كۈنلىرى توققۇز يۈز ⟨ۋە⟩ ئون يىل بولدى، ⟨ئۇ⟩ ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قەيناننىڭ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:11.371758264Z",
+  "model": "glm-5.3"
+}

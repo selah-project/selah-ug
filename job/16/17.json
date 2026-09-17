@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "قوللۇرۇمدا زۇلۇم يوق ئىدى، ۋە دۇئايىم پاك.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زۇلۇم"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "قوللۇرۇمدا"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ۋە دۇئايىم"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "پاك"
+    }
+  ],
+  "timestamp": "2026-09-17T00:01:57.504748123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 40,
+  "translation": "ۋە ياھۋەھ مۇسا بىلەن سۆزلىدى، ⟨ئېيتىپ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ئېيتىپ⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T19:56:29.713308967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئارامنىڭ ئوغۇللىرى: ئۇتس، خۇل، گەتەر ۋە ماش.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارامنىڭ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ئۇتس"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "خۇل"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "گەتەر"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "ماش"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:18.042473967Z",
+  "model": "glm-5.3"
+}

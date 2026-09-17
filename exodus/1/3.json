@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "يىسساخار، زېۋۇلۇن ۋە بىنيامىن.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "يىسساخار"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زېۋۇلۇن"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ۋە بىنيامىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:38:17.101718342Z",
+  "model": "glm-5.3"
+}

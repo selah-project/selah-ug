@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ئى ئىنسان ئوغلى، بىر ئانىنىڭ قىزلىرى بولغان ⟨ئىدى⟩ ئىككى ئايال —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىزلىرى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بىر ئانا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ئىدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:49:30.180490696Z",
+  "model": "glm-5.3"
+}

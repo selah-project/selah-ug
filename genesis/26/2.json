@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ياھۋەھ ئۇنىڭغا كۆرۈندى ۋە: مىسىرغا چۈشمە، ساڭا ⟨دەيدىغان⟩ ئەلدە تۇر، دېدى.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "كۆرۈندى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۆتكۈز"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "چۈشمە"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مىسىرغا"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "تۇر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ئەلدە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيمەن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:26:36.694591972Z",
+  "model": "glm-5.3"
+}

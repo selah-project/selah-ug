@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر ئۆكۈز، كالا ئوغلى، بىر قوش، بىر قوزى، بىر ياشلىق ئوغلى، ئولەھ ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ئۆكۈز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "قوزى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "بىر ياشلىق"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ئولەھ ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:33.629365143Z",
+  "model": "glm-5.3"
+}

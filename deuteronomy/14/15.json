@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە ⟨את⟩ تۆگەقۇشنىڭ قىزىنى، ۋە ⟨את⟩ تاخماسنى، ۋە ⟨את⟩ شاھاپنى، ۋە ⟨את⟩ لاچىننى — تۈرى بويىچە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تۆگەقۇشنىڭ قىزى"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزى"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "تۆگەقۇش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تاخماس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "تاخماس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شاھاپ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "شاھاپ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لاچىن"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "لاچىن"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "تۈرى بويىچە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:02.241793286Z",
+  "model": "glm-5.3"
+}

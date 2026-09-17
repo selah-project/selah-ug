@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇلار لىبنەھدىن يولغا چىقتى ۋە رىسساھدا لاگېر قۇردى.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "يولغا چىقتى"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "لىبنەھدىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "لاگېر قۇردى"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "رىسساھدا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:35.812040656Z",
+  "model": "glm-5.3"
+}

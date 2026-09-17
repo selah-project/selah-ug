@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئابىشۇئا ⟨את⟩ بۇككىنى توغدى، بۇككى ⟨את⟩ ئۇززىنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ئابىشۇئا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇككىنى"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بۇككى"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "بۇككى"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇززىنى"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ئۇززى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:38.457517845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ھەرگىز كالا بىلەن ئېشەكنى بىللە ئېتىزغا سالمىغىن — ئېتىز ھەيدىمە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ھەرگىز"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ئېتىز ھەيدىمە"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "كالا بىلەن"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ئېشەك بىلەن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بىللە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:28.220688981Z",
+  "model": "glm-5.3"
+}

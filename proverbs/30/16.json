@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "شېئول ۋە تۇسۇلغان بالىياتقۇ، سۇدىن تويمىغان يەر، «يەتەر» دېمىگەن ئوت.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شېئول"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ۋە تۇسۇلغان"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "بالىياتقۇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "تويمىغان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇدىن"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ۋە ئوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "دېمىگەن"
+    },
+    {
+      "surface": "הון",
+      "gloss": "يەتەر"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:01.637956522Z",
+  "model": "glm-5.3"
+}

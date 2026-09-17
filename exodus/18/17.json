@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "مۇسانىڭ كۈيئوغلى ئۇنىڭغا ئېيتتى: سەن قىلىۋاتقان ئىش ياخشى ئەمەس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "كۈيئوغلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسانىڭ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئىش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلىۋاتقان"
+    }
+  ],
+  "timestamp": "2026-09-16T19:46:39.247433033Z",
+  "model": "glm-5.3"
+}

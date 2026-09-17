@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ياھۋەھ يۈزىنى ساڭا كۆتۈرسۇن ۋە ساڭا تىنچلىق بەرسۇن",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "كۆتۈرسۇن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "يۈزىنى"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ۋە قويسۇن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "تىنچلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:13.669073845Z",
+  "model": "glm-5.3"
+}

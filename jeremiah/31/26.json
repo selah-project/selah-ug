@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "بۇنىڭدىن كېيىن مەن ئويغاندىم ۋە كۆردۈم ۋە ئۇيقۇم ماڭا تاتلىق بولدى.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بۇنىڭدىن كېيىن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ئويغاندىم"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "ئۇيقۇم"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "تاتلىق بولدى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:27:55.921927856Z",
+  "model": "glm-5.3"
+}

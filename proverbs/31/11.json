@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ئېرىنىڭ يۈرىكى ئۇنىڭغا تايىنىدۇ، ۋە ئۇ ئولجىدىن كەم قالمايدۇ.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "تايىنىدۇ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "يۈرىكى"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ئېرىنىڭ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ئولجىدىن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "كەم قالمايدۇ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "كەم قالمايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:14.556721908Z",
+  "model": "glm-5.3"
+}

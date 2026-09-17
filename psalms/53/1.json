@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 53,
+  "translation": "نېشىدىچىگە — ماخالەت ⟨ئۈستىدە⟩ — مەشكىل، داۋۇتتىن.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "نېشىدىچىگە"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ئۈستىدە⟩"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "ماخالەت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مەشكىل"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇتتىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:28:50.941967679Z",
+  "model": "glm-5.3"
+}

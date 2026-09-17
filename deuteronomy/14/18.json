@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە ھەسىدا، ۋە ھەنافا — تۈرى بويىچە، ۋە دوھىيپات ۋە ئاتالەفنى",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "ۋە ھەسىدا"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "ۋە ھەنافا"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "تۈرى بويىچە"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "ۋە دوھىيپات"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "ۋە ئاتالەف"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:04.699591070Z",
+  "model": "glm-5.3"
+}

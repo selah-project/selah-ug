@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "گاسنى قارغىما، كورنىڭ ئالدىغا پۇتلىغۇچ قويما؛ ئېلوھىڭدىن قورققىن — مەن ياھۋەھ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "قىلما"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "قارغىما"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گاسنى"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ئالدىغا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "كورنىڭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "قىلما"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "قويما"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "پۇتلىغۇچ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "قورققىن"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ئېلوھىڭدىن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:06:45.126304102Z",
+  "model": "glm-5.3"
+}

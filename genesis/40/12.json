@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 40,
+  "translation": "يۈسۈپ ئۇنىڭغا ئېيتتى: بۇ ئۇنىڭ يەشمەسىدۇر — ئۈچ شاخ ئۈچ كۈندۇر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يۈسۈپ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "يەشمەسى"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئۇلاردۇر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:32:40.917969283Z",
+  "model": "glm-5.3"
+}

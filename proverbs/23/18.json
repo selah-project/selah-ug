@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "چۈنكى ⟨چوقۇم⟩ ئاخىرەت بار، ۋە ئۈمىدىڭ ئۈزۈلمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨چوقۇم⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ئاخىرەت"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ۋە ئۈمىدىڭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئۇندا"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ئۈزۈلمەيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:11.351999065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "مىشما ۋە دۇما، ماسسا، خاداد ۋە تەيما.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "مىشما"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ۋە دۇما"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ماسسا"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "خاداد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ۋە تەيما"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:45.581853043Z",
+  "model": "glm-5.3"
+}

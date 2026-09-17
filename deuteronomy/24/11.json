@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "سىرتىدا تۇر، سەن قەرز بەرگەن كىشى ساڭا ⟨את⟩ كىپاراتنى سىرتىغا چىقىرىپ بەرسۇن.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "سىرتىدا"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "تۇر"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ۋە كىشى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "قەرز بەرگەن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "چىقىرىپ بەرسۇن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كىپاراتنى"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "كىپاراتنى"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "سىرتىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:53.344617638Z",
+  "model": "glm-5.3"
+}

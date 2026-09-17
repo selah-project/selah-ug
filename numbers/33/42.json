@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "زالمونادىن ئۇزاپ چىقتىلار، پۇنوندا قوندىلار.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ئۇزاپ چىقتىلار"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "زالمونادىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "قوندىلار"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "پۇنوندا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:36.877029968Z",
+  "model": "glm-5.3"
+}

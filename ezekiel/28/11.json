@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "⟨ۋە⟩ ياھۋەھنىڭ سۆزى ماڭا كەلدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:50:35.206125365Z",
+  "model": "glm-5.3"
+}

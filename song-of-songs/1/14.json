@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "دوستۇم ماڭا خېنە ساپىقىدۇر — ئەين-گەدى ئۈزۈمزارلىرى ئىچىدە.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ساپىقى"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "خېنە"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دوستۇم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ئۈزۈمزارلىرى ئىچىدە"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ئەين"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گەدى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:01.272540969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 46,
+  "translation": "نەفتالىنىڭ ئوغۇللىرى: ياخسەئل، گۇنى، يەتسەر ۋە شىللەم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نەفتالى"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "ياخسەئل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "گۇنى"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "يەتسەر"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "شىللەم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:35:26.134636393Z",
+  "model": "glm-5.3"
+}

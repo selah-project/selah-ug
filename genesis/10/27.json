@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋە ھادورامنى ⟨את⟩، ئۇزالنى ⟨את⟩ ۋە دىقلاھنى ⟨את⟩ ⟨توغدى⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ھادورامنى"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ھادورام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇزالنى"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ئۇزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دىقلاھنى"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "دىقلاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:40.302135506Z",
+  "model": "glm-5.3"
+}

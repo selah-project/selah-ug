@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ياھۋەھنىڭ قۇلى يەھوشۇئا، نۇننىڭ ئوغلى، ئۆلدى — يۈز ئون ياشقا ⟨تولغان⟩ ئىدى.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يەھوشۇئا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نۇننىڭ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "قۇلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ياش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ياشقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:53:40.566209798Z",
+  "model": "glm-5.3"
+}

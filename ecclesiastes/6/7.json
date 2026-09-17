@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئىنساننىڭ بارلىق ئەمگىكى ئېغىزى ئۈچۈندۇر، ئەمما نەپەس ⟨يەنىلا⟩ تويمايدۇ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ئەمگىكى"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئىنساننىڭ"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ئېغىزى ئۈچۈندۇر"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ئەمما"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نەپەس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "تويمايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:17.479797922Z",
+  "model": "glm-5.3"
+}

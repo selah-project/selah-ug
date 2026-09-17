@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئەلىئەل، ۋە ئوبەد، ۋە يەئسىئەل — مەزوباھلىق",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ئەلىئەل"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ۋە ئوبەد"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "ۋە يەئسىئەل"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "مەزوباھلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:10.142596506Z",
+  "model": "glm-5.3"
+}

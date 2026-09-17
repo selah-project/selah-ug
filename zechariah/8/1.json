@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ياھۋەھ ساۋاكلىرىنىڭ سۆزى ⟨مەن\"> ماڭا كەلدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ساۋاقلىرىنىڭ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:15:41.946432363Z",
+  "model": "glm-5.3"
+}

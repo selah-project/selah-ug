@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "قۇتقۇزۇش ياھۋەھنىڭدۇر؛ بەرىكىتىڭ خەلقىڭ ئۈستىدە. سېلاھ.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھنىڭدۇر"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "قۇتقۇزۇش"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "خەلقىڭ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "بەرىكىتىڭ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:18:00.083311764Z",
+  "model": "glm-5.3"
+}

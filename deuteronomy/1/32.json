@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ۋە بۇ ئىشتا سىلەر ياھۋەھ ئېلوھىمىڭلارغا ئىشەنمىدىڭلار.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "ۋە بۇ ئىشتا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "سىلەر ئەمەس"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "ئىشەنمىدىڭلار"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياھۋەھكە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئېلوھىمىڭلار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:54.264317374Z",
+  "model": "glm-5.3"
+}

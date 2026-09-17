@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "شۈبھىسىزكى، ⟨ئۇ⟩ ماڭا ⟨قارشى⟩ قايتىدۇ، قولىنى ئۆرۈيدۇ كۈن بويى.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "شۈبھىسىزكى"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ماڭا ⟨قارشى⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "قايتىدۇ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ئۆرۈيدۇ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "قولىنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كۈن بويى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:59.888055311Z",
+  "model": "glm-5.3"
+}

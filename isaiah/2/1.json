@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئاموتس ئوغلى يەشەياھۇ كۆرگەن سۆز — يەھۇدا ۋە يېرۇسالېم ئۈستىدە.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كۆرگەن"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "كۆردى"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يەشەياھۇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ئاموتسنىڭ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يەھۇدا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ۋە يېرۇسالېم"
+    }
+  ],
+  "timestamp": "2026-09-16T21:54:28.178330568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "بەگ ئوھولىبامەھ، بەگ ئەيلاھ، بەگ پىنون.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "بەگ"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ئوھولىبامەھ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "بەگ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەيلاھ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "بەگ"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "پىنون"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:20.920116182Z",
+  "model": "glm-5.3"
+}

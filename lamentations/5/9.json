@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "جانىمىز ⟨بىلەن⟩ نېنىمىزنى كەلتۈردۇق، چۆللۈك قىلىچىنىڭ يۈزىدىن.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "جانىمىز ⟨بىلەن⟩"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "كەلتۈردۇق"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "نېنىمىزنى"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "يۈزىدىن"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "قىلىچ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "چۆللۈكنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.074218112Z",
+  "model": "glm-5.3"
+}

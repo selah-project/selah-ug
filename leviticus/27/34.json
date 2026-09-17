@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "بۇلار سىنا تېغىدا ئىسرائىل ئوغۇللىرىغا ياھۋەھ مۇسانى ⟨את⟩ بۇيرۇغان بۇيرۇقلاردۇر.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "بۇيرۇقلار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۇسانى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۈچۈن ⟨ئۇلارغا⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "تېغىدا"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سىنا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:09:15.491158470Z",
+  "model": "glm-5.3"
+}

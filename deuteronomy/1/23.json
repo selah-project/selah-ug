@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "بۇ سۆز كۆزۈمگە ياقتى، شۇنىڭ بىلەن سىلەردىن ئون ئىككى ئادەم ئالدىم، ھەر بىر قەبىلىدىن بىر ئادەم.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ياقتى"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "كۆزۈمگە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بۇ سۆز"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ئالدىم"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "سىلەردىن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئون ئىككى"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون ئىككى"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "قەبىلىدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:19.844947967Z",
+  "model": "glm-5.3"
+}

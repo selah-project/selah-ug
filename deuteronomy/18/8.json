@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ھەلەككە ئوخشاش ھەلەكنى يەيدۇ، ئاتىلار بويىچە ⟨سېتىلغانلىرىدىن⟩ باشقا.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ھەلەكنى"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "ھەلەككە ئوخشاش"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يەيدۇ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "سېتىلغانلىرىدىن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بويىچە"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ئاتىلار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:27.169785517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئېلوھىم ئېيتتى: «يورۇقلۇق بولسۇن» — ۋە يورۇقلۇق بولدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "אור",
+      "gloss": "يورۇقلۇق"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "אור",
+      "gloss": "يورۇقلۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:55.553980950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "مۇسا: «شۇنداق دېدىڭ — سېنىڭ يۈزۈڭنى ئەمدى كۆر ⟨ئەمەس⟩» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "دېدىڭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "قوشىمەن ⟨يەنى قىلمايمەن⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئەمدى"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "كۆر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "سېنىڭ يۈزۈڭنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:40:22.455980932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئاھىيام ساكار ھەرەرىلىقنىڭ ئوغلى، ئەلىپال ئۇرنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "ئاھىيام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ساكار"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ھەرەرىلىق"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ئەلىپال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ئۇر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:23.902317861Z",
+  "model": "glm-5.3"
+}

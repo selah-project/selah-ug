@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "مىسىر ئۈستىگە يۈسۈپنى ⟨את⟩ بىلمەيدىغان يېڭى بىر پادىشاھ تۇردى.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "تۇردى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "يېڭى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مىسىر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يۈسۈپ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يۈسۈپ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:37:31.788411810Z",
+  "model": "glm-5.3"
+}

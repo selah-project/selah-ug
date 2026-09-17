@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "نادابنىڭ ئوغۇللىرى سېلەد ۋە ئاپپايىم ئىدى؛ سېلەد پەرزەنتسىز ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نادابنىڭ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سېلەد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "ئاپپايىم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سېلەد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پەرزەنتسىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:40:01.885958515Z",
+  "model": "glm-5.3"
+}

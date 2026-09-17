@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "چۈنكى كارىۋات كېڭىيىشكە قىسقا، ياپقۇچ ئورىنىشقا تار.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "قىسقا"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "كارىۋات"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "كېڭىيىشكە"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "ياپقۇچ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تار"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "ئورىنىشقا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:01:31.572506401Z",
+  "model": "glm-5.3"
+}

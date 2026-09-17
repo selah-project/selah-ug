@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە زىقلاگ، ۋە بەيت-ماركابوت، ۋە خازار-سۇساھ",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ۋە زىقلاگ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ۋە بەيت"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ماركابوت"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ۋە خازار"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "سۇساھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:07.028349309Z",
+  "model": "glm-5.3"
+}

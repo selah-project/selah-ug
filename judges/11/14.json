@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "يىفتاخ يەنە ئاممون بالىلىرىنىڭ پادىشاھىغا ئەلچىلەر ئەۋەتتى.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "قايتا"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يىفتاخ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ئەۋەتتى"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ئەلچىلەر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرىنىڭ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ئاممون"
+    }
+  ],
+  "timestamp": "2026-09-16T21:00:49.959257727Z",
+  "model": "glm-5.3"
+}

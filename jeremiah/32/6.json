@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "يىرمىياھۇ ئېيتتى: ياھۋەھنىڭ سۆزى ماڭا بولدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياھۇ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:29:43.095665475Z",
+  "model": "glm-5.3"
+}

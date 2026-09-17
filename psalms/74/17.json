@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 74,
+  "translation": "سەن يەرنىڭ بارلىق چېگرىلىرىنى تۇرغۇزدۇڭ؛ ياز ۋە قىشنى سەن ياسىدىڭ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "تۇرغۇزدۇڭ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "چېگرىلىرىنى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يەرنىڭ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ياز"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ۋە قىش"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ياسىدىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:33:14.238625336Z",
+  "model": "glm-5.3"
+}

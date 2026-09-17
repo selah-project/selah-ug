@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ۋە نامرات ئادەمنى ئۇنىڭ داۋاسىدا ئالاھىدە ھۆرمەت قىلما.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ۋە نامرات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "تהדר",
+      "gloss": "ھۆرمەت قىلما"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ئۇنىڭ داۋاسىدا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:48:05.693918322Z",
+  "model": "glm-5.3"
+}

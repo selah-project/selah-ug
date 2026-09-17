@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە ئەمدى سىلەرگە ⟨بۇ⟩ پەرمان — ئى كاھانلار،",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ۋە ئەمدى"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "پەرمان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ئى كاھانلار"
+    }
+  ],
+  "timestamp": "2026-09-16T23:17:46.864722066Z",
+  "model": "glm-5.3"
+}

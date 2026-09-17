@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ۋە كەچ بولدى، ۋە تاڭ بولدى — تۆتىنچى كۈن.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "كەچ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "تاڭ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "تۆتىنچى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:49.992044046Z",
+  "model": "glm-5.3"
+}

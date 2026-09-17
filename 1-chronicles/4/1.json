@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "يەھۇدانىڭ ئوغۇللىرى: پېرېتس، خېتسرون، خارمىي، خۇر ۋە شوۋال.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يەھۇدا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پېرېتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خېتسرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "خارمىي"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "خۇر"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "شوۋال"
+    }
+  ],
+  "timestamp": "2026-09-17T01:39:42.224717916Z",
+  "model": "glm-5.3"
+}

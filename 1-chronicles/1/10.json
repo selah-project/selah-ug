@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "كۇش ⟨את⟩ نىمرودنى تۇغدى؛ ئۇ زېمىندا قەھرىمان بولۇشقا باشلىدى.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "كۇش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نىمرودنى"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نىمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "باشلىدى"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بولۇشقا"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "قەھرىمان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زېمىندا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:37.148398105Z",
+  "model": "glm-5.3"
+}

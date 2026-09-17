@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "خېزىرغا ئون يەتتىنچى، خاپپىتسېتسقا ئون سەككىزىنچى ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "خېزىرغا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "خاپپىتسېتسقا"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "سەككىز"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:27.933501112Z",
+  "model": "glm-5.3"
+}

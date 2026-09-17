@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "بابلنىڭ يۈكى — ئۇنى يەشەيەھۇ ئاموتزنىڭ ئوغلى كۆردى.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "يۈكى"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇنى"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "كۆردى"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يەشەيەھۇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ئاموتزنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:57:45.637569730Z",
+  "model": "glm-5.3"
+}

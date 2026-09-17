@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 40,
+  "translation": "لېكىن ساقىلار باشلىقى يوسېفنى ئەسلىمىدى ⟨את⟩، ئۇنى ئۇنتۇدى.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "لېكىن…مىدى"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ئەسلى"
+    },
+    {
+      "surface": "שר",
+      "gloss": "باشلىقى"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ساقىلار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسېفنى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسېف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ئۇنى ئۇنتۇدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:54.071464295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "سۇلىرىمىزنى كۈمۈش بىلەن ئىچتۇق؛ ياغاچلىرىمىز بەدەل بىلەن كېلىدۇ.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "سۇلىرىمىزنى"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "كۈمۈش بىلەن"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ئىچتۇق"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ياغاچلىرىمىز"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "بەدەل بىلەن"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "كېلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.454880623Z",
+  "model": "glm-5.3"
+}

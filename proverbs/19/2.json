@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "بىلىم بولمىسا نەپەشمۇ ياخشى ئەمەس، پۇتى ئالدىراڭغۇنىڭ ئۆزى گۇناھكار.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بولمىسا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بىلىم"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نەپەش"
+    },
+    {
+      "surface": "لא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ئالدىراڭغۇنىڭ"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "پۇتى"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "گۇناھكار"
+    }
+  ],
+  "timestamp": "2026-09-16T23:53:47.325121229Z",
+  "model": "glm-5.3"
+}

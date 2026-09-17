@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئېنوش توقسەت يىل ياشىدى ۋە ⟨את⟩ قەيناننى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ئېنوش"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "توقسەت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەيناننى"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قەيناننى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:10.455192841Z",
+  "model": "glm-5.3"
+}

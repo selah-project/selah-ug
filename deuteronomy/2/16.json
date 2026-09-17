@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "شۇنداق بولدى: ئۇرۇش ئەركەكلىرىنىڭ ھەممىسى خەلقنىڭ ئىچىدىن ئۆلۈپ تۈگىگەندە،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "شۇنداق بولدى"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ئۆتكەندە"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "تۈگىگەندە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ئەركەكلىرىنىڭ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ئۆلۈپ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ئىچىدىن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلقنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:11.133294149Z",
+  "model": "glm-5.3"
+}

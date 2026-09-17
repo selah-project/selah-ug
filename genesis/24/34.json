@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئۇ: «ئىبراھىمنىڭ چۆرىسى مەن» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "چۆرىسى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىمنىڭ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:20.555037072Z",
+  "model": "glm-5.3"
+}

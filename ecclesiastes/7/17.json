@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بەك يامانلىق قىلما، ئەخمەقمۇ بولما؛ نېمە ئۈچۈن ۋاقتىڭ توشمىغان ⟨ھالەتتە⟩ ئۆلىسەن؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "قىلما"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "يامانلىق قىل"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بەك"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "بولما"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بول"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ئەخمەق"
+    },
+    {
+      "surface": "למה",
+      "gloss": "نېمە ئۈچۈن"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ئۆلىسەن"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "توشمىغان"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ۋاقتىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:15.606977240Z",
+  "model": "glm-5.3"
+}

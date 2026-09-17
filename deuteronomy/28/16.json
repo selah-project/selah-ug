@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "قارغىلانغانسەن شەھەردە، ۋە قارغىلانغانسەن ئېتىزدا.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "قارغىلانغانسەن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شەھەردە"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ۋە قارغىلانغانسەن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ئېتىزدا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:40:41.837964365Z",
+  "model": "glm-5.3"
+}

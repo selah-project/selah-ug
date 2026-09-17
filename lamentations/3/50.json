@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھ سامالاردىن يانتايىپ قاراپ كۆرگۈچە.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…گۈچە"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "يانتايىپ قارىسا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ۋە كۆرسە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "سامالاردىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.518217769Z",
+  "model": "glm-5.3"
+}

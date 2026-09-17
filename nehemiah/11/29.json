@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ئەن-رىمموندا، ۋە زورەھدە، ۋە يارمۇتتا",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "ئەن-رىمموندا"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رىممون"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "زورەھدە"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "يارمۇتتا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:14.428897758Z",
+  "model": "glm-5.3"
+}

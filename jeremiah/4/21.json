@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "قانچىلىك ۋاقىتقىچە بەلگىنى كۆرىمەن، شوفارنىڭ ئاۋازىنى ئاڭلايمەن؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "قىچە"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "قانچىلىك ۋاقىت"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "كۆرىمەن"
+    },
+    {
+      "surface": "נס",
+      "gloss": "بەلگىنى"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ئاڭلايمەن"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ئاۋازىنى"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-09-16T22:16:28.616144567Z",
+  "model": "glm-5.3"
+}

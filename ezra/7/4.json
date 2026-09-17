@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "زەراھھيانىڭ ئوغلى، ئۇززىنىڭ ئوغلى، بۇككىنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زەراھھيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ئۇززى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بۇككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:31:45.296188205Z",
+  "model": "glm-5.3"
+}

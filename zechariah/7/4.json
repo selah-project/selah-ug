@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ۋە ياھۋەھ سابائوتنىڭ سۆزى ماڭا كەلدى، ⟨دېيىلگەندەك⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سابائوتنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دېيىلگەندەك"
+    }
+  ],
+  "timestamp": "2026-09-16T23:15:48.142709726Z",
+  "model": "glm-5.3"
+}

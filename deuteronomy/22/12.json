@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئۆزۈڭگە ئۆرۈم چاچلار ئىشلە — ئۆزۈڭ ياپىدىغان ياپقۇچۇڭنىڭ تۆت قاناتلىرىغا.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ئۆرۈم چاچلار"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ئىشلە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    },
+    {
+      "surface": "על",
+      "gloss": "<ئۈستىگە>"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "قاناتلىرىغا"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "ياپقۇچۇڭنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<كى>"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ياپىدىغان"
+    },
+    {
+      "surface": "בה",
+      "gloss": "<ئۇنى>"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:28.220904342Z",
+  "model": "glm-5.3"
+}

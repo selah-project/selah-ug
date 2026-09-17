@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 35,
+  "translation": "ئىسھاقنىڭ كۈنلىرى ⟨بولدى⟩ يۈز يىل ۋە سەكسەن يىل.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ۋە ... بولدى"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ئىسھاقنىڭ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ۋە سەكسەن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:25.482371157Z",
+  "model": "glm-5.3"
+}

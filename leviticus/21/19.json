@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ياكى پۇتى سۇنغان ياكى قولى سۇنغان كىشى.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىم…بولسا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭدا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "سۇنغان"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پۇتى"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "سۇنغان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "قولى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:54.227371456Z",
+  "model": "glm-5.3"
+}

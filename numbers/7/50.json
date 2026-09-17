@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئالتۇندىن بىر ئالقان قاچا، ئون شېكېل، ئىسرىق بىلەن توشقان.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ئالقان قاچا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "توشقان"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ئىسرىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:13:01.190812193Z",
+  "model": "glm-5.3"
+}

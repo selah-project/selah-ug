@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "شاللۇم توغدى ⟨את⟩ ھىلكىياھ نى، ھىلكىياھ توغدى ⟨את⟩ ئازارىياھ نى.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "شاللۇم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھىلكىياھ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ھىلكىياھ"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ھىلكىياھ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئازارىياھ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ئازارىياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:02.197043272Z",
+  "model": "glm-5.3"
+}

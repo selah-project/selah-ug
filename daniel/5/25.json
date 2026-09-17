@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ۋە بۇ ⟨ئۇ⟩ يېزىق — يېزىلغىنى مۇشۇ: مېنې، مېنې، تېكېل ۋە ئۇپارسىن.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ۋە بۇ"
+    },
+    {
+      "surface": "كתבא",
+      "gloss": "يېزىق"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "يېزىلغىنى"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مېنې"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مېنې"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تېكېل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ۋە ئۇپارسىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:23:13.564381148Z",
+  "model": "glm-5.3"
+}

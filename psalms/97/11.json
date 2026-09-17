@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 97,
+  "translation": "سادىق ⟨كىشىگە⟩ نۇر چېچىلدى، دىلى تۈز كىشىلەرگە ⟨بولسا⟩ خۇشاللىق.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "نۇر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "چېچىلدى"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "سادىق"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "تۈز كىشىلەرگە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دىلى"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خۇشاللىق"
+    }
+  ],
+  "timestamp": "2026-09-16T23:38:07.725704263Z",
+  "model": "glm-5.3"
+}

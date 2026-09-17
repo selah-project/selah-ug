@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "بىر ئەر قوينىغا ئوت ئالسا، كىيىملىرى كۆيۈپ كەتمەي قالامدۇ؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ئالسا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بىر ئەر"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "قوينىغا"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "كىيىملىرى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "كۆيۈپ كەتمەي قالامدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:47:23.405243767Z",
+  "model": "glm-5.3"
+}

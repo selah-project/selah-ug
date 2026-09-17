@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "يوللىرىمنى چەتكە بۇرىدى ۋە مېنى پارچىلىۋەتتى، مېنى خاراب⟨لىق ئەتتى⟩.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "يوللىرىمنى"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "چەتكە بۇرىدى"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "ۋە مېنى پارچىلىۋەتتى"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "مېنى قويدى"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "خاراب"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:47.011493693Z",
+  "model": "glm-5.3"
+}

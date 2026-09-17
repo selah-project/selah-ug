@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا كېلىپ ⟨مۇنداق⟩ دېدى",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:29:14.672485482Z",
+  "model": "glm-5.3"
+}

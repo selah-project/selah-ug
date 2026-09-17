@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "خانان — مەئاكەنىڭ ئوغلى، ۋە يوشافات مىتنىلىق،",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "خانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "مעכה",
+      "gloss": "مەئاكە"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ۋە يوشافات"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "مىتنىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:47.433232379Z",
+  "model": "glm-5.3"
+}

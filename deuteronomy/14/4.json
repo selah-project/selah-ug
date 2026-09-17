@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "بۇ ⟨⟨ھايۋانلار⟩⟩ سىلەر يەيدىغان ھايۋانلاردۇر: كالا، قوي پاقلىنى، ۋە ئۆچكە پاقلىنى",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ھايۋان(لار)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىملەرنى"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "سىلەر يەيدىغان"
+    },
+    {
+      "surface": "שור",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "پاقلان"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ۋە پاقلان"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:05.383222479Z",
+  "model": "glm-5.3"
+}

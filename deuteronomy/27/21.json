@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "«لەنەتلىك — ھەرقانداق ھايۋان بىلەن ياتقان ⟨ئۇ⟩؛ پۈتۈن خەلق ⟨ئۇ› ‹ئامېن› دەيدۇ».",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لەنەتلىك"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ياتقان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەرقانداق"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ھايۋان"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامېن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:40:31.059919628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "نۇن ئۇنىڭ ئوغلى، يەھوشۇئا ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "نۇن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يەھوشۇئا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:06.719947876Z",
+  "model": "glm-5.3"
+}

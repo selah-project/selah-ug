@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "شۇنىڭ ئۈچۈن، ئى پادىچىلار، ياھۋەھنىڭ ⟨את⟩ سۆزىنى ئاڭلاڭلار!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "شۇنىڭ ئۈچۈن"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ئى پادىچىلار"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ئاڭلاڭلار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سۆزىنى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:53:01.138064657Z",
+  "model": "glm-5.3"
+}

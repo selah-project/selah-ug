@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئېتىزغا چىقما، يولدا ماڭما، چۈنكى دۈشمەننىڭ قىلىچى بار، ئەتراپىدا ۋەھىمە بار.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "چىقما"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "چىقما"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ئېتىزغا"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "يولدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ماڭما"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ماڭما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "قىلىچى"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "دۈشمەننىڭ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ۋەھىمە"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ئەتراپىدا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:16:42.699115798Z",
+  "model": "glm-5.3"
+}

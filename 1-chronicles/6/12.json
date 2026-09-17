@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئەلىئاب ئۇنىڭ ئوغلى، يېروھام ئۇنىڭ ئوغلى، ئەلقانەھ ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ئەلىئاب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يېروھام"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:56.261844602Z",
+  "model": "glm-5.3"
+}

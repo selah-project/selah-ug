@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ھەممۇ ھەر ئىنسان يېسە ۋە ئىچسە ۋە ھەممە ئەمىلىدە ياخشىلىقنى كۆرسە — بۇ ئېلوھىمنىڭ سوۋغىسىدۇر.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ھەممۇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "يېسە"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ۋە ئىچسە"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ۋە كۆرسە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىلىقنى"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ئەمىلىدە"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "سوۋغىسى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىمنىڭ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئۇ⟨دۇر⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:33.196346267Z",
+  "model": "glm-5.3"
+}

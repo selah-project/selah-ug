@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ھېچقانداق فىدىيەگە پەرۋا قىلمايدۇ، سوۋغاتنى كۆپەيتسەڭمۇ رازى بولمايدۇ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "كۆتۈرمەيدۇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزىنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھېچقانداق"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فىدىيە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "رازى بولمايدۇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "گەرچە"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "كۆپەيتسەڭ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "سوۋغات"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:14.697896106Z",
+  "model": "glm-5.3"
+}

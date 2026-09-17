@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئاناتوت ئەرلىرى — بىر يۈز يىگىرمە سەككىز ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ئاناتوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:08.549677895Z",
+  "model": "glm-5.3"
+}

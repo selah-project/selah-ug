@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "⟨את⟩ كوسنى، ۋە ⟨את⟩ يەنشۇفنى، ۋە تەنشىمەتنى.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كوس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "كوس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يەنشۇف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "يەنشۇف"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ۋە تەنشىمەت"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:02.241898629Z",
+  "model": "glm-5.3"
+}

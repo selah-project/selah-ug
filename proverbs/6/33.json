@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "يارا ۋە خورلۇق تاپىدۇ، ئۇنىڭ ئەيىبى ئۆچۈرۈلمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "يارا"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ۋە خورلۇق"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "تاپىدۇ"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ئۇنىڭ ئەيىبى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "ئۆچۈرۈلمەيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:14.697542680Z",
+  "model": "glm-5.3"
+}

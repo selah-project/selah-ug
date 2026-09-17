@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ۋە مالاي ئىسھاققا ⟨את⟩ قىلغان بارلىق ئىشلارنى سۆزلەپ بەردى.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "سۆزلەپ بەردى"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "مالاي"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ئىسھاققا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بارلىق ئىشلارنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ئىشلارنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "قىلغان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:48.635847768Z",
+  "model": "glm-5.3"
+}

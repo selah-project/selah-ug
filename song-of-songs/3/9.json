@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئاپىريون — پادىشاھ شىلوموھ ئۇنى لەۋانون دەرەخلىرىدىن ئۆزىگە ياسىدى.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ئاپىريون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ياسىدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۆزىگە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شىلوموھ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "دەرەخلىرىدىن"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لەۋانون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:11.293610503Z",
+  "model": "glm-5.3"
+}

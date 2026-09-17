@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ۋە يېھوناتاننىڭ ئوغلى مېرىب-بەئەل ئىدى؛ ۋە مېرىب-بەئەل ⟨את⟩ مىكانى تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يېھوناتاننىڭ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مېرىب-بەئەل"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "مېرىب-بەئەل"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مىكانى"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مىكا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:13.540948078Z",
+  "model": "glm-5.3"
+}

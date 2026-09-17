@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئېرىنىڭ ئورنىغا ⟨את⟩ ياتلارنى ئالىدىغان بۇزۇق ئايالدۇر سەن.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "ئايالدۇر"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "بۇزۇق"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئورنىغا"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ئېرىنىڭ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ئالىدىغان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياتلارنى"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ياتلارنى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:44:38.852532589Z",
+  "model": "glm-5.3"
+}

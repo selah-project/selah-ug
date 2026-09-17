@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "مەرارىنىڭ ئوغۇللىرى مەھلى ۋە موشى ئىدى؛ يەئزىياھۇنىڭ ئوغۇللىرى ⟨بەنو⟩ ئىدى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مەرارى"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مەھلى"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ۋە موشى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "يەئزىياھۇ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بەنو"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:36.820630742Z",
+  "model": "glm-5.3"
+}

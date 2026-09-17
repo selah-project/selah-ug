@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "سۆيگىنىم قولىنى تۆشۈكتىن سۇندى، ئىچ-باغرىم ئۇنىڭ ئۈچۈن دۈپۈلدەپ كەتتى.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "سۆيگىنىم"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "سۇندى"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "قولىنى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "تۆشۈكتىن"
+    },
+    {
+      "surface": "החר",
+      "gloss": "تۆشۈك"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "ئىچ-باغرىم"
+    },
+    {
+      "surface": "המו",
+      "gloss": "دۈپۈلدەپ كەتتى"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۇنىڭ ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:11:03.290194679Z",
+  "model": "glm-5.3"
+}

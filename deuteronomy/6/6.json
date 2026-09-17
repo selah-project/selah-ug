@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "بۈگۈن ساڭا بۇيرۇغان مەن ⟨بۇيرۇۋاتقان⟩ بۇ سۆزلەر دىلىڭ ئۈستىدە بولسۇن ⟨بولىدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سۆزلەر"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ساڭا بۇيرۇغان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "بۈگۈن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دىلىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:30:00.539337372Z",
+  "model": "glm-5.3"
+}

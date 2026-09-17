@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "يىرمىياھۇ ئونىنچى، ماخبەناي ئون بىرىنچى.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياھۇ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ئونىنچى"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ماخبەناي"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ئون بىرىنچى (ئۆزگىچە ئىبارە)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨بىر⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:15.884214074Z",
+  "model": "glm-5.3"
+}

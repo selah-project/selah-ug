@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئاچ، ئەي لېبانون، دەرۋازىلىرىڭنى، ۋە ئوت سەدرلىرىڭ ئىچىدە يېسۇن.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ئاچ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ئەي لېبانون"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "دەرۋازىلىرىڭنى"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ۋە يېسۇن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "سەدرلىرىڭ ئىچىدە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:16:37.989761396Z",
+  "model": "glm-5.3"
+}

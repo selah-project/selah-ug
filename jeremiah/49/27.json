@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 49,
+  "translation": "دەمەشق سېپىلىدا ئوت ياقىمەن، ⟨ئوت⟩ بېن-ھادادنىڭ ئوردىلىرىنى يەۋېتىدۇ.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "ياقىمەن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "سېپىلىدا"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دەمەشق"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "يەۋېتىدۇ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ئوردىلىرىنى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بېن"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ھاداد"
+    }
+  ],
+  "timestamp": "2026-09-16T22:36:21.650716219Z",
+  "model": "glm-5.3"
+}

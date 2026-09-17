@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "زادوك ئوغلى، ئاھىماز ئوغلى.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "زادوك"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ئاھىماز"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:44.168111735Z",
+  "model": "glm-5.3"
+}

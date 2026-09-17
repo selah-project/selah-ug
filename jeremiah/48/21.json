@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "ھۆكۈم كەلدى ⟨⟨ئۇ⟩⟩ تۈزلەڭلىك يېرىگە — خولونغا، يەھتساغا ۋە موپائاتقا،",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "ھۆكۈم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يېرىگە"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "تۈزلەڭلىك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "خولونغا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "يەھتساغا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "موپائاتقا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:35:36.842877487Z",
+  "model": "glm-5.3"
+}

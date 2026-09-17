@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە بوئەز ⟨את⟩ ئوۋبەدنى توغدى، ۋە ئوۋبەد ⟨את⟩ يىشاينى توغدى.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "بوئەز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئوۋبەد"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ئوۋبەد"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ئوۋبەد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يىشاي"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يىشاي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:48.154986298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "توپا ئىلگىرى بولغىنىدەك يەرگە قايتىدۇ، روھ ئۇنى بەرگەن ئېلوھىمغا قايتىدۇ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "قايتىدۇ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "توپا"
+    },
+    {
+      "surface": "על",
+      "gloss": "يەرگە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "ئىلگىرى بولغىنىدەك"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "روھ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "قايتىدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئېلوھىمغا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "بەرگەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:19:22.032616665Z",
+  "model": "glm-5.3"
+}

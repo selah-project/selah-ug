@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "خېتسرو ھاكارمىلىي، نائاراي ئېزباينىڭ ئوغلى،",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "خېتسرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ھاكارمىلىي"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نائاراي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ئېزباي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:46.149660711Z",
+  "model": "glm-5.3"
+}

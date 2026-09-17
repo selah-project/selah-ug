@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "سىلەر ماڭا خەلق بولىسىلەر، مەن سىلەرگە ئېلوھىم بولىمەن.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "بولىسىلەر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "ו אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بولىمەن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ئېلوھىم"
+    }
+  ],
+  "timestamp": "2026-09-16T22:27:32.928881991Z",
+  "model": "glm-5.3"
+}

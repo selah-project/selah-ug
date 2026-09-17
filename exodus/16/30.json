@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "شۇنىڭ بىلەن خەلق يەتتىنچى كۈنى ئارام ئالدى.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ئارام ئالدى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "يەتتىنچى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:18.974682450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۆزۈڭنى بۇلۇت بىلەن يوشۇردۇڭ، تىلەكنىڭ ئۆتۈپ كەتمەسلىكى ئۈچۈن",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "يوشۇردۇڭ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بۇلۇت بىلەن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭنى"
+    },
+    {
+      "surface": "مעבור",
+      "gloss": "ئۆتۈپ كەتمەسلىكى ئۈچۈن"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "تىلەكنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:50.572694232Z",
+  "model": "glm-5.3"
+}

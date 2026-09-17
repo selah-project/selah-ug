@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ياھۋەھ مۇساغا ئېيتتى: مەن بۇ خەلقنى كۆردۈم ⟨את⟩، ئەسلىدە ئۇ قاتتىق بويۇنلۇق بىر خەلقتۇر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇ خەلقنى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلقنى"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ئەسلىدە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاتتىق"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "بويۇنلۇق"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:53:10.534969718Z",
+  "model": "glm-5.3"
+}

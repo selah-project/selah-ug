@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "چۈنكى بېلىم كۆيۈككە تولدى، گۆشۈمدە ساقلىق يوق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "بېلىم"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "تولدى"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "كۆيۈككە"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ساقلىق"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "گۆشۈمدە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:32:25.464874834Z",
+  "model": "glm-5.3"
+}

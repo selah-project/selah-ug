@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "مەھراي نېتوپاتلىق، خېلېد بەن بەئاناھ نېتوپاتلىق.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "مەھراي"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "نېتوپاتلىق"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "خېلېد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بەئاناھ"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "نېتوپاتلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:30.011877107Z",
+  "model": "glm-5.3"
+}

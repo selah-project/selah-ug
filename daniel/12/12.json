@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "مىڭ ئۈچ يۈز ئوتتۇز بەش كۈنگە ⟨يېتىپ⟩ ساقلىغان كىشى بەختلىك.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "بەختلىك"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "ساقلىغان"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ۋە يەتكەن"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "كۈنگە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ۋە بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T01:37:43.405537693Z",
+  "model": "glm-5.3"
+}

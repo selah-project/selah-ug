@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "پارئوھنىڭ قىزى ئۇنىڭغا: «بار» دېدى. قىز بېرىپ، بالىنىڭ ئانىسىنى چاقىردى.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارئوھنىڭ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "بار"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "باردى"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "قىز"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "چاقىردى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئانىسىنى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئانىسى"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بالىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:38:28.174559104Z",
+  "model": "glm-5.3"
+}

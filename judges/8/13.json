@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "گىدئون يوئاشنىڭ ئوغلى ئۇرۇشتىن قايتتى، خارەس ئۆرلەڭ يولىدىن.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "قايتتى"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گىدئون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوئاش"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…دىن"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ئۆرلەڭ"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "خارەس"
+    }
+  ],
+  "timestamp": "2026-09-16T20:58:08.086478165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "دان، يوسېف ۋە بىنيامىن، ناپتالى، گاد ۋە ئاشېر —",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسېف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ۋە بىنيامىن"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ناپتالى"
+    },
+    {
+      "surface": "گד → גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ۋە ئاشېر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:40:08.347781115Z",
+  "model": "glm-5.3"
+}

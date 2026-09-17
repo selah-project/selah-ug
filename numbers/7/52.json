@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئۆچكىلەردىن بىر تېكە، گۇناھ قۇربانلىقى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تېكە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكىلەردىن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گۇناھ قۇربانلىقى ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:13:01.191036261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ھەداد ئۆلدى، ئەدومنىڭ بەگلىرى ⟨بار بولدى⟩: تىمنا بەگ، ئەلۋاھ بەگ، يەتەت بەگ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ھەداد"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "بەگلىرى"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدوم"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "بەگ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تىمنا"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "بەگ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ئەلۋاھ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "بەگ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "يەتەت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:36.461916111Z",
+  "model": "glm-5.3"
+}

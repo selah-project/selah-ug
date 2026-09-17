@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "سەن پەسەخنى ياھۋەھ ئېلوھىمىڭ ساڭا بەرگەن دەرۋازىلىرىڭنىڭ بىرى ⟨ئىچىدە⟩ سويۇشقا قادىر ئەمەسسەن",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "قادىر"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "سويۇشقا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ئەت⟩",
+      "marks": "پەسەخنى"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسەخ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "بىرى"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "دەرۋازىلىرىڭنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئېلوھىمىڭ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "بەرگەن"
+    },
+    {
+      "surface": "لך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:36.380474800Z",
+  "model": "glm-5.3"
+}

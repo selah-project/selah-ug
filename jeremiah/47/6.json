@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 47,
+  "translation": "ھەي، ياھۋەھنىڭ قىلىچى — قاچانغىچە جىم تۇرمايسەن؟ قىنىڭغا يىغىل، توختا ۋە جىم بول.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ھەي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "قىلىچ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "قاچان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "جىم تۇرارسەن"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "يىغىلغىن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "قىنىڭ"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "توختىغىن"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ۋە جىم بول"
+    }
+  ],
+  "timestamp": "2026-09-16T22:33:36.856850680Z",
+  "model": "glm-5.3"
+}

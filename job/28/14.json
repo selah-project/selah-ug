@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "تېھوم: «مەندە ئەمەس» دەيدۇ، دېڭىزمۇ: «يېنىمدا يوق» دەيدۇ.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تېھوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مەندە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "دېڭىزمۇ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "يېنىمدا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:04:44.455639095Z",
+  "model": "glm-5.3"
+}

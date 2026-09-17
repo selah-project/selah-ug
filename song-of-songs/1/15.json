@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "قارا، سەن چىرايلىقسەن، بۇرداشىم؛ قارا، سەن چىرايلىقسەن؛ كۆزلىرىڭ كەپتەردۇر.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "چىرايلىقسەن"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "بۇرداشىم"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "چىرايلىقسەن"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "كۆزلىرىڭ"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "كەپتەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:01.272672980Z",
+  "model": "glm-5.3"
+}

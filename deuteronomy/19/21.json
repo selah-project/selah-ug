@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "كۆزۈڭ رەھىم قىلمىسۇن — جانغا جان، كۆزگە كۆز، چىشقا چىش، قولغا قول، پۇتقا پۇت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رەھىم قىلمىسۇن"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "كۆزۈڭ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جانغا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "كۆز"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "كۆزگە"
+    },
+    {
+      "surface": "שן",
+      "gloss": "چىش"
+    },
+    {
+      "surface": "بשן",
+      "gloss": "چىشقا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "قول"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "قولغا"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پۇت"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "پۇتقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:57.340274244Z",
+  "model": "glm-5.3"
+}

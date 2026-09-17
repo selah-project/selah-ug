@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "چۈنكى ھەبەلنى كۆپەيتىدىغان سۆزلەر كۆپتۇر؛ ئىنسانغا نېمە ئارتۇقلۇق؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "سۆزلەر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "كۆپەيتىدىغان"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ھەبەلنى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ئارتۇقلۇق"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ئىنسانغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:59.278822838Z",
+  "model": "glm-5.3"
+}

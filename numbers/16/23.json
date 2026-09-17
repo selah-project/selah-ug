@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ياھۋەھ موشېغا سۆزلەپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:17:46.284631601Z",
+  "model": "glm-5.3"
+}

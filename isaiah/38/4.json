@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "ياھۋەھنىڭ سۆزى يەشەياھۇغا كېلىپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يەشەياھۇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:04:19.313506811Z",
+  "model": "glm-5.3"
+}

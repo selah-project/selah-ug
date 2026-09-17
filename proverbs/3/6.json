@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "پۈتۈن يوللىرىڭدا ئۇنى تونۇغىن، ئۇ ⟨سېنىڭ⟩ يوللىرىڭنى تۈز قىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "يوللىرىڭدا"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "ئۇنى تونۇغىن"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "تۈز قىلىدۇ"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "يوللىرىڭنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:48:19.355966205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "بېيىش ئۈچۈن چارچىما، ئۆز چۈشەنچەڭدىن توختا",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "چارچىما"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "چارچىما"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "بېيىش ئۈچۈن"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "ئۆز چۈشەنچەڭدىن"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "توختا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:19.380462839Z",
+  "model": "glm-5.3"
+}

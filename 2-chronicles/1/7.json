@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "شۇ كېچىدە ئېلوھىم سۇلايمانغا كۆرۈندى ۋە ئۇنىڭغا: «تىلە، ساڭا نېمە بېرەي؟» دېدى.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "كېچىدە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "كۆرۈندى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "سۇلايمانغا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "تىلە"
+    },
+    {
+      "surface": "ما",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "بېرەي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:53:45.240205830Z",
+  "model": "glm-5.3"
+}

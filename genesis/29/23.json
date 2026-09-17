@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "كەچ بولغاندا لابان ⟨את⟩ قىزى لېئانى ئالدى ۋە ئۇنى ئۇنىڭغا ئەكىردى، ئۇ ئۇنىڭغا كىردى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "كەچ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لېئانى"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لېئانى"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "قىزى"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ئەكىردى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "كىردى"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:00.816335195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "مانا، ئۇ كېچە قاقاس بولسۇن، ئۇنىڭغا خۇشال ئاۋاز كىرمىسۇن.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "كېچە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "قاقاس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "كىرمىسۇن"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "خۇشال ئاۋاز"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:51.486329298Z",
+  "model": "glm-5.3"
+}

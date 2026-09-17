@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "قانچە ئارتۇق ئاجىز ئىنسان — قۇرۇت، ئادەم ئوغلى — قۇرت!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "قانچە ئارتۇق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨بولسا⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ئاجىز ئىنسان"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "قۇرۇت"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "قۇرت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:04:11.593849304Z",
+  "model": "glm-5.3"
+}

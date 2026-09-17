@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "لىيەھ: «بەخت كەلدى!» دېدى ھەمدە ئۇنىڭ ئىسمىنى گاد قويدى.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لىيەھ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بەخت كەلدى"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئىسمىنى"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ئۇنىڭ ئىسمىنى"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:01.143457524Z",
+  "model": "glm-5.3"
+}

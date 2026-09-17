@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ياھۋەھ موساغا سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:58:01.131500231Z",
+  "model": "glm-5.3"
+}

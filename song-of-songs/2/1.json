@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "مەن شاروننىڭ خاباتسېلەت ⟨گۈلى⟩، ئارىلارنىڭ نەرگىزىمەن.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "خاباتسېلەت"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "شارون"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "نەرگىز"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ئارىلار"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:30.909250153Z",
+  "model": "glm-5.3"
+}

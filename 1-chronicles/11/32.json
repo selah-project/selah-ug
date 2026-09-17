@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "خۇراي گەئەش ۋادىلىرىدىن، ئەبىئەل ئەرەباتلىق.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "خۇراي"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ۋادىلىرىدىن"
+    },
+    {
+      "surface": "געש",
+      "gloss": "گەئەش"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ئەبىئەل"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ئەرەباتلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:30.012332859Z",
+  "model": "glm-5.3"
+}

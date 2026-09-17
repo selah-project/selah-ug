@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئاڭلا، ئىسرائىل: ياھۋەھ ئېلوھىمىمىز — ياھۋەھ بىر.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ئاڭلا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئېلوھىمىمىز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:31:39.857619565Z",
+  "model": "glm-5.3"
+}

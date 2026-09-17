@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ناغۇنچىغا — نەھىلوت ⟨بىلەن⟩ — داۋۇدنىڭ مەزمۇنى",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغۇنچىغا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نەھىلوت ⟨بىلەن⟩"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "نەھىلوت"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "مەزمۇن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇدنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:18:41.796615018Z",
+  "model": "glm-5.3"
+}

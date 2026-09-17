@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئاڭلىدىڭ ئۇلارنىڭ ھاقارىتىنى، ئى ياھۋەھ، ماڭا قارشى بارلىق مەقسەتلىرىنى.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "ئاڭلىدىڭ"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ئۇلارنىڭ ھاقارىتىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "مەقسەتلىرىنى"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ماڭا قارشى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:04.512423505Z",
+  "model": "glm-5.3"
+}

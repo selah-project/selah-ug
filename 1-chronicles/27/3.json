@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "پەرەس ئوغۇللىرىدىن — بارلىق قوشۇن باشلىقلىرىنىڭ باشلىقى، بىرىنچى ئاي ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "پرץ",
+      "gloss": "پەرەس"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "باشلىقى"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "باشلىقلىرىنىڭ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "قوشۇن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ئاي ئۈچۈن"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "بىرىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:52:34.270728979Z",
+  "model": "glm-5.3"
+}

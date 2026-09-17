@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "بۇ ئاي سىلەرگە ئايلارنىڭ بېشىدۇر؛ ئۇ سىلەرگە يىل ئايلىرىنىڭ تۇنجىسىدۇر.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "بۇ ئاي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "بېشى"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ئايلارنىڭ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "تۇنجىسى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ئايلىرىنىڭ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "يىل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:42:00.682077408Z",
+  "model": "glm-5.3"
+}

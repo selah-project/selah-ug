@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "مۇسا شۇ كۈندە خەلققە ⟨את⟩ بۇيرۇق بەردى، ئېيتقىلى:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "بۇيرۇق بەردى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خەلققە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "شۇ كۈندە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتقىلى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:53.709114323Z",
+  "model": "glm-5.3"
+}

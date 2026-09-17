@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "نەغمە باشلىغۇچىغا — داۋۇتنىڭ مەزمۇنى",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "نەغمە باشلىغۇچىغا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزمۇن"
+    },
+    {
+      "surface": "لדוד",
+      "gloss": "داۋۇتنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:23:33.631288337Z",
+  "model": "glm-5.3"
+}

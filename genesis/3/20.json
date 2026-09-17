@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ۋە ئادەم ئايالىنىڭ ئىسمىنى خاۋا دەپ ئاتىدى، چۈنكى ئۇ بارلىق تىرىكلەرنىڭ ئانىسى ئىدى.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ۋە ئاتىدى"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئىسمىنى"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ئايالىنىڭ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "خاۋا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ئىدى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئانىسى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "חי",
+      "gloss": "تىرىكلەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:46.595831277Z",
+  "model": "glm-5.3"
+}

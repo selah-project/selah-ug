@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە ئېلىشامائا، ۋە بەئېليادائا ۋە ئېلىفالەت.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ئېلىشامائا"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "بەئېليادائا"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ئېلىفالەت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:01.401387623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە يىبخار، ۋە ئېلىشۇعا ۋە ئەلپالەت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "يىبخار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ئېلىشۇعا"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "ئەلپالەت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:01.401002556Z",
+  "model": "glm-5.3"
+}

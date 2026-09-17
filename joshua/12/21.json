@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "تائاناك پادىشاھى — بىر؛ مىگىدو پادىشاھى — بىر.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "تائاناك"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "مגדו",
+      "gloss": "مىگىدو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:31.568562239Z",
+  "model": "glm-5.3"
+}

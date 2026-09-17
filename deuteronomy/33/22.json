@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "دەن توغرىسىدا ئېيتتى: دەن شىر بالىسى، باشاندىن ئېتىلىپ چىققۇچى.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "دەن توغرىسىدا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دەن"
+    },
+    {
+      "surface": "גור",
+      "gloss": "بالىسى"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شىر"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ئېتىلىپ چىققۇچى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:42:26.005911468Z",
+  "model": "glm-5.3"
+}

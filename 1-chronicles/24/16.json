@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "پەتاھىياغا ئون توققۇزىنچى، يېخىزقېلگە يىگىرمىنچى ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "پەتاھىياغا"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "يېخىزقېلگە"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "يىگىرمىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:27.933658897Z",
+  "model": "glm-5.3"
+}

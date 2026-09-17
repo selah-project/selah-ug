@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "پۈتۈن جامائەت ⟨بىرلىكتە⟩ — تۆت تۈمەن ئىككى مىڭ ئۈچ يۈز ئاتمىش ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جامائەت"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "بىرلىكتە"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "تۈمەن"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ئىككى مىڭ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ۋە ئاتمىش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:26.633825446Z",
+  "model": "glm-5.3"
+}

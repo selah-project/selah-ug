@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مىسرىمغا ⟨بىز⟩ قول بەردۇق، ئەششۇرغا — قورساق تويغۇزۇش ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "مىسرىم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "بەردۇق"
+    },
+    {
+      "surface": "יד",
+      "gloss": "قول"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئەششۇر"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "تويغۇزۇش ئۈچۈن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.435030150Z",
+  "model": "glm-5.3"
+}

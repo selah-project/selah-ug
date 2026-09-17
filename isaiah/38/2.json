@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "حىزقىياھ يۈزىنى تام تەرەپكە قاراتتى ۋە ياھۋەھقا دۇئا قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "قاراتتى"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حىزقىياھ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "يۈزىنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...تەرەپكە"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "تام"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "دۇئا قىلدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...قا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:04:19.312016556Z",
+  "model": "glm-5.3"
+}

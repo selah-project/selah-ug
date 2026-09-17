@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "لەئدان ئۇنىڭ ئوغلى، ئەممىھۇد ئۇنىڭ ئوغلى، ئەلىشامائ ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "لەئدان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ئەممىھۇد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ئەلىشامائ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:06.719802734Z",
+  "model": "glm-5.3"
+}

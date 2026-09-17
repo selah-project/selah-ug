@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ئادوناي بىر سۆزنى يائاقۇبقا ئەۋەتتى، ۋە ئۇ ئىسرائىلغا چۈشتى.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ئەۋەتتى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "يائاقۇبقا"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "چۈشتى"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ئىسرائىلغا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:57:23.509306154Z",
+  "model": "glm-5.3"
+}

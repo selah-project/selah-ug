@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ۋە بەتۇئەلدە، ۋە خورمەھدە، ۋە تسىكلاگتا",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "ۋە بەتۇئەلدە"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ۋە خورمەھدە"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ۋە تسىكلاگتا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:55.196601127Z",
+  "model": "glm-5.3"
+}

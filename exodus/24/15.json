@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "مۇسا تاغقا چىقتى، بۇلۇت تاغنى ⟨את⟩ ئۈستىگە ئالدى.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ئىچىگە⟩"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "تاغقا"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ئۈستىگە ئالدى"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بۇلۇت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تاغنى"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "تاغنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:47:46.414320385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "مەن مەسكىنىمنى ئاراڭلاردا قىلىمەن ۋە جانىم سىلەردىن يىرگەنمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "قىلىمەن"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "مەسكىنىمنى"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ئاراڭلاردا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ياق"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "يىرگەنمەيدۇ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانىم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "سىلەردىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:08:47.606646752Z",
+  "model": "glm-5.3"
+}

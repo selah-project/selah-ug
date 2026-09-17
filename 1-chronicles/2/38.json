@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئوبېد ⟨את⟩ يېھۇنى توغدى، يېھۇ ⟨את⟩ ئەزەريەنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ئوبېد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يېھۇنى"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "يېھۇ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "يېھۇ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەزەريەنى"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ئەزەريە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:47.556565653Z",
+  "model": "glm-5.3"
+}

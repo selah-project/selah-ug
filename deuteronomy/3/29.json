@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "بىز ⟨بېت-پېئور⟩ غا ⟨قارشى⟩ جىلغىدا تۇردۇق.",
+  "tokens": [
+    {
+      "surface": "וַנֵּשֶׁב",
+      "gloss": "تۇردۇق"
+    },
+    {
+      "surface": "בַּגָּיְא",
+      "gloss": "جىلغىدا"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "⟨قارشى⟩"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "بېت"
+    },
+    {
+      "surface": "פְּעוֹר",
+      "gloss": "پېئور"
+    }
+  ],
+  "timestamp": "2026-09-17T01:15:17.001637836Z",
+  "model": "glm-5.3"
+}

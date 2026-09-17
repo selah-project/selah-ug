@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "چۈنكى قاراڭ، پادىشاھلار يىغىلدى، ئۇلار بىرلىكتە ئۆتتى.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "قاراڭ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "پادىشاھلار"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "يىغىلدى"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ئۆتتى"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بىرلىكتە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:27:30.126866225Z",
+  "model": "glm-5.3"
+}

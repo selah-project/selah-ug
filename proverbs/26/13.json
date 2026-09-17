@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ھورۇن ⟨ئادەم⟩: «يولدا شىر بار، كوچىلار ئارىسىدا شىر بار» دەيدۇ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ھورۇن"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شىر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "يولدا"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شىر"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ئارىسىدا"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "كوچىلاردا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:28.477892054Z",
+  "model": "glm-5.3"
+}

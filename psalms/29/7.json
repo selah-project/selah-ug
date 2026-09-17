@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ياھۋەھ نىڭ ئاۋازى ئوت يالقۇنلىرىنى يارىدۇ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ئاۋازى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "يارىدۇ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "يالقۇنلىرىنى"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    }
+  ],
+  "timestamp": "2026-09-16T23:23:07.128608850Z",
+  "model": "glm-5.3"
+}

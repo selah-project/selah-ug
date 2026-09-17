@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "كۈمۈشنى سۆيگەن كۈمۈشتىن تويماس، بايلىقنى سۆيگەنگە كىرىم ⟨بولماس⟩ — بۇمۇ هەبەل ⟨يەنى قۇرۇق نەرسە⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "سۆيگەن"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "كۈمۈشنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "تويماس — ئەمەس"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "تويماس"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "كۈمۈشتىن"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "كىم ⟨ئۇ⟩ — ۋە كىم"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "سۆيگەن"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "بايلىقنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "كىرىم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بۇمۇ —مۇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەبەل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:48.109972679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇنىڭ ئوغلى يورام، ئۇنىڭ ئوغلى ئەھەزىيەھ، ئۇنىڭ ئوغلى يوئاش.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "يورام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ئەھەزىيەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوئاش"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:59.423394084Z",
+  "model": "glm-5.3"
+}

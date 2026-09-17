@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "يوئېل ناتاننىڭ ئىنىسى، مىبھار ھاگرىينىڭ ئوغلى،",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "يوئېل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ئىنىسى"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "مىبھار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ھاگرىي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:46.149969505Z",
+  "model": "glm-5.3"
+}

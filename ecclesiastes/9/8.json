@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ھەر ۋاقىت كىيىملىرىڭ ئاق بولسۇن، بېشىڭدىن ياغ كەم بولمىسۇن.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ھەر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "كىيىملىرىڭ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ئاق"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ياغ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىن"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "بېشىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بولمىسۇن"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "كەم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:20.771707264Z",
+  "model": "glm-5.3"
+}

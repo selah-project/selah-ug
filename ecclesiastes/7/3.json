@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "غەم كۈلۈشتىن ياخشىدۇر، چۈنكى چىراينىڭ قايغۇسى بىلەن قەلب ياخشىلىنىدۇ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غەم"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "كۈلۈشتىن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "قايغۇسى بىلەن"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چىراينىڭ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ياخشىلىنىدۇ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قەلب"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:00.713072315Z",
+  "model": "glm-5.3"
+}

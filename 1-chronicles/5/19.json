@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئۇلار ھاگرىيلار بىلەن — يېتۇر، نافىش ۋە نوداب بىلەن — ئۇرۇش قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "ھاگرىيلار"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "يېتۇر"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "نافىش"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "نوداب"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:01.587405881Z",
+  "model": "glm-5.3"
+}

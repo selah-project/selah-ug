@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 83,
+  "translation": "ئەششۇرمۇ ئۇلارغا قوشۇلدى، ئۇلار لوت ئوغۇللىرىغا زەرۆ ⟨بولدى⟩. سېلاھ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئەششۇر"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "قوشۇلدى"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "زەرۆ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ئوغۇللىرىغا"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:34:37.218570367Z",
+  "model": "glm-5.3"
+}

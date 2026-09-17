@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "يىلان ئايالغا: «ھەرگىز ئۆلمەيسىلەر» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئۇ دېدى"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "يىلان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ياق"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ئۆلمەيسىلەر"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ھەرگىز ئۆلۈش"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:30.755955766Z",
+  "model": "glm-5.3"
+}

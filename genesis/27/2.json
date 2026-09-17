@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "ۋە ئۇ دېدى: قارا، مەن قېرىدىم، ئۆلۈم كۈنۈمنى بىلمەيمەن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئۇ دېدى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئۆتۈنۈپ"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "قېرىدىم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "بىلمەيمەن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈنىنى"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ئۆلۈمۈمنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:26:43.273512190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ياھۋەھ موشېغا سۆزلىپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىپ ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:01.330764312Z",
+  "model": "glm-5.3"
+}

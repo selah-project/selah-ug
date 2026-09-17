@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "خورېبتىن قادەش-بارنېئاغىچە سەئىر تېغىنىڭ يولى بىلەن ئون بىر كۈنلۈك ⟨يول⟩.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "خورېبتىن"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "يولى بىلەن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تېغى"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەئىر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…غىچە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادەش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بارنېئا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:29:35.937473199Z",
+  "model": "glm-5.3"
+}

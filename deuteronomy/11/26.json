@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "كۆرۈڭلاركى، مەن بۈگۈن ئالدىڭلارغا بەرىكەت ۋە قارغىش قويۇۋاتىمەن.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "كۆرۈڭلاركى"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "قويۇۋاتىمەن"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ئالدىڭلارغا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "بۈگۈن"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "بەرىكەت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ۋە قارغىش"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:28.980082391Z",
+  "model": "glm-5.3"
+}

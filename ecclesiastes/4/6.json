@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "بىر ئالقان تىنچلىقتىن ياخشىدۇر — ئىككى مۇشت جاپا ۋە شامال قوغلاشتىن.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "تولۇق"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ئالقان"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "تىنچلىق"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "تولۇق"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "مۇشت"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "جاپا"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ۋە قوغلاش"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "شامال"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:01.484615136Z",
+  "model": "glm-5.3"
+}

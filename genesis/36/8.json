@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "شۇنىڭ بىلەن ئەسەۋ سەئىر تېغىدا ئولتۇراقلاشتى — ئەسەۋ، ئۇ بولسا ئەدوم.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ئولتۇراقلاشتى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەسەۋ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "تېغىدا — سەئىر"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەئىر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەسەۋ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ بولسا"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدوم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:32.624180520Z",
+  "model": "glm-5.3"
+}

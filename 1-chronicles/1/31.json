@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "يەتۇر، ناپىش ۋە قەدەماھ: بۇلار يىشمائېلنىڭ ئوغۇللىرىدۇر.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "يەتۇر"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ناپىش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ۋە قەدەماھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يىشمائېل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:45.582004891Z",
+  "model": "glm-5.3"
+}

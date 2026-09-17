@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "گاد داۋۇتنىڭ قېشىغا كىردى ۋە ئۇنىڭغا ئېيتتى: ياھۋەھ شۇنداق دېدى — ئۆزۈڭگە ⟨بىرىنى⟩ ئال:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "كىردى"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قارىتىپ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇتنىڭ قېشىغا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ئال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:49:33.107175028Z",
+  "model": "glm-5.3"
+}

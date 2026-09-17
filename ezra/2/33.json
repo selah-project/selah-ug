@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "لود، خادىد ۋە ئونو ⟨ئوغۇللىرى⟩ — يەتتە يۈز يىگىرمە بەش ⟨كىشى⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "خادىد"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ۋە ئونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ۋە بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:16.402934744Z",
+  "model": "glm-5.3"
+}

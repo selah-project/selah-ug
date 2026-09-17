@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "شامموت — خارورلۇق؛ خەلەتس — پەلونلۇق ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "شامموت"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "خارورلۇق"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "خەلەتس"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "پەلونلۇق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:16.112898356Z",
+  "model": "glm-5.3"
+}

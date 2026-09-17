@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "بالىمۇ قىلمىشلىرى بىلەن تونۇلىدۇ — ئەمىلى پاكمۇ، توغرىمۇ ⟨ياكى ئەمەس⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ھەتتا"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "قىلمىشلىرى بىلەن"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "تونۇلىدۇ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "بالىمۇ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئىمىن"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاكمۇ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ئىمىن ۋە"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "توغرىمۇ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ئەمىلى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:53:04.466859327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 81,
+  "translation": "شوفار چېلىڭلار ئايدا، تولغان ئايدا، ھېيتىمىز كۈنى ئۈچۈن",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "چېلىڭلار"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ئايدا"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "تولغان ئايدا"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "كۈنى ئۈچۈن"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ھېيتىمىز"
+    }
+  ],
+  "timestamp": "2026-09-16T23:34:37.289606356Z",
+  "model": "glm-5.3"
+}

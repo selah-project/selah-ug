@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئەگەر بۇ سۆز راست بولۇپ، قىز ئۈچۈن پاكلىق ئىزلىرى تېپىلمىسا،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راست"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولۇپ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "تېپىلمىسا"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "پاكلىق ئىزلىرى"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "قىز ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:32.942878457Z",
+  "model": "glm-5.3"
+}

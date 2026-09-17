@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "بىر ئەۋلاد كېتىدۇ، بىر ئەۋلاد كېلىدۇ؛ زېمىن بولسا مەڭگۈ تۇرىدۇ.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ئەۋلاد"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "كېتىدۇ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "بىر ئەۋلاد"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كېلىدۇ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "مەڭگۈ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "تۇرىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:33.282858169Z",
+  "model": "glm-5.3"
+}

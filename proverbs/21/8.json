@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "بىر ئادەمنىڭ يولى ئەگرى-توقاي ۋە گۇناھكار؛ ئەمما پاكىز كىشىنىڭ ئەمىلى توغرا.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "ئەگرى-توقاي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "يولى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئادەمنىڭ"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "گۇناھكار"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "پاكىز"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "توغرا"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ئەمىلى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:53:26.730714303Z",
+  "model": "glm-5.3"
+}

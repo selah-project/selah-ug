@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "پەرئوشنىڭ ئوغۇللىرى — ئىككى مىڭ بىر يۈز يەتمىش ئىككى ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پەرئوش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ئىككى مىڭ"
+    },
+    {
+      "surface": "مאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "يەتمىش"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:39:00.929612861Z",
+  "model": "glm-5.3"
+}

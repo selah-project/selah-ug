@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "بەنا خۇشاي ئوغلى — ئاشەر ۋە بەئالوتتا.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بەنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "خۇشاي"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ئاشەردە"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ۋە بەئالوتتا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:29:45.689571325Z",
+  "model": "glm-5.3"
+}

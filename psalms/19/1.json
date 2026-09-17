@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ناغشىغۇچىغا، داۋۇتنىڭ مەزمۇرى.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغشىغۇچىغا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزمۇر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇتنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:22:19.052063499Z",
+  "model": "glm-5.3"
+}

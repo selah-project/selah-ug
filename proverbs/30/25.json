@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈمۈلىلەر — كۈچى يوق بىر خەلق، ئەمما يازدا نېنىنى تەييارلايدۇ.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "چۈمۈلىلەر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "עז",
+      "gloss": "كۈچى"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "تەييارلايدۇ"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "يازدا"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "نېنىنى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:36:13.626342354Z",
+  "model": "glm-5.3"
+}

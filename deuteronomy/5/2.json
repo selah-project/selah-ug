@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ياھۋەھ ئېلوھىمىمىز بىز بىلەن خورېۋدە ئىتتىپاق كەستى.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئېلوھىمىمىز"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "كەستى"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "بىز بىلەن"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ئىتتىپاق"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "خورېۋدە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:30:54.762815484Z",
+  "model": "glm-5.3"
+}

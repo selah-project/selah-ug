@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ۋە خاشۇبھا، ۋە ئوھەل، ۋە بەرەكىيا، ۋە خەسەدىيا، يۇشەب-خېسەد — بەش ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "خاشۇبھا"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ئوھەل"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "بەرەكىيا"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "خەسەدىيا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "يۇشەب"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-خېسەد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T01:39:31.658593593Z",
+  "model": "glm-5.3"
+}

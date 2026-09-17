@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "پەلەشتىلەر كېلىپ، رەپائىم ۋادىسىغا تارالدى.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "پەلەشتىلەر"
+    },
+    {
+      "surface": "באו",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "تارالدى"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ۋادىسىغا"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رەپائىم"
+    }
+  ],
+  "timestamp": "2026-09-16T21:20:04.338625990Z",
+  "model": "glm-5.3"
+}

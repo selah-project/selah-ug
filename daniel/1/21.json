@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "دانيئېل ⟨بولدى⟩ كورەش پادىشاھنىڭ بىرىنچى يىلىغىچە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨بولدى⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانيئېل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "غىچە"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "يىلى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىرىنچى"
+    },
+    {
+      "surface": "لכורש",
+      "gloss": "كورەش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:37:21.385407274Z",
+  "model": "glm-5.3"
+}

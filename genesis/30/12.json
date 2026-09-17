@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "زىلپاھ — لىيەھنىڭ مالاي قىزى — يەئاقوۋغا ئىككىنچى بىر ئوغۇل تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زىلپاھ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "مالاي قىزى"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لىيەھنىڭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ئىككىنچى"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يەئاقوۋغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:01.143592112Z",
+  "model": "glm-5.3"
+}

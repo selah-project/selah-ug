@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "چەتتە مېھمان قونمىدى، ئىشىكىمنى يولۇچىغا ئاچتىم.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "چەتتە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "قونمىدى"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مېھمان"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ئىشىكىمنى"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "يولۇچىغا"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ئاچتىم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:06:44.188903737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۇلارنىڭ سانى گاد قەبىلىسىدىن قىرىق بەش مىڭ ئالتە يۈز ئەللىك ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ئۇلارنىڭ سانى"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ۋە قىرىق"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ۋە ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ۋە ئەللىك"
+    }
+  ],
+  "timestamp": "2026-09-16T20:10:25.508807545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈنكى مۇنداق دەيدۇ ياھۋەھ: سېنىڭ سۇنۇقۇڭ داۋاسىز، ياراڭ ئېغىر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כה",
+      "gloss": "مۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "داۋاسىز"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "سۇنۇقۇڭ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ئېغىر"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "ياراڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:27:18.964767007Z",
+  "model": "glm-5.3"
+}

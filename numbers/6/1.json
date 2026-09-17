@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ياھۋەھ موساغا سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ئۇنىڭغا⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:13:37.796903577Z",
+  "model": "glm-5.3"
+}

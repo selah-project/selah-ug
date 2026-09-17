@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "سالاھەت يولىدا ھايات باردۇر، ئۇ يولنىڭ ئىزىدا ئۆلۈم يوقتۇر.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "يولىدا"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "سالاھەت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ھايات"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ۋە يولى"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ئىزىدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ئۆلۈم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:51:10.674940398Z",
+  "model": "glm-5.3"
+}

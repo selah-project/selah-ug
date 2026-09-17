@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئۇ ⟨את⟩ بىرىنى بەيت-ئەلدە قويدى ۋە ⟨את⟩ بىرىنى دانغا بەردى.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بىرىنى"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "بىرىنى"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "«بەيت-ئەلدە»"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«ئەل»"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بىرىنى"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "بىرىنى"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "بەردى"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "دانغا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:36:50.218783882Z",
+  "model": "glm-5.3"
+}

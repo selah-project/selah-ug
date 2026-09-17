@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ھار تېغىدىن ئۇزاپ چىقتىلار، زالموناھتا قوندىلار.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ئۇزاپ چىقتىلار"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "تېغىدىن"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ھار"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "قوندىلار"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "زالموناھتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:36.876845643Z",
+  "model": "glm-5.3"
+}

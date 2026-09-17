@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر تېكە ئۆچكە، خاتات ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تېكە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "خاتات ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:33.629494918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ھەر سەھەردە يېڭىدۇر، سېنىڭ ساداقىتىڭ كۆپتۇر.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "يېڭىدۇر"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ھەر سەھەردە"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "كۆپتۇر"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ساداقىتىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:45.478219889Z",
+  "model": "glm-5.3"
+}

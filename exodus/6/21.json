@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "يىتسھارنىڭ ئوغۇللىرى — قوراھ، نەپەگ ۋە زىكرى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يىتسھارنىڭ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراھ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "نەپەگ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "زىكرى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:39:04.530783667Z",
+  "model": "glm-5.3"
+}

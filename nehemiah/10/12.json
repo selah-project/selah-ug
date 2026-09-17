@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "مىخا، رېخوۋ، خاشەۋىيا.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "مىخا"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "رېخوۋ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "خاشەۋىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:14.038507428Z",
+  "model": "glm-5.3"
+}

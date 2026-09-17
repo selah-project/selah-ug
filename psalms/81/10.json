@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 81,
+  "translation": "سەندە يات ئەل بولمىسۇن، ۋە يات ئەلگە سەجدە قىلما",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "بولمىسۇن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "سەندە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "زר",
+      "gloss": "يات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە قىلما"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سەجدە قىلما"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ئەلگە"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "يات"
+    }
+  ],
+  "timestamp": "2026-09-16T23:34:17.328277859Z",
+  "model": "glm-5.3"
+}

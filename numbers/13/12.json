@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "دان قەبىلىسىدىن — ئەممىئېل، گەمەللىنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ئەممىئېل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "گەمەللى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:29.018178730Z",
+  "model": "glm-5.3"
+}

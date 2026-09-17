@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئاخىمائاس ⟨את⟩ ئەزارىيانى توغدى، ئەزارىيا ⟨את⟩ يوخاناننى توغدى.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ئاخىمائاس"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەزارىيانى"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ئەزارىيا"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ئەزارىيا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوخاناننى"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوخانان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:39.762023743Z",
+  "model": "glm-5.3"
+}

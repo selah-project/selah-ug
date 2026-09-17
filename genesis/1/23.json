@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "كەچ بولدى، تاڭ ئاتتى — بەشىنچى كۈن ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "كەچ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "تاڭ ئاتتى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "بەشىنچى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:16:58.043356789Z",
+  "model": "glm-5.3"
+}

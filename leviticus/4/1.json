@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ۋە ياھۋەھ موساغا سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:57:17.223758157Z",
+  "model": "glm-5.3"
+}

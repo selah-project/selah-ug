@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر سۆزنىڭ ئاخىرى ئۇنىڭ بېشىدىن ياخشىدۇر؛ روھى ئۇزۇن ⟨ئادەم⟩ روھى ئۈستۈن ⟨ئادەمدىن⟩ ياخشىدۇر.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ئاخىرى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزنىڭ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ئۇنىڭ بېشىدىن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ئۇزۇن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روھى"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ئۈستۈندىن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روھى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:24.818937319Z",
+  "model": "glm-5.3"
+}

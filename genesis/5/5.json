@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئادەمنىڭ ھايات ياشىغان بارلىق كۈنلىرى توققۇز يۈز ئوتتۇز يىل ⟨بولدى⟩، ئۇ ⟨ئۆلدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەمنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ياشىغان"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:54.406158202Z",
+  "model": "glm-5.3"
+}

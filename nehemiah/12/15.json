@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "خارىمنىڭ ⟨نىڭ⟩ ئادنا، مىرايوتنىڭ ⟨نىڭ⟩ خىلكاي.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "خارىم"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "ئادنا"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "مىرايوت"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "خىلكاي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:57.443267266Z",
+  "model": "glm-5.3"
+}

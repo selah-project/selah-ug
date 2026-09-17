@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ۋە ياھۋەھنىڭ سۆزى ماڭا كەلدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:46:22.491486717Z",
+  "model": "glm-5.3"
+}

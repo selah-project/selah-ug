@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "رېئۇبېن ياشىسۇن ۋە ⟨ئەمەس⟩ ئۆلسۇن، ۋە ئۇنىڭ ئادەملىرى ساناقلىق بولسۇن.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ياشىسۇن"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رېئۇبېن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە ⟨ئەمەس⟩"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ئۆلسۇن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ئۇنىڭ ئادەملىرى"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ساناقلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:55.441396712Z",
+  "model": "glm-5.3"
+}

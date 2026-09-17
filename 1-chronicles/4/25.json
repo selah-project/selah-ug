@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "شاللۇم ئۇنىڭ ئوغلى، مىبسام ئۇنىڭ ئوغلى، مىشما ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "شاللۇم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "مىبسام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مىشما"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:42.488380600Z",
+  "model": "glm-5.3"
+}

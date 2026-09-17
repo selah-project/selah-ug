@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ھازىر قولۇڭنىڭ ئاستىدا نېمە بار؟ بەش ناننى قولۇمغا بەر، ياكى تېپىلغىنىنى بەر.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ھازىر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدا"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "قولۇڭنىڭ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "بەر"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "قولۇمغا"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "تېپىلغىنىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:14:39.127539113Z",
+  "model": "glm-5.3"
+}

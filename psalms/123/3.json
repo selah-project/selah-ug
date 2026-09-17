@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 123,
+  "translation": "بىزگە رەھىم قىل، ياھۋەھ، بىزگە رەھىم قىل، چۈنكى خورلۇققا تولدۇق.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "رەھىم قىل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "رەھىم قىل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بەك"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "تولدۇق"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "خورلۇققا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:45:03.663775881Z",
+  "model": "glm-5.3"
+}

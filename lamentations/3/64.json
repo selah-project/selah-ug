@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھ، ئۇلارغا يارىشىقنى قايتۇرغىن، قوللىرىنىڭ ئەمىلى بويىچە.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "قايتۇرغىن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "يارىشىقنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ئەمىلى بويىچە"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "قوللىرىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:04.512982002Z",
+  "model": "glm-5.3"
+}

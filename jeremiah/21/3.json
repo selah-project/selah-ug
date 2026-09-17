@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "يېرىمىيا ئۇلارغا ئېيتتى: زىدقىياھقا مۇنداق دەڭلار:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يېرىمىيا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "مۇنداق"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "دەڭلار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "زىدقىياھقا"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "زىدقىياھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:24:07.299821800Z",
+  "model": "glm-5.3"
+}

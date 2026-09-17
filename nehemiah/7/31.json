@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "مىكماس ئەرلىرى — يۈز ۋە يىگىرمە ئىككى.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "مىكماس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ۋە يىگىرمە"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ۋە ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:15.888043920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "نىنېۋەنىڭ يۈكى — ئەلقوشىلۇق ناھۇمنىڭ كۆرۈنۈش كىتابى.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "يۈكى"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نىنېۋەنىڭ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "كىتابى"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "كۆرۈنۈش"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ناھۇمنىڭ"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ئەلقوشىلۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T23:11:48.930127667Z",
+  "model": "glm-5.3"
+}

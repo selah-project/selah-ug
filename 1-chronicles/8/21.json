@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ئادايەھ، ۋە بېرايەھ، ۋە شىمرات — شىمئىينىڭ ⟨ئوغۇللىرى⟩.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ۋە ئادايەھ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ۋە بېرايەھ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ۋە شىمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شىمئىي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:15.099726476Z",
+  "model": "glm-5.3"
+}

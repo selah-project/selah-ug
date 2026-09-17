@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ۋە ئون تۆت قوزىغا — ھەر بىر قوزىغا بىر ئون ئۈلۈشتىن.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ۋە بىر ئون ئۈلۈش"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ئون ئۈلۈش"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "قوزىغا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "بىرىگە"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "قوزىلار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:23:52.274630283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ۋە يارەدنىڭ بارلىق كۈنلىرى توققۇز يۈز ئاتمىش ئىككى يىل ⟨بولدى⟩، ۋە ئۇ ⟨ئۆلدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارەد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ۋە ئاتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ۋە توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:30.522669377Z",
+  "model": "glm-5.3"
+}

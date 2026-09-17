@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "بۇلاردىن توشقان شامال ماڭا كېلىدۇ؛ ئەمدى مەنمۇ ئۇلارغا ⟨את⟩ ھۆكۈملەرنى سۆزلەيمەن.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "شامال"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "توشقان"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "بۇلاردىن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "كېلىدۇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئەمدى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مەنمۇ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "سۆزلەيمەن"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ھۆكۈملەرنى"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇلار"
+    }
+  ],
+  "timestamp": "2026-09-16T22:16:30.450175676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ئەمالەك كېلىپ، رەپىدىمدە ئىسرائىل بىلەن ئۇرۇشتى.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "كېلىپ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ئەمالەك"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ئۇرۇشتى"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…بىلەن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "رەپىدىمدە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:46:27.697356508Z",
+  "model": "glm-5.3"
+}

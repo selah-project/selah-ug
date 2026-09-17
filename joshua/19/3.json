@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە خاتسار شۇئال، ۋە بالاھ، ۋە ئاتسەم.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "خاتسار"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شۇئال"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "بالاھ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ئاتسەم"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:09.981730608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ھېكمەتنىڭ بېشى — ياھۋەھتىن قورقۇش؛ مۇقەددەسلەرنى بىلىش — ئەقىلدۇر.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "بېشى"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەتنىڭ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "قورقۇش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھتىن"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "بىلىش"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مۇقەددەسلەرنى"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ئەقىل"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:20.022465983Z",
+  "model": "glm-5.3"
+}

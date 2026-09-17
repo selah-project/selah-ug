@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "باشلىنىشتا ئېلوھىم ⟨את⟩ ئاسمانلارنى ۋە ⟨את⟩ يەرنى ياراتتى.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "باشلىنىشتا"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ياراتتى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاسمانلارنى"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانلارنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "يەرنى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەرنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:55.553405830Z",
+  "model": "glm-5.3"
+}

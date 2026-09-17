@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "چاقىرغان كۈنۈمدە يېقىنلاشتىڭ، «قورقما» دېدىڭ.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "يېقىنلاشتىڭ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنۈمدە"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "چاقىرغان"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "دېدىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قورقما"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "قورقما"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:58.161452871Z",
+  "model": "glm-5.3"
+}

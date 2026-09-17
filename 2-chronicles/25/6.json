@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئۇ ئىسرائىلدىن يۈز مىڭ پالۋان جەڭچىنى يۈز كىكەر كۈمۈشكە ياللىدى.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "ياللىدى"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ئىسرائىلدىن"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "پالۋان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جەڭچى"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "كىكەر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "كۈمۈش"
+    }
+  ],
+  "timestamp": "2026-09-17T01:03:42.983431180Z",
+  "model": "glm-5.3"
+}

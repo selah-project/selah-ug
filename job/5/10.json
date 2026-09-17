@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "يەر يۈزىگە يامغۇر بەرگۈچى، كوچىلار ⟨يۈزىگە⟩ سۇلارنى ئەۋەتكۈچى.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "بەرگۈچى"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "يامغۇر"
+    },
+    {
+      "surface": "על",
+      "gloss": "—گە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يەر"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ۋە ئەۋەتكۈچى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلارنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "—گە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزى"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "كوچىلار"
+    }
+  ],
+  "timestamp": "2026-09-17T01:36:20.886217937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ھورما پادىشاھى — بىر؛ ئاراد پادىشاھى — بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ھورما"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "ئاراد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:35.427682883Z",
+  "model": "glm-5.3"
+}

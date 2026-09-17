@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "بىگۋاينىڭ ئوغۇللىرى — ئىككى مىڭ ئەللىك ئالتە ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بىگۋاي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ئىككى مىڭ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ئالتە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:32.833239592Z",
+  "model": "glm-5.3"
+}

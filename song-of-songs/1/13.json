@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "دوستۇم ماڭا خۇشبۇي مۇر بولچۇغىدۇر، كۆكسۈم ئارىسىدا ⟨ئۇ⟩ تۈنەيدۇ.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "بولچۇغى"
+    },
+    {
+      "surface": "המר",
+      "gloss": "خۇشبۇي مۇر"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دوستۇم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ئارىسىدا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "كۆكسۈم"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "تۈنەيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:01.272323954Z",
+  "model": "glm-5.3"
+}

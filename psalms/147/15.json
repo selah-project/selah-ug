@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 147,
+  "translation": "ئۇ بۇيرۇقىنى زېمىنغا يوللايدۇ، سۆزى ⟨تېزلا⟩ يۈگرۈيدۇ.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "يوللايدۇ"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "بۇيرۇقىنى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىنغا"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מהرה",
+      "gloss": "تېزلا"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "يۈگرۈيدۇ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "سۆزى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:47:05.902008160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئادەم: «مەن بىلەن بىللە قويغان ⟨ئايال⟩ — شۇ ماڭا ⟨دەرەخ⟩تىن بەردى، شۇنىڭ بىلەن يېدىم» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "قويغان"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مەن بىلەن بىللە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "بەردى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…تىن"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دەرەخ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "يېدىم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:16:51.720188136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "مەن سۆيگۈنۈمنىڭمەن، ⟨ئۇنىڭ⟩ ئىشتىياقى ماڭا قارىغان.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "سۆيگۈنۈمنىڭ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ۋە ماڭا"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ئۇنىڭ ئىشتىياقى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:11:44.455567335Z",
+  "model": "glm-5.3"
+}

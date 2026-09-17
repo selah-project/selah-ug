@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "بۇلار سەن ئۇلارنىڭ ئالدىغا قويىدىغان ھۆكۈملەر⟨دۇر⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ھۆكۈملەر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "قويىدىغان"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ئۇلارنىڭ ئالدىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:48:25.988508639Z",
+  "model": "glm-5.3"
+}

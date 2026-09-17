@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ئۇ شۇ كېچە ئۇ يەردە قوندى، قولىغا كەلگەن نەرسىلەردىن ئاكىسى ئەساۋغا ⟨بىر⟩ سوۋغا ئالدى.",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "قوندى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئۇ يەردە"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "كېچە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "كەلگەن"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "قولىغا"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "سوۋغا"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ئەساۋغا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ئاكىسى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:29:28.949234909Z",
+  "model": "glm-5.3"
+}

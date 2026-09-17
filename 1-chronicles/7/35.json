@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئۇنىڭ قېرىندىشى ھېلەمنىڭ ئوغلى ⟨بولسا⟩ — سوپاخ، ئىمنا، شېلەش ۋە ئامال.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ھېلەمنىڭ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ئۇنىڭ قېرىندىشى"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "سوپاخ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "ئىمنا"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "شېلەش"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ئامال"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:56.026897925Z",
+  "model": "glm-5.3"
+}

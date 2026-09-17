@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ناتان داۋۇتقا: «كۆڭلۈڭدىكى ھەممە ئىشنى قىلغىن، چۈنكى ئېلوھىم سەن بىلەن بىللە» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "نېمىكى"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "كۆڭلۈڭدىكى"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلغىن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "سەن بىلەن بىللە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:49:21.720628106Z",
+  "model": "glm-5.3"
+}

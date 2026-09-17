@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "نەبىي حەگگەينىڭ قولى ئارقىلىق ياھۋەھنىڭ سۆزى بولۇپ ئېيتىلدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "قولى ئارقىلىق"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "حەگگەي"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نەبىي"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "ئېيتىلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:14:09.757433122Z",
+  "model": "glm-5.3"
+}

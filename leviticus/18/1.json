@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ياھۋەھ مۇساغا سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:04:03.281139741Z",
+  "model": "glm-5.3"
+}

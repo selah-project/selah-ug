@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "ئۇ بەش پەردىنى ⟨את⟩ بىر-بىرىگە قوشتى، يەنە بەش پەردىنى بىر-بىرىگە قوشتى.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ۋە قوشتى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەش پەردىنى"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پەردىنى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىرىنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىرى"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ۋە بەش"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پەردە"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "قوشتى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىرىنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىرى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:54:54.399184599Z",
+  "model": "glm-5.3"
+}

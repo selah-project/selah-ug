@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئەگەر ئۇلارنىڭ ئۆلۈكىدىن تېرىلىدىغان ھەر قانداق ئۇرۇقنىڭ ئۈستىگە چۈشسە — ئۇ پاكتۇر.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "چۈشسە"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ئۇلارنىڭ ئۆلۈكىدىن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ئۇرۇق"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "تېرىلىدىغان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "تېرىلىدۇ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇدۇر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:59:51.837214829Z",
+  "model": "glm-5.3"
+}

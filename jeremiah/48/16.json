@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "موأبنىڭ بالاسى كېلىشكە يېقىن، ئۇنىڭ يامانلىقى ناھايىتى تېز ⟨كېلىدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "يېقىن"
+    },
+    {
+      "surface": "איד",
+      "gloss": "بالىسى"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موأبنىڭ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "كېلىشكە"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "يامانلىقى"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "تېز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ناھايىتى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:27:58.052168147Z",
+  "model": "glm-5.3"
+}

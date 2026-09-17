@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ئەمبەرگە چۈشتى ۋە قېينانىسى بۇيرۇغان ھەممە ئىشنى قىلدى.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "چۈشتى"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ئەمبەرنى"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ھەممىنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كې"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "بۇيرۇغان"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "قېينانىسى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:12:08.879910407Z",
+  "model": "glm-5.3"
+}

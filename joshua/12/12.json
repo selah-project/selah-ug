@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئېگلوننىڭ پادىشاھى بىر؛ گېزېرنىڭ پادىشاھى بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ئېگلون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گېزېر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:29.381530221Z",
+  "model": "glm-5.3"
+}

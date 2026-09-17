@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە ناھشون ⟨את⟩ سالمانى توغدى، ۋە سالما ⟨את⟩ بوئەزنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ناھشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سالما"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سالما"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "سالما"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوئەز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوئەز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:48.154837524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "گاد ئوغۇللىرى دىبوننى ⟨את⟩ سالدى، ئاتاروتنى ⟨את⟩، ئەروئېرنى ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "سالدى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دىبوننى"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "دىبوننى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئاتاروتنى"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ئاتاروتنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەروئېرنى"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ئەروئېرنى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:25:46.266451222Z",
+  "model": "glm-5.3"
+}

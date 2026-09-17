@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ۋە تۆت چوڭ ھايۋان دېڭىزدىن چىقتى، بىرى يەنە بىرىدىن ئوخشىمايتتى.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ۋە تۆت"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ھايۋان"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "دېڭىز"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ئوخشىمايتتى"
+    },
+    {
+      "surface": "דא",
+      "gloss": "بىرى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "דא",
+      "gloss": "يەنە بىرى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:27:57.528510342Z",
+  "model": "glm-5.3"
+}

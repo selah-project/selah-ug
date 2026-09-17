@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە زانوھ، ئەين-گاننىم، تاپپۇئاھ ۋە ئەينام —",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "زانوھ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ئەين"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گاننىم"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تاپپۇئاھ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ئەينام"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:21.436735654Z",
+  "model": "glm-5.3"
+}

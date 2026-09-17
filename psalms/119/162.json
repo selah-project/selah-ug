@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 119,
+  "translation": "سۆزۈڭدىن ⟨مەن⟩ خۇشالمەن، گويا كۆپ ئولجا تاپقان كىشىدەك.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "خۇشالمەن"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "על",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "سۆزۈڭ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "تاپقان كىشىدەك"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ئولجا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كۆپ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:34:16.325660010Z",
+  "model": "glm-5.3"
+}

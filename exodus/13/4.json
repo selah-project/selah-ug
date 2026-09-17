@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "بۈگۈن سىلەر ئابىب ئېيىدا چىقىۋاتىسىلەر.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "بۈگۈن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "سىلەر"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "چىقىۋاتىسىلەر"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ئېيىدا"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ئابىب"
+    }
+  ],
+  "timestamp": "2026-09-16T19:43:48.743339378Z",
+  "model": "glm-5.3"
+}

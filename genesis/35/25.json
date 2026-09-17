@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 35,
+  "translation": "ۋە بىلھانىڭ — راھېلنىڭ دېدىكىنىڭ — ئوغۇللىرى: دان ۋە ناپتالى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ۋە ... ئوغۇللىرى"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بىلھا"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "دېدىكى"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راھېلنىڭ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ۋە ناپتالى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:25.480783100Z",
+  "model": "glm-5.3"
+}

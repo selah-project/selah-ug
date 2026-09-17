@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "يارمۇت، ئادۇللام، سوخوھ ۋە ئەزەقەھ —",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "يارمۇت"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "ئادۇللام"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "سوخوھ"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "ئەزەقەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:21.436840288Z",
+  "model": "glm-5.3"
+}

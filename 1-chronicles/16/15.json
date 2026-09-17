@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئۇنىڭ ئەھدىسىنى مەڭگۈ ئەسلەڭلار — مىڭ ئەۋلادقا بۇيرۇغان سۆزىنى.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ئەسلەڭلار"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "مەڭگۈ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ئۇنىڭ ئەھدىسىنى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزىنى"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغان"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ئەۋلادقا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:39.402063637Z",
+  "model": "glm-5.3"
+}

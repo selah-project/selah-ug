@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "چوڭ سىناقلارنى — كۆزلىرىڭلار كۆرگەن — بەلگىلەرنى ۋە ئۇ چوڭ مۆجىزىلەرنى.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "سىناقلارنى"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ראו",
+      "gloss": "كۆرگەن"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "كۆزلىرىڭلار"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "بەلگىلەرنى"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "ۋە مۆجىزىلەرنى"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:17:33.234537964Z",
+  "model": "glm-5.3"
+}

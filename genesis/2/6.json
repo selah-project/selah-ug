@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "تۇمان زېمىندىن ئۆرلەپ، ⟨את⟩ توپراقنىڭ پۈتۈن يۈزىنى سۇغاردى.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "تۇمان"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ئۆرلەپ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-دىن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "سۇغاردى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پۈتۈن يۈزىنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزى"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "توپراق"
+    }
+  ],
+  "timestamp": "2026-09-16T19:16:50.678910423Z",
+  "model": "glm-5.3"
+}

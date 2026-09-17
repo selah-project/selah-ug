@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 94,
+  "translation": "نەقامەت ئەلى — ياھۋەھ! نەقامەت ئەلى، ⟨يالتىراپ كۆرۈن⟩!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "نەقامەت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "نەقامەت"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "يالتىراپ كۆرۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:37:28.130689994Z",
+  "model": "glm-5.3"
+}

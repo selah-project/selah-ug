@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇنىڭ <باشلىق> يوق، <نازارەتچى> يوق، <ھۆكۈمدار>مۇ يوق —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "باشلىق"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "نازارەتچى"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ھۆكۈمدار"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:11.668393955Z",
+  "model": "glm-5.3"
+}

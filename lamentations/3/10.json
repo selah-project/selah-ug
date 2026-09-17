@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ماڭا يوشۇرۇنۇپ تۇرغان ئېيىق⟨دۇر⟩، يوشۇرۇن جايلاردىكى شىر.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ئېيىق"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "يوشۇرۇنۇپ تۇرغان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شىر"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "يوشۇرۇن جايلاردا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:47.011351135Z",
+  "model": "glm-5.3"
+}

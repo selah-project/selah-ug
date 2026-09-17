@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "بۇلار — ئىبراھىمنىڭ يىللىرىنىڭ كۈنلىرى، ياشىغان ھاياتىنىڭ سانى: يۈز يەتمىش بەش يىل.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "שני",
+      "gloss": "يىللىرىنىڭ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ھاياتى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىمنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ياشىغان"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "يەتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:38.377019574Z",
+  "model": "glm-5.3"
+}

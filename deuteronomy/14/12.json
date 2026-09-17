@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ئەمما بۇلارنى ئۇلاردىن يېسەڭلەر بولمايدۇ: دېڭىز بۈركۈتى، پەرس ۋە ئەزنىيە.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ئەمما بۇلارنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "بولمايدۇ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "يېسەڭلەر"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ئۇلاردىن"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "دېڭىز بۈركۈتى"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "پەرس"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ئەزنىيە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:02.741107249Z",
+  "model": "glm-5.3"
+}

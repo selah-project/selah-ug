@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "يەئقوۋ بېئەر-شەۋەدىن چىقتى ۋە خاران ⟨تامان⟩ يول ئالدى.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يەئقوۋ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "…دىن"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بېئەر-شەۋە"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "يول ئالدى"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "خاران ⟨تامان⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T01:10:15.851493244Z",
+  "model": "glm-5.3"
+}

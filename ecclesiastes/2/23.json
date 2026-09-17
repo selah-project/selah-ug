@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "چۈنكي ئۇنىڭ بارلىق كۈنلىرى ئازاب، ئۇنىڭ ئىشى غەم-غۇسسە؛ ھەتتا كېچىدىمۇ ئۇنىڭ كۆڭلى ياتمىدى. بۇمۇ ھەۋەلدۇر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "ئازاب"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "غەم-غۇسسە"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ئۇنىڭ ئىشى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەتتا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "كېچىدىمۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ياتمىدى"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ئۇنىڭ كۆڭلى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بۇمۇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ھەۋەل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:30.596885131Z",
+  "model": "glm-5.3"
+}

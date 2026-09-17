@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بەكمۇ ئادىل بولما، ۋە بەكمۇ ھېكىمەتلىك كۆرسەتمە — نېمە ئۈچۈن ⟨ئۆزەڭنى⟩ ھالاك قىلىسەن؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بولما"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بول"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ئادىل"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بەكمۇ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە... بولما"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ھېكىمەتلىك كۆرسەتمە"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "بەكمۇ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "نېمە ئۈچۈن"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ھالاك قىلىسەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:38.574212334Z",
+  "model": "glm-5.3"
+}

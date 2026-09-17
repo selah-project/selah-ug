@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھارىمنىڭ پەرزەنتلىرى — ئۈچ يۈز يىگىرمە ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پەرزەنتلىرى"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ھارىم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "يىگىرمە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:59.068568465Z",
+  "model": "glm-5.3"
+}

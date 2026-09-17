@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئايال يىلانغا: «باغدىكى دەرەخلەرنىڭ مېۋىسىدىن يەيمىز» دېدى.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ۋە ئۇ دېدى"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "يىلان"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "مېۋىسىدىن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دەرەخلەرنىڭ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغدىكى"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "يەيمىز"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:30.755505113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "يەئقۇب ئانىسى رىبقىگە: «مانا، قېرىندىشىم ئەساۋ تۈكلۈك ئادەم ⟨is⟩، مەن بولسام سىلىق ئادەم",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يەئقۇب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رىبقى"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ئانىسى"
+    },
+    {
+      "surface": "הן",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەساۋ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "قېرىندىشىم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "שער",
+      "gloss": "تۈكلۈك"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "مەن بولسام"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "سىلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:17.006632811Z",
+  "model": "glm-5.3"
+}

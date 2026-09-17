@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ياھۋەھ موساغا سۆزلىدى، دەپ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:07:00.139591011Z",
+  "model": "glm-5.3"
+}

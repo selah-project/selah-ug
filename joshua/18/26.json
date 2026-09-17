@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ۋە مىزپەھ ۋە كەفىراھ ۋە موززاھ",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "ۋە مىزپەھ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "ۋە كەفىراھ"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "ۋە موززاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:54.186572590Z",
+  "model": "glm-5.3"
+}

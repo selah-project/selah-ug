@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "سالىھنىڭ ئەمىگى ھاياتقا، رەزىلنىڭ ھوسۇلى گۇناھقا ⟨ئېرىشىدۇ⟩",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ئەمىگى"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "سالىھنىڭ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ھاياتقا"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ھوسۇلى"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رەزىلنىڭ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گۇناھقا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:50:28.961333387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "مىلىكونىڭ ⟨نىڭ⟩ يوناتان، شىبەنىيانىڭ ⟨نىڭ⟩ يوسىپ.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "مىلىكو"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناتان"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "شىبەنىيا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسىپ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:57.443015816Z",
+  "model": "glm-5.3"
+}

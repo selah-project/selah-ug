@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھ، ماڭا قىلىنغان زۇلۇمۇمنى كۆردۈڭ؛ ھۆكۈمۈمنى چىقارغىن.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "كۆردۈڭ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "زۇلۇمۇمنى"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ھۆكۈم چىقارغىن"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ھۆكۈمۈمنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:58.161794563Z",
+  "model": "glm-5.3"
+}

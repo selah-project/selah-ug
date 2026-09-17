@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "يېرىخونىڭ پادىشاھى بىر؛ بەيت-ئەلنىڭ يېنىدىكى ئاينىڭ پادىشاھى بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "يېرىخو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ئاي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "يېنىدىكى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:29.381049657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ۋە ياھۋەھ مۇساغا سۆزلىدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ۋە سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تەرەپكە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:38.902316759Z",
+  "model": "glm-5.3"
+}

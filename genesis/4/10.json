@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئۇ: «نېمە قىلدىڭ؟ ئىنىڭنىڭ قېنىنىڭ ئاۋازى ماڭا يەردىن ۋارقىرىماقتا» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئۇ دېدى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "قىلدىڭ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ئاۋازى"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "قېنىنىڭ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ئىنىڭنىڭ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ۋارقىرىماقتا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "يەردىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:16.111776277Z",
+  "model": "glm-5.3"
+}

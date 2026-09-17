@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "زېنان، خاداشاھ، مىگدال-گاد،",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "زېنان"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "خاداشاھ"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "مىگدال"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:06.403796694Z",
+  "model": "glm-5.3"
+}

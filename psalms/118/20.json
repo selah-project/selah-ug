@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 118,
+  "translation": "بۇ — ياھۋەھنىڭ دەرۋازىسى، سالىھلەر ئۇنىڭغا كىرىدۇ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دەرۋازىسى"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "سالىھلەر"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "كىرىدۇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-17T01:33:50.394951140Z",
+  "model": "glm-5.3"
+}

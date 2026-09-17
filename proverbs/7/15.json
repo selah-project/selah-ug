@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "شۇڭا سېنى كۈتۈۋېلىش ئۈچۈن چىقتىم، سېنىڭ يۈزۈڭنى ئىزدەپ ⟨سېنى⟩ تاپتىم.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڭا"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "چىقتىم"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "سېنى كۈتۈۋېلىش ئۈچۈن"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "ئىزدەپ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "يۈزۈڭنى"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "تاپتىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:36.831036894Z",
+  "model": "glm-5.3"
+}

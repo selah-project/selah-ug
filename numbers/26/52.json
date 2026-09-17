@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ياھۋەھ موساغا سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:22:53.631934966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ئالىقىنى نامراتقا ئاچتى، قوللىرىنى مۇھتاجغا سۇندى.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "ئالىقىنى"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "ئاچتى"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "نامراتقا"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "قوللىرىنى"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "سۇندى"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "مۇھتاجغا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:10.539933585Z",
+  "model": "glm-5.3"
+}

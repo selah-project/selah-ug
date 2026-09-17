@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "خاشۇمنىڭ ئەۋلادلىرى ئۈچ يۈز يىگىرمە سەككىز ⟨نەپەر⟩؛",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەۋلادلىرى"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "خاشۇم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:55.184661880Z",
+  "model": "glm-5.3"
+}

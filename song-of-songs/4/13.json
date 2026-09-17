@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "سېنىڭ نوخلىرىڭ ⟨ئېتىر⟩ ئانار باغچىسى، ئېسىل مېۋىلەر بىلەن؛ خېنە بىلەن نارد بىلەن.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "نوخلىرىڭ"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "باغچە"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "ئانارلار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "مېۋە"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "ئېسىللىرى"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "خېنە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "ناردلار"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:37.113418805Z",
+  "model": "glm-5.3"
+}

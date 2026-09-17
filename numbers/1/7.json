@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "يەھۇدىيادىن — نەھشون، ئەممىناداۋنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "يەھۇدىيادىن"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نەھشون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ئەممىناداۋنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:09:12.962934351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە ⟨ئ⟩ راھ، ۋە ⟨את⟩ ھايە، ۋە دايە — تۈرى بويىچە.",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ۋە راھ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ھايە"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ھايە"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ۋە دايە"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "تۈرى بويىچە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:02.241443585Z",
+  "model": "glm-5.3"
+}

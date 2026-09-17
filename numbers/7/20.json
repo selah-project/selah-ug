@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئون شېكېل ئالتۇندىن بولغان، ئىسرىق بىلەن تولغان بىر ئالتۇن قاچە.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "قاچە"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "تولغان"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ئىسرىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:14.744810170Z",
+  "model": "glm-5.3"
+}

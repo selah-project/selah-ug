@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بېنىيامىن: بېلا، بېخېر ۋە يىدىئەل — ئۈچ.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بېنىيامىن"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بېلا"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "بېخېر"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "يىدىئەل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:39:23.370333231Z",
+  "model": "glm-5.3"
+}

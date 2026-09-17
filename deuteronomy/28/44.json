@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئۇ ساڭا قەرز بېرىدۇ، سەن ئۇنىڭغا قەرز بەرمەيسەن؛ ئۇ باش بولىدۇ، سەن قۇيرۇق بولىسەن.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "ساڭا قەرز بېرىدۇ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ئۇنىڭغا قەرز بەرمەيسەن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "باش"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بولىسەن"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "قۇيرۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:40:57.989879832Z",
+  "model": "glm-5.3"
+}

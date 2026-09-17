@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا كېلىپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:51:56.728909244Z",
+  "model": "glm-5.3"
+}

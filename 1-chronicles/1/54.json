@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئاليۇف مەگدىئېل، ئاليۇف ئىرام؛ مانا بۇلار ئىدومنىڭ ئاليۇفلىرىدۇر.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ئاليۇف"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "مەگدىئېل"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ئاليۇف"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ئىرام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ئاليۇفلىرى"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئىدوم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:00.751611583Z",
+  "model": "glm-5.3"
+}

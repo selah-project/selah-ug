@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "زالمون ھەئاھوھىي، مەھاراي ھەنەتوپاتىي،",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "زالمون"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ھەئاھوھىي"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "مەھاراي"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ھەنەتوپاتىي"
+    }
+  ],
+  "timestamp": "2026-09-16T21:27:57.434274275Z",
+  "model": "glm-5.3"
+}

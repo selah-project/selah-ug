@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە يىھۇد، ۋە بەنى-بەرەك ⟨ئوغۇللىرى⟩، ۋە گات-رىممون.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ۋە يىھۇد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ۋە بەنى ⟨ئوغۇللىرى⟩"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بەرەك"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ۋە گات"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رىممون"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:38.963526792Z",
+  "model": "glm-5.3"
+}

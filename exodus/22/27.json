@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئېلوھىمنى تىللىما، ۋە خەلقىڭنىڭ باشلىقىنى قارغىما.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئىمان"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "تىللىما"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "باشلىقىنى"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "خەلقىڭنىڭ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "ئىمان"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "قارغىما"
+    }
+  ],
+  "timestamp": "2026-09-16T19:47:19.056320906Z",
+  "model": "glm-5.3"
+}

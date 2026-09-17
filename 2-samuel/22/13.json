@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئۇنىڭ ئالدىدىكى نۇرلىنىشتىن ئوت چوغلىرى ياندى.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "نۇرلىنىشتىن"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ئۇنىڭ ئالدىدىكى"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ياندى"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "چوغلىرى"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    }
+  ],
+  "timestamp": "2026-09-16T21:27:45.200958Z",
+  "model": "glm-5.3"
+}

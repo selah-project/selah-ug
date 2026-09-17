@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە ئاناب، ۋە ئەشتەمۇھ، ۋە ئانىم.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "ۋە ئاناب"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "ۋە ئەشتەمۇھ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "ۋە ئانىم"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:08.518028949Z",
+  "model": "glm-5.3"
+}

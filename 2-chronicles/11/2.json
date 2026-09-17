@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ياھۋەھنىڭ سۆزى ئېلوھىم ئادىمى شەمئياھۇغا كەلدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شەمئياھۇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئادىمى"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:58:16.311003864Z",
+  "model": "glm-5.3"
+}

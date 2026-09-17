@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھەممە قوللار بوشىشىدۇ، ھەممە تىزلار سۇ بولۇپ ئاقىدۇ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "قوللار"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "بوشىشىدۇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ۋە ھەممە"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "تىزلار"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ماڭىدۇ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:40:25.688060439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئەپەك پادىشاھى — بىر؛ لەششارون پادىشاھى — بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "ئەپەك"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "لەششارون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:38.580158800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "ئۇنىڭغا: بىز راستچىل ئادەملەرمىز، جاسۇس ئەمەس ئىدۇق، دېدۇق.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "دېدۇق"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "راستچىل"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "بىز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ئىدۇق"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسۇس"
+    }
+  ],
+  "timestamp": "2026-09-17T01:11:08.721988287Z",
+  "model": "glm-5.3"
+}

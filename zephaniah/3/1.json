@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ۋاي ⟨ئۇ⟩ — بۇزۇق ۋە بولغىنغان، زۇلۇم قىلغۇچى شەھەر!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ۋاي"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "بۇزۇق"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ۋە بولغىنغان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "زۇلۇم قىلغۇچى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:13:15.234376772Z",
+  "model": "glm-5.3"
+}

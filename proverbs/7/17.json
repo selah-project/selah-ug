@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "كارىۋىتىمنى مۇر، ئاھالوت ۋە دارچىن بىلەن چاچتىم",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "چاچتىم"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "كارىۋىتىمنى"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مۇر"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ئاھالوت"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ۋە دارچىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:58.804308029Z",
+  "model": "glm-5.3"
+}

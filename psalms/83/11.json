@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 83,
+  "translation": "ئۇلار ئىن-دوردا ھالاك بولدىلار، يەر ئۈچۈن تېزىك ⟨بولدىلار⟩.",
+  "tokens": [
+    {
+      "surface": "נשמدו",
+      "gloss": "ھالاك بولدىلار"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ئىن-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دوردا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بولدىلار"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "تېزىك"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "يەر ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:34:37.218940905Z",
+  "model": "glm-5.3"
+}

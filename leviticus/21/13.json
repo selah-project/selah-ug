@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ۋە ئۇ ⟨ئۆزى⟩ بىر ئايالنى — بۇتۇللىقىدا — ئالىدۇ.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ۋە ئۇ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "بىر ئايالنى"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "بۇتۇللىقىدا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ئالىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:26.970301260Z",
+  "model": "glm-5.3"
+}

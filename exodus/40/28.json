@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 40,
+  "translation": "ئۇ چادرنىڭ كىرىش ئېغىزىغا ⟨ئۇ⟩ پەردىنى ئاستى ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ئاستى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەردىنى"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پەردىنى"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "كىرىش ئېغىزى"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "چادرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:56:09.715660097Z",
+  "model": "glm-5.3"
+}

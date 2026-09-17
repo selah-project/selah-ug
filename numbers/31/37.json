@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ۋە قوي قېشىدىن ياھۋەھكە ⟨بولغان⟩ مەكس ئالتە يۈز بەش ۋە يەتمىش ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨بولدى⟩"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "مەكس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھكە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…دىن"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "וושבעים",
+      "gloss": "ۋە يەتمىش"
+    }
+  ],
+  "timestamp": "2026-09-16T20:24:56.603956752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 35,
+  "translation": "ئەليھۇ جاۋاب بەردى ۋە ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جاۋاب بەردى"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ئەليھۇ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:07:23.498896770Z",
+  "model": "glm-5.3"
+}

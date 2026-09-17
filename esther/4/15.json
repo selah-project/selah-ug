@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئېستەر موردەخايغا جاۋاب قايتۇرۇپ دېدى:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ئېستەر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "جاۋاب قايتۇرۇشقا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "موردەخاي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:19:46.372256142Z",
+  "model": "glm-5.3"
+}

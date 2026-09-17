@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ئەگەر بىر ئەر قىزىنى ⟨את⟩ دېدەكلىككە ساتسا، ئۇ قۇللار چىققاندەك چىقمايدۇ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ساتسا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بىر ئەر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قىزىنى"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "قىزىنى"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "دېدەكلىككە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "چىقىدۇ"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "چىققاندەك"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "قۇللار"
+    }
+  ],
+  "timestamp": "2026-09-16T19:48:05.496050808Z",
+  "model": "glm-5.3"
+}

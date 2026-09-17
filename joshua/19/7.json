@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ئەيىن، رىمون، ۋە ئەتەر، ۋە ئەشان — تۆت شەھەر ۋە ⟨ئۇلارنىڭ⟩ قىشلاقلىرى",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ئەيىن"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رىمون"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ۋە ئەتەر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ۋە ئەشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "قىشلاقلىرى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:07.028718880Z",
+  "model": "glm-5.3"
+}

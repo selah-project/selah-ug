@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ۋە كالا — ئالتە ۋە ئوتتۇز مىڭ.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ۋە ئوتتۇز"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:24:45.191285872Z",
+  "model": "glm-5.3"
+}

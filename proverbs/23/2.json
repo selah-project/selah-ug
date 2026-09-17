@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "گېلىڭغا پىچاق قوي، ئەگەر جان ئىگىسى بولساڭ",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "پىچاق"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "گېلىڭغا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ئىگىسى"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:19.380080985Z",
+  "model": "glm-5.3"
+}

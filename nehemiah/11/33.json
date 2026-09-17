@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "خازور، رامە، گىتتايىم.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "خازور"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "رامە"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "گىتتايىم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:03.198079581Z",
+  "model": "glm-5.3"
+}

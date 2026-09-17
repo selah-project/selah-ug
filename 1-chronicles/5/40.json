@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئازارىياھ توغدى ⟨את⟩ سىراياھ نى، سىراياھ توغدى ⟨את⟩ ھوھوتساداق نى.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ئازارىياھ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سىراياھ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سىراياھ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "سىراياھ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھوھوتساداق"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "ھوھوتساداق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:02.197219566Z",
+  "model": "glm-5.3"
+}

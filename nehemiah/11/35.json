@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "لود ۋە ئونو، ھۈنەرۋەنلەر ۋادىسى.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ۋە ئونو"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ۋادىسى"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "ھۈنەرۋەنلەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:03.198449771Z",
+  "model": "glm-5.3"
+}

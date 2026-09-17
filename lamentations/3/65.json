@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇلارغا قەلبنىڭ قاتتىقلىقىنى ⟨بېرىسەن⟩، قارغىشىڭنى ئۇلارغا.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "بېرىسەن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "قاتتىقلىق-پەردىسى"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قەلب"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "قارغىشىڭ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:35.994472485Z",
+  "model": "glm-5.3"
+}

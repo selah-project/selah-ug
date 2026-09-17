@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "ئەگەر ئۇ چىشى بولسا، سېنىڭ ئۆلچەمىڭ ئوتتۇز شېكەل بولسۇن.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "چىشى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ بولسا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "سېنىڭ ئۆلچەمىڭ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شېكەل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:10:08.748128779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "يىبھار، ئەلىشۇئا، نەپەگ ۋە يافىئا ⟨بار ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "يىبھار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ئەلىشۇئا"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "نەپەگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "يافىئا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:19:24.920883479Z",
+  "model": "glm-5.3"
+}

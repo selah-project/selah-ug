@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "خېبروننىڭ ئوغۇللىرى: قوراھ، تەپپۇاھ، رەقەم ۋە شەمائ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خېبروننىڭ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراھ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "تەپپۇاھ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "رەقەم"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "شەمائ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:30.698356434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "بۇلار ئەتسەرنىڭ ئوغۇللىرى: بىلھان، زائاۋان ۋە ئاكان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ئەتسەرنىڭ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بىلھان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ۋە زائاۋان"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ۋە ئاكان"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:28.950486272Z",
+  "model": "glm-5.3"
+}

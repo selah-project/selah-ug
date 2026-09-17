@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "چۈنكى كىم يېيەلەيدۇ، كىم تېزلىنەلەيدۇ — مەندىن سىرت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يېيەلەيدۇ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "تېزلىنەلەيدۇ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "سىرت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مەندىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:06.749411233Z",
+  "model": "glm-5.3"
+}

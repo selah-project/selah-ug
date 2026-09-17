@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 119,
+  "translation": "ئاغزىڭنىڭ توراسى ماڭا مىڭلىغان ئالتۇن ۋە كۈمۈشتىن ياخشى.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراسى"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ئاغزىڭنىڭ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "مىڭلىغىنىدىن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ۋە كۈمۈش"
+    }
+  ],
+  "timestamp": "2026-09-16T23:43:20.372209131Z",
+  "model": "glm-5.3"
+}

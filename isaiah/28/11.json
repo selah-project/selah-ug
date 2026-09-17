@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "چۈنكى مازاق قىلىنغان لەۋ ۋە باشقا تىل بىلەن ئۇ بۇ خەلقكە سۆزلەيدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "مازاق قىلىنغان"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لەۋ"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ۋە تىل"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "سۆزلەيدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئالدىدا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:00:42.029427484Z",
+  "model": "glm-5.3"
+}

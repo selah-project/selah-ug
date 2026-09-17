@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "يەتتە ياشلىق بالا ⟨ئىدى⟩ يەھوئاش ئۆز پادىشاھلىقىدا",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بالا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ياش"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "يەھوئاش"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ئۆز پادىشاھلىقىدا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:48:08.233226787Z",
+  "model": "glm-5.3"
+}

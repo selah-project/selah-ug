@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈنكى ياھۋەھ مۇنداق دەيدۇ: تىترەكنىڭ ئاۋازىنى ئاڭلىدۇق — قورقۇنچ ۋە تىنچلىق يوق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כה",
+      "gloss": "مۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ئاۋازى"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "تىترەكنىڭ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ئاڭلىدۇق"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "قورقۇنچ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ۋە يوق"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "تىنچلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T22:27:49.900718566Z",
+  "model": "glm-5.3"
+}

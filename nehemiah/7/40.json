@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئىممەرنىڭ ئەۋلادلىرى — مىڭ ئەللىك ئىككى ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەۋلادلىرى"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئىممەرنىڭ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.685273902Z",
+  "model": "glm-5.3"
+}

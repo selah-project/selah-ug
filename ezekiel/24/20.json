@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئۇلارغا: ياھۋەھنىڭ سۆزى ماڭا يۈز بېرىپ مۇنداق دېدى.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يۈز بەردى"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:48:56.635911960Z",
+  "model": "glm-5.3"
+}

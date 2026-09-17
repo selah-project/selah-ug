@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 43,
+  "translation": "كۆزى بار كور خەلقنى، قۇلىقى بار گاسلارنى چىقارغىن.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "چىقارغىن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەلقنى"
+    },
+    {
+      "surface": "עור",
+      "gloss": "كور"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "كۆزى بار"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "گاسلارنى"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "قۇلىقى بار"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ئۇلارغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:06:31.647933056Z",
+  "model": "glm-5.3"
+}

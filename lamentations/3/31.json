@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "چۈنكى ئادوناي مەڭگۈ تاشلىۋەتمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…-مايدۇ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "تاشلىۋەتمەيدۇ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "مەڭگۈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:02.725514881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ئىسھاق گېراردا ئولتۇردى.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ۋە ئولتۇردى"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ئىسھاق"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "گېراردا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:26:17.838180749Z",
+  "model": "glm-5.3"
+}

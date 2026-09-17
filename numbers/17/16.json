@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ياھۋەھ موساغا سۆزلىدى، دەپ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:17:29.449404356Z",
+  "model": "glm-5.3"
+}

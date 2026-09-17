@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ھەي سىيون، قېچىپ قۇتۇلغىن، بابل قىزىنىڭ يېنىدا ئولتۇرغۇچى!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ھەي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سىيون"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "قېچىپ قۇتۇلغىن"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ئولتۇرغۇچى"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزىنىڭ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-16T23:14:39.679904520Z",
+  "model": "glm-5.3"
+}

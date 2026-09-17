@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "چۈنكى ياھۋەھ ئېلوھىمىڭ يېگۈچى ئوتتۇر، قىزغانچۇق ئەلدۇر ⟨ئۇ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئېلوھىمىڭ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "يېگۈچى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "قىزغانچۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:30:27.693868941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇلار نەپسىڭگە ھاياتلىق، گېلىڭگە ⟨بولۇپ⟩ لاتاپەت بولسۇن.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ھاياتلىق"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "نەپسىڭگە"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "ۋە لاتاپەت"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "گېلىڭگە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:48:00.543543098Z",
+  "model": "glm-5.3"
+}

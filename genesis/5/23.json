@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "خانوخنىڭ بارلىق كۈنلىرى ئۈچ يۈز ئاتمىش بەش يىل بولدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خانوخنىڭ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:32.222246214Z",
+  "model": "glm-5.3"
+}

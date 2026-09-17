@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئىممېرنىڭ ئوغۇللىرى — مىڭ ئەللىك ئىككى ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئىممېر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:54.998499604Z",
+  "model": "glm-5.3"
+}

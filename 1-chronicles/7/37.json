@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بېتسېر ۋەھود، ۋەشامما، ۋەشىلشا، ۋەيىتران ۋەبېئېرا.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "بېتسېر"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ۋەھود"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ۋەشامما"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ۋەشىلشا"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ۋەيىتران"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "ۋەبېئېرا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:10.104791187Z",
+  "model": "glm-5.3"
+}

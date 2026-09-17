@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ۋە بارلىق يامانلىقىڭدىن كېيىن بولدى — ۋاي، ۋاي ساڭا! دەيدۇ ئادوناي ياھۋەھ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "كېيىن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "يامانلىقىڭدىن"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ۋاي"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ۋاي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:45:04.525834825Z",
+  "model": "glm-5.3"
+}

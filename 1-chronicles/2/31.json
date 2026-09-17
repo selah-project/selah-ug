@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئاپپايىمنىڭ ئوغلى يىشئى، يىشئىنىڭ ئوغلى شېشان، شېشاننىڭ ئوغلى ئاھلاي ئىدى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ئاپپايىمنىڭ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يىشئى"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يىشئىنىڭ"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شېشان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شېشاننىڭ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ئاھلاي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:40:01.886171129Z",
+  "model": "glm-5.3"
+}

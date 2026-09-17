@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "پارس، كۇش ۋە پۇت ئۇلار بىلەن ⟨ئەت⟩ بارلىقى — ھەممىسى قالقان ۋە دوغا بىلەن.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كۇش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ۋە پۇت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇلار بىلەن"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "قالقان"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ۋە دوغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:54:38.528649020Z",
+  "model": "glm-5.3"
+}

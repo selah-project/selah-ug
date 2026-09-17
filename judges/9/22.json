@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ئابىمەلەخ يىسرائېل ئۈستىدىن ئۈچ يىل باشقۇردى.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "باشقۇردى"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئابىمەلەخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يىسرائېل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:57:57.917909797Z",
+  "model": "glm-5.3"
+}

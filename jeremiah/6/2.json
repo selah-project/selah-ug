@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "چىرايلىق ۋە نازۇك ئولتۇرغۇچىنى، سىيون قىزىنى، مەن يوقىتىمەن.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "چىرايلىق ئولتۇرغۇچى"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "ۋە نازۇك"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "مەن يوقىتىمەن"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزى"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سىيون"
+    }
+  ],
+  "timestamp": "2026-09-16T22:17:39.584726957Z",
+  "model": "glm-5.3"
+}

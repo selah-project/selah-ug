@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 92,
+  "translation": "قاشا ئادەم بىلمەيدۇ، ئەخمەق بولسا ⟨את⟩ بۇنى چۈشەنمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "בער",
+      "gloss": "قاشا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلمەيدۇ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ئەخمەق بولسا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "چۈشەنمەيدۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇنى"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "بۇنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:37:45.921337143Z",
+  "model": "glm-5.3"
+}

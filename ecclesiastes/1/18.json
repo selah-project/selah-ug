@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "چۈنكى ھېكمەت كۆپ بولغان يەردە قايغۇ كۆپ بولىدۇ، ۋە بىلىمىنى كۆپەيتكەن كىشى ئاغرىقنى كۆپەيتىدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "قايغۇ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ۋە كۆپەيتكەن"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بىلىمىنى"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "كۆپەيتىدۇ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ئاغرىقنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:58.676055808Z",
+  "model": "glm-5.3"
+}

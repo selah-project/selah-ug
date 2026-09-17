@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "زاب مىنىپ ماڭغان ئېگەرنىڭ ھەممىسى بۇلغىنىدۇ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "ئېگەر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "مىنىپ ماڭغان"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "زاب"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "بۇلغىنىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:03:39.531956383Z",
+  "model": "glm-5.3"
+}

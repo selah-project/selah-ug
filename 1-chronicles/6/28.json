@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ياھاتنىڭ ئوغلى، گېرەشومنىڭ ئوغلى، لېۋىنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ياھات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گېرەشوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېۋى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:33.339520063Z",
+  "model": "glm-5.3"
+}

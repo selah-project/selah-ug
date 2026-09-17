@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "كىردىلەر نوحنىڭ يېنىغا كېمىگە، ئىككى-ئىككىدىن، ئىچىدە جان روھى بار بارلىق بەدەندىن.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "كىردىلەر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نىڭ يېنىغا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "كېمىگە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككىدىن"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "بارلىقتىن"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "بەدەن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئىچىدە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روھى"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:00.614589670Z",
+  "model": "glm-5.3"
+}

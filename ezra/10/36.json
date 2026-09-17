@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋانىياھ، مەرەموت، ئەلياشىۋ.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ۋانىياھ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مەرەموت"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ئەلياشىۋ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:32:18.738665727Z",
+  "model": "glm-5.3"
+}

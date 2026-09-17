@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "زەبۇلۇن ئۈچۈن — ئەلىياب، خېلوننىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "زەبۇلۇن ئۈچۈن"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ئەلىياب"
+    },
+    {
+      "surface": "بן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "خېلون"
+    }
+  ],
+  "timestamp": "2026-09-16T20:09:37.752111263Z",
+  "model": "glm-5.3"
+}

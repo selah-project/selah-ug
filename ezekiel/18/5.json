@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئەگەر بىر كىشى سادىق بولۇپ، ھۆكۈم ۋە ھەقنى ⟨ئەمەل⟩ قىلسا —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "بىر كىشى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولۇپ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "سادىق"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "قىلسا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ھۆكۈم"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ھەق"
+    }
+  ],
+  "timestamp": "2026-09-16T22:45:55.187868053Z",
+  "model": "glm-5.3"
+}

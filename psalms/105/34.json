@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 105,
+  "translation": "ئۇ ئېيتتى — چېكەتكە كەلدى، ياش چېكەتكە ⟨كەلدى⟩، سانى يوق ئىدى.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "چېكەتكە"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "ياش چېكەتكە"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "يوق ئىدى"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "سانى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:39:13.164312811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ساق دىل ⟨بەدەن⟩ ھاياتى؛ سۆڭەكلەرنىڭ چىرىگەنلىكى بولسا ھەسەت.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ھاياتى"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "بەدەن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دىل"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ساق\/شىپالىق"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "چىرىگەنلىكى"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "سۆڭەكلەرنىڭ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ھەسەت"
+    }
+  ],
+  "timestamp": "2026-09-16T23:51:45.924728518Z",
+  "model": "glm-5.3"
+}

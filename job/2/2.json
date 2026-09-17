@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ياھۋەھ ساتانغا ئېيتتى: قەيەردىن كەلدىڭ؟ ساتان ياھۋەھكە ⟨ئىنكاب⟩ بېرىپ ئېيتتى: يەر يۈزىدە ئارىلاپ yurishdan va uning ichida yurishdan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ساتان"
+    },
+    {
+      "surface": "אי",
+      "gloss": "قەيەردىن"
+    },
+    {
+      "surface": "مזה",
+      "gloss": "⟨ئىنكاب⟩"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "كەلدىڭ"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ئىنكاب بېرىپ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ساتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياھۋەھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھكە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "משט",
+      "gloss": "ئارىلاپ yurishdan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يەر يۈزىدە"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "va yurishdan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uning ichida"
+    }
+  ],
+  "timestamp": "2026-09-16T23:58:28.274389503Z",
+  "model": "glm-5.3"
+}

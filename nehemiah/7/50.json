@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "رەئايە بالىلىرى، رەتسىن بالىلىرى، نېقودا بالىلىرى،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رەئايە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رەتسىن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نېقودا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:01.899141775Z",
+  "model": "glm-5.3"
+}

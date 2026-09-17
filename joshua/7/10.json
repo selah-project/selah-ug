@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ياھۋەھ يېھوشۇاغا ئېيتتى: تۇر، سەن نېمىشقا يۈزۈڭنى يەرگە يېقىپ ياتىسەن؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يېھوشۇاغا"
+    },
+    {
+      "surface": "קם",
+      "gloss": "تۇر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ساڭا⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "نېمىشقا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨بۇنىڭ بىلەن⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "يېقىپ ياتىسەن"
+    },
+    {
+      "surface": "על",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "يۈزۈڭنى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:47:11.619522055Z",
+  "model": "glm-5.3"
+}

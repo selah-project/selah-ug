@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ۋە بولدى — ياھۋەھ مۇساغا مىسر زېمىنىدا سۆزلىگەن ⟨كۈنى⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلىگەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زېمىنىدا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مىسر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:39:33.798461170Z",
+  "model": "glm-5.3"
+}

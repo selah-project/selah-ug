@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ياھۋەھ ياھۋەھشۇئاغا ئېيتتى ⟨دەپ⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئىگە"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ياھۋەھشۇئا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:44:38.809696660Z",
+  "model": "glm-5.3"
+}

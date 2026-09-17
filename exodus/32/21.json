@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "مۇسا ئەھرونغا ئېيتتى: «بۇ خەلق ساڭا نېمە قىلدىكى، ئۇنىڭ ⟨ئۈستىگە⟩ چوڭ گۇناھ كەلتۈردۈڭ؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئەھرون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "كەلتۈردۈڭ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۇنىڭ ئۈستىگە"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گۇناھ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "چوڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:52:59.582320520Z",
+  "model": "glm-5.3"
+}

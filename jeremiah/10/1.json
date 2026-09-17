@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئى ئىسرائىل ئائىلىسى، ياھۋەھ سىلەرگە سۆزلىگەن ⟨את⟩ سۆزنى ئاڭلاڭلار.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ئاڭلاڭلار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سۆزنى"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆزنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلىگەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئائىلىسى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-16T22:19:40.096161959Z",
+  "model": "glm-5.3"
+}

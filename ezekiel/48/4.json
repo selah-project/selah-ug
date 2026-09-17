@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "نەفتالى چېگرىسىنىڭ ئۈستىدە، شەرق تەرەپتىن غەرب تەرەپكىچە — مەناششەھ ⟨بىر ئۈلۈش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "چېگرىسى"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نەفتالى"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "تەرەپتىن"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شەرق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…كىچە"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "تەرەپ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "غەرب"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەناششەھ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-17T01:31:35.755055858Z",
+  "model": "glm-5.3"
+}

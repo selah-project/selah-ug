@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "بۇغداي ۋە ئارپا زېمىنى، ئۈزۈم ۋە ئىنجىر ۋە ئانار زېمىنى، زەيتۇن يېغى ۋە ھەسەل زېمىنى.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىنى"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "بۇغداي"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ۋە ئارپا"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ۋە ئۈزۈم"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ۋە ئىنجىر"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ۋە ئانار"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىنى"
+    },
+    {
+      "surface": "زית",
+      "gloss": "زەيتۇن"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "يېغى"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ۋە ھەسەل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:08.415144281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 35,
+  "translation": "يۇشىياھنىڭ پادىشاھلىقىنىڭ ئون سەككىزىنچى يىلىدا مۇشۇ پاساخ قىلىندى.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "سەككىز"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىلىدا"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "پادىشاھلىقىنىڭ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يۇشىياھنىڭ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "قىلىندى"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پاساخ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "مۇشۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:08:28.602536233Z",
+  "model": "glm-5.3"
+}

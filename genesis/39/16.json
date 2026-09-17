@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 39,
+  "translation": "ئۇ كىيىمىنى يېنىغا قويۇپ قويدى، خوجايىنى ئۆيىگە كەلگۈچە.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "كىيىمىنى"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "يېنىغا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "كەلگۈچە"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "كېلىش"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "خوجايىنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ئۆيى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:32:27.200898452Z",
+  "model": "glm-5.3"
+}

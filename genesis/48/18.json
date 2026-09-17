@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "يۇسۇپ ئاتىسىغا دېدى: ئۇنداق ئەمەس، ئاتا، چۈنكى بۇ تۇنجان؛ ئوڭ قولۇڭنى ئۇنىڭ بېشىغا قوي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يۇسۇپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ئاتىسى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئۇنداق"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ئاتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "تۇنجان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ئوڭ قولۇڭنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ئۇنىڭ بېشى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:37:10.499036645Z",
+  "model": "glm-5.3"
+}

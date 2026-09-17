@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "خارىم، مېرېموت، ئوۋادىياھ.",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "خارىم"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مېرېموت"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ئوۋادىياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:18.820390795Z",
+  "model": "glm-5.3"
+}

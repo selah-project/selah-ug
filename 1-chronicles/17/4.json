@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "«بارغىن، چاكارىم داۋۇتقا ئېيتقىن: ياھۋەھ مۇنداق دەيدۇ: ماڭا ئولتۇرۇش ئۈچۈن ئۆي سالمايسەن.»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "بارغىن"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ئېيتقىن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "چاكارىم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "مۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ما"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "سالمايسەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ئولتۇرۇش ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:49:21.720960089Z",
+  "model": "glm-5.3"
+}

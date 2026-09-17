@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "كىم بۇ — ئېيتتى ۋە ⟨ئۇ⟩ بولدى، ئادوناي بۇيرۇمىدى؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئوق"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇمىدى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:05.255700033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "مەرايوت ئوغلى، ئامارياھ ئوغلى، ئاھىتۇب ئوغلى.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مەرايوت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئامارياھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئاھىتۇب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:44.167861124Z",
+  "model": "glm-5.3"
+}

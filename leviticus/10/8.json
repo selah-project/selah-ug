@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ياھۋەھ ئارونغا سۆزلىدى، دەپ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:11.555353996Z",
+  "model": "glm-5.3"
+}

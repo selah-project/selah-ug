@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ناخشىلار ناخشىسى — سۇلايماننىڭكىدۇر",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ناخشا"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ناخشىلارنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨—…دۇر⟩"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "سۇلايماننىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:05.577152864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە تاغلىقتا: شامىر، ۋە ياتتىر، ۋە سوخوھ.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "ۋە تاغلىقتا"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شامىر"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "ۋە ياتتىر"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "ۋە سوخوھ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:16:32.974670220Z",
+  "model": "glm-5.3"
+}

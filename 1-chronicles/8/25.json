@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە يىپدىياھ، ۋە پىنۇئەل — شاشاقنىڭ ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "ۋە يىپدىياھ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ۋە پىنۇئەل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…نىڭ ئوغۇللىرى"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شاشاق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:06.060567417Z",
+  "model": "glm-5.3"
+}

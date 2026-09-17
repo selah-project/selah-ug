@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ۋە بۇ ⟨ئۇ⟩ ئەشەم قۇربانلىقىنىڭ تورىسى؛ ئۇ مۇقەددەسلەرنىڭ مۇقەددىسىدۇر.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ۋە بۇ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورىسى"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ئەشەمنىڭ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مۇقەددەس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مۇقەددەسلەرنىڭ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:58:44.268735768Z",
+  "model": "glm-5.3"
+}

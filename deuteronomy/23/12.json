@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "كەچ ئۆرۈلگەندە سۇدا يۇيۇنىدۇ، كۈن پاتقاندا لاگەرنىڭ ئىچىگە كىرىدۇ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ئۆرۈلگەندە"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "كەچ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "يۇيۇنىدۇ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "سۇدا"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "پاتقاندا"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "كىرىدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ئىچىگە"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لاگەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:36.817568548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 94,
+  "translation": "ياھۋەھ ئىنساننىڭ خىياللىرىنى بىلىدۇ، چۈنكى ئۇلار قۇرۇقتۇر.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلىدۇ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "خىياللىرىنى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنساننىڭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "قۇرۇقتۇر"
+    }
+  ],
+  "timestamp": "2026-09-16T23:36:52.006124036Z",
+  "model": "glm-5.3"
+}

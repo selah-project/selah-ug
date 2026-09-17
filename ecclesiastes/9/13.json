@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "بۇنىمۇ كۆردۈم: قۇياش ئاستىدا ⟨بىر⟩ ھېكمەت، ئۇ ماڭا بەك ئۇلۇغ ⟨تۇيۇلىدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇنى"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدا"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "قۇياش"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ئۇ بەك ئۇلۇغ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:59.480125411Z",
+  "model": "glm-5.3"
+}

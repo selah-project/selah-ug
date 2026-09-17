@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "بىكارچى ئىنسان، يامانلىق ئىگىسى — ئېغىزىنىڭ بۇرمىلىقى بىلەن ماڭىدۇ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بىكارچى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئىگىسى"
+    },
+    {
+      "surface": "און",
+      "gloss": "يامانلىق"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ماڭىدۇ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "بۇرمىلىقى"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ئېغىزىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:12.860771741Z",
+  "model": "glm-5.3"
+}

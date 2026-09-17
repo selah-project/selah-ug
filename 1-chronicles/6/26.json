@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئەتنىنىڭ ئوغلى، زېراھنىڭ ئوغلى، ئاداييانىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "ئەتنى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زېراھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ئاداييا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:33.339160978Z",
+  "model": "glm-5.3"
+}

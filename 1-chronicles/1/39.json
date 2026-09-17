@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "لوتاننىڭ ئوغۇللىرى: خورى ۋە ھومام؛ لوتاننىڭ سىڭلىسى تىمنا ئىدى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "خورى"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ھومام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "سىڭلىسى"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تىمنا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:11.763854597Z",
+  "model": "glm-5.3"
+}

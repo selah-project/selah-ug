@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "شۇڭا، ئەي پادىچىلار، ياھۋەھنىڭ سۆزىنى ئاڭلاڭلار.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "شۇڭا"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "پادىچىلار"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ئاڭلاڭلار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:53:15.282654189Z",
+  "model": "glm-5.3"
+}

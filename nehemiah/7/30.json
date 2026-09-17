@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھەراما ۋە گەۋەئە ئەرلىرى — ئالتە يۈز يىگىرمە بىر.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ھەراما"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ۋە گەۋەئە"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ۋە بىر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:15.887898289Z",
+  "model": "glm-5.3"
+}

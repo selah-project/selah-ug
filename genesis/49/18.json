@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 49,
+  "translation": "ياھۋەھ، مەن سېنىڭ قۇتقۇزۇشلۇقۇڭنى كۈتتۈم.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "سېنىڭ قۇتقۇزۇشلۇقۇڭنى"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "كۈتتۈم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:37:28.989740415Z",
+  "model": "glm-5.3"
+}

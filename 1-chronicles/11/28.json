@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئىرا — ئىككەش ئوغلى، تەكوئالىق؛ ئابىئەزەر — ئەناتوتلۇق ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ئىرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ئىككەش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "تەكوئالىق"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ئابىئەزەر"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ئەناتوتلۇق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:16.113045105Z",
+  "model": "glm-5.3"
+}

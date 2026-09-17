@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ھەر پاك قۇشنى يېسەڭلار بولىدۇ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەر"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "قۇش"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاك"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "يەڭلەر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:04.699883907Z",
+  "model": "glm-5.3"
+}

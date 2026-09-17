@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "ياماندان يۈز ئۆرۈ، ياخشىنى قىل، تىنچلىقنى ئىزدە ۋە ئۇنى قوغلا.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "يۈز ئۆرۈ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ياماندان"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "قىل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىنى"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ئىزدە"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "تىنچلىقنى"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ئۇنى قوغلا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:24:41.218990400Z",
+  "model": "glm-5.3"
+}

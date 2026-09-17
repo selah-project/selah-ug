@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 41,
+  "translation": "قاراڭ، يەتتە يىل كېلىۋاتىدۇ — پۈتۈن مىسىر زېمىنىدا چوڭ تولۇقچىلىق.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قاراڭ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "באות",
+      "gloss": "كېلىۋاتىدۇ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "تولۇقچىلىق"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىنىدا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مىسىر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:33:28.555031308Z",
+  "model": "glm-5.3"
+}

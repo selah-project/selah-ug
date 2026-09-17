@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "پاك دىلنى سۆيگۈچىنىڭ — لەۋلىرىدە ئىللىقلىق بار — دوستى پادىشاھتۇر.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "سۆيگۈچىنىڭ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاك"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دىلنى"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ئىللىقلىق"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لەۋلىرىدە"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "دوستى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:53:08.833035816Z",
+  "model": "glm-5.3"
+}

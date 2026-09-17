@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئادىننىڭ ئوغۇللىرى — ئالتە يۈز ئەللىك بەش ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ئادىن"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:05.262739371Z",
+  "model": "glm-5.3"
+}

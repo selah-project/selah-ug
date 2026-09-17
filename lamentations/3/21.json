@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "بۇنى كۆڭلۈمگە قايتۇرىمەن، شۇڭا ⟨ئۈمىد بىلەن⟩ كۈتىمەن.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "بۇنى"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "قايتۇرىمەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨گە⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "كۆڭلۈم"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨شۇڭا⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنىڭ ئۈچۈن"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "كۈتىمەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:45.477791657Z",
+  "model": "glm-5.3"
+}

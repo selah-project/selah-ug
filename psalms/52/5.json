@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 52,
+  "translation": "ياماننى ياخشىلىقتىن، يالغاننى ھەق سۆزلىمەكتەن سۆيدۈڭ، سېلاھ.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "سۆيدۈڭ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ياماننى"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ياخشىلىقتىن"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "يالغاننى"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "سۆزلىمەكتەن"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ھەق"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:29:05.053042312Z",
+  "model": "glm-5.3"
+}

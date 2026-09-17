@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "سەن <ئى> ئىسرائىل باشلىقلىرى ئۈچۈن ماتەم ناخشىسىنى ئالغىن",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ئالغىن"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتەم ناخشىسىنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "باشلىقلىرى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-17T01:29:55.549844760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئۇلار بىلەن قۇدىلاشما؛ قىزىڭنى ئۇنىڭ ئوغلىغا بەرمە، ئۇنىڭ قىزىنى ئوغلۇڭغا ئالما.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "قۇدىلاشما"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ئۇلار بىلەن"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "قىزىڭنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بەرمە"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ئۇنىڭ ئوغلىغا"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ئۇنىڭ قىزىنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ئالما"
+    },
+    {
+      "surface": "لבנך",
+      "gloss": "ئوغلۇڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:31:47.694950154Z",
+  "model": "glm-5.3"
+}

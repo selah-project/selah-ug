@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "ۋە تاشلارغا بۇ تورانىڭ بارلىق سۆزلىرىنى ⟨את⟩ ئېنىق قىلىپ يازىسەن.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "يازىسەن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "تاشلارغا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بارلىق سۆزلىرىنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سۆزلىرىنى"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورانىڭ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ئېنىق قىلىپ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ناھايىتى ئوبدان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:39:27.543716608Z",
+  "model": "glm-5.3"
+}

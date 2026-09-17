@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە كاھىن ئۆيدىن ئۆينىڭ ئىشىكى ئالدىغا چىقىدۇ، ۋە ⟨ئۇ⟩ ئۆينى يەتتە كۈن تاقايدۇ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ۋە چىقىدۇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاھىن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ئىشىكى ئالدى"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ئۆينىڭ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ۋە تاقايدۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۆينى"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ئۆينى"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:52.928344327Z",
+  "model": "glm-5.3"
+}

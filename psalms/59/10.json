@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 59,
+  "translation": "ئى كۈچۈم، سېنى كۈتۈرىمەن، چۈنكى ئېلوھىم مېنىڭ تايانچىمدۇر.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "ئى كۈچۈم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "سېنى"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "كۈتۈرىمەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "تايانچىمدۇر"
+    }
+  ],
+  "timestamp": "2026-09-16T23:29:31.986900933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "سىببەكاي ھۇشاتلىق، ئىلاي ئاخوھىلىق.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "سىببەكاي"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ھۇشاتلىق"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "ئىلاي"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ئاخوھىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:30.011555321Z",
+  "model": "glm-5.3"
+}

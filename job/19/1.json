@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ئەييۇب جاۋاب بېرىپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جاۋاب بېرىپ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەييۇب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:02:37.272878673Z",
+  "model": "glm-5.3"
+}

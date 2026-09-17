@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئەزماۋەت بەھارۇمىلىق، ئەلياھبا شەئالبونىلىق ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "ئەزماۋەت"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "بەھارۇمىلىق"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "ئەلياھبا"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "شەئالبونىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:23.901633359Z",
+  "model": "glm-5.3"
+}

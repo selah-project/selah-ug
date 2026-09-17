@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھارىپنىڭ ئەۋلادلىرى يۈز ئون ئىككى ⟨نەپەر⟩؛",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەۋلادلىرى"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ھارىپ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئون ئىككى (ئىككى)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ئون)"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:55.185061336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئاق باشلىق — شان-شەرەپ تاجىسى، ئۇ ئادىللىق يولىدا تېپىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاجىسى"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "شان-شەرەپ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ئاق باشلىق"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "يولىدا"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ئادىللىق"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تېپىلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:52:28.229347522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "پادىشاھ: «چەتكە ئۆت، بۇ يەردە تۇر» دېدى. ئۇ چەتكە ئۆتۈپ تۇردى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "چەتكە ئۆت"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "تۇر"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بۇ يەردە"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "چەتكە ئۆتتى"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تۇردى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:26:47.732499889Z",
+  "model": "glm-5.3"
+}

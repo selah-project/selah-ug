@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ: «قايسى يول بىلەن چىقىمىز؟» دېدى. ئۇ: «ئەدوم چۆللىرى ئارقىلىق،» دەدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אי",
+      "gloss": "قايسى... قەيەر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "يول"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "چىقىمىز"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "يولى"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "چۆل"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدوم"
+    }
+  ],
+  "timestamp": "2026-09-16T21:42:52.091391492Z",
+  "model": "glm-5.3"
+}

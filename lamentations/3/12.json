@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئوقياسىنى چۆكۈردى ۋە مېنى ئوق ئۈچۈن نىشان سۈپىتىدە تىكلىدى.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "چۆكۈردى"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ئوقياسىنى"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ۋە مېنى تىكلىدى"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "نىشانغا ئوخشاتتى"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ئوق ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:47.011660698Z",
+  "model": "glm-5.3"
+}

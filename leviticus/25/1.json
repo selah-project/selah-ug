@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ۋە ياھۋەھ مۇسا ⟨گە⟩ سىنا تېغىدا سۆزلىدى، ⟨دېپ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨گە⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "تېغىدا"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سىنا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨دېپ⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T20:08:30.675011051Z",
+  "model": "glm-5.3"
+}

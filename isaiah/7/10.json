@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ياھۋەھ ئاھازغا يەنە سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "يەنە قوشۇلۇپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلەپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ئاھاز"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:55:01.596278950Z",
+  "model": "glm-5.3"
+}

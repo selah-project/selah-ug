@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "نوگاھ، نەپەگ ۋە ياپىيا.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "نوگاھ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "نەپەگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ياپىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:58.921294523Z",
+  "model": "glm-5.3"
+}

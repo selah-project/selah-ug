@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 37,
+  "translation": "ياماندان يۈز ئۆرۈت، ياخشىنى قىل، ۋە مەڭگۈ ئولتۇرارسەن.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "يۈز ئۆرۈت"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ياماندان"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "قىل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىنى"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ئولتۇرارسەن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "مەڭگۈ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:25:44.482031404Z",
+  "model": "glm-5.3"
+}

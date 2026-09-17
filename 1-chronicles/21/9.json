@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ياھۋەھ گادقا — داۋۇتنىڭ كۆرگۈچىسىگە — سۆزلىدى ⟨ئېيتىپ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قارىتىپ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "كۆرگۈچى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇتنىڭ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:49:33.106532085Z",
+  "model": "glm-5.3"
+}

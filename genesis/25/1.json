@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئىبراھىم ⟨يەنە⟩ ئايال ئالدى، ئۇنىڭ ئىسمى قەتۇرە ئىدى.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىم"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ئۇنىڭ ئىسمى"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قەتۇرە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:26:17.021905665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئەگەر يىلان ئەپسۇن ئوقۇلماستىن چاقسا، تىل ئىگىسىگە ھېچ ئۈستۈنلۈك يوقتۇر.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "چاقسا"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "يىلان"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ئەپسۇن ئوقۇلماستىن"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ئەپسۇن"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ھېچ ... يوقتۇر"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ئۈستۈنلۈك"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "تىل ئىگىسىگە"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "تىل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:22.077606021Z",
+  "model": "glm-5.3"
+}

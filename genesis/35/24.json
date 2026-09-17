@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 35,
+  "translation": "راھىلنىڭ ئوغۇللىرى: يوسىپ ۋە بىنيامىن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راھىلنىڭ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسىپ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "بىنيامىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:15.375000505Z",
+  "model": "glm-5.3"
+}

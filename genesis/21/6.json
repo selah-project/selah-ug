@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "سارە ئېيتتى: ئېلوھىم ماڭا كۈلكە بەردى؛ ئاڭلىغانلىكى كىشى مەن بىلەن كۈلىدۇ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارە"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "كۈلكە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بەردى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ئاڭلىغان"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "كۈلىدۇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مەن بىلەن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:33.164052877Z",
+  "model": "glm-5.3"
+}

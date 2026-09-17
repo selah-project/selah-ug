@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بەرىئاھنىڭ ئوغۇللىرى: خېبېر ۋە مالخىئېل — ئۇ بىرزوتنىڭ ئاتىسى ئىدى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ۋە …نىڭ ئوغۇللىرى"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بەرىئاھ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "خېبېر"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "ۋە مالخىئېل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ئاتىسى"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "بىرزوت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:27.003519765Z",
+  "model": "glm-5.3"
+}

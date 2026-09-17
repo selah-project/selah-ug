@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "مۇشۇ يوبىل يىلىدا ھەر ئادەم ئۆز ئىگىدارلىقىغا قايتسۇن.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "يىلىدا"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "يوبىل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "مۇشۇ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "قايتسۇن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھەر ئادەم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۆز ئىگىدارلىقىغا"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ئىگىدارلىقى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:08:19.304370759Z",
+  "model": "glm-5.3"
+}

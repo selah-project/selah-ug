@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "دەۋۇت جاسۇسلارنى ئەۋەتتى ۋە شائۇلنىڭ راستىنلا كەلگىنىنى بىلدى.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ئەۋەتتى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دەۋۇت"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسۇسلارنى"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "بىلدى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كىنى"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كەلگىنى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائۇلنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قاراپ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "راستىنلا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:16:58.588257683Z",
+  "model": "glm-5.3"
+}

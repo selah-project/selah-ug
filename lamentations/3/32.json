@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "چۈنكى گەرچە ئازابلاندۇرسىمۇ، ھېسەدىنىڭ موللۇقى بويىچە رەھىم قىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "گەرچە"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ئازابلاندۇرسىمۇ"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "رەھىم قىلىدۇ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "موللۇقى بويىچە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ھېسەدىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:02.725620839Z",
+  "model": "glm-5.3"
+}

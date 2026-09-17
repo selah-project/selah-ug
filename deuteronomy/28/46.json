@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئۇلار سەندە ⟨بەلگە⟩ ۋە ⟨مۆجىزە⟩ بولۇپ تۇرىدۇ، نەسلىڭدە — مەڭگۈگىچە.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "بولۇپ تۇرىدۇ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "سەندە"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "بەلگە"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "ۋە مۆجىزە"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "نەسلىڭدە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چىقىپ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "مەڭگۈگىچە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:40:41.159606792Z",
+  "model": "glm-5.3"
+}

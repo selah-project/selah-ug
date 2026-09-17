@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ئى ئادەم ئوغلى، بىر تېپىشماق تۇغ ۋە ئىسرائىل ئۆيىگە بىر مەسەل ئېيت؛",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "تۇغ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "بىر تېپىشماق"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ۋە ئېيت"
+    },
+    {
+      "surface": "משל",
+      "gloss": "بىر مەسەل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆيى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-16T22:45:37.133469368Z",
+  "model": "glm-5.3"
+}

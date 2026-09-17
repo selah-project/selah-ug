@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئاتاڭنىڭ ئاچىسىنىڭ يالىڭاچلىقىنى ئاچما؛ ئۇ ئاتاڭنىڭ ⟨قېنىدۇر⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "يالىڭاچلىقىنى"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ئاچىسىنىڭ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ئاتاڭنىڭ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "ئاچما"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ئاچما"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "قېنىدۇر"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ئاتاڭنىڭ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:03:30.007021427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "تارشىشكە ئۆتۈڭلار! ئارال ئاھالىسى، ھۆكىرەڭلار!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "ئۆتۈڭلار"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "تارشىشكە"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ھۆكىرەڭلار"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ئولتۇرغۇچىلىرى"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ئارال"
+    }
+  ],
+  "timestamp": "2026-09-16T22:00:30.162792491Z",
+  "model": "glm-5.3"
+}

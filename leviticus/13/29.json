@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ۋە بىر ئەر ياكى ئايال — ئەگەر ئۇنىڭ بېشىدا ياكى ساقىلىدا ناگان بولۇپ قالسا،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ۋە بىر ئەر"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولۇپ قالسا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ناگان"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "بېشىدا"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكي"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ساقىلىدا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:42.026383016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ئەگەر ⟨ئۇ⟩ يۇيمىسا ۋە ئۆز گۆشىنى يۇيمىسا، ⟨ئۇ⟩ ئۆز گۇناھىنى كۆتۈرىدۇ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يۇيمىسا"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ئۆز گۆشىنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "يۇيمىسا"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "كۆتۈرىدۇ"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ئۆز گۇناھىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:04:25.930286210Z",
+  "model": "glm-5.3"
+}

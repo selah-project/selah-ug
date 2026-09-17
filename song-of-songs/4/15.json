@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "باغلارنىڭ بۇلىقى، تىرىك سۇلارنىڭ قۇدۇقى، لىبانوندىن ئېقىپ چىقىۋاتقان ئېقىنلار ⟨ئۇ⟩.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "بۇلاق"
+    },
+    {
+      "surface": "گנים",
+      "gloss": "باغلارنىڭ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "قۇدۇق"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلار"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "تىرىك"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ئېقىنلار ⟨ۋە⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لىبانون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:37.113793744Z",
+  "model": "glm-5.3"
+}

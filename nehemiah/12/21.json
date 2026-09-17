@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "خىلكىيەنىڭكى — حاشاۋىيە؛ يدايەنىڭكى — نەتانېل.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "خىلكىيەنىڭكى"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حاشاۋىيە"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "يدايەنىڭكى"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتانېل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:24.950784444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ياھۋەھ مۇساغا سۆز ئېيتىپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆز ئېيتىپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:44:11.120476761Z",
+  "model": "glm-5.3"
+}

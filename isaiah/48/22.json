@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "«يارالغۇلارغا شالوم يوق»، دەيدۇ ياھۋەھ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "يارالغۇلارغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:07:48.076890097Z",
+  "model": "glm-5.3"
+}

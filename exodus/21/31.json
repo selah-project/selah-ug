@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "يا بىر ئوغۇلنى سوقسۇن، يا بىر قىزنى سوقسۇن — بۇ ھۆكۈم بويىچە ئۇنىڭغا قىلىنىدۇ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بىر ئوغۇلنى"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سوقسۇن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بىر قىزنى"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سوقسۇن"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ھۆكۈم بويىچە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "قىلىنىدۇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:48:35.942642448Z",
+  "model": "glm-5.3"
+}

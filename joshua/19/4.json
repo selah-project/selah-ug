@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە ئەلتولاد، ۋە بەتۇل، ۋە خورماھ.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ئەلتولاد"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "بەتۇل"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "خورماھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:09.981823507Z",
+  "model": "glm-5.3"
+}

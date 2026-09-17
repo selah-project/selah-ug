@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئون بىرىنچىسى ئەلياشىۋغا، ئون ئىككىنچىسى ياقىمغا ⟨ئائىت ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ئەلياشىۋغا"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ئون بىرىنچى"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ئون⟩"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ياقىمغا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:28.076442996Z",
+  "model": "glm-5.3"
+}

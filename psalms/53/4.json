@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 53,
+  "translation": "ھەممىسى چېكىندى، بىرلىكتە بۇزۇلدى؛ ياخشىلىق قىلغۇچى يوق، ھەتتا بىرىمۇ يوق.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "סג",
+      "gloss": "چېكىندى"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بىرلىكتە"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "بۇزۇلدى"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلغۇچى"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىلىق"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەتتا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىرىمۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:28:50.942692203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "بۇ سۆز پادىشاھنىڭ ۋە پۈتۈن جامائەتنىڭ كۆزىگە توغرا كۆرۈندى.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "توغرا كۆرۈندى"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "...نىڭ كۆزىگە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ۋە ...نىڭ كۆزىگە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جامائەت"
+    }
+  ],
+  "timestamp": "2026-09-17T01:06:33.136627150Z",
+  "model": "glm-5.3"
+}

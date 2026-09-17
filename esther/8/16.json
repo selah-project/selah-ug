@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "يەھۇدىيلارغا نۇر ۋە خۇشاللىق، شادلىق ۋە شەرەپ بولدى.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "يەھۇدىيلارغا"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "نۇر"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "خۇشاللىق"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "شادلىق"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "شەرەپ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:21:31.462396798Z",
+  "model": "glm-5.3"
+}

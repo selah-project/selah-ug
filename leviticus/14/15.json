@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "كاهىن ياغنىڭ لوگىدىن ئېلىپ، ئۆزىنىڭ سول ئالىقىنىغا تۆكىدۇ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ئېلىپ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهىن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "لوگىدىن"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ياغنىڭ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "تۆكىدۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ئالىقىنى"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهىننىڭ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "سول"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:37.834857998Z",
+  "model": "glm-5.3"
+}

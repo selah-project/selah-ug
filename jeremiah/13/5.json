@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "مەن باردىم ۋە ئۇنى پىراتتا يوشۇردۇم، ياھۋەھ ماڭا بۇيرۇغىنىدەك.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "باردىم"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ئۇنى يوشۇردۇم"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "پىراتتا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…ىنىدەك"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مېنى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:20:41.386692656Z",
+  "model": "glm-5.3"
+}

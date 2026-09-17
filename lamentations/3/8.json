@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "مەن ۋارقىرىساممۇ، ياردەم تىلىسەممۇ، ئۇ تىلىكىمنى توسۇپ قويدى.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "…سەممۇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…غاندا"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ۋارقىرىسام"
+    },
+    {
+      "surface": "ויקף אזעק",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ياردەم تىلىسەم"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "توسۇپ قويدى"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "تىلىكىمنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.384555362Z",
+  "model": "glm-5.3"
+}

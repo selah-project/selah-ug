@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "قارا، سەن چىرايلىكسەن، دوستۇم، ھەم سۆيۈملۈكسەن؛ ئەلۋەتتە تۆشىكىمىز ياپيېشىلدۇر.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "چىرايلىكسەن"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دوستۇم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "سۆيۈملۈكسەن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ئەلۋەتتە"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "تۆشىكىمىز"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "ياپيېشىل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:01.272802825Z",
+  "model": "glm-5.3"
+}

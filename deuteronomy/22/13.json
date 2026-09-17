@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئەگەر بىر ⟨ئەر⟩ ئايال ئالسا ھەم ئۇنىڭغا كىرسە ھەم ئۇنى ياقتۇرمىسا،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ئالسا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئەر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "كىرسە"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ئۇنى ياقتۇرمىسا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:27.970399060Z",
+  "model": "glm-5.3"
+}

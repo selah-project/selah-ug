@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 69,
+  "translation": "مېنى قۇتقۇزغىن، ئېلوھىم! چۈنكى سۇلار جانىمغا يەتتى",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "مېنى قۇتقۇزغىن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "באו",
+      "gloss": "يەتتى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "غىچە"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:31:49.732164181Z",
+  "model": "glm-5.3"
+}

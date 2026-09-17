@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "يىرمىياھۇغا يەھوۋاھدىن ⟨את⟩ ⟨مىئېت⟩ كەلگەن سۆز، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كەلگەن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يىرمىياھۇغا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياھۇ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨مىئېت⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يەھوۋاھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:20:12.666287391Z",
+  "model": "glm-5.3"
+}

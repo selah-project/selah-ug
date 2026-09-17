@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "يەرنىڭ بارلىق كۈنلىرىدە تېرىش ۋە ھوسۇل، سوغۇق ۋە ئىسسىق، ياز ۋە قىش، كۈندۈز ۋە كېچە توختىمايدۇ.»",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…دە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەرنىڭ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تېرىش"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ھوسۇل"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "سوغۇق"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ئىسسىق"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "ياز"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "قىش"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "كۈندۈز"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "كېچە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "توختىمايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:34.031221618Z",
+  "model": "glm-5.3"
+}

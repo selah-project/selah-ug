@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "تۈزلەڭلىكتە: ئەشتائول، سورئاھ ۋە ئەشنەھ —",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "تۈزلەڭلىكتە"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "ئەشتائول"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "سورئاھ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ئەشنەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:21.436550484Z",
+  "model": "glm-5.3"
+}

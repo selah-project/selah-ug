@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 55,
+  "translation": "قارا، يىراققا قاچىمەن، چۆلدە قونىمەن. سېلاه",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "يىراققا"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "قاچىمەن"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "قونىمەن"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "چۆلدە"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-09-16T23:28:27.023415167Z",
+  "model": "glm-5.3"
+}

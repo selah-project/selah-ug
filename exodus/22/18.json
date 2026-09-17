@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ھايۋان بىلەن ياتقان ⟨ھەرقانداق⟩ كىشى ئۆلۈم بىلەن ئۆلتۈرۈلىدۇ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەرقانداق"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ياتقان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ھايۋان"
+    },
+    {
+      "surface": "مות",
+      "gloss": "ئۆلۈم"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ئۆلتۈرۈلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:47:58.856846102Z",
+  "model": "glm-5.3"
+}

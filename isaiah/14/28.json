@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ئاھاز پادىشاھ ئۆلگەن يىلى بۇ يۈك ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "يىلى"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ئۆلگەن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ئاھاز"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨بولدى⟩"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "يۈك"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:57:32.873375915Z",
+  "model": "glm-5.3"
+}

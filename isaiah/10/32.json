@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "يەنە شۇ كۈنى نوبتا توختاپ، قولىنى تsiyon قىزىنىڭ تېغىغا — يېرۇسالېم ئېدىرىغا — سىلكىيدۇ.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "شۇ كۈنى"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "نوبتا"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "توختاپ"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "سىلكىيدۇ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "قولىنى"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تېغىغا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "قىزىنىڭ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تsiyon"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ئېدىرى"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يېرۇسالېم"
+    }
+  ],
+  "timestamp": "2026-09-16T21:57:17.594208206Z",
+  "model": "glm-5.3"
+}

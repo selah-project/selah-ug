@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە مۇسا ئۆمەتكە ئېيتتى: بۇ — ياھۋەھ بۇيرۇغان ⟨ئىش⟩نى قىلىش سۆزىدۇر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ئۆمەتكە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "قىلىشقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:36.479726996Z",
+  "model": "glm-5.3"
+}

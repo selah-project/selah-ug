@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "سەئىرنىڭ ئوغۇللىرى: لوتان، شوبال، تسيبئون، ئاناھ، دىشون، ئېزېر ۋە دىشان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەئىر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "شوبال"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "تسيبئون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ئاناھ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "دىشون"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "ئېزېر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "دىشان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:11.763675719Z",
+  "model": "glm-5.3"
+}

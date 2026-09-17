@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "قارا، ⟨كۈن⟩ كەلدى! ئەتىگەن چىقتى، تاياق گۈل ئاچتى، تەكەببۇرلۇك بىخلىدى.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "ئەتىگەن"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "بىخلىدى"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "تاياق"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "گۈل ئاچتى"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "تەكەببۇرلۇك"
+    }
+  ],
+  "timestamp": "2026-09-16T22:39:40.573537373Z",
+  "model": "glm-5.3"
+}

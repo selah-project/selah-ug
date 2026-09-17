@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 39,
+  "translation": "ئۈچىنچى قاتاردا لەشەم، شەۋو ۋە ئەھلاماھ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "قاتاردا"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ئۈچىنچى"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لەشەم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شەۋو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ۋە ئەھلاماھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:55:01.325700432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "لابان: «مانا، سۆزۈڭ بويىچە بولغىي!» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאمר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הן",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ئى }}\u0000\u0000\u0000\u0000"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:53.952735803Z",
+  "model": "glm-5.3"
+}

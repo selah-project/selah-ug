@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇلار موسېروتتىن يول ئېلىپ، بەنى-ياكاندا لاگېر قۇردى.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "يول ئالدى"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "موسېروتتىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "لاگېر قۇردى"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "بەنى-…دا"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ياكان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:44.406552392Z",
+  "model": "glm-5.3"
+}

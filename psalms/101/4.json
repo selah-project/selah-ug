@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 101,
+  "translation": "ئەگرى كۆڭۈل مەندىن نېرى بولسۇن، يامانلىقنى بىلمەيمەن.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "كۆڭۈل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ئەگرى"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "نېرى بولسۇن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مەندىن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "يامانلىقنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "بىلمەيمەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:38:25.193699753Z",
+  "model": "glm-5.3"
+}

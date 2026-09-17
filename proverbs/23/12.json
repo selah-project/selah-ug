@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "قەلبىڭنى تەربىيىگە ئاپەر، قۇلىقىڭنى بىلىم سۆزلىرىگە.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "ئاپەر"
+    },
+    {
+      "surface": "لמוסר",
+      "gloss": "تەربىيىگە"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قەلبىڭنى"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "ۋە قۇلىقىڭنى"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "سۆزلىرىگە"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بىلىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:43.917430948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ۋە ساندۇققا مەن ساڭا بېرىدىغان گۇۋاھلىقنى ⟨את⟩ سالىسەن.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "سالىسەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ساندۇققا"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ساندۇققا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گۇۋاھلىقنى"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گۇۋاھلىقنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "بېرىدىغان"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:49:25.850056250Z",
+  "model": "glm-5.3"
+}

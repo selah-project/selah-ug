@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە ھەر كىيىم، ۋە ھەر تېرە — ئۈستىدە شىكبەت زەرئى بولسا — سۇدا يۇيۇلىدۇ ۋە كەچكىچە تامماھ بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ۋە ھەر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "كىيىم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ۋە ھەر"
+    },
+    {
+      "surface": "עור",
+      "gloss": "تېرە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "شىكبەت"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زەرئ"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "يۇيۇلىدۇ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "سۇدا"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تامماھ بولىدۇ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "كەچكىچە"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "كەچ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:04:56.211734390Z",
+  "model": "glm-5.3"
+}

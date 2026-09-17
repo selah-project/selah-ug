@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ھايۋان نەپىسىنى ئۇرغۇچى ئۇنى تولۇقلاپ بېرىدۇ — نەپەس نەپەسنىڭ ئورنىغا.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ئۇرغۇچى"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نەپىسىنى"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ھايۋان"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "تولۇقلاپ بېرىدۇ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نەپەس"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئورنىغا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نەپەس"
+    }
+  ],
+  "timestamp": "2026-09-16T20:07:43.031786769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "شېمنىڭ ئوغۇللىرى: ئەيلام، ئەششۇر، ئەرپەخشاد، لۇد ۋە ئارام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېمنىڭ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ئەيلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ئەششۇر"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ئەرپەخشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "لۇد"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ئارام"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:18.041958845Z",
+  "model": "glm-5.3"
+}

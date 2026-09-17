@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە يىشمېراي، ۋە يىزلىياھ، ۋە يوۋاۋ — ئەلپاھالنىڭ ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "ۋە يىشمېراي"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "ۋە يىزلىياھ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "ۋە يوۋاۋ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ئەلپاھال"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:46.982785160Z",
+  "model": "glm-5.3"
+}

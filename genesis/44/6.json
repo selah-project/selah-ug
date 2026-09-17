@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 44,
+  "translation": "ئۇ ئۇلارغا يېتىشىۋېلىپ، ئۇلارغا ⟨את⟩ بۇ سۆزلەرنى دېدى.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ئۇلارغا يېتىشىۋېلىپ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇ سۆزلەرنى"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سۆزلەرنى"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:11:42.525813855Z",
+  "model": "glm-5.3"
+}

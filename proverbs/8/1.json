@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ئەجەببا ھېكمەت چاقىرمىدىمۇ؟ ۋە ئەقىل ئاۋازىنى چىقارمىدىمۇ؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئەجەببا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "چاقىرمىدىمۇ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ۋە ئەقىل"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "چىقارمىدىمۇ"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ئاۋازىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:58.549653528Z",
+  "model": "glm-5.3"
+}

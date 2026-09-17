@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "سەناھنىڭ ئەۋلادلىرى — ئۈچ مىڭ توققۇز يۈز ئوتتۇز ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەۋلادلىرى"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سەناھنىڭ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ئوتتۇز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.684922990Z",
+  "model": "glm-5.3"
+}

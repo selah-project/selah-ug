@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ۋە ئۇ بىزنى مۇشۇ جايغا ئېلىپ كىردى، ۋە بىزگە ⟨את⟩ مۇشۇ زېمىننى بەردى — سۈت ۋە ھەسەل ئاقىدىغان زېمىن.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ۋە ئۇ بىزنى ئېلىپ كىردى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "مۇشۇ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ۋە بەردى"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بىزگە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۇشۇ زېمىننى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "مۇشۇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ئاقىدىغان"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "سۈت"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ۋە ھەسەل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:39:11.405934049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "پەلەشتلىقلار كەلدى ۋە رەپائىم ۋادىسىدا چېچىلىپ تارالدى.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "پەلەشتلىقلار"
+    },
+    {
+      "surface": "באו",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "چېچىلىپ تارالدى"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ۋادىسىدا"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رەپائىم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:07.986959755Z",
+  "model": "glm-5.3"
+}

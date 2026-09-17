@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "ۋە بۇلار ئەسەۋنىڭ نەسەبنامىسىدۇر — ئۇ ⟨ئۆزى⟩ ئەدومدۇر.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ۋە بۇلار"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نەسەبنامىسى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەسەۋنىڭ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدوم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:48.356697719Z",
+  "model": "glm-5.3"
+}

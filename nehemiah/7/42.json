@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "خارىمنىڭ بالىلىرى — مىڭ يەتتە ⟨ئىندىن⟩ on يەتتە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارىمنىڭ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:07.177853861Z",
+  "model": "glm-5.3"
+}

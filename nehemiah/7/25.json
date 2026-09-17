@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "گىبئون ئوغۇللىرى — توقسان بەش ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گىبئون"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "توقسان"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:08.549339486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "قان ⟨بىلەن⟩ بېسىلغان ئادەم ئورەككىچە قاچىدۇ، ئۇنى ھېچكىم تۇتمىسۇن.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "بېسىلغان"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "قان ⟨بىلەن⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨نەپەس⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…قىچە"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ئورەككە"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "قاچىدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەمەس \/ -سۇن"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "تۇتىدۇ \/ تۇتمىسۇن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:56:43.630922304Z",
+  "model": "glm-5.3"
+}

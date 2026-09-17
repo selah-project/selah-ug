@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ساللاي نىڭكى كاللاي؛ ئاموك نىڭكى ئەبەر.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "ساللاي نىڭكى"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "كاللاي"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "ئاموك نىڭكى"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ئەبەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:09.384150996Z",
+  "model": "glm-5.3"
+}

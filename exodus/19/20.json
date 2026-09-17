@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ياھۋەھ سىناي تېغىغا، تاغنىڭ چوققىسىغا چۈشتى؛ ياھۋەھ مۇسانى تاغنىڭ چوققىسىغا چاقىردى، مۇسا چىقتى.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "چۈشتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تاغ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سىناي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "چوققىسى"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "تاغ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "چاقىردى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "مۇسانى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "چوققىسى"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "تاغ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:52.605802953Z",
+  "model": "glm-5.3"
+}

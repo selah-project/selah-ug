@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ⟨את⟩ بەيتسۇرنى، ⟨את⟩ سوخونى ۋە ⟨את⟩ ئەدۇللامنى.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بەيتسۇرنى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "سۇر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سوخونى"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوخو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەدۇللامنى"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ئەدۇللام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:56:35.251329640Z",
+  "model": "glm-5.3"
+}

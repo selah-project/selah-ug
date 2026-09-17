@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "سەناھنىڭ ئوغۇللىرى — ئۈچ مىڭ ئالتە يۈز ئوتتۇز ⟨جان⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سەناھ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ئوتتۇز"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:18.959555350Z",
+  "model": "glm-5.3"
+}

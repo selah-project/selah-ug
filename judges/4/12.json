@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "سىسېراغا ئېيتىلدىكى، ئابىنوئامنىڭ ئوغلى باراق تابور تېغىغا چىقتى.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ئېيتىلدىكى"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "سىسېراغا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "باراق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ئابىنوئام"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تېغىغا"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تابور"
+    }
+  ],
+  "timestamp": "2026-09-16T20:55:31.064319353Z",
+  "model": "glm-5.3"
+}

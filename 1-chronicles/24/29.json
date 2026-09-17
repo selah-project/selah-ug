@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "كىشتىن — كىشنىڭ ئوغلى يېراھمئېل.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "كىشتىن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "كىشنىڭ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يېراھمئېل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:51:02.863395616Z",
+  "model": "glm-5.3"
+}

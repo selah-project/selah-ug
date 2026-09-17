@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئۆزۈمگە باغلارنى ۋە پاردەسلەرنى ياسىدىم، ئۇلارغا ھەممە مېۋىنىڭ دەرەخلىرىنى تىكتىم.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ياسىدىم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ئۆزۈمگە"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغلارنى"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ۋە پاردەسلەرنى"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ۋە تىكتىم"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دەرەخلىرىنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "مېۋىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:29.015995454Z",
+  "model": "glm-5.3"
+}

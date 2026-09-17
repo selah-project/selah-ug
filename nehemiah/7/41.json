@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "پاشخۇرنىڭ بالىلىرى — مىڭ ئىككى يۈز قىرىق يەتتە ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پاشخۇرنىڭ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ئىككى يۈز"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "يەتتە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:07.177614704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئوتسەم ⟨ئالتىنچى⟩، داۋۇد ⟨يەتتىنچى⟩.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ئوتسەم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ئالتىنچى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇد"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "يەتتىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:53.830057814Z",
+  "model": "glm-5.3"
+}

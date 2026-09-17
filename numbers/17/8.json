@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "مۇسا ۋە ھارۇن يىغىن چېدىرىنىڭ ئالدىغا كەلدى.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ۋە ھارۇن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چېدىر"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "يىغىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:17:52.072997328Z",
+  "model": "glm-5.3"
+}

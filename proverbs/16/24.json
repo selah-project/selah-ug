@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "يېقىملىق سۆزلەر — ھەسەل سىرىنگىسى: جانغا تاتلىق، سۆڭەككە شىپا.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "ھەسەل سىرىنگىسى"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ھەسەل"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "سۆزلەر"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "يېقىملىق"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "تاتلىق"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جانغا"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "شىپا"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "سۆڭەككە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:35:44.355357014Z",
+  "model": "glm-5.3"
+}

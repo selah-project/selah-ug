@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ⟨سەن⟩ دەيسەن ⟨ئۆز⟩ دىلىڭدا: «مېنىڭ كۈچۈم ۋە قولۇمنىڭ قۇدرىتى ماڭا بۇ ⟨بايلىقنى⟩ ياراتتى ⟨את⟩».",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "دەيسەن"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "دىلىڭدا"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "مېنىڭ كۈچۈم"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ۋە قۇدرىتى"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "قولۇمنىڭ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ياراتتى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇ بايلىق"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "بايلىق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:58.544488740Z",
+  "model": "glm-5.3"
+}

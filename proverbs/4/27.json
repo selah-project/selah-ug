@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئوڭغىمۇ، سولغىمۇ ئېغىپ كەتمە، پۇتۇڭنى يامانلىقتىن يىراق قىل.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ئېغىپ كەتمە"
+    },
+    {
+      "surface": "תט",
+      "gloss": ""
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ئوڭغىمۇ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "سولغىمۇ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "يىراق قىل"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پۇتۇڭنى"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "يامانلىقتىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:48:15.852255309Z",
+  "model": "glm-5.3"
+}

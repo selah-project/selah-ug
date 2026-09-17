@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ۋە كۆزلىرىڭ كۆرىدىغان ⟨مەنزىرىدىن⟩ سەن ئەقلىڭدىن ئازغان بولىسەن.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "سەن بولىسەن"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ئەقلىڭدىن ئازغان"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "مەنزىرىدىن"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "كۆزلىرىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "كۆرىسەن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:07.942482553Z",
+  "model": "glm-5.3"
+}

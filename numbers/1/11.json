@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "بىنيامىن ئۈچۈن — ئابىدان، گىدئونىنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "بىنيامىن ئۈچۈن"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ئابىدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "گىدئونى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:09:37.752522728Z",
+  "model": "glm-5.3"
+}

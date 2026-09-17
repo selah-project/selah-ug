@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئەلقانەنىڭ ئوغلى، يوئەلنىڭ ئوغلى، ئەزەرىيانىڭ ئوغلى، تسەفانىيانىڭ ئوغلى ⟨شۇ⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوئەل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ئەزەرىيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "تسەفانىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:20.936962744Z",
+  "model": "glm-5.3"
+}

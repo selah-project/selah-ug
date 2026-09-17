@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئىزرانىڭ ⟨نىڭ⟩ مىشۇللام، ئامارىيانىڭ ⟨نىڭ⟩ يىھوچانان.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "ئىزرا"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مىشۇللام"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "ئامارىيا"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "يىھوچانان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:57.442784762Z",
+  "model": "glm-5.3"
+}

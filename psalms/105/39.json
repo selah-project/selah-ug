@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 105,
+  "translation": "ئۇ بۇلۇتنى ياپقۇچ قىلىپ يايدى، كېچىنى يورۇتۇشقا ئوت ⟨چىقاردى⟩.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "يادى"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بۇلۇتنى"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "ياپقۇچ قىلىپ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ئوت"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "يورۇتۇشقا"
+    },
+    {
+      "surface": "لילה",
+      "gloss": "كېچىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:39:14.891876232Z",
+  "model": "glm-5.3"
+}

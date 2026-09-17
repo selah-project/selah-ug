@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە خۇر ⟨את⟩ ئۇرىنى تۇغدى، ۋە ئۇرى ⟨את⟩ بەتسالېلنى تۇغدى.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ۋە خۇر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇرىنى"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ئۇرى"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ۋە ئۇرى"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەتسالېلنى"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بەتسالېل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:40:08.697740968Z",
+  "model": "glm-5.3"
+}

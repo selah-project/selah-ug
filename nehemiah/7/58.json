@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "يائەلا بالىلىرى، دارقون بالىلىرى، گىددەل بالىلىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "يائەلا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "دارقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گىددەل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:24.617072236Z",
+  "model": "glm-5.3"
+}

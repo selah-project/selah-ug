@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "چۈنكى ئۇ دىلىدىن ⟨خورلىمىدى⟩، ئىنسان بالىلىرىنى قايغۇغا سالغىنىمۇ يوق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "خورلىدى"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "دىلىدىن"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "قايغۇغا سالدى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرىنى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئىنسان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:43.518968552Z",
+  "model": "glm-5.3"
+}

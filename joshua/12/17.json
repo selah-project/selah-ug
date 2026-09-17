@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "تەپپۇاھ پادىشاھى — بىر؛ خەپەر پادىشاھى — بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تەپپۇاھ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "خەپەر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:38.579919846Z",
+  "model": "glm-5.3"
+}

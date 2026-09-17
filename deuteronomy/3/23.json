@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "شۇ ۋاقىتتا ياھۋەھقا ئىلتىجا قىلدىم، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ئىلتىجا قىلدىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تامان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "شۇ ۋاقىتتا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:15:39.537854746Z",
+  "model": "glm-5.3"
+}

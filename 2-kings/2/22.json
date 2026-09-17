@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "شۇ سۇلار ئەلىشانىڭ ئېيتقان سۆزى بويىچە شۇ كۈنگىچە ساقايدى.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ساقايدى"
+    },
+    {
+      "surface": "המים",
+      "gloss": "سۇلار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ئىچىدە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "سۆزى بويىچە"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ئەلىشانىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ئېيتقان"
+    }
+  ],
+  "timestamp": "2026-09-16T21:42:30.551557010Z",
+  "model": "glm-5.3"
+}

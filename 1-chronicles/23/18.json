@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "يىتسھارنىڭ ئوغۇللىرى — بېشى ⟨ئىدى⟩ شېلومىت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يىتسھارنىڭ"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شېلومىت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "باش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:51:01.451221286Z",
+  "model": "glm-5.3"
+}

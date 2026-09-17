@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 22:26",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ياھۋەھنىڭ پەرىشتەسى يەنە ئۆتۈپ، تار جايدا تۇردى — ئوڭغا ۋە سولغا بۇرۇلغىلى يول يوق ئىدى.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "پەرىشتەسى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "ئۆتۈپ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تۇردى"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جايدا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "يول"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "بۇرۇلغىلى"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ئوڭغا"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "سولغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:22:02.287423297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "بىر ئادەمنى ئۆز دەۋاسىدا ئەگر قىلىشنى — ئادوناي ⟨ئۇنى⟩ كۆرمىدى ⟨ياق، دېمەيدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "ئەگر قىلىش"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بىر ئادەمنى"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ئۆز دەۋاسىدا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ياق"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "كۆردى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:43.519620505Z",
+  "model": "glm-5.3"
+}

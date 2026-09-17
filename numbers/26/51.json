@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "بۇلار يەسرائىل ئوغۇللىرىنىڭ سانى: ئالتە يۈز مىڭ بىر مىڭ يەتتە يۈز ئوتتۇز.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "سانى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرىنىڭ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يەسرائىل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "بىر مىڭ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ئوتتۇز"
+    }
+  ],
+  "timestamp": "2026-09-16T20:22:53.631801559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ⟨את⟩ شاپان — چۈنكى ئۇ كۆشەيدۇ، ئەمما تۇياق يېرىپ بەرمەيدۇ — ئۇ سىلەرگە ناپاك.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شاپان"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "شاپان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "كۆشەيدۇ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "كۆش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "تۇياق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمما…بەرمەيدۇ"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "يېرىپ بەرمەيدۇ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:32.781878068Z",
+  "model": "glm-5.3"
+}

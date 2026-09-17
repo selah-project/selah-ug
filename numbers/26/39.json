@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "شۇپامغا — شۇپاملار جەمەتى؛ خۇپامغا — خۇپاملار جەمەتى.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "شۇپامغا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "جەمەتى"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "شۇپاملار"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "خۇپامغا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "جەمەتى"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "خۇپاملار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:22:55.409018257Z",
+  "model": "glm-5.3"
+}

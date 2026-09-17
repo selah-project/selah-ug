@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ئەگەر ئۈچىنچى كۈنى ئىستېمال قىلىنىپ قالسا، ئۇ پىگۇلدۇر، قوبۇل قىلىنمايدۇ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "يېيىلسە"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يېيىلىپ قالسا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ئۈچىنچى"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "پىگۇل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "قوبۇل قىلىنىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:12:42.239280990Z",
+  "model": "glm-5.3"
+}

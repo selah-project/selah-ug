@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھېكمەتلىكلەرنىڭ قەلبى ماتەم ئۆيىدە، نادانلارنىڭ قەلبى بولسا خۇشاللىق ئۆيىدە.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قەلبى"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ھېكمەتلىكلەرنىڭ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…ئۆيىدە"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتەم"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "…قەلبى"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانلارنىڭ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…ئۆيىدە"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خۇشاللىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:00.713207190Z",
+  "model": "glm-5.3"
+}

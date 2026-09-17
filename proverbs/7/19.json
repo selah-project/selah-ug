@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "چۈنكى ئۇ ئەر ئۆيىدە يوق، ئۇ يىراق يولغا كەتتى",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئۇ ئەر"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ئۆيىدە"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "كەتتى"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "يولغا"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "يىراق"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:58.804963823Z",
+  "model": "glm-5.3"
+}

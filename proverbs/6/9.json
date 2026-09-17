@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ھەي ھوركۆز، قاچانغىچە ياتىسەن؟ قاچان ئۇيقۇڭدىن تۇرىسەن؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "قەدەر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "قاچانغىچە"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ھوركۆز"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ياتىسەن"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "قاچان"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "تۇرىسەن"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ئۇيقۇڭدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:12.860282253Z",
+  "model": "glm-5.3"
+}

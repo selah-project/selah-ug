@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "يەھاللېئېلنىڭ ئوغۇللىرى: زىف، زىفاھ، تىرىيا ۋە ئاشېرئېل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "يەھاللېئېل"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زىف"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "زىفاھ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "تىرىيا"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "ۋە ئاشېرئېل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:42.302912438Z",
+  "model": "glm-5.3"
+}

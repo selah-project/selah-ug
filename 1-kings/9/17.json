@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "شەلوموھ ⟨את⟩ گەزەرنى ۋە ⟨את⟩ تۆۋەن بەيت-حوروننى سالدى",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "سالدى"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شەلوموھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەزەرنى"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گەزەرنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "تۆۋەن بەيت-حوروننى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "تۆۋەن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:34:06.023651761Z",
+  "model": "glm-5.3"
+}

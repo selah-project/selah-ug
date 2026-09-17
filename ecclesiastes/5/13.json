@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئۇ بايلىق يامان ⟨بىر⟩ ۋەقەدە ھالاك بولىدۇ، ئۇ ⟨بىر⟩ ئوغۇل توغىدۇ، ئۇنىڭ قولىدا ھېچنېمە يوق.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ھالاك بولىدۇ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "بايلىق"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ۋەقەدە"
+    },
+    {
+      "surface": "רע",
+      "gloss": "يامان"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "توغىدۇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "قولىدا"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ھېچنېمە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:40.402172092Z",
+  "model": "glm-5.3"
+}

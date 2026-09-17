@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "خەلقىڭ ئارىسىدا غەيۋەت قىلىپ يۈرمە؛ يېقىنىڭنىڭ قېنى ⟨ئۈستىدە⟩ تۇرما — مەن ياھۋەھ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "يۈرمە"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "يۈرمە"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "غەيۋەت قىلىپ"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "خەلقىڭ ئارىسىدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "قىلما"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "تۇرما"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "דם",
+      "gloss": "قېنى"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "يېقىنىڭنىڭ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:06:45.126651308Z",
+  "model": "glm-5.3"
+}

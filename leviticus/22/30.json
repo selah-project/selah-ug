@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "شۇ كۈنى ⟨ئۇ⟩ يېيىلىدۇ، ئەتىگەنگە قەدەر ئۇنىڭدىن ئېشىپ قالدۇرماڭلار؛ مەن ياھۋەھ",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يېيىلىدۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "قالدۇرماڭلار"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ئۇنىڭدىن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "قەدەر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ئەتىگەنگە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:59.937453368Z",
+  "model": "glm-5.3"
+}

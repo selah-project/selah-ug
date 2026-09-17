@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "مۇشە ⟨ماڭدى⟩ ۋە بۇ سۆزلەرنى ⟨את⟩ ئىسرائىلنىڭ ھەممىسىگە سۆزلىدى",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ماڭدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇشە"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇ سۆزلەرنى"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "سۆزلەرنى"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...گە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسىگە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:34.975523973Z",
+  "model": "glm-5.3"
+}

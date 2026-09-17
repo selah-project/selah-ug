@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "چۈنكى مەن قولۇمنى ئاسمان <يۆنىلىشى>گە كۆتۈرىمەن ھەم دەيمەن: مەن مەڭگۈ تىرىكمەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "كۆتۈرىمەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "<يۆنىلىشى>گە"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "قولۇمنى"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ھەم دەيمەن"
+    },
+    {
+      "surface": "חי",
+      "gloss": "تىرىكمەن"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "مەڭگۈ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:42:35.667550951Z",
+  "model": "glm-5.3"
+}

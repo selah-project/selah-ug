@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "شېلاخ ئوتتۇز يىل ياشىدى، ⟨את⟩ ئېبېرنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "شېلاخ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئېبېرنى"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ئېبېر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:37.913201447Z",
+  "model": "glm-5.3"
+}

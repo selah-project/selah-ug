@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "لودنىڭ ئەۋلادلىرى، خادىد ۋە ئونو ⟨ئەۋلادلىرى⟩ — يەتتە يۈز يىگىرمە بىر ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەۋلادلىرى"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لودنىڭ"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "خادىد"
+    },
+    {
+      "surface": "وאונו",
+      "gloss": "ۋە ئونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.684661971Z",
+  "model": "glm-5.3"
+}

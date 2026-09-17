@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ياھۋەھ ماڭا ئېيتتى: «بۇ خەلق ئۈچۈن ياخشىلىق تىلەپ دۇئا قىلما.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دۇئا قىلما"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ياخشىلىق تىلەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:21:16.129576409Z",
+  "model": "glm-5.3"
+}

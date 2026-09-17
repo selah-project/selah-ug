@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 27:1",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا كېلىپ دەپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:50:53.312914356Z",
+  "model": "glm-5.3"
+}

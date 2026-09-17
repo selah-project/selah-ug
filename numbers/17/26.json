@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "موسا ياھۋەھ ئۇنىڭغا ⟨את⟩ بۇيرۇغىنىدەك قىلدى — شۇنداق قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…دەك"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنى"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:18:40.711137252Z",
+  "model": "glm-5.3"
+}

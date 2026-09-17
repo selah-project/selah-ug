@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 13:40",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەگەر ئەرنىڭ بېشىدىن چېچى چۈشۈپ كەتسە، ئۇ تاقىرباش، ئۇ پاكتۇر.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ئەر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "چۈشۈپ كەتسە"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "بېشىدىن"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "تاقىرباش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاكتۇر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:56.834637786Z",
+  "model": "glm-5.3"
+}

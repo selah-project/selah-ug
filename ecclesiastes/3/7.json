@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "يىرتىش ⟨ئۈچۈن⟩ ۋاقىت، ۋە تىكىش ⟨ئۈچۈن⟩ ۋاقىت؛ سۈكۈت قىلىش ⟨ئۈچۈن⟩ ۋاقىت، ۋە سۆزلەش ⟨ئۈچۈن⟩ ۋاقىت.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "يىرتىش"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە ۋاقىت"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "تىكىش"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "سۈكۈت قىلىش"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە ۋاقىت"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "سۆزلەش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:59.978796608Z",
+  "model": "glm-5.3"
+}

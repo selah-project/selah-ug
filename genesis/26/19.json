@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "يىسھاقنىڭ چۆرىلىرى ۋادىدا كولىدى ۋە ئۇ يەردىن تىرىك سۇ قۇدۇقى تاپتى.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "كولىدى"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "چۆرىلىرى"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يىسھاقنىڭ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ۋادىدا"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "تاپتى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئۇ يەردىن"
+    },
+    {
+      "surface": "באר",
+      "gloss": "قۇدۇقى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "تىرىك"
+    }
+  ],
+  "timestamp": "2026-09-16T19:26:25.453418164Z",
+  "model": "glm-5.3"
+}

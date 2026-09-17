@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "يازدا نېنىنى تەييارلايدۇ، ھوسۇل ۋاقتىدا يېمىكىنى توپلايدۇ.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "تەييارلايدۇ"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "يازدا"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "نېنىنى"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "توپلايدۇ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ھوسۇل ۋاقتىدا"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "يېمىكىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:11.668544406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئۇ كېرۇبقا مىنىپ ئۇچتى، شامال قاناتلىرى ئۈستىدە كۆرۈندى.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "مىندى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "كېرۇب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ئۇچتى"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "كۆرۈندى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "قاناتلىرى"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "شامال"
+    }
+  ],
+  "timestamp": "2026-09-16T21:25:36.694559811Z",
+  "model": "glm-5.3"
+}

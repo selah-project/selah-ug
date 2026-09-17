@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 50,
+  "translation": "Babylon نىڭ ئىچىدىن قېچىڭلار، Chaldean لارنىڭ يېرىدىن چىقىڭلار، پادىنىڭ ئالدىدا ئۆتكەر تېكىلەردەك بولۇڭلار.",
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "قېچىڭلار"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ئىچىدىن"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "وמארץ",
+      "gloss": "يېرىدىن"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Chaldean لار"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "چىقىڭلار"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "بولۇڭلار"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "ئۆتكەر تېكىلەردەك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ئالدىدا"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "پادىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:36:37.892857872Z",
+  "model": "glm-5.3"
+}

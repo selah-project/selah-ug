@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "مېنىڭ بىلىشىمچە سەن قاتتىقسەن، گەجگەڭ تۆمۈر پەي، پېشانەڭمىس.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "مېنىڭ بىلىشىمچە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…كى"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاتتىق"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "پەي"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "تۆمۈر"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "گەجگەڭ"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "پېشانەڭ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "مىس"
+    }
+  ],
+  "timestamp": "2026-09-16T22:08:37.072436668Z",
+  "model": "glm-5.3"
+}

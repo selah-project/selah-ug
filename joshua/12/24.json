@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "تىرزا پادىشاھى — بىر. پادىشاھلارنىڭ ھەممىسى — ئوتتۇز بىر ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تىرزا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادىشاھلارنىڭ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:31.569029881Z",
+  "model": "glm-5.3"
+}

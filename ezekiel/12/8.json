@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئەتىگەندە ياھۋەھنىڭ سۆزى ماڭا ⟨كېلىپ⟩ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولۇپ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ئەتىگەندە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:42:23.712818654Z",
+  "model": "glm-5.3"
+}

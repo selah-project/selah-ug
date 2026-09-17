@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 50,
+  "translation": "ئۇنىڭ ئوغۇللىرى ئۇنىڭغا شۇنداق قىلدى — ئۇ ئۇلارغا بۇيرۇغىنىدەك.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ئۇنىڭ ئوغۇللىرى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…دەك"
+    },
+    {
+      "surface": "צום",
+      "gloss": "بۇيرۇغىنى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:11:47.277973544Z",
+  "model": "glm-5.3"
+}

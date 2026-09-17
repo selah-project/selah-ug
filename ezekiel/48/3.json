@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "ئاشېر چېگرىسىنىڭ ئۈستىدە، شەرق تەرەپتىن غەرب تەرەپكىچە — نەفتالى ⟨بىر ئۈلۈش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "چېگرىسى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشېر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "تەرەپتىن"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "شەرق"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…كىچە"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "تەرەپ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "غەرب"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نەفتالى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-17T01:31:35.754831299Z",
+  "model": "glm-5.3"
+}

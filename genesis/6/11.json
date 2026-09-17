@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "زېمىن ئېلوھىمنىڭ ئالدىدا بۇزۇلدى، زېمىن زۇلۇمغا تولدى.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "بۇزۇلدى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ئالدىدا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئېلوھىمنىڭ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "تولدى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زۇلۇمغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:50.319585911Z",
+  "model": "glm-5.3"
+}

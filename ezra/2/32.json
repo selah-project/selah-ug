@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "خارىم ئوغۇللىرى ⟨ئىدى⟩، ئۈچ يۈز يىگىرمە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارىم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "يىگىرمە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:42.500102366Z",
+  "model": "glm-5.3"
+}

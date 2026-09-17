@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "لىبنەھ، ۋە ئەتەر، ۋە ئەشەن",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "لىبنەھ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ۋە ئەتەر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ۋە ئەشەن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:09.669183521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر ئالقان-قاچا، ئون ⟨شېكېل⟩ ئالتون، ئىسرىق بىلەن تولغان.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ئالقان-قاچا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "تولغان"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ئىسرىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:27.689641461Z",
+  "model": "glm-5.3"
+}

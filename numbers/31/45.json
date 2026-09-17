@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ۋە ئېشەكلەر — ئوتتۇز مىڭ ۋە بەش يۈز.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ۋە ئېشەكلەر"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ۋە بەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-16T20:24:59.732046359Z",
+  "model": "glm-5.3"
+}

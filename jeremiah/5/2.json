@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ھەم ئەگەر «ياھۋەھ ھايات» دېيىلسە، ئۇلار چوقۇم يالغانغا قەسەم قىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ھەم ئەگەر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ھايات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دېيىلسە"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "چوقۇم"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "يالغانغا"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "قەسەم قىلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:17:55.068893312Z",
+  "model": "glm-5.3"
+}

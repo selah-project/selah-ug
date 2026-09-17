@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "باي بىلەن كەمبەغەل ئۇچرىشىدۇ، ھەممىسىنى ياسىغۇچى — ياھۋەھ.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "باي"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "بىلەن كەمبەغەل"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ئۇچرىشىدۇ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ياسىغۇچى"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ھەممىسىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:12.342223949Z",
+  "model": "glm-5.3"
+}

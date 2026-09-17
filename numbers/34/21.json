@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "بىنيامىن قەبىلىسىدىن — كىسلوننىڭ ئوغلى ئېلىداد.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بىنيامىن"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ئېلىداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "كסלון",
+      "gloss": "كىسلون"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:52.043417460Z",
+  "model": "glm-5.3"
+}

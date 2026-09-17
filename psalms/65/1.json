@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 65,
+  "translation": "ناغشىغۇچىغا، داۋۇدنىڭ مەزمۇنى، بىر ناخشا.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغشىغۇچىغا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزمۇن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇدنىڭ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ناخشا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:30:36.711392453Z",
+  "model": "glm-5.3"
+}

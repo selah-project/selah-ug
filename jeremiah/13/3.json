@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ياھۋەھنىڭ سۆزى ئىككىنچى قېتىم ماڭا كەلدى ⟨مۇنداق⟩ ⟨دەپ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ئىككىنچى قېتىم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:21:28.598447040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "يوسۇپ ئۆيىمۇ بەيت-ئەلگە قاراپ يۈكسەلدى، ۋە ياھۋەھ ئۇلار بىلەن ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "يۈكسەلدى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسۇپ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئۇلارمۇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ئۇلار بىلەن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:53:40.821653294Z",
+  "model": "glm-5.3"
+}

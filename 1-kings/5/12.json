@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئۇ ئۈچ مىڭ مەسەل سۆزلىدى، ئۇنىڭ ناخشىلىرى مىڭ بەش ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مەسەل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ئۇنىڭ ناخشىلىرى"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "مىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:31:09.895606763Z",
+  "model": "glm-5.3"
+}

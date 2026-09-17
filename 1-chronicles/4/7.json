@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "خېلاھنىڭ ئوغۇللىرى: تسېرېت، يىتساخار ۋە ئېتنان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "خېلاھنىڭ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "تسېرېت"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "يىتساخار"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ۋە ئېتنان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:14.631736179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ياھۋەھنىڭ سۆزى خانانىي ئوغلى يىھۇغا بەعشاغا قارشى بولۇپ، مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "يىھۇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "خانانىي"
+    },
+    {
+      "surface": "על",
+      "gloss": "قارشى"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بەعشا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:38:38.288968195Z",
+  "model": "glm-5.3"
+}

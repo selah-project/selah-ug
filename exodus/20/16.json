@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "قوشناڭ ⟨ئۈستىدىن⟩ يالغان گۇۋاھلىق بەرمە",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ھەرگىز"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "گۇۋاھلىق بەرمە"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "قوشناڭ ⟨ئۈستىدىن⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گۇۋاھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "يالغان"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:05.443735876Z",
+  "model": "glm-5.3"
+}

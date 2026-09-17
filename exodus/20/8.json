@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "شابات كۈنىنى ⟨את⟩ ئۇنى مۇقەددەس قىلىش ئۈچۈن ياد ئەت.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ياد ئەت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كۈنىنى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈنىنى"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شابات"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ئۇنى مۇقەددەس قىلىش ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:21.701587505Z",
+  "model": "glm-5.3"
+}

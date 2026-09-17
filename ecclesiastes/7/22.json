@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "چۈنكى سېنىڭ كۆڭلۈڭ نۇرغۇن قېتىم بىلىدۇ — سەن ⟨את⟩ ھەم باشقىلارنى تىللىغانىدىڭ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "قېتىم"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "نۇرغۇن"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلىدۇ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "كۆڭلۈڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەن"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "تىللىغانىدىڭ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "باشقىلارنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:32.892753040Z",
+  "model": "glm-5.3"
+}

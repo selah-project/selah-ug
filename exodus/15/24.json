@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە خەلق مۇسادىن كوتۇلدى، دەپ: «نېمە ئىچەيلى؟»",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ۋە كوتۇلدى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "על",
+      "gloss": "مۇسادىن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ئىچەيلى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:42:47.510055920Z",
+  "model": "glm-5.3"
+}

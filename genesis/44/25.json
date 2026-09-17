@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 44,
+  "translation": "ئاتىمىز: قايتىڭلار، بىزگە ئازغىنە ئوزۇق سېتىۋېلىڭلار، دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە دېدى"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ئاتىمىز"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "قايتىڭلار"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "سېتىۋېلىڭلار"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بىزگە"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ئازغىنە"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ئوزۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T19:35:45.537387074Z",
+  "model": "glm-5.3"
+}

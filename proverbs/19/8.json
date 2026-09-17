@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "قەلب ئالغۇچى ⟨كىشى⟩ ئۆز جانىنى سۆيىدۇ، ئەقىلنى ساقلىغۇچى ياخشىلىق تاپىدۇ.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ئالغۇچى"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قەلب"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "سۆيىدۇ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ئۆز جانىنى"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساقلىغۇچى"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ئەقىلنى"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "تاپىدۇ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T01:35:53.177588258Z",
+  "model": "glm-5.3"
+}

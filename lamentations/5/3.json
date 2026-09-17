@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "يېتىم بولدۇق، ئاتىمىز يوق؛ ئانىلىرىمىز تۇل خوتۇنلاردەك.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "يېتىم"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بولدۇق"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ئاتىمىز"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ئانىلىرىمىز"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "تۇل خوتۇنلاردەك"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.454771033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 15:23",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە قەدەش، ۋە خاتسور، ۋە يىتنان —",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "ۋە قەدەش"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ۋە خاتسور"
+    },
+    {
+      "surface": "ויתנן",
+      "gloss": "ۋە يىتنان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:06.497334355Z",
+  "model": "glm-5.3"
+}

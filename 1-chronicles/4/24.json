@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "شىمئوننىڭ ئوغۇللىرى: نەمۇئەل، ۋە يامىن، يارىب، زەرەھ، شەئۇل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شىمئوننىڭ"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "نەمۇئەل"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ۋە يامىن"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "يارىب"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زەرەھ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شەئۇل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:25.211704864Z",
+  "model": "glm-5.3"
+}

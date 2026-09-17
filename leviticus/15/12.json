@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "زاب تەگكەن ساپال قاچا سۇندۇرۇلىدۇ؛ ياغاچ قاچىنىڭ ھەممىسى سۇدا چايقىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "قاچا"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ساپال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "تەگكەن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "زاب"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "سۇندۇرۇلىدۇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "قاچا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ياغاچ"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "چايقىلىدۇ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "سۇدا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:03:39.532472408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 139,
+  "translation": "نەگە بېرىپ ⟨قاچىمەن⟩ رۇھۇڭدىن؟ نەگە قاچىمەن يۈزۈڭدىن؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "نەگە"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "بېرىپ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "رۇھۇڭدىن"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ۋە نەگە"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "يۈزۈڭدىن"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "قاچىمەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:45:54.412956920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 128,
+  "translation": "قارا، شۇنداقلا بەرىكەتلىنىدۇ ياھۋەھدىن قورققان ⟨ئەر⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "شۇنداقلا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "بەرىكەتلىنىدۇ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨ئەر⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "قورققان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:44:15.732565528Z",
+  "model": "glm-5.3"
+}

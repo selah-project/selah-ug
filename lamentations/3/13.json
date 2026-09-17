@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ⟨مېنىڭ⟩ بۆرەكلىرىمگە ئوق ساندۇقىنىڭ بالىلىرىنى كىرگۈزدى.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "كىرگۈزدى"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "بۆرەكلىرىمگە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرىنى"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ئوق ساندۇقىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:59.152176496Z",
+  "model": "glm-5.3"
+}

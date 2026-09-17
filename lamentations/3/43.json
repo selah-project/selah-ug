@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "غەزەپ بىلەن ⟨بىزنى⟩ يوشۇردۇڭ، قوغلىدىڭ؛ ئۆلتۈردۈڭ — ئىچ ئاغرىتمىدىڭ",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "يوشۇردۇڭ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غەزەپ بىلەن"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "قوغلىدىڭ"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "ئۆلتۈردۈڭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "ئىچ ئاغرىتتىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:50.572592744Z",
+  "model": "glm-5.3"
+}

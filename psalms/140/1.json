@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 140,
+  "translation": "ناغما باشلىغۇچىغا — داۋۇتنىڭ مەدھىيەسى.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغما باشلىغۇچىغا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەدھىيە"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇتنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:45:57.254222499Z",
+  "model": "glm-5.3"
+}

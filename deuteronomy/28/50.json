@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "چىرايى قاتتىق بىر مىللەت — قېرىغا يۈز بەرمەيدىغان، ياشقا ئىچ ئاغرىتمايدىغان.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "بىر مىللەت"
+    },
+    {
+      "surface": "עז",
+      "gloss": "قاتتىق"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چىرايى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىمكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يۈز بەرمەيدىغان"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "قېرىغا"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ياشقىمۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ئىچ ئاغرىتمايدىغان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:37.349637135Z",
+  "model": "glm-5.3"
+}

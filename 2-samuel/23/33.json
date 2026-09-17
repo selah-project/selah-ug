@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "شامماھ ھەھرارىلىق، ئاخىئام شارارنىڭ ئوغلى ھەئرارىلىق.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شامماھ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ھەھرارىلىق"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ئاخىئام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "شارار"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ھەئرارىلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T21:28:06.911279609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەگەر گۆشتە، ئۇنىڭ تېرىسىدە بىر چاقا بولۇپ، ئۇ ساقىيىپ قالسا،",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ئەگەر گۆشتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭدا"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "تېرىسىدە"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "چاقا"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "ساقىيىپ قالسا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:22.067213707Z",
+  "model": "glm-5.3"
+}

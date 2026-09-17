@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۇ ئۇلارغا بۇ سۆز ⟨بويىچە⟩ قۇلاق سالدى ۋە ئۇلارنى ئون كۈن سىنىدى.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "قۇلاق سالدى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "سۆزگە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "سىنىدى"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:21:38.688238899Z",
+  "model": "glm-5.3"
+}

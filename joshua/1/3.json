@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "پۇتۇڭلارنىڭ تاپىنى باستىغان ھەر بىر جاي — سىلەرگە بەردىم، موساغا سۆزلىگىنىمدەك:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "باستىغان"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تاپىنى"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "پۇتۇڭلارنىڭ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنى"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "بەردىم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…دەك"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "سۆزلىگىنىمدە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:45:46.064113605Z",
+  "model": "glm-5.3"
+}

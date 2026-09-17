@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ئىككىنچى ئايدا، ئاينىڭ يىگىرمە يەتتىنچى كۈنى، يەر پۈتۈنلەي قۇرۇدى.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ئايدا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ئىككىنچى"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "يەتتى"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ئاينىڭ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "پۈتۈنلەي قۇرۇدى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:02.379347660Z",
+  "model": "glm-5.3"
+}

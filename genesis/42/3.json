@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "يۇسۇفنىڭ ئون قېرىندىشى مىسىردىن ئاشلىق ئالغىلى چۈشتى.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "چۈشتى"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "قېرىندىشى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يۇسۇفنىڭ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ئالغىلى"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ئاشلىق"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مىسىردىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:34:47.925174339Z",
+  "model": "glm-5.3"
+}

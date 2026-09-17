@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "مۇسا ⟨ئۇنى⟩ ئاڭلىدى، ئۇنىڭ كۆزىدە ياخشى بولدى.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ئاڭلىدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ياخشى بولدى"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ئۇنىڭ كۆزىدە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:20.709930724Z",
+  "model": "glm-5.3"
+}

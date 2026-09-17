@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "ياھۋەھ ⟨את⟩ موسانى بۇيرۇغىنىدەك، سەلوفھادنىڭ قىزلىرى شۇنداق قىلدى.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…نىدەك"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۇسانى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىزلىرى"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "سەلوفھاد"
+    }
+  ],
+  "timestamp": "2026-09-16T20:27:54.952262698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "پەيغەمبەرگە شۇنداق دەيسىڭ: ياھۋەھ ساڭا نېمە دەپ جاۋاب بەردى، ياھۋەھ نېمە دېدى؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دەيسىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پەيغەمبەر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "جاۋاب بەردى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ۋە نېمە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:25:36.980471489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئى ئىنسان ئوغلى، يۈزۈڭنى سىدونغا قارات ۋە ئۇنىڭغا مۇنبىرلىك قىل،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "قارات"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "يۈزۈڭنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ئىچىدە⟩"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "سىدونغا"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ۋە مۇنبىرلىك قىل"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:51:43.705987205Z",
+  "model": "glm-5.3"
+}

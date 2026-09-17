@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ⟨את⟩ ئارنەبەت — چۈنكى ئۇ كۆشەيدۇ، ئەمما تۇياق يېرىپ بەرمىدى — ئۇ سىلەرگە ناپاك.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئارنەبەت"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ئارنەبەت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "كۆشەيدۇ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "كۆش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "تۇياق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمما…بەرمىدى"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "يېرىپ بەرمىدى"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ناپاك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:32.782210677Z",
+  "model": "glm-5.3"
+}

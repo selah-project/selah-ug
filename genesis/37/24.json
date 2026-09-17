@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 37,
+  "translation": "ئۇلار ئۇنى ئېلىپ، ⟨את⟩ ئۇنى قۇدۇققا تاشلىدى؛ قۇدۇق بوش ⟨ئىدى⟩، ئىچىدە سۇ يوق ئىدى.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ئۇنى ئېلىپ"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "تاشلىدى"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنى"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "قۇدۇققا"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "قۇدۇق"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بوش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئىچىدە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:32:27.957144514Z",
+  "model": "glm-5.3"
+}

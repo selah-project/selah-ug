@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "پەرماننى ساقلىغۇچى يامان ئىشنى بىلمەيدۇ، ۋاقىت ۋە ھۆكۈمنى ھېكىمنىڭ قەلبى بىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ساقلىغۇچى"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "پەرماننى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلىدۇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ئىش"
+    },
+    {
+      "surface": "רע",
+      "gloss": "يامان"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە ۋاقىت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ھۆكۈمنى"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلىدۇ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قەلبى"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ھېكىم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:40.344928311Z",
+  "model": "glm-5.3"
+}

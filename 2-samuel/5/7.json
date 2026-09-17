@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "داۋۇد سىيون قورغانىنى ⟨את⟩ ئىگىلىدى — ئۇ داۋۇدنىڭ شەھىرىدۇر.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ئىگىلىدى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داۋۇد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سىيون قورغانىنى"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "قورغانى"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سىيون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شەھىرى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داۋۇدنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:19:58.880225087Z",
+  "model": "glm-5.3"
+}

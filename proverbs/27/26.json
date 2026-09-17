@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "قوزىلار كىيىمىڭگە، ۋە تېكىلەر ئېتىزنىڭ باھاسىغا.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "قوزىلار"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "كىيىمىڭگە"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "باھاسىغا"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ئېتىزنىڭ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "تېكىلەر"
+    }
+  ],
+  "timestamp": "2026-09-16T23:56:15.421019400Z",
+  "model": "glm-5.3"
+}

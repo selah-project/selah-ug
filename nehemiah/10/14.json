@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ھودىياھ، باني، بېنىنۇ.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ھودىياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "بېنىنۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:24.131820774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ھەمدە ئىششىق، قاپارتما ۋە ئاق داغ ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "ולשאت",
+      "gloss": "ئىششىق"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "قاپارتما"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "ئاق داغ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:30.628039315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 89,
+  "translation": "ياھۋەھ ⟨مۇبارەكتۇر⟩ ⟨ئەبەدكە⟩ — ئامېن ۋە ئامېن.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مۇبارەكتۇر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ئەبەدكە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامېن"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ۋە ئامېن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:36:31.229921008Z",
+  "model": "glm-5.3"
+}

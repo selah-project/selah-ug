@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ئاناكە، ۋە كۇئاچ، ۋە لەتائە، ۋە خومەت، ۋە تىنشامەت.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ۋە ئاناكە"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ۋە كۇئاچ"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ۋە لەتائە"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ۋە خومەت"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ۋە تىنشامەت"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:58.076560431Z",
+  "model": "glm-5.3"
+}

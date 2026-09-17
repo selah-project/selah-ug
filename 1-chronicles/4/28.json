@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئۇلار بېئەر-شەۋەدە، مولادادا ۋە خاتسار-شۇئالدا ئولتۇراقلاشتى.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ئولتۇراقلاشتى"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "بېئەر-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەۋەدە"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ۋە مولادادا"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ۋە خاتسار-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شۇئالدا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:42.489302303Z",
+  "model": "glm-5.3"
+}

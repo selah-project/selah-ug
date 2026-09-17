@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "يىغلاشقا چاغ، ۋە كۈلۈشكە چاغ؛ ماتەم تۇتۇشقا چاغ، ۋە ئۇسسۇلغا چاغ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "چاغ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "يىغلاشقا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە چاغ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "كۈلۈشكە"
+    },
+    {
+      "surface": "עת",
+      "gloss": "چاغ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ماتەم تۇتۇشقا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە چاغ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ئۇسسۇلغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:27.601840198Z",
+  "model": "glm-5.3"
+}

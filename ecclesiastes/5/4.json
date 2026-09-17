@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "نەزىر قىلمىغىنىڭ ياخشىدۇر، نەزىر قىلىپ ئادا قىلمىغىنىڭدىن ⟨ياخشىدۇر⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "قىلمىغىنىڭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "<ئىنكار>"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نەزىر"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "نەزىر قىلىپ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە <ئىنكار>"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ئادا قىلمىغىنىڭدىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:02.214523733Z",
+  "model": "glm-5.3"
+}

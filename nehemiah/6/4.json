@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇلار ماڭا مۇشۇ سۆز بىلەن تۆت قېتىم ئەۋەتتى، مەن ئۇلارغا مۇشۇ سۆز بىلەن جاۋاب بەردىم.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ئەۋەتتى"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "كדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "مۇشۇ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "قېتىم"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "جاۋاب بەردىم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ئۇلارغا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "مۇشۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:01.975998273Z",
+  "model": "glm-5.3"
+}

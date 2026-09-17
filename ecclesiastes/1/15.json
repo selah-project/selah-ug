@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "مايماق نەرسىنى تۈزۈتۈشكە بولمايدۇ، كەم نەرسىنى ساناشقا بولمايدۇ.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "مايماق نەرسە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "تۈزۈتۈشكە"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "كەم نەرسە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ساناشقا"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:12.313369783Z",
+  "model": "glm-5.3"
+}

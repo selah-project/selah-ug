@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "شېشان قىزىنى چاكىرى يارھاغا خوتۇنلۇققا بەردى، ئۇ ئۇنىڭغا ⟨את⟩ ئاتتاينى تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "بەردى"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شېشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قىزىنى"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "قىزىنى"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "يارھاغا"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "چاكىرى"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "خوتۇنلۇققا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاتتاينى"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "ئاتتاينى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:59.163404665Z",
+  "model": "glm-5.3"
+}

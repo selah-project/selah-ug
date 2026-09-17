@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئەلىيوننىڭ ⟨ئېغىزىدىن⟩ يامانلىقلار ۋە ياخشىلىق چىقماسمۇ؟",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ئېغىزىدىن"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ئەلىيون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئوق"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "چىقمايدۇ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "يامانلىقلار"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ۋە ياخشىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:05.255909015Z",
+  "model": "glm-5.3"
+}

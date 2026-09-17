@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئەگەر سېنىڭ بىزنى پۈتۈنلەي رەت قىلغىنىڭ، بىزگە قاتتىق غەزەپلەنگىنىڭ بولمىسا ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بولمىسا"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "پۈتۈنلەي"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "بىزنى رەت قىلغىنىڭ"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "غەزەپلەنگىنىڭ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بىزگە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "قاتتىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:29.057580014Z",
+  "model": "glm-5.3"
+}

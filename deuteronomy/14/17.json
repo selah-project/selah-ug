@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە قاقات ⟨بىلەن⟩ راھاما ۋە ⟨بىلەن⟩ شالاھنى",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ۋە قاقات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "راھاما"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "راھاما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شالاھ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شالاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:04.699378568Z",
+  "model": "glm-5.3"
+}

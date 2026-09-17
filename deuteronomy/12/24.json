@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئۇنى يېمە، يەر ئۈستىگە سۇدەك تۆككىن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ئۇنى يېگىلى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "تۆككىن"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "سۇدەك"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:27.690540053Z",
+  "model": "glm-5.3"
+}

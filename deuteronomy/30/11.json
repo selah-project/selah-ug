@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈنكى بۇ بۇيرۇق — مەن ساڭا بۈگۈن بۇيرۇغان نەرسە — سەندىن ⟨ئۇ⟩ سىرلىق ئەمەس، ⟨ئۇ⟩ يىراقمۇ ئەمەس.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "بۇيرۇق"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ساڭا بۇيرۇغان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "بۈگۈن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "سىرلىق"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "سەندىن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "يىراق"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:40.567074834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "چۈنكى پاھىشە ⟨بىر⟩ چوڭقۇر ئازگال، ناتونۇش ⟨ئايال⟩ بولسا تار قۇدۇق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ئازگال"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "چوڭقۇر"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "پاھىشە"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "قۇدۇق"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تار"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ناتونۇش"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:23.529406719Z",
+  "model": "glm-5.3"
+}

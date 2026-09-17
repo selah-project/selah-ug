@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "يەتتە يىلنىڭ ⟨ئاخىرىدا⟩ سەن شېمىتتا قىلىسەن.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "ئاخىرىدا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "قىلىسەن"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "شېمىتتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:35.753856965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئىسرائىلدىكى ھەر خېرەم نەرسە ساڭا بولۇر.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خېرەم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ئىسرائىلدا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولۇر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:19:02.618955110Z",
+  "model": "glm-5.3"
+}

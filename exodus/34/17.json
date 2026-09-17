@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "قۇيما ئېلوھىم ياسىما ئۆزۈڭگە.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "قۇيما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ياسىما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:53:00.484783718Z",
+  "model": "glm-5.3"
+}

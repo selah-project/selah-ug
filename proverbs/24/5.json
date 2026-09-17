@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئەقىللىق كىشى كۈچتە ⟨ئۇلۇغ⟩، بىلىملىك كىشى بولسا كۈچنى كۈچەيتىدۇ.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ئەقىللىق"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "كۈچتە"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "بىلىملىق كىشى بولسا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بىلىملىق"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "كۈچەيتىدۇ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "كۈچنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:53.014531840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "ئەگەر سەن چىقىشنى رەت قىلساڭ، بۇ — ياھۋەھ ماڭا كۆرسەتكەن سۆزدۇر:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "رەت قىلساڭ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "چىقىشنى"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ماڭا كۆرسەتكەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:32:49.498506377Z",
+  "model": "glm-5.3"
+}

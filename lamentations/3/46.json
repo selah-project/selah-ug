@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "بارلىق دۈشمەنلىرىمىز ئاغزىنى بىزگە قارىتىپ ئېچىۋەتتى.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ئېچىۋەتتى"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بىزگە قارىتىپ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ئاغزىنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "دۈشمەنلىرىمىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:42.271790543Z",
+  "model": "glm-5.3"
+}

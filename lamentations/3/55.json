@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھ، ئىسمىڭنى ئۆڭكۈرنىڭ ئەڭ تۆۋىنىدىن چاقىردىم.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "چاقىردىم"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ئىسمىڭنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ئۆڭكۈردىن"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ئەڭ تۆۋىسىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:04.470929861Z",
+  "model": "glm-5.3"
+}

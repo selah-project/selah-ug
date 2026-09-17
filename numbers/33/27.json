@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇلار تاھاتتىن يولغا چىقتى ۋە تاراھتا لاگېر قۇردى.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "يولغا چىقتى"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تاھاتتىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "لاگېر قۇردى"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "تاراھتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:33.540450990Z",
+  "model": "glm-5.3"
+}

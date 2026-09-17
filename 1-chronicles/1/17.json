@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "شەمنىڭ ئوغۇللىرى: ئەيلام، ئەششۇر، ئەرپەخشاد، لۇد، ئارام، ئۇتس، خۇل، گەتەر ۋە مەشەخ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شەم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ئەيلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ئەششۇر"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ئەرپەخشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "لۇد"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "ئۇتس"
+    },
+    {
+      "surface": "وחול",
+      "gloss": "خۇل"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "گەتەر"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "مەشەخ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:42.329879682Z",
+  "model": "glm-5.3"
+}

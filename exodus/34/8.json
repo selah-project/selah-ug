@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "مۇسا ئالدىراپ يەرگە ئېڭىشتى ۋە سەجدە قىلدى.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ئالدىراپ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ئېڭىشتى"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "يەرگە"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "سەجدە قىلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:53:23.227144938Z",
+  "model": "glm-5.3"
+}

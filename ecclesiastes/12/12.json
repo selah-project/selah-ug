@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئۇلاردىن ئارتۇق نەرسە توغرىسىدا ئىنىم، ھەزەر قىل: كۆپ كىتاب يېزىشنىڭ ئاخىرى يوق، كۆپ سۆزلەش گۆشنى چارچىتىدۇ.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ئارتۇق"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "ئۇلاردىن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئىنىم"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "ھەزەر قىل"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "يېزىش"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "كىتاب"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ئاخىر"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "كۆپ سۆزلەش"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "چارچىتىدۇ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:19:12.021320035Z",
+  "model": "glm-5.3"
+}

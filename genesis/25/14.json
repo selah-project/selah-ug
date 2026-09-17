@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ۋە مىشمائا، ۋە دۇما، ۋە مەسسا —",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "ۋە مىشمائا"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ۋە دۇما"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "ۋە مەسسا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:37.873218400Z",
+  "model": "glm-5.3"
+}

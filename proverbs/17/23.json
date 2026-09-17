@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "يامۇل قوينىدىن پارا ئالىدۇ — ئادالەت يوللىرىنى بۇراش ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "پارا"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "قوينىدىن"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "يامۇل"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ئالىدۇ"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "بۇراش ئۈچۈن"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "يوللىرىنى"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ئادالەت"
+    }
+  ],
+  "timestamp": "2026-09-16T23:52:17.802301397Z",
+  "model": "glm-5.3"
+}

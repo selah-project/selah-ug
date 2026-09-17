@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "قارغىلانغۇسى سېۋىتىڭ ۋە خېمىرتۇرۇچۇڭ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "قارغىلانغۇسى"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سېۋىتىڭ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ۋە خېمىرتۇرۇچۇڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:16:46.908081532Z",
+  "model": "glm-5.3"
+}

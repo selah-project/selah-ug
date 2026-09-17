@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "قۇياشنىمۇ كۆرمىدى، بىلمىدىمۇ؛ بۇنىڭغا ئۇنىڭدىن بەكرەك راھەت بار.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "قۇياشنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "كۆرمىدى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلمىدى"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "راھەت"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "بۇنىڭغا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ئۇنىڭدىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:17.479399584Z",
+  "model": "glm-5.3"
+}

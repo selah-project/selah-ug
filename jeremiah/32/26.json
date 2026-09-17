@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "شۇنىڭ بىلەن ياھۋەھنىڭ سۆزى يىرمىياھقا بولۇپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياھقا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېيىش ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T22:29:09.215967324Z",
+  "model": "glm-5.3"
+}

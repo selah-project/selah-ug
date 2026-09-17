@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ۋە ئۇلار ماڭا ئەل بولىدۇ، ۋە مەن ئۇلارغا ئېلوھىم بولىمەن.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ۋە مەن"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بولىمەن"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ئېلوھىم"
+    }
+  ],
+  "timestamp": "2026-09-16T22:29:24.348499131Z",
+  "model": "glm-5.3"
+}

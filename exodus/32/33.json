@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ياھۋەھ موساغا: «كىمكى ماڭا ⟨ئAgainst⟩ گۇناھ قىلسا، ئۇنى كىتابىمدىن ئۆچۈرىمەن» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىمكى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گۇناھ قىلسا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "ئۇنى ئۆچۈرىمەن"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "كىتابىمدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:52:40.379554768Z",
+  "model": "glm-5.3"
+}

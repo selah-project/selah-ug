@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "بۇلارنىڭ ھەممىسى سىددىم ۋادىسىغا — ئۇ تۇز دېڭىزىدۇر — بىرلەشتى.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلارنىڭ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "بىرلەشتى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يۈزلىنىپ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ۋادىسىغا"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "سىددىم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دېڭىزىدۇر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "تۇز"
+    }
+  ],
+  "timestamp": "2026-09-17T01:10:49.381600284Z",
+  "model": "glm-5.3"
+}

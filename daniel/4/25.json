@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "بۇنىڭ ھەممىسى نەبۇخادنەسسەر پادىشاھنىڭ ئۈستىگە كەلدى.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نەبۇخادنەسسەر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادىشاھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:24:11.950863113Z",
+  "model": "glm-5.3"
+}

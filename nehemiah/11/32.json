@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئاناتوت، نوۋ، ئانانىيا",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "ئاناتوت"
+    },
+    {
+      "surface": "نב",
+      "gloss": "نوۋ"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "ئانانىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:14.429495370Z",
+  "model": "glm-5.3"
+}

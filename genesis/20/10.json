@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ئابىمەلەك ئىبراھىمغا ئېيتتى: «نېمىنى كۆردۈڭكى، ⟨את⟩ مۇشۇ ئىشنى قىلدىڭ؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئابىمەلەك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "كۆردۈڭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "قىلدىڭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۇشۇ ئىشنى"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئىشنى"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "مۇشۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:52.146382351Z",
+  "model": "glm-5.3"
+}

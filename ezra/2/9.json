@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "زاككاينىڭ بالىلىرى — يەتتە يۈز ئاتمىش ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "زכי",
+      "gloss": "زاككاينىڭ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:54.036842262Z",
+  "model": "glm-5.3"
+}

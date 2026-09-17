@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھېكمەت ھېكىمگە كۈچ بېرىدۇ — شەھەردە بولغان ئون ھۆكۈمداردىنمۇ بەكرەك.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "كۈچ بېرىدۇ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ھېكىمگە"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ئوندىن"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ھۆكۈمدار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شەھەردە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:15.607423843Z",
+  "model": "glm-5.3"
+}

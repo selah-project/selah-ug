@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ئىسرائىل گىبئەگە قارشى تۆت ئەتراپىغا پىستىرما قويدى.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "پىستىرمىلار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قارشى"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گىبئە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "تۆت ئەتراپىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:04:16.517737830Z",
+  "model": "glm-5.3"
+}

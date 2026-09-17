@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "يېرىخو ⟨ئوغۇللىرى⟩ — ئۈچ يۈز قىرىق بەش ⟨كىشى⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يېرىخو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ۋە بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:16.403277485Z",
+  "model": "glm-5.3"
+}

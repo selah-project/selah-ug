@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "شەت يۈز بەش يىل ياشىدى، ئاندىن ⟨ئۇ⟩ ئېنوشنى ⟨توغدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شەت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئېنوشنى"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ئېنوش"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:54.406638679Z",
+  "model": "glm-5.3"
+}

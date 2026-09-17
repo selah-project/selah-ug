@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "نەتانەئل ⟨تۆتىنچى⟩، رادداي ⟨بەشىنچى⟩.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتانەئل"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "تۆتىنچى"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "رادداي"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "بەشىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:53.829871811Z",
+  "model": "glm-5.3"
+}

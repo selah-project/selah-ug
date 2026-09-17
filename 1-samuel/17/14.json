@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ۋە داۋۇت بولسا كىچىكى ئىدى؛ ئۈچ چوڭى شاۋۇلنىڭ كەينىدىن ماڭدى.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ۋە داۋۇت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۆزى"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "كىچىكى"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "چوڭى"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ماڭدى"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "كەينىدىن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاۋۇلنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:11:17.510994782Z",
+  "model": "glm-5.3"
+}

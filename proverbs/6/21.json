@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇلارنى دىلىڭغا ئۈزلۈكسىز باغلا، ئۇلارنى گېلىڭگە چات.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ئۇلارنى باغلا"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دىلىڭ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ئۈزلۈكسىز"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "ئۇلارنى چات"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "گېلىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:18.108230712Z",
+  "model": "glm-5.3"
+}

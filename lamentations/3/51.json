@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "كۆزۈم جانىمغا زىيان يەتكۈزدى، شەھرىمنىڭ بارلىق قىزلىرى سەۋەبىدىن.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "كۆزۈم"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "زىيان يەتكۈزدى"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "جانىمغا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "بارلىق…دىن"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىزلىرى"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "شەھرىمنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.518347894Z",
+  "model": "glm-5.3"
+}

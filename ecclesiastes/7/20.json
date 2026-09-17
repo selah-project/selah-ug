@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "چۈنكى يەر يۈزىدە ياخشىلىق قىلىپ گۇناھ قىلمايدىغان ئادىل ئادەم ⟨بىرمۇ⟩ يوق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ئادىل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يەر يۈزىدە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "قىلىدىغان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىلىق"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "قىلمايدىغان"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گۇناھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:15.607560324Z",
+  "model": "glm-5.3"
+}

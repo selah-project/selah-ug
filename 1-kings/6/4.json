@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇ ئۆيگە ئىچى كەڭ، سىرتى تار دەرىزىلەرنى ئىشلىدى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ئىشلىدى"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ئۆيگە"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "دەرىزىلەرنى"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "سىرتى تار"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "ئىچى كەڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:31:35.620467943Z",
+  "model": "glm-5.3"
+}

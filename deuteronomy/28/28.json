@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ياھۋەھ سېنى جۈيلۈش، كورلۇق ۋە يۈرەكنىڭ ھەيرانلىقى بىلەن ئۇرىدۇ.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "سېنى ئۇرىدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "جۈيلۈش بىلەن"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "كورلۇق"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "ھەيرانلىق"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "يۈرەكنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:06.000698056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "بوينىمىز ئۈستىدە قوغلىندۇق، ھاردۇق، بىزگە ئارام بېرىلمىدى.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "بوينىمىز"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "قوغلىندۇق"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ھاردۇق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "بېرىلمىدى"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بىزگە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.434845894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "نېمە ئۈچۈن تىرىك ئىنسان، ئەركەك، ئۆز گۇناھىنىڭ ⟨جازاسى⟩ ئۈچۈن ئاغرىنىدۇ؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "نېمە ئۈچۈن"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ئاغرىنىدۇ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "تىرىك"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ئەركەك"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گۇناھى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:05.256055135Z",
+  "model": "glm-5.3"
+}

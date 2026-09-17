@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 46,
+  "translation": "ئىسساخارنىڭ ئوغۇللىرى — تولا، پۇۋاھ، يوب ۋە شىمرون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ئىسساخارنىڭ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تولا"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "پۇۋاھ"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "يوب"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "شىمرون"
+    }
+  ],
+  "timestamp": "2026-09-16T19:35:30.857100440Z",
+  "model": "glm-5.3"
+}

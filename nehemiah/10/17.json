@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئادونىياھ، بىگۋاي، ئادىن،",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "ئادونىياھ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بىگۋاي"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ئادىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:14.878469743Z",
+  "model": "glm-5.3"
+}

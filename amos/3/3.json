@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئىككى ⟨كىشى⟩ كېلىشمىسە، بىرگە ماڭامدۇ؟",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ماڭامدۇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بىرگە"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "بولمىسا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "كېلىشسە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:05:20.129493359Z",
+  "model": "glm-5.3"
+}

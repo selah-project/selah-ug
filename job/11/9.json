@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئۇنىڭ ئۆلچىمى يەردىن ئۇزۇن، دېڭىزدىن كەڭ.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ئۇزۇنراق"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "يەردىن"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ئۆلچىمى"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "كەڭرەك"
+    },
+    {
+      "surface": "מני",
+      "gloss": "−دىن"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دېڭىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:00:24.421122726Z",
+  "model": "glm-5.3"
+}

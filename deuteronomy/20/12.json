@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ئەگەر ئۇ سەن بىلەن تىنچلىق قىلمىسا، بەلكى سەن بىلەن ئۇرۇش قىلسا، ئۇنى قورشىۋالغىن.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "قىلمىسا"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "تىنچلىق"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "سەن بىلەن"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "قىلسا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "سەن بىلەن"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "قورشىۋالغىن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ئۇنى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:14.909227416Z",
+  "model": "glm-5.3"
+}

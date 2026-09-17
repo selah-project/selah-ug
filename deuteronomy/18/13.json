@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ياھۋەھ ئېلوھىڭ بىلەن ⟨سەن⟩ كامىل بولغىن.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "كامىل"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بولغىن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئېلوھىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:37:08.794752558Z",
+  "model": "glm-5.3"
+}

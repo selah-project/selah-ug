@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر تېكە، ئۆچكىلەرنىڭ بالىسى، گۇناھ قوربانلىقى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تېكە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكىلەرنىڭ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گۇناھ قوربانلىقى ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:27.689900522Z",
+  "model": "glm-5.3"
+}

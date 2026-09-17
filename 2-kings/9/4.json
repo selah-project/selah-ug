@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ھېلىقى يىگىت — پەيغەمبەرنىڭ يىگىتى — راموت-گىلئادقا كەتتى.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "كەتتى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "يىگىت"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "يىگىت"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پەيغەمبەرنىڭ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گىلئاد"
+    }
+  ],
+  "timestamp": "2026-09-16T21:45:11.908203944Z",
+  "model": "glm-5.3"
+}

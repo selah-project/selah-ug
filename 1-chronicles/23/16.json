@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "گېرشومنىڭ ئوغۇللىرى — شەۋۇئەل، ⟨ئۇ⟩ باش بولغۇچى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گېرشومنىڭ"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "شەۋۇئەل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "باش بولغۇچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:47.825171347Z",
+  "model": "glm-5.3"
+}

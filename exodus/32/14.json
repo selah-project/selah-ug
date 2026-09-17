@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ۋە ياھۋەھ خەلقىگە قىلىشقا سۆزلىگەن يامانلىقتىن پۇشمان چەكتى.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "پۇشمان چەكتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تىن"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "يامانلىق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلىگەن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "قىلىشقا"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "خەلقىگە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:53:17.524896350Z",
+  "model": "glm-5.3"
+}

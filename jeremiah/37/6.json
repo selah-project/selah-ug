@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 37,
+  "translation": "ئاندال ياھۋەھنىڭ سۆزى نەبى يىرمىياھۇغا كېلىپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياھۇ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نەبى"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:31:20.644531235Z",
+  "model": "glm-5.3"
+}

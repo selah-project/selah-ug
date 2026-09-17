@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "يامانلار ئۇنداق ئەمەس، بەلكى شامال ئۇچۇرۇپ كېتىدىغان ساماندەك.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئۇنداق"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "يامانلار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەلكى"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ساماندەك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىشىكى"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ئۇچۇرۇپ كېتىدىغان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "شامال"
+    }
+  ],
+  "timestamp": "2026-09-16T23:19:25.981754042Z",
+  "model": "glm-5.3"
+}

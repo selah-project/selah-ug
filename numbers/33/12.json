@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇلار سىن چۆلىدىن يولغا چىقىپ، دوفقاھتا لاگېر قۇردى.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "يولغا چىقتىلار"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "چۆلىدىن"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "لاگېر قۇردى"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "دوفقاھتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:40.910965858Z",
+  "model": "glm-5.3"
+}

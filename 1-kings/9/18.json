@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ۋە ⟨את⟩ بەعلاتنى ۋە ⟨את⟩ تامارنى چۆلدە، ⟨ئۇ⟩ يەردە",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "بەعلاتنى"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بەعلاتنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "تامارنى"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامارنى"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "چۆلدە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يەردە"
+    }
+  ],
+  "timestamp": "2026-09-16T21:34:06.023883445Z",
+  "model": "glm-5.3"
+}

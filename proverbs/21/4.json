@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "كۆز كۆتۈرۈش ۋە كۆڭۈل كېڭەيتىش — يامانلارنىڭ ⟨ئېتىزى⟩ — گۇناھ.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "كۆتۈرۈش"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "كۆز"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ۋە كېڭەيتىش"
+    },
+    {
+      "surface": "לב",
+      "gloss": "كۆڭۈل"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ئېتىز"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "يامانلارنىڭ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گۇناھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:00.538505543Z",
+  "model": "glm-5.3"
+}

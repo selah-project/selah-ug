@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئاھىتۇب توغدى ⟨את⟩ زادوكنى، زادوك توغدى ⟨את⟩ شاللۇم نى.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ئاھىتۇب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زادوك"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "زادوك"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "زادوك"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاللۇم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شاللۇم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:02.196885068Z",
+  "model": "glm-5.3"
+}

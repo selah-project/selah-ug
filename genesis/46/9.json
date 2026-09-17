@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 46,
+  "translation": "رەئۇبېننىڭ ئوغۇللىرى: خانوخ، پالّۇ، خېتسرون ۋە كارمى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رەئۇبېننىڭ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خانوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "پالّۇ"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "خېتسرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "كارمى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:35:27.205922780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ۋە پىرئەۋن يۈرۈلدى ۋە ئۆيىگە كىردى، ۋە بۇنىڭغىمۇ يۈرىكىنى قويمىدى.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ۋە يۈرۈلدى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پىرئەۋن"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ۋە كىردى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...گە"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ئۆيى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ئەمەس"
+    },
+    {
+      "surface": "שת",
+      "gloss": "قويمىدى"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "يۈرىكىنى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "...گىمۇ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "بۇنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:38:47.950508157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ئېغىزىڭنى ئاچ، ھەق ھۆكۈم قىل، نامرات ۋە مىسكىنگە ⟨ئادىللىق قىل⟩.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ئاچ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ئېغىزىڭنى"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ھۆكۈم قىل"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ھەق"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ۋە ... مىسكىنگە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "نامرات"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "مىسكىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:14.556371625Z",
+  "model": "glm-5.3"
+}

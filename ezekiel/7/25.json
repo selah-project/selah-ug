@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "قورقۇنچ ⟨كەلمەكتە⟩؛ ئۇلار تىنچلىق ئىزدەيدۇ، ئەمما ⟨ئۇ⟩ بولمايدۇ.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "قورقۇنچ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كەلمەكتە"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ئىزدەيدۇ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "تىنچلىق"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "بولمايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:39:35.578267788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ھەممىسى چۈشەنگۈچىگە ئوچۇق، بىلىم تاپقۇچىلارغا توغرىدۇر.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ئوچۇق"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "چۈشەنگۈچىگە"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "توغرىدۇر"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "تاپقۇچىلارغا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بىلىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:32.920373317Z",
+  "model": "glm-5.3"
+}

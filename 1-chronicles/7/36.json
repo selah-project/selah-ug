@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "سوپاخنىڭ ئوغۇللىرى — سۇئاخ، ھەرنەپەر، شۇئال، بېرى ۋە ئىمرەھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "سوپاخنىڭ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سۇئاخ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "ھەرنەپەر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "شۇئال"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "بېرى"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "ئىمرەھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:56.027131215Z",
+  "model": "glm-5.3"
+}

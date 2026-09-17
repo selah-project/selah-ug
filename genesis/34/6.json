@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "خامور، شېكېمنىڭ دادىسى، ياكوپنىڭ قېشىغا چىقتى — ⟨ئۇ⟩ بىلەن سۆزلىشىشكە.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خامور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دادىسى"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شېكېمنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قېشىغا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياكوپنىڭ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "سۆزلىشىشكە"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:24.181479794Z",
+  "model": "glm-5.3"
+}

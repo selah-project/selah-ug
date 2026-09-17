@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "قوشۇن خەلقىنىڭ بۇلىغان ئولجىسىنىڭ قالدىقى بولدى: قوي — ئالتە يۈز مىڭ، يەتمىش مىڭ ۋە بەش مىڭ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ئولجىسى"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "قالدىقى"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "بۇلاڭچىلىقنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "بۇلىغان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەلقى"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "قوشۇن"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "يەتمىش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:10.180151016Z",
+  "model": "glm-5.3"
+}

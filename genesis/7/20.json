@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "سۇلار ئون بەش غېرىچ يۇقىرىغىچە ھۆكۈم سۈردى، تاغلار كۆمۈلدى.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "غېرىچ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "يۇقىرىغىچە"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ھۆكۈم سۈردى"
+    },
+    {
+      "surface": "המים",
+      "gloss": "سۇلار"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "كۆمۈلدى"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "تاغلار"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:23.165941521Z",
+  "model": "glm-5.3"
+}

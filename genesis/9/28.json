@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ۋە نۇھ تۇغقانىدىن كېيىن ئۈچ يۈز ئەللىك يىل ياشىدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ۋە ياشىدى"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "كېيىن"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "تۇغقانىدىن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ۋە ئەللىك"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:18.195749261Z",
+  "model": "glm-5.3"
+}

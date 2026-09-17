@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئىددونىڭ ⟨نىڭ⟩ زىكەرىيا، گىننەتوننىڭ ⟨نىڭ⟩ مىشۇللام.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ئىددو"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زىكەرىيا"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "گىننەتون"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مىشۇللام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:57.443436226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "زاتتۇنىڭ ئوغۇللىرى ⟨ئىدى⟩، توققۇز يۈز قىرىق بەش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زاتتۇ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:30.075472544Z",
+  "model": "glm-5.3"
+}

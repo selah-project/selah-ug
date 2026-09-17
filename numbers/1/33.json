@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "سانالغانلىرى — ئەفرايىم قەبىلىسىدىن — قىرىق مىڭ بەش يۈز ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "سانالغانلىرى"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئەفرايىم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-16T20:09:58.120551155Z",
+  "model": "glm-5.3"
+}

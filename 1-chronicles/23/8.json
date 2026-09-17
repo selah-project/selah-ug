@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "لاداننىڭ ئوغۇللىرى: باشلىقى يېھىئېل، ۋە زېتام، ۋە يوئېل — ئۈچى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لاداننىڭ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "باشلىقى"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "يېھىئېل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ۋە زېتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ۋە يوئېل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ئۈچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:31.389037125Z",
+  "model": "glm-5.3"
+}

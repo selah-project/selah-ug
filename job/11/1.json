@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "نائاماتلىق سوفار جاۋاب بەردى ۋە ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جاۋاب بەردى"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "سوفار"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نائاماتلىق"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:01:06.287862087Z",
+  "model": "glm-5.3"
+}

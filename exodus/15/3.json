@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ياھۋەھ جەڭ ⟨ئىنسانى⟩دۇر؛ ياھۋەھ ئۇنىڭ ئىسمىدۇر.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "جەڭ ئىنسانى"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جەڭ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ئۇنىڭ ئىسمى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:44:05.912709804Z",
+  "model": "glm-5.3"
+}

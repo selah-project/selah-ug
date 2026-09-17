@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ۋە لەئا يەنە ھامىلدار بولدى، ۋە يەئقوبقا ئالتىنچى ئوغۇل تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ھامىلدار بولدى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لەئا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ئالتىنچى"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يەئقوبقا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:12.699433332Z",
+  "model": "glm-5.3"
+}

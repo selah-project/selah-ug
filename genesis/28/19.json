@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئۇ جاينىڭ ئىسمىنى ⟨את⟩ بەيت-ئەل دەپ ئاتىدى؛ ئەمما ئۇ شەھەرنىڭ ئىسمى ئاۋۋال لۇز ئىدى.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ئاتىدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئىسمىنى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئىسمىنى"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاينىڭ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "ئەمما"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لۇز"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئىسمى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شەھەرنىڭ"
+    },
+    {
+      "surface": "لראשנה",
+      "gloss": "ئاۋۋال"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:05.153210273Z",
+  "model": "glm-5.3"
+}

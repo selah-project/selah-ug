@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئەلئەزەر ⟨את⟩ پىنخاسسنى توغدى، پىنخاس ⟨את⟩ ئابىشۇئانى توغدى.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "ئەلئەزەر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پىنخاسسنى"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پىنخاس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پىنخاس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئابىشۇئانى"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ئابىشۇئا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:38.457367604Z",
+  "model": "glm-5.3"
+}

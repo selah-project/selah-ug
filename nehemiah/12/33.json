@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ۋە ئەزەرىياھ، ئەزرا ۋە مەشۇللام ⟨ماڭدى⟩،",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ۋە ئەزەرىياھ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ئەزرا"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ۋە مەشۇللام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:58.806890268Z",
+  "model": "glm-5.3"
+}

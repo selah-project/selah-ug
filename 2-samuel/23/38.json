@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ئىرا يىترىلىق، گارەب يىترىلىق.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ئىرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "يىترىلىق"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گارەب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "يىترىلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T21:27:55.482103558Z",
+  "model": "glm-5.3"
+}

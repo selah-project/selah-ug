@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "چۈنكى ياھۋەھدىن باشقا كىم ئەلدۇر؟ ئېلوھىمىزدىن باشقا كىم قىيادۇر؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھدىن"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ۋە كىم"
+    },
+    {
+      "surface": "צור",
+      "gloss": "قىيا"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئېلوھىمىزدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:21:48.223881339Z",
+  "model": "glm-5.3"
+}

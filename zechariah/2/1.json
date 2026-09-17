@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "مەن كۆزلىرىمنى ⟨את⟩ ئېلىپ كۆردۈم، قارىسام تۆت مۈڭگۈز.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ئېلىپ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كۆزلىرىمنى"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "كۆزلىرىمنى"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "وהנה",
+      "gloss": "قارىسام"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "مۈڭگۈز"
+    }
+  ],
+  "timestamp": "2026-09-16T23:15:44.073362252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "خورونايىمدىن چىرقىرىغان ئاۋاز — ۋەيرانچىلىق ۋە چوڭ سۇنۇق!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ئاۋاز"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "چىرقىرىغان"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "خورونايىمدىن"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ۋەيرانچىلىق"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "سۇنۇق"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "چوڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:35:18.859739435Z",
+  "model": "glm-5.3"
+}

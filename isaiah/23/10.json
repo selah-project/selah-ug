@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ئېلىڭنى نەهرغا ئوخشاش كېسىپ ئۆت، تەرشىش قىزى — بەلباغ ئەمدى يوق.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "كېسىپ ئۆت"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ئېلىڭنى"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "نەهرغا ئوخشاش"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…قىزى"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تەرشىش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "بەلباغ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئەمدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:00:13.736898399Z",
+  "model": "glm-5.3"
+}

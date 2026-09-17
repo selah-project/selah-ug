@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 52,
+  "translation": "ناغىچىباشىغا، داۋۇدنىڭ تەلىم نەزمىسى",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغىچىباشىغا"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تەلىم نەزمىسى"
+    },
+    {
+      "surface": "لדוד",
+      "gloss": "داۋۇدنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:29:12.610827655Z",
+  "model": "glm-5.3"
+}

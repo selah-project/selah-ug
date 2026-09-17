@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "مۇسا ۋاپات بولغاندا يۈز يىگىرمە ياشتا ⟨ئىدى⟩؛ كۆزى غۇۋالاشمىدى، جۇشقۇنلۇقى قاچمىدى.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ياشتا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ياش"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "ۋاپات بولغاندا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئ‍…"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "غۇۋالاشمىدى"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "كۆزى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "נס",
+      "gloss": "قاچمىدى"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "جۇشقۇنلۇقى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:51.367937310Z",
+  "model": "glm-5.3"
+}

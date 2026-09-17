@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "ناخشا، مەزمۇر، قوراھ ئوغۇللىرىغا",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ناخشا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزمۇر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ئوغۇللىرىغا"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:27:55.721631686Z",
+  "model": "glm-5.3"
+}

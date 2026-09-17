@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر تېكە، ئۆچكە تېكىسى، گۇناھ قۇربانلىقى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تېكە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكىنىڭ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گۇناھ قۇربانلىقى ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:13:10.705943766Z",
+  "model": "glm-5.3"
+}

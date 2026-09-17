@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "شېرۇگ ئوتتۇز يىل ياشىدى، ⟨את⟩ ناحورنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "شېرۇگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحورنى"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحورنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:14.010973730Z",
+  "model": "glm-5.3"
+}

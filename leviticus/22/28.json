@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "كالا ياكى پاقلان — ئۇنى ⟨את⟩ ۋە ⟨את⟩ بالىسىنى بىر كۈندە سويمىغاي سىلەر.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "שה",
+      "gloss": "پاقلان"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ئۇنى ⟨את⟩",
+      "marks": "كالا ياكى پاقلان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بالىسى"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بالىسى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "سويمىغاي سىلەر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈندە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:38.902624782Z",
+  "model": "glm-5.3"
+}

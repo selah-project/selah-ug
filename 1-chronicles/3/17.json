@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ۋە يەكونياھنىڭ — ئەسىر ⟨ئىتىلگەن⟩ — ئوغۇللىرى: شەئەلتىئەل ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "يەكونياھ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ئەسىر"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شەئەلتىئەل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:46.569918072Z",
+  "model": "glm-5.3"
+}

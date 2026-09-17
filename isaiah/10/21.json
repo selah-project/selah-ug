@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "قالدۇق قايتىدۇ، يەئقۇبنىڭ قالدۇقى، كۈچلۈك ئەلگە ⟨ئۇ⟩",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "قالدۇق"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "قايتىدۇ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "قالدۇقى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يەئقۇبنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ئۇ⟩...گە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "كۈچلۈك"
+    }
+  ],
+  "timestamp": "2026-09-16T21:57:43.608877932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ئۇ يەردىن يول ئېلىپ، زېرەد ۋادىسىدە چېدىر تىكتى.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ئۇ يەردىن"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "يول ئېلىپ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چېدىر تىكتى"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ۋادىسىدا"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زېرەد"
+    }
+  ],
+  "timestamp": "2026-09-16T20:19:24.480180186Z",
+  "model": "glm-5.3"
+}

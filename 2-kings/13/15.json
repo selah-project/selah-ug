@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەلىشا ئۇنىڭغا: «كەمان ۋە ئوق ئال» دېدى؛ ئۇ ئۇنىڭغا كەمان ۋە ئوق ئالدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ئەلىشا"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ئال"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "كەمان"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ئوق"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "كەمان"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ئوق"
+    }
+  ],
+  "timestamp": "2026-09-16T21:47:57.652849090Z",
+  "model": "glm-5.3"
+}

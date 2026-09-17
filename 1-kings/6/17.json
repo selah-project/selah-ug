@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ۋە ئۆي قىرىق غېرەچ ⟨ئىدى⟩، ئۇ — ئۇنىڭ ئالدىدىكى زال.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ۋە قىرىق"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "غېرەچ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ئىدى"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "زال"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ئالدىدىكى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:31:49.444024018Z",
+  "model": "glm-5.3"
+}

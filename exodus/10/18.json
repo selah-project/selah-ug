@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئۇ پەرئەنىڭ قېشىدىن چىقتى ھەمدە ياھۋەھكە ئۆتۈنۈش قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "يېنىدىن"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرئە"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ھەمدە ئۆتۈنۈش قىلدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:41:37.604111371Z",
+  "model": "glm-5.3"
+}

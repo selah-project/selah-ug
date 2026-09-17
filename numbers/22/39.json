@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "بىلعام بالاق بىلەن بىللە ماڭدى، ئۇلار قىريات-ھۇتسوتقا كەلدى.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ماڭدى"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بىلعام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…بىلەن"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قىريات-"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ھۇتسوتقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:21:14.486039701Z",
+  "model": "glm-5.3"
+}

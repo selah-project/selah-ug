@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "مەلخىرام، پەدایاھ، شەنئەززەر، يەقەمياھ، هوشاما ۋە نەدابياھ.",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "مەلخىرام"
+    },
+    {
+      "surface": "وפדיה",
+      "gloss": "پەدایاھ"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "شەنئەززەر"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "يەقەمياھ"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "هوشاما"
+    },
+    {
+      "surface": "ונدביה",
+      "gloss": "نەدابياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:46.570181955Z",
+  "model": "glm-5.3"
+}

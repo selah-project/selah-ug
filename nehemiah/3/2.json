@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇنىڭ يېنىدا ئېرىخو ئەرلىرى سالدى، ئۇنىڭ يېنىدا ئىمرىنىڭ ئوغلى زەككۇر سالدى.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "يېنىدا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ئۇنىڭ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سالدى"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ئېرىخو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "يېنىدا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ئۇنىڭ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "سالدى"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زەككۇر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ئىمرىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:23.161621118Z",
+  "model": "glm-5.3"
+}

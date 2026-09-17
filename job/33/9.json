@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "«پاك ‹مەن›، ئاسىيلىقسىز؛ گۇناھسىز ‹مەن›، ماڭا ئەۋرەشكە يوق.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "پاك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ئاسىيلىقسىز"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ئاسىيلىق"
+    },
+    {
+      "surface": "חף",
+      "gloss": "گۇناھسىز"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ئەۋرەشكە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:05:47.483878083Z",
+  "model": "glm-5.3"
+}

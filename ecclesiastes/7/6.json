@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "چۈنكى ناداننىڭ كۈلكىسى قازان ئاستىدىكى تىكەنلەرنىڭ ⟨تاپالغىنىغا⟩ ئوخشايدۇ — بۇمۇ ھەۋەلدۇر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ئاۋازىغا ئوخشاش"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "تىكەنلەرنىڭ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدىكى"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "قازان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "كۈلكىسى"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ناداننىڭ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇمۇ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ھەۋەلدۇر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:24.818617908Z",
+  "model": "glm-5.3"
+}

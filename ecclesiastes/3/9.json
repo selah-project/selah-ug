@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "قىلغۇچىغا نېمە پايدا ⟨بار⟩، ئۇ جاپا تارتقان ئىشتا؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "پايدا"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "قىلغۇچى"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "…ئىشتا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "جاپا تارتماق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:15.839904820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ۋە يوئەلاھ، ۋە زەۋادىياھ — يىروھامنىڭ ئوغۇللىرى، گەدوردىن،",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "ۋە يوئەلاھ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ۋە زەۋادىياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يىروھامنىڭ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "گەدور"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:43.937340919Z",
+  "model": "glm-5.3"
+}

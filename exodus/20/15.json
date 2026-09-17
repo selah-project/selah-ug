@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ئوغرىلىق قىلما",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ھەرگىز"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ئوغرىلىق قىلما"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:05.443625170Z",
+  "model": "glm-5.3"
+}

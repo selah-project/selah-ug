@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 118,
+  "translation": "ئىسرائىل ئەمدى ئېيتسۇنكى، ئۇنىڭ ھېسەدى مەڭگۈگىچەدۇر.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "ئېيتسۇن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئەمدى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "مەڭگۈگىچە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ئۇنىڭ ھېسەدى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:41:53.624850381Z",
+  "model": "glm-5.3"
+}

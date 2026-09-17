@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ياھۋەھنىڭ سۆزى يىرمىياھۇغا كېلىپ مۇنداق دېدى ⟨ئۇ⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياھۇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:28:06.395054215Z",
+  "model": "glm-5.3"
+}

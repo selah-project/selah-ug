@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر تېكە ئۆچكە، گۇناھ قۇربانلىقى ئۈچۈن؛",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تېكە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكىلەرنىڭ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "لחטאת",
+      "gloss": "گۇناھ قۇربانلىقىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:14:01.861720021Z",
+  "model": "glm-5.3"
+}

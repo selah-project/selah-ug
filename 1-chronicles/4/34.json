@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ۋە مەشوباب، ۋە ياملەك، ۋە ئاماتسىيانىڭ ئوغلى يوشاھ",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "ۋە مەشوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ۋە ياملەك"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ۋە يوشاھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ئاماتسىيا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:25.753657852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "ياھۋەھ مۇساغا سۆزلەپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "مۇساغا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:27:09.033455614Z",
+  "model": "glm-5.3"
+}

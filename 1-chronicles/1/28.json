@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئەبراھامنىڭ ئوغۇللىرى: ئىسھاق ۋە ئىسمائىل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئەبراھام"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ئىسھاق"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ئىسمائىل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:15.274135516Z",
+  "model": "glm-5.3"
+}

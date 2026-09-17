@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "قەينان يەتمىش يىل ياشىدى ۋە ⟨את⟩ مەھەلەلئېلنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قەينان"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "يەتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەھەلەلئېلنى"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مەھەلەلئېلنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:10.456080386Z",
+  "model": "glm-5.3"
+}

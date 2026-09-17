@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ھەمدە كىيىمنىڭ تېرە كېسىلى ۋە ئۆينىڭكى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "تېرە كېسىلى"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "كىيىمنىڭ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ئۆينىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:30.627923440Z",
+  "model": "glm-5.3"
+}

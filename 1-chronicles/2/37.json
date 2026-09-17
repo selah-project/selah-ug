@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "زاباد ⟨את⟩ ئەپلالنى توغدى، ئەپلال ⟨את⟩ ئوبېدنى توغدى.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "زاباد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەپلالنى"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ئەپلال"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ئەپلال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئوبېدنى"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ئوبېد"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:47.556313155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئۆلۈك ۋە يىرتىلغاننى يېمەيدۇ — ئۇنىڭ بىلەن مەينەت بولۇش ئۈچۈن؛ مەن ياھۋەھ",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "ئۆلۈك"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "يىرتىلغاننى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يەيدۇ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "مەينەت بولۇشقا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ئۇنىڭ بىلەن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:05:48.996610402Z",
+  "model": "glm-5.3"
+}

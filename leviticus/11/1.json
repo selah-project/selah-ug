@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ياھۋەھ موسا بىلەن ھارۇنغا سۆزلىدى، ئۇلارغا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨بىلەن⟩...غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ھارۇن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ئۇلارغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:38.245697902Z",
+  "model": "glm-5.3"
+}

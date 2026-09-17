@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ۋە قىدە بەش يۈز — مۇقەددەس شيېكېلى بويىچە؛ ۋە زەيتۇن يېغى بىر ھىن.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "قىدە"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شيېكېلى بويىچە"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مۇقەددەس"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "يېغى"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زەيتۇن"
+    },
+    {
+      "surface": "הין",
+      "gloss": "بىر ھىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:50:46.815510216Z",
+  "model": "glm-5.3"
+}

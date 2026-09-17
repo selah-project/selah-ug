@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئەساۋنىڭ ئوغۇللىرى: ئەلىپاز، رەئۇئەل، يەئۇش، يەئلام ۋە قوراھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەساۋنىڭ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلىپاز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رەئۇئەل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "يەئۇش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "يەئلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "قوراھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:45.335955996Z",
+  "model": "glm-5.3"
+}

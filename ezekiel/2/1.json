@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئۇ ماڭا: — ئى ئادەم ئوغلى، پۇتلىرىڭ ئۈستىدە تۇر، مەن ⟨את⟩ سېنى سۆزلىشىمەن، — دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "تۇر"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "پۇتلىرىڭ"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "سۆزلىشىمەن"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ سېنى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:39:27.700298622Z",
+  "model": "glm-5.3"
+}

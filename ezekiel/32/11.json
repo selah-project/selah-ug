@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "چۈنكى ئادوناي ياھۋەھ شۇنداق دېدى: بابىل پادىشاھىنىڭ قىلىچى ساڭا كېلىدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "قىلىچى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھىنىڭ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابىل"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ساڭا كېلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:29:49.092030032Z",
+  "model": "glm-5.3"
+}

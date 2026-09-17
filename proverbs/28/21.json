@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "يۈز تونۇش ⟨ئۇ⟩ ياخشى ئەمەس، ⟨چۈنكى⟩ بىر پارچە نان ئۈچۈن ئەركەك گۇناھ قىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "يۈز تونۇش"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "פת",
+      "gloss": "بىر پارچە"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "گۇناھ قىلىدۇ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ئەركەك"
+    }
+  ],
+  "timestamp": "2026-09-16T23:56:33.015915432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ئۇنىڭ ئىسمىنى يوسېپ دەپ ئاتىدى ۋە: ياھۋەھ ماڭا يەنە بىر ئوغۇل قوشسۇن، دېدى.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ئاتىدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئىسمىنى"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ئىسمىنى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسېپ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ ⟨دېدى⟩"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "قوشسۇن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "يەنە بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:40.003332287Z",
+  "model": "glm-5.3"
+}

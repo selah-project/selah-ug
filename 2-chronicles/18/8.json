@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئىسرائىل پادىشاھى بىر سارىسنى چاقىرتىپ: «مىكاھۇنى — يىملانىڭ ئوغلى — تېز چاقىر» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "چاقىرتىپ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…نى"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "سارىس"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "تېز"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "مىكاھۇنى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "يىملانىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:00:02.352634126Z",
+  "model": "glm-5.3"
+}

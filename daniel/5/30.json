@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "شۇ كېچىدە بېلشاتسار، كالدېيلەر پادىشاھى، ئۆلتۈرۈلدى.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "كېچىدە"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "ئۆلتۈرۈلدى"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "بېلشاتسار"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "كالدېيلەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:23:10.319311469Z",
+  "model": "glm-5.3"
+}

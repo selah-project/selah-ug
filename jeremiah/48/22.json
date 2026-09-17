@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "دىبونغا، نېبوغا ۋە بەيت-دىبلاتايىمغا،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دىبونغا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نېبوغا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "دىبلاتايىمغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:35:36.843159460Z",
+  "model": "glm-5.3"
+}

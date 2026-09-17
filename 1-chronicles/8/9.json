@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ئۇ خودەش ئىسىملىك ئايالىدىن ⟨את⟩ يوۋاۋ، ⟨وאת⟩ تسيۋيا، ⟨وאת⟩ مەيشا ۋە ⟨وאת⟩ مالقامنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…دىن"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "خودەش"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ئايالى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوۋاۋ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوۋاۋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "تسيۋيا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "تسيۋيا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "مەيشا"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "مەيشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "مالقام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مالقام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:21.860235679Z",
+  "model": "glm-5.3"
+}

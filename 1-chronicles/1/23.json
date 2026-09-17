@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ۋە ⟨את⟩ ئوپىرنى، ۋە ⟨את⟩ خاۋىلانى، ۋە ⟨את⟩ يوۋابنى؛ بۇلارنىڭ ھەممىسىيوكتاننىڭ ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئوپىر"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ئوپىر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خاۋىلا"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "خاۋىلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يوۋاب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوۋاب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "يوكتان"
+    }
+  ],
+  "timestamp": "2026-09-17T01:38:47.242841476Z",
+  "model": "glm-5.3"
+}

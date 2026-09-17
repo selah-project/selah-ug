@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ئۇ شىمالنى بوشلۇق ئۈستىگە يايىدۇ، يەرنى ھېچنېمە ئۈستىگە ئاسىدۇ.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "يايىدۇ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شىمالنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "بوشلۇق"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ئاسىدۇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يەرنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ھېچ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:04:48.161585687Z",
+  "model": "glm-5.3"
+}

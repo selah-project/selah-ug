@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ئەمما سەن شېئول غا چۈشۈرۈلىسەن، ئورەكنىڭ چېتىگە.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ئەمما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شېئول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "چۈشۈرۈلىسەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چېتىگە"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "چېتى"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ئورەكنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:57:00.041440593Z",
+  "model": "glm-5.3"
+}

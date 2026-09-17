@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۇنىڭغا يەتتە ئوغۇل ۋە ئۈچ قىز تۇغۇلدى.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "تۇغۇلدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ئوغۇل"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىز"
+    }
+  ],
+  "timestamp": "2026-09-16T23:58:18.618831236Z",
+  "model": "glm-5.3"
+}

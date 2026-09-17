@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئەيتاننىڭ ئوغلى، زىممانىڭ ئوغلى، شىمئىينىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ئەيتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زىمما"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شىمئىي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:33.339330847Z",
+  "model": "glm-5.3"
+}

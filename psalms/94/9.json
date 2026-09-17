@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 94,
+  "translation": "قۇلاقنى تىككەن ⟨ئۇ⟩ ئاڭلىماسمۇ؟ كۆزنى ياراتقان ⟨ئۇ⟩ كۆرمەسمۇ؟",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "تىككەن"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "قۇلاق"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئىمىسمۇ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ئاڭلايدۇ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "יצצ",
+      "gloss": "ياراتقان"
+    },
+    {
+      "surface": "עין",
+      "gloss": "كۆز"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئىمىسمۇ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "قارايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:36:52.005746024Z",
+  "model": "glm-5.3"
+}

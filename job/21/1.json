@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ئەيۇپ جاۋاب بەردى ۋە ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جاۋاب بەردى"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەيۇپ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:03:53.226877464Z",
+  "model": "glm-5.3"
+}

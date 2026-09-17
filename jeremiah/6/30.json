@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇلارغا «رەت قىلىنغان كۈمۈش» دەپ ئاتالدى، چۈنكى ياھۋەھ ئۇلارنى رەت قىلدى.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "كۈمۈش"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "رەت قىلىنغان"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ئاتالدى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "رەت قىلدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "בהم",
+      "gloss": "ئۇلارنى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:16:15.385219590Z",
+  "model": "glm-5.3"
+}

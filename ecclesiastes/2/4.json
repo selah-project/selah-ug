@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئەمەللىرىمنى چوڭايتتىم، ئۆزۈمگە ئۆيلەر سالدىم، ئۆزۈمگە ئۈزۈملۈكلەر تىكتىم.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "چوڭايتتىم"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ئەمەللىرىمنى"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "سالدىم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ئۆزۈمگە"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ئۆيلەر"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "تىكتىم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ئۆزۈمگە"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ئۈزۈملۈكلەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:57.016951984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ۋە ھەرگىز ⟨سەن⟩ ئوغرىلىق قىلما",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ھەرگىز"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ئوغرىلىق قىلما"
+    }
+  ],
+  "timestamp": "2026-09-16T20:29:54.172870378Z",
+  "model": "glm-5.3"
+}

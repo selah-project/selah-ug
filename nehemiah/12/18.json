@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "بىلگاھ نىڭكى شاممۇئا؛ شەماياھ نىڭكى يەھوناتان.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "بىلگاھ نىڭكى"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شاممۇئا"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "شەماياھ نىڭكى"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يەھوناتان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:09.383842900Z",
+  "model": "glm-5.3"
+}

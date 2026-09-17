@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "نۇر تاتلىقتۇر، كۆزلەرگە قۇياشنى ⟨את⟩ كۆرۈش ياخشىدۇر",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ۋە تاتلىق"
+    },
+    {
+      "surface": "האור",
+      "gloss": "نۇر"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ۋە ياخشى"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "كۆزلەرگە"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "كۆرۈش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قۇياشنى"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "قۇياش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:53.555830218Z",
+  "model": "glm-5.3"
+}

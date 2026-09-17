@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ئۇنىڭ ئۈستىگە خوشېننى قويدى ⟨את⟩، ۋە خوشېنغا ئۇرىمنى ⟨את⟩ ۋە تۇممىمنى ⟨ואת⟩ سالدى.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوشېننى"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "خوشېن"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "سالدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "خوشېنغا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇرىمنى"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ئۇرىم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "تۇممىمنى"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "تۇممىم"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:36.480307699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۇ ماڭا: سەن كىم؟ دېدى، مەن ئۇنىڭغا: مەن ئامالەكلىكمەن، دېدىم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "ئامالەكلىك"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:17:45.217426553Z",
+  "model": "glm-5.3"
+}

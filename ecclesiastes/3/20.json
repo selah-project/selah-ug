@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ھەممىسى بىر جايغا كېتىدۇ؛ ھەممىسى توپىدىن ⟨بولغان⟩، ۋە ھەممىسى توپىغا قايتىدۇ.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "كېتىدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... غا"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جايغا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "... دىن"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "توپىدىن"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ۋە ھەممىسى"
+    },
+    {
+      "surface": "שב",
+      "gloss": "قايتىدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... غا"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "توپىغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:28.907960451Z",
+  "model": "glm-5.3"
+}

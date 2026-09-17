@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەگەر سېنىڭ ئاراڭدا نەبىي تۇرسا ياكى چۈش كۆرگۈچى بولسا، ۋە ساڭا بەلگە ياكى مۆجىزە بەرسە،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "تۇرسا"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ئاراڭدا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نەبىي"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "چۈش كۆرگۈچى"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "چۈش"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "بەرسە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "אות",
+      "gloss": "بەلگە"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "مۆجىزە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:08.186281356Z",
+  "model": "glm-5.3"
+}

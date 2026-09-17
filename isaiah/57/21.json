@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 57,
+  "translation": "«تىنچلىق يوق»، دېدى مېنىڭ ئېلوھىمىم، رەزىللەرگە.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "تىنچلىق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "مېنىڭ ئېلوھىمىم"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "رەزىللەرگە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:48:50.594802017Z",
+  "model": "glm-5.3"
+}

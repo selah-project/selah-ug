@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ۋە ئاخشام بولدى، ۋە تاڭ بولدى — ئۈچىنچى كۈن.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ئاخشام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "تاڭ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ئۈچىنچى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:17:18.009534974Z",
+  "model": "glm-5.3"
+}

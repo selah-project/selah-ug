@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "كۈلكە توغرىسىدا دېدىم: جۆيلۈۋاتىدۇ؛ خۇشاللىق توغرىسىدا: بۇ نېمە قىلالايدۇ؟",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "كۈلكە توغرىسىدا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "جۆيلۈۋاتىدۇ"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "خۇشاللىق توغرىسىدا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلالايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:57.016601632Z",
+  "model": "glm-5.3"
+}

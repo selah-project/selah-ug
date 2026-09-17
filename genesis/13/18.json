@@ -1,0 +1,26 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئىبراھىم چېدىرىنى يۆتكەپ، مەمرەنىڭ ئۈژمە دەرەخلىرى ⟨تەرىپىگە⟩ — يەنى خېبروندىكى ⟨جايغا⟩ — كەلدى ۋە ئولتۇردى، ئۇ يەردە ياھۋەھ ئۈچۈن مۇنبەر سالدى.",
+  "tokens": [
+    {
+      "surface": "ולרחבה",
+      "gloss": "",
+      "notes_src": "placeholder"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": ""
+    },
+    {
+      "surface": "PLACEHOLDER_TOKEN",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:10.612945991Z",
+  "model": "glm-5.3"
+}

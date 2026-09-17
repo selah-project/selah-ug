@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "ئەبەد-مەلەك پادىشاھ ئۆيىدىن چىقتى ۋە پادىشاھقا سۆزلەپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خىزمەتچىسى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھنىڭ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ئۆيىدىن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:31:34.229229134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ئۇنىڭ سول قولى بېشىمنىڭ ئاستىدا، ئوڭ قولى مېنى قۇچاقلايدۇ.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ئۇنىڭ سول قولى"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدا"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "بېشىمنىڭ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ئوڭ قولى"
+    },
+    {
+      "surface": "تחבקני",
+      "gloss": "مېنى قۇچاقلايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:11:57.367711785Z",
+  "model": "glm-5.3"
+}

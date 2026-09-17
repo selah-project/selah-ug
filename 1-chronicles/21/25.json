@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "داؤۇد ئورنەنگە ئۇ جاي ئۈچۈن ئالتۇندىن شېكېللەر — ئېغىرلىقى ئالتە يۈز — بەردى.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "بەردى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤۇد"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "ئورنەنگە"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ئۇ جاي ئۈچۈن"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "شېكېللەر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇندىن"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ئېغىرلىقى"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:48:49.914292075Z",
+  "model": "glm-5.3"
+}

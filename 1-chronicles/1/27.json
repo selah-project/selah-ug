@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئەبرام — ئۇ ئەبراھامدۇر.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ئەبرام"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئەبراھام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:15.273936521Z",
+  "model": "glm-5.3"
+}

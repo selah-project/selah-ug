@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 41,
+  "translation": "يەتتە ئىنەك، ياخشىلىرى — يەتتە يىلدۇر؛ ۋە يەتتە باشاق، ياخشىلىرى — يەتتە يىلدۇر؛ چۈش بىردۇر.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ئىنەك"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ياخشىلىرى"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دۇر"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ۋە يەتتە"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "باشاق"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ياخشىلىرى"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دۇر"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "چۈش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دۇر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:33:14.302214761Z",
+  "model": "glm-5.3"
+}

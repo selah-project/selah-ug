@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "كېمە يەتتىنچى ئايدا، ئاينىڭ يەتتىنچى كۈنىدە ئارارات تاغلىرى ئۈستىگە توختىدى.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "توختىدى"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "كېمە"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ئايدا"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "يەتتىنچى"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈنىدە"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ئاينىڭ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "تاغلىرى"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ئارارات"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:27.750973943Z",
+  "model": "glm-5.3"
+}

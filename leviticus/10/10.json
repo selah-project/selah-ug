@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "«ۋە مۇقەددەس بىلەن ئادەتتىكىنى، ناپاك بىلەن پاكنى ئايرىش ئۈچۈن —",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ۋە ئايرىش"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ئارىسىنى"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مۇقەددەس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ئادەتتىكى"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاك"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاك"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:41.811674889Z",
+  "model": "glm-5.3"
+}

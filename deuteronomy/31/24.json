@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "مۇسا بۇ تورانىڭ سۆزلىرىنى بىر كىتابقا تامام يېزىپ بولغاندا ئىش شۇنداق بولدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "تاماملاپ بولغاندا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "يېزىشقا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سۆزلىرىنى"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سۆزلىرىنى"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورانىڭ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "كىتاب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تامام"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تۈگىگىچە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:49.094587957Z",
+  "model": "glm-5.3"
+}

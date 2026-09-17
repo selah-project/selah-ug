@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ۋە ئەسەۋ دېدى: «ئاكا-ئىنىم، ماڭا كۆپ بار؛ سېنىڭ بولغىنى سېنىڭ بولسۇن.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە دېدى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەسەۋ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ئاكا-ئىنىم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "سېنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "بولغىنى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "سېنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:59.219832496Z",
+  "model": "glm-5.3"
+}

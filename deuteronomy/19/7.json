@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "شۇڭا مەن ساڭا بۇيرۇيمەن، ئېيتىپ: ساڭا ئۈچ شەھەرنى ئايرىپ بەر",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "شۇنىڭ ئۈستىگە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق بولغاچقا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ساڭا بۇيرۇيمەن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ئايرىيسەن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:37:07.573352447Z",
+  "model": "glm-5.3"
+}

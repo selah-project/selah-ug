@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ھىزقىياھ پادىشاھنىڭ قۇللىرى ياشاياغاھ كەلدى.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "قۇللىرى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھنىڭ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ھىزقىياھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ياشاياغاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:49:54.615489682Z",
+  "model": "glm-5.3"
+}

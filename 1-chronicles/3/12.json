@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇنىڭ ئوغلى ئەمەتسىيەھ، ئۇنىڭ ئوغلى ئەزەرىيەھ، ئۇنىڭ ئوغلى يوتام.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "ئەمەتسىيەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ئەزەرىيەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:59.423541881Z",
+  "model": "glm-5.3"
+}

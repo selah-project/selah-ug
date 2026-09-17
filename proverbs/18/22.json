@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئايال تاپقان كىشى ياخشىلىق تاپتى، ياھۋەھدىن رازىلىق ⟨ئېلىپ چىقتى⟩.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "تاپقان"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "تاپتى"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىلىق"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ئېلىپ چىقتى"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رازىلىق"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ياھۋەھدىن"
+    }
+  ],
+  "timestamp": "2026-09-17T01:36:05.829760490Z",
+  "model": "glm-5.3"
+}

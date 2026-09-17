@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 109,
+  "translation": "كۈنلىرى ئاز بولسۇن، ۋەزىپىسىنى باشقا بىرى ئالسۇن.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بولسۇن"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ئاز"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ۋەزىپىسىنى"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ئالسۇن"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "باشقا بىرى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:40:52.330628421Z",
+  "model": "glm-5.3"
+}

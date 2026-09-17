@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە تىققلاگ ۋە مەدمەنناھ ۋە سەنسەنناھ",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "تىققلاگ"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "مەدمەنناھ"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "سەنسەنناھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:08.542882935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 116,
+  "translation": "چۈنكى ئۇ قۇلىقىنى ماڭا ياقتى، كۈنلىرىمدە ⟨ئۇنى⟩ چاقىرىمەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ياقتى"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "قۇلىقىنى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "كۈنلىرىمدە"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "چاقىرىمەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:42:14.860068685Z",
+  "model": "glm-5.3"
+}

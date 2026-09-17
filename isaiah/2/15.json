@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە ھەر بىر ئېگىز مۇنارغا، ۋە ھەر بىر مۇستەھكەم سېپىلغا ⟨ئۆچ⟩،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ۋە ... غا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەر بىر"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مۇنار"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ئېگىز"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ۋە ... غا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەر بىر"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "سېپىل"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "مۇستەھكەم"
+    }
+  ],
+  "timestamp": "2026-09-16T21:53:00.762582308Z",
+  "model": "glm-5.3"
+}

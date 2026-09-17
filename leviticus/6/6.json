@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئوت توختاۋسىز مۇقەددەس ئۈستەل ئۈستىدە كۆيۈپ تۇرىدۇ، ئۇ ئۆچمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ئوت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "توختاۋسىز"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "كۆيۈپ تۇرىدۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مۇقەددەس ئۈستەل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ئۆچمەيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:58:45.412296423Z",
+  "model": "glm-5.3"
+}

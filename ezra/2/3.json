@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "پارئوش بالىلىرى — ئىككى مىڭ بىر يۈز يەتمىش ئىككى ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پارئوش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ئىككى مىڭ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "يەتمىش"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:29:40.819779067Z",
+  "model": "glm-5.3"
+}

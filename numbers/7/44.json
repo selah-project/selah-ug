@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئېغىرلىقى 10 شېكېل بولغان ئالتۇندىن بىر كاپ، ئىسرىق بىلەن تولۇق.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "كاپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "تولۇق"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ئىسرىق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:43.899012576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ئەلون، تىمناتاھ ۋە ئەكرون —",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "ئەلون"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "تىمناتاھ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ئەكرون"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:08.577843385Z",
+  "model": "glm-5.3"
+}

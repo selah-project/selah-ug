@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "نۇھ ئالتە يۈز يىللىق ⟨ئىدى⟩، كەلكۈن سۇلىرى يەر ئۈستىدە بولغان ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ياشتىكى"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "كەلكۈن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:05.627445388Z",
+  "model": "glm-5.3"
+}

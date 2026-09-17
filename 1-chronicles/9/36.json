@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ئۇنىڭ تۇنجى تۇغۇلغان ئوغلى ئابدون، ئاندىن تسۇر، قىش، بەئەل، نېر ۋە ناداب.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "تۇنجى تۇغۇلغان"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ئابدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "تسۇر"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "قىش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "بەئەل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "نېر"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ناداب"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:28.432389451Z",
+  "model": "glm-5.3"
+}

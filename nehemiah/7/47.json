@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "قېروسنىڭ ئوغۇللىرى، سىئانىڭ ئوغۇللىرى، پادوننىڭ ئوغۇللىرى",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "قېروس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "سىئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "پادون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:05.846611667Z",
+  "model": "glm-5.3"
+}

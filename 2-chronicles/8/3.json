@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە سۇلايمان خامات-زوباغا باردى ۋە ئۇنى مۇستەھكەم تۇتتى.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "باردى"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سۇلايمان"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "خامات"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "زوبا"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "مۇستەھكەم تۇتتى"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ئۇنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:57:12.656532176Z",
+  "model": "glm-5.3"
+}

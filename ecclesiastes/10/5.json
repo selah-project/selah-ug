@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "قۇياش ئاستىدا بىر يامانلىق كۆردۈم — ھۆكۈمدار ئالدىدىن چىقىدىغان خاتالىقتەك ⟨بىر نەرسە⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "يامانلىق"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدا"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "قۇياش"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "خاتالىقتەك"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "چىقىدىغان"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ئالدىدىن"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "ھۆكۈمدار"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:34.755563007Z",
+  "model": "glm-5.3"
+}

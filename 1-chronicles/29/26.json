@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "داۋۇت — يەشەينىڭ ئوغلى — پۈتۈن ئىسرائىل ئۈستىدە پادىشاھلىق قىلدى.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يەشەي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھلىق قىلدى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:52:51.373905328Z",
+  "model": "glm-5.3"
+}

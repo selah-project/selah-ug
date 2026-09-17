@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 45,
+  "translation": "«ئىسرائىلنىڭ ئېلوھىمى ياھۋەھ ساڭا، ئى بارۇخ، مۇنداق دەيدۇ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "مۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئېلوھىمى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىلنىڭ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بارۇخ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:34:23.126992310Z",
+  "model": "glm-5.3"
+}

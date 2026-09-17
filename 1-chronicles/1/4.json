@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "نۇھ، شەم، خام ⟨ۋە⟩ ياپەت.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شەم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "خام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ۋە ياپەت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:19.928575482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ياھۋەھ مۇساغا ۋە ھارۇنغا سۆز قىلىپ مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "سۆز قىلىپ دېدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مۇساغا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ھارۇنغا ۋە"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ھارۇن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق دېدى:"
+    }
+  ],
+  "timestamp": "2026-09-16T19:38:39.266465514Z",
+  "model": "glm-5.3"
+}

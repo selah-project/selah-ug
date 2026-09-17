@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "شائۇلنىڭ تاغىسى: ‹ماڭا ئېيتقىنكى، شەمۇئېل سىلەرگە نېمە دېدى؟› دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "تاغىسى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائۇل"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ئېيتقىن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئۆتۈنەي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شەمۇئېل"
+    }
+  ],
+  "timestamp": "2026-09-16T21:08:31.211812755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئاتتاي ⟨את⟩ ناتاننى توغدى، ناتان ⟨את⟩ زابادنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "ئاتتاي"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتاننى"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتاننى"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زابادنى"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زابادنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:59.163668408Z",
+  "model": "glm-5.3"
+}

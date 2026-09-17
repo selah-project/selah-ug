@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "خارىمنىڭ ئوغۇللىرى — مىڭ ئون يەتتە ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارىم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:54.998915752Z",
+  "model": "glm-5.3"
+}

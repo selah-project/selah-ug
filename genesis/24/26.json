@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئۇ كىشى باش قويدى ۋە ياھۋەھگە سەجدە قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "باش قويدى"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئۇ كىشى"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "سەجدە قىلدى"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھگە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:52.351400938Z",
+  "model": "glm-5.3"
+}

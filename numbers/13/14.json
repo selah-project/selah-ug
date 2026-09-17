@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ناپتالى قەبىلىسىدىن ← ۋاپسىنىڭ ئوغلى نەھبى.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ناپتالى"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "نەھبى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ۋاپسى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:49.540223742Z",
+  "model": "glm-5.3"
+}

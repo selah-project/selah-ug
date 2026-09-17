@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "داۋۇت ⟨את⟩ ساندۇقنى ئۆزىگە — داۋۇت شەھىرىگە — تۇتمىدى، بەلكى ئۇنى ئوۋبېد-ئېدوم گىتتىنىڭ ئۆيىگە بۇرىدى.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "تۇتمىدى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساندۇقنى"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ساندۇق"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۆزىگە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شەھىرى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇتنىڭ"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "بۇرىدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆيى"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ئوۋبېد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئېدوم"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "گىتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:46:32.452669521Z",
+  "model": "glm-5.3"
+}

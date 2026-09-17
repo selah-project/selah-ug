@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "پادىشاھ پىل چىشىدىن ⟨بىر⟩ چوڭ تەخت ياسىدى ۋە ئۇنى ساپ ئالتۇن بىلەن قاپلىدى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ياسىدى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەخت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "پىل چىشى"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ئۇنى قاپلىدى"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ساپ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:40:15.878526265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "سىلەرمۇ، كۇشلۇقلار — مېنىڭ شەمشىرىمگە تىقىلغۇچىلار ئۆزۈڭلار.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "سىلەرمۇ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "كۇشلۇقلار"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "تىقىلغۇچىلار"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "مېنىڭ شەمشىرىمگە"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئۆزۈڭلار"
+    }
+  ],
+  "timestamp": "2026-09-16T23:13:00.161926704Z",
+  "model": "glm-5.3"
+}

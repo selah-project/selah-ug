@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "مىشپات چۆلدە ياشايدۇ، سېداقا كارمىلدا ئولتۇرىدۇ.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "ياشايدۇ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "چۆلدە"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مىشپات"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "سېداقا"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "كارمىلدا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ئولتۇرىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:02:02.203516742Z",
+  "model": "glm-5.3"
+}

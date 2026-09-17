@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "دانىشمەننىڭ يۈرىكى ⟨ئۇنىڭ⟩ ئوڭ تەرىپىدە، ئەخمەقنىڭ يۈرىكى بولسا سول تەرىپىدە.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "يۈرىكى"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانىشمەننىڭ"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ئوڭ تەرىپىدە"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ۋە يۈرىكى"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ئەخمەقنىڭ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "سول تەرىپىدە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:01.687721497Z",
+  "model": "glm-5.3"
+}

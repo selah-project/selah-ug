@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "قاراڭ، ياھۋەھكە بىر كۈن كېلىۋاتىدۇ، ۋە ئولجاڭ ⟨سېنىڭ⟩ ئىچىڭدە بۆلۈنىدۇ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قاراڭ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كېلىۋاتىدۇ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھكە"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ۋە بۆلۈنىدۇ"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "ئولجاڭ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ئىچىڭدە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:17:20.474804320Z",
+  "model": "glm-5.3"
+}

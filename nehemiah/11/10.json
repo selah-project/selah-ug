@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "كاھىنلاردىن: يەدەيا، يويارىبنىڭ ئوغلى، ياكىن.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…دىن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "كاھىنلار"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يەدەيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "يويارىبنىڭ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ياكىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:54.393778327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ئەھرون موساغا، ئۇچرىشىش چېدىرىنىڭ ئىشىكىگە قايتتى، ۋە ۋابا توختىدى.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "قايتتى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئەھرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گە"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ئىشىكى"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چېدىرى"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ئۇچرىشىش"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "ۋابا"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "توختىدى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:17:29.449307409Z",
+  "model": "glm-5.3"
+}

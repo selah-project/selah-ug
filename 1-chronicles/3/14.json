@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئامون ئوغلى، يوشىياھۇ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "ئامون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشىياھۇ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:58.182669649Z",
+  "model": "glm-5.3"
+}

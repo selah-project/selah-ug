@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "دىلئان، مىزپەھ ۋە يوكتىئېل،",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "دىلئان"
+    },
+    {
+      "surface": "وהמצפה",
+      "gloss": "مىزپەھ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "يوكتىئېل"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:06.404044938Z",
+  "model": "glm-5.3"
+}

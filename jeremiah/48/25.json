@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "مۇئاب نىڭ مۈڭگۈزى ئۇزۈلدى، ئۇنىڭ بىلىكى سۇندى — نەقىل ياھۋەھ نىڭ.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "ئۇزۈلدى"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "مۈڭگۈزى"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۇئاب"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ئۇنىڭ بىلىكى"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "سۇندى"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نەقىل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:35:39.197037546Z",
+  "model": "glm-5.3"
+}

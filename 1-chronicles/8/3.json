@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "بەئلائاغا ئوغۇللار بولدى — ئەددار، گېرا ۋە ئەبىھۇد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ئوغۇللار"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بەئلائاغا"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ئەددار"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "گېرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ئەبىھۇد"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:03.354455977Z",
+  "model": "glm-5.3"
+}

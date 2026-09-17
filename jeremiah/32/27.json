@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "قارا، مەن ياھۋەھمەن، بارچە ئەتنىڭ ئېلوھىمىن؛ مەندىن ھەرقانداق سۆز ئەجەبلىنەمدۇ؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئېلوھى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارچە"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ئەتنىڭ"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "مەندىن"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ئەجەبلىنەمدۇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەرقانداق"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    }
+  ],
+  "timestamp": "2026-09-16T22:29:09.216118194Z",
+  "model": "glm-5.3"
+}

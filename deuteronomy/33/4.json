@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "موسا بىزگە تورا بۇيرۇدى — يەقۇپ جامائەتىنىڭ مىراسى.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇدى"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بىزگە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "مىراسى"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "جامائەتىنىڭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يەقۇپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:21.326149412Z",
+  "model": "glm-5.3"
+}

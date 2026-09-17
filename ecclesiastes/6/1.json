@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "بار بىر يامانلىق، قۇياش ئاستىدا كۆرگەنمەن، ئۇ ئىنسان ئۈستىدە ئېغىردۇر.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بىر يامانلىق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨كى⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "كۆرگەنمەن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدا"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "قۇياش"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ئېغىردۇر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئىنسان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:31.133754349Z",
+  "model": "glm-5.3"
+}

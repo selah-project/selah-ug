@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئۇ مىڭ يىل ئىككى قېتىم ياشىغان تەقدىردىمۇ، ياخشىلىقنى كۆرمىسە — ھەممىسى بىر ئورۇنغا كەتمەمدۇ؟",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "تەقدىردىمۇ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ياشىغان"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ئىككى قېتىم"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ياخشىلىقنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "كۆرمىسە"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئەمەسمۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئورۇنغا"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "كەتمەمدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:17.479648310Z",
+  "model": "glm-5.3"
+}

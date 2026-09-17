@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "يەتتىنچىسى ھەقۇزغا، سەككىزىنچىسى ئەبىياھغا ⟨ئائىت ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ھەقۇزغا"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "يەتتىنچىسى"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ئەبىياھغا"
+    },
+    {
+      "surface": "هשמיני",
+      "gloss": "سەككىزىنچىسى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:28.076134412Z",
+  "model": "glm-5.3"
+}

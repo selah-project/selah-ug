@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ئاڭلا، ئى ياھۋەھ، ماڭا رەھىم قىل؛ ئى ياھۋەھ، ماڭا ياردەمچى بولغىن.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ئاڭلا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ماڭا رەھىم قىل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولغىن"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ياردەمچى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:22:56.083861847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ياھۋەھ موساغا ۋە ھارۇنغا سۆزلەپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "<گە>"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موسا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە <گە>"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ھارۇن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:30.466818795Z",
+  "model": "glm-5.3"
+}

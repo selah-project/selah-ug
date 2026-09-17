@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىننۇينىڭ بالىلىرى — ئالتە يۈز قىرىق سەككىز.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بىننۇي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:53.003557682Z",
+  "model": "glm-5.3"
+}

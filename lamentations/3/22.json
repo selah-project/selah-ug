@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياھۋەھنىڭ ھەسەدلىرى — چۈنكى تۈگىمىدۇق، چۈنكى ئۇنىڭ رەھىملىرى تۈگىمىدى.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ھەسەدلىرى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "تۈگىمىدۇق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "تۈگەپ كەتمىدى"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ئۇنىڭ رەھىملىرى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:45.478028019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 39,
+  "translation": "مەن تىلىمنى تۇتتۇم، ئېغىزىمنى ئاچمىدىم؛ چۈنكى بۇنى سەن قىلدىڭ.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "تىلىمنى تۇتتۇم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ئاچمىدىم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ئېغىزىمنى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "قىلدىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:26:02.597570537Z",
+  "model": "glm-5.3"
+}

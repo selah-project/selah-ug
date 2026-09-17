@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "چۈنكى ئۇ ھەبەلدە كېلىدۇ ۋە قاراڭغۇلۇقتا كېتىدۇ، قاراڭغۇلۇقتا ئۇنىڭ ئىسمى يېپىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ھەبەلدە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كېلىدۇ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "قاراڭغۇلۇقتا"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "كېتىدۇ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "قاراڭغۇلۇقتا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ئۇنىڭ ئىسمى"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "يېپىلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:31.134385557Z",
+  "model": "glm-5.3"
+}

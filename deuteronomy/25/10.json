@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئىسرائىلدا ئۇنىڭ ئاتى «ئايىغى چىقىرىلغان ئادەمنىڭ ئۆيى» دەپ ئاتىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "ئاتىلىدۇ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ئۇنىڭ ئاتى"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ئىسرائىلدا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆيى"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "چىقىرىلغان"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ئايىغى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:42.551258275Z",
+  "model": "glm-5.3"
+}

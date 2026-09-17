@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ماتانياھ، ماتەنناي ۋە يائاساۋ",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "ماتانياھ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ماتەنناي"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ۋە يائاساۋ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:32:18.362886216Z",
+  "model": "glm-5.3"
+}

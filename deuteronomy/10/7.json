@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ئۇ يەردىن گۇدگوداغا كۆچتىلەر، گۇدگودادىن يوتباتاغا — سۇ ئېرىقلىرى ⟨بولغان⟩ زېمىن.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ئۇ يەردىن"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "كۆچتىلەر"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "گۇدگوداغا"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "-دىن"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "گۇدگودا"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "يوتباتاغا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ئېرىقلىرى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:32.215477291Z",
+  "model": "glm-5.3"
+}

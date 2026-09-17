@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "قىرىيەت-يەئارىم، كەپىرە ۋە بەئېروت ئەرلىرى — يەتتە يۈز قىرىق ئۈچ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قىرىيەت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "يەئارىم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "كەپىرە"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ۋە بەئېروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ۋە ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:15.887657945Z",
+  "model": "glm-5.3"
+}

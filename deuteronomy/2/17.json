@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ياھۋەھ ماڭا سۆزلەپ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دېدى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:13.329025444Z",
+  "model": "glm-5.3"
+}

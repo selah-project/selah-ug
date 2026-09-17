@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئىككىسى بىردىن ياخشى، چۈنكى ⟨ئۇلارنىڭ⟩ ئەمگىكىدە ئۇلارغا ياخشى ئەجىر بار.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ئىككىسى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "بىردىن"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ئەجىر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ئەمگىكىدە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:07.415705018Z",
+  "model": "glm-5.3"
+}

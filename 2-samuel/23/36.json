@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "يىگئال ناتاننىڭ ئوغلى، زوبالىق؛ بانى گادىلىق.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "يىگئال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "زوبالىق"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانى"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "گادىلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T21:28:06.911839364Z",
+  "model": "glm-5.3"
+}

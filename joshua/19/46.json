@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە مېي-يارقون، ۋە راقون، يافو ⟨ئۇدۇل⟩دىكى چېگرا ⟨بىلەن⟩ بىللە.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ۋە مېي"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "يارقون"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "ۋە راقون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "چېگرا"
+    },
+    {
+      "surface": "מול",
+      "gloss": "⟨ئۇدۇل⟩"
+    },
+    {
+      "surface": "יפو",
+      "gloss": "يافو"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:38.963768399Z",
+  "model": "glm-5.3"
+}

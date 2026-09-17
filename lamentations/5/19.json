@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "سەن، ياھۋەھ، مەڭگۈ ئولتۇرىسەن؛ ئورۇندۇقۇڭ ⟨ئەۋلادتىن⟩ ئەۋلادقا ⟨قالىدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "مەڭگۈ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ئولتۇرىسەن"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ئورۇندۇقۇڭ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ئەۋلادتىن"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ئەۋلادقا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:38.296815755Z",
+  "model": "glm-5.3"
+}

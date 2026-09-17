@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "كاهىن زەخمىگە قارايدۇ ۋە زەخمە بار نەرسىنى يەتتە كۈن ئايرىپ قويىدۇ.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "قارايدۇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهىن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەخمە"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "زەخمىگە"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ئايرىپ قويىدۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەخمە"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "زەخمە بار نەرسىنى"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:03:01.215858452Z",
+  "model": "glm-5.3"
+}

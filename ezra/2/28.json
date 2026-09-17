@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "بەيت-ئەل ۋە ھەئىي ئادەملىرى ⟨ئىدى⟩، ئىككى يۈز يىگىرمە ئۈچ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئادەملىرى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ۋە ھەئىي"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ئىككى يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:32.847900212Z",
+  "model": "glm-5.3"
+}

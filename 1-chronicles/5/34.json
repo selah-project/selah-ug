@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئاخىتۇب ⟨את⟩ تسادوكنى توغدى، تسادوك ⟨את⟩ ئاخىمائاسنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ئاخىتۇب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تسادوكنى"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "تسادوك"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "تسادوك"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاخىمائاسنى"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ئاخىمائاس"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:39.761788708Z",
+  "model": "glm-5.3"
+}

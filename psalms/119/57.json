@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 119,
+  "translation": "نېسىۋەم — ياھۋەھ، دېدىم ⟨مەن⟩ سېنىڭ سۆزلىرىڭنى ساقلاشقا",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "نېسىۋەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ساقلاشقا"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "سۆزلىرىڭنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:42:20.104514815Z",
+  "model": "glm-5.3"
+}

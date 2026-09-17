@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "پۇنوندىن ئۇزاپ چىقتىلار، ئوۋوتتا قوندىلار.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ئۇزاپ چىقتىلار"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "پۇنوندىن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "قوندىلار"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ئوۋوتتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:36.877189078Z",
+  "model": "glm-5.3"
+}

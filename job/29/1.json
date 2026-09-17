@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ئەييۇب مەسەلىنى يەنە ⟨بىر⟩ كۆتۈرۈپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "يەنە قوشتى"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەييۇب"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "كۆتۈرۈپ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "مەسەلىنى"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:05:13.635364863Z",
+  "model": "glm-5.3"
+}

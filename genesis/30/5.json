@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ۋە بىلھا ھامىلدار بولدى ۋە يائاقوۋغا ⟨بىر⟩ ئوغۇل تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ھامىلدار بولدى"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بىلھا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يائاقوۋغا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغۇل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:00.778275132Z",
+  "model": "glm-5.3"
+}

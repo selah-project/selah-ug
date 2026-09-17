@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا ⟨ئىشىتى⟩: ⟨ئۇ مۇنداق دېدى⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨بولدى⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:43:08.219008611Z",
+  "model": "glm-5.3"
+}

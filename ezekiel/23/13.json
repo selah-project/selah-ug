@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "مەن كۆردۈم، ئۇ ⟨مەينەت بولدى⟩ — ئىككىسىگە بىرلا يول ئىدى.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "مەن كۆردۈم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "مەينەت بولدى"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "يول"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىرلا"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "ئىككىسىگە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:28:57.107925234Z",
+  "model": "glm-5.3"
+}

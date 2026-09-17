@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋە ⟨את⟩ ھىۋىي، ۋە ⟨את⟩ ئەرقىي، ۋە ⟨את⟩ سىنىي ⟨خەلقلىرى⟩،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ۋە",
+      "marks": "ھىۋىي"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ھىۋىي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ۋە",
+      "marks": "ئەرقىي"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ئەرقىي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ۋە",
+      "marks": "سىنىي"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سىنىي"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:19.492661593Z",
+  "model": "glm-5.3"
+}

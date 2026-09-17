@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مۇشۇنىڭ ئۈچۈن يۈرىكىمىز ئاغرىق بولدى، مۇشۇ ئىشلار ئۈچۈن كۆزلىرىمىز قاراڭغۇلاشتى.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "مۇشۇنىڭ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ئاغرىق"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "يۈرىكىمىز"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "مۇشۇ ئىشلار"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "قاراڭغۇلاشتى"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "كۆزلىرىمىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:38.296425729Z",
+  "model": "glm-5.3"
+}

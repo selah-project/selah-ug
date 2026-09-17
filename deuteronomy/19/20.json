@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "قالغانلار ⟨بۇنى⟩ ئاڭلاپ قورقىدۇ، ۋ ئاراڭلاردا بۇنداق يامان ئىشنى ئەمدى قىلمايدۇ.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "قالغانلار"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ئاڭلاپ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "قورقىدۇ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "ئەمدى"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "قىلمايدۇ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "قايتا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "يامان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇنداق"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ئاراڭلاردا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:40.182770127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "نەتسىياھ ئوغۇللىرى، ھەتىفا ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نەتسىياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ھەتىفا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.078158026Z",
+  "model": "glm-5.3"
+}

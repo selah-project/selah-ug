@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ياھۋەھ ماڭا ئېيتتى: «يەنە ئۆزۈڭگە ئال — ئەخمەق پادىچىنىڭ سايمانلىرىنى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ئال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سايمانلىرىنى"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "پادىچىنىڭ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ئەخمەق"
+    }
+  ],
+  "timestamp": "2026-09-16T23:17:00.069682422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "تىنچ يايلاقلار ياھۋەھنىڭ غەزەپ ⟨يەنى بۇرۇن⟩ يېنىشى يۈزىدىن جىم بولدى.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "جىم بولدى"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "يايلاقلار"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "تىنچ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "يۈزىدىن"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "يېنىشى"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غەزەپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:24:50.087075066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ئېشەكلەردىن بىر ۋە ئاتمىش مىڭ.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ئېشەكلەردىن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ۋە ئاتمىش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:25:06.435314080Z",
+  "model": "glm-5.3"
+}

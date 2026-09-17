@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "ئۇ دادىسىنىڭ يېنىغا كەلدى ۋە: «دادا!» دېدى. دادىسى: «مانا مەن؛ سەن كىم، ئوغلۇم؟» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يېنىغا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "دادىسىنىڭ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دادا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "مانا مەن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغلۇم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:39.119507035Z",
+  "model": "glm-5.3"
+}

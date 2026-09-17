@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "ياھۋەھ مۇساغا سۆزلەپ ⟨ئ‍ى›› ئېيتتى: «",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئ‍ى…ئ‍ى ‏(ئ‍ى›› يۆنىلىشىدە)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:18:49.700103555Z",
+  "model": "glm-5.3"
+}

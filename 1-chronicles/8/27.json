@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە يائارەشىياھ، ۋە ئەلىياھ، ۋە زىكرى — يىروھامنىڭ ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ۋە يائارەشىياھ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "ۋە ئەلىياھ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ۋە زىكرى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…نىڭ ئوغۇللىرى"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يىروھام"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:06.060944312Z",
+  "model": "glm-5.3"
+}

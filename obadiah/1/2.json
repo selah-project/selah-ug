@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "قارا، مەن سېنى مىللەتلەر ئىچىدە كىچىك قىلدىم، سەن بەكلا خارلاندىڭ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "كىچىك"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "قىلدىم سېنى"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "مىللەتلەر ئىچىدە"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "خار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بەكلا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:07:56.174767143Z",
+  "model": "glm-5.3"
+}

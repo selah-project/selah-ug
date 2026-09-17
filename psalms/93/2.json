@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 93,
+  "translation": "تەختىڭ ئەزلەدىن تۇرغۇزۇلغان، ئەبەدىيەتتىن ئۇزاق ⟨سەن⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "تۇرغۇزۇلغان"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تەختىڭ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ئەزلەدىن"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ئەبەدىيەتتىن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    }
+  ],
+  "timestamp": "2026-09-17T01:33:21.014838470Z",
+  "model": "glm-5.3"
+}

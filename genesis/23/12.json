@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ئىبراھىم ئۇ يەر خەلقىنىڭ ئالدىدا ئېگىلدى.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ئېگىلدى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ئالدىدا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەلقى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ئۇ يەر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:57.930951535Z",
+  "model": "glm-5.3"
+}

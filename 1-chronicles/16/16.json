@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئىبراھىم بىلەن ⟨את⟩ كەسكەن ⟨ئەھدە⟩ ۋە يىسھاققا بەرگەن قەسىمى —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "كەسكەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئىبراھىم"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىم"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ۋە ئۇنىڭ قەسىمى"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "يىسھاققا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:39.402256415Z",
+  "model": "glm-5.3"
+}

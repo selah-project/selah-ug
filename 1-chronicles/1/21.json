@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ھەمدە ⟨את⟩ ھادورامنى، ⟨את⟩ ئۇزالنى ۋە ⟨את⟩ دىكلاھنى ⟨تۇغدى⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ھادورامنى"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ھادورامنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇزالنى"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ئۇزالنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دىكلاھنى"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "دىكلاھنى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:39:26.753486812Z",
+  "model": "glm-5.3"
+}

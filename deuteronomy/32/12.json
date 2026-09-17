@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "ياھۋەھ ئۇنى يالغۇز باشلاپ ماڭدى، ئۇنىڭ بىلەن يات بىرەر ئەل يوق ئىدى.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "يالغۇز"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ئۇنى باشلاپ ماڭدى"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ۋە يوق ئىدى"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ئۇنىڭ بىلەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "يات"
+    }
+  ],
+  "timestamp": "2026-09-16T20:42:54.569314380Z",
+  "model": "glm-5.3"
+}

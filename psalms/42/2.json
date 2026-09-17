@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "سۇ ئېقىنلىرىغا بۇغا ئېسىلگەندەك، جانىم ساڭا ئېسىلىدۇ، ئى ئېلوھىم",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "بۇغا"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ئېسىلىدۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ئۈچۈن⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ئېقىنلىرىغا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانىم"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ئېسىلىدۇ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:26:38.749550407Z",
+  "model": "glm-5.3"
+}

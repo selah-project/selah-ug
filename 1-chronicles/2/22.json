@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "سېگۇب ⟨את⟩ يائىرنى توغدى، يائىرغا گىلئاد يېرىدە يىگىرمە ئۈچ شەھەر بولدى.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "سېگۇب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يائىر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائىرنى"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يېرىدە"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گىلئاد"
+    }
+  ],
+  "timestamp": "2026-09-17T00:40:19.464677542Z",
+  "model": "glm-5.3"
+}

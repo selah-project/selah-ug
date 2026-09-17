@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ئۇرىيا خىتتىلىق — جەمئىي ئوتتۇز يەتتە ⟨ئەزاسى بار ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ئۇرىيا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "خىتتىلىق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جەمئىي"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "يەتتە"
+    }
+  ],
+  "timestamp": "2026-09-16T21:27:55.482277687Z",
+  "model": "glm-5.3"
+}

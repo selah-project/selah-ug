@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "بۇلار دىشاننىڭ ئوغۇللىرى: ئۇتس ۋە ئاران.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دىشاننىڭ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ئۇتس"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ۋە ئاران"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:28.950782133Z",
+  "model": "glm-5.3"
+}

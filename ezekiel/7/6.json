@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئاخىر كەلدى، كەلدى ئاخىر — ساڭا قاراپ ئويغاندى؛ قارا، كېلىۋاتىدۇ.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "ئاخىر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "ئاخىر"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ئويغاندى"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "كېلىۋاتىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:39:53.779916386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "شامماھ ھەھارودىي، ئەلىكا ھەھارودىي،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شامماھ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ھەھارودىي"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ئەلىكا"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ھەھارودىي"
+    }
+  ],
+  "timestamp": "2026-09-16T21:27:57.433736940Z",
+  "model": "glm-5.3"
+}

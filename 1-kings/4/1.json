@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "شىلوموھ پادىشاھ پۈتۈن ئىسرائىل ئۈستىدىن پادىشاھ بولدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شىلوموھ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-16T21:30:25.252113142Z",
+  "model": "glm-5.3"
+}

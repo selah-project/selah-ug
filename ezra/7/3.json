@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئەمارھيانىڭ ئوغلى، ئەزەرھيانىڭ ئوغلى، مەراھيوتنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمارھيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ئەزەرھيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مەراھيوت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:31:45.296030909Z",
+  "model": "glm-5.3"
+}

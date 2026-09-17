@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋە بانناي، ۋە بىننۇي، شىمئاي",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ۋە بانناي"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ۋە بىننۇي"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شىمئاي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:32:18.363144091Z",
+  "model": "glm-5.3"
+}

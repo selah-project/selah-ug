@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "«مەن پادىشاھىمنى مۇقەددەس تېغىم — زىيون ئۈستىگە تەيىنلىدىم.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "تەيىنلىدىم"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادىشاھىمنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زىيون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تېغى"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مۇقەددەس"
+    }
+  ],
+  "timestamp": "2026-09-16T23:18:49.319534960Z",
+  "model": "glm-5.3"
+}

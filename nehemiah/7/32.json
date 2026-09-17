@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بەيت-ئەل ۋە ھەئاي ئەرلىرى — يۈز يىگىرمە ئۈچ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەرلىرى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ۋە ھەئاي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ۋە ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:15.888209458Z",
+  "model": "glm-5.3"
+}

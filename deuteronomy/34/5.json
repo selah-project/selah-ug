@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 34,
+  "translation": "ۋە ياھۋەھنىڭ قۇلى مۇسا موئاب يېرىدە ياھۋەھنىڭ ئاغزى ⟨بويىچە⟩ شۇ يەردە ۋاپات بولدى.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ۋاپات بولدى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شۇ يەردە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "قۇل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يېرىدە"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "על",
+      "gloss": "بويىچە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ئاغزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:51.367165113Z",
+  "model": "glm-5.3"
+}

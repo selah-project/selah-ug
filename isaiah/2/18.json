@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "بۇتلار پۈتۈنلەي يوقىلىپ كېتىدۇ.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "بۇتلار"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "پۈتۈنلەي"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "يوقىلىپ كېتىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:53:16.157727259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ئەلتەقەھ، گىببەتون ۋە بەئالات —",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "ئەلتەقەھ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "گىببەتون"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "بەئالات"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:08.577952350Z",
+  "model": "glm-5.3"
+}

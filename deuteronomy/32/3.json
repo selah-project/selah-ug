@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "چۈنكى ياھۋەھنىڭ ئىسمىنى چاقىرىمەن؛ ئېلوھىمىزغا ئۇلۇغلۇق بېرىڭلار.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئىسمىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "چاقىرىمەن"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بېرىڭلار"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ئۇلۇغلۇق"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ئېلوھىمىزغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:43:19.701855098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "چۈنكى چۈش كۆپ غەم-غۇسسىدىن كېلىدۇ، ئەخمەقنىڭ ئاۋازى بولسا كۆپ سۆزدىن ⟨كېلىدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كېلىدۇ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "چۈش"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "غەم-غۇسسە"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ئاۋازى"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ئەخمەقنىڭ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "سۆز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:02.214156757Z",
+  "model": "glm-5.3"
+}

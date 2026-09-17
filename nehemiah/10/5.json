@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "خاتتۇش، شېۋانىياھ، ماللۇك.",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "خاتتۇش"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "شېۋانىياھ"
+    },
+    {
+      "surface": "مלוך",
+      "gloss": "ماللۇك"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:18.820106377Z",
+  "model": "glm-5.3"
+}

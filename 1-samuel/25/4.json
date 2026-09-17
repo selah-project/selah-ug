@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "داۋۇت چۆلدە نابالنىڭ پادىسىنى قىرقىۋاتقانلىقىنى ئاڭلىدى.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ئاڭلىدى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "چۆلدە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…لىقىنى"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "قىرقىۋاتقان"
+    },
+    {
+      "surface": "نבל",
+      "gloss": "نابالنىڭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پادىسىنى"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "پادىسىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:15:02.795332869Z",
+  "model": "glm-5.3"
+}

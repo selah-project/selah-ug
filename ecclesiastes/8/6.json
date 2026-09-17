@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "چۈنكى ھەر بىر خاھىش ئۈچۈن ۋاقىت ۋە ھۆكۈم بار، چۈنكى ئىنساننىڭ يامانلىقى ئۇنىڭ ئۈستىدە كۆپتۇر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ھەر بىر ئۈچۈن"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خاھىش"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بار"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ۋە ھۆكۈم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "يامانلىقى"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئىنساننىڭ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "كۆپ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۇنىڭ ئۈستىدە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:40.345294938Z",
+  "model": "glm-5.3"
+}

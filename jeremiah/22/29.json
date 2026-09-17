@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئېي زېمىن، زېمىن، زېمىن، ياھۋەھنىڭ سۆزىنى ئاڭلا!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "אرץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ئاڭلا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:22:14.607922024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ئەشخۇر — تېكوئانىڭ ئاتىسىنىڭ ئىككى ئايالى بار ئىدى: خېلاھ ۋە نائاراھ.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "ئەشخۇرغا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ئاتىسى"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تېكوئا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بار ئىدى"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "خېلاھ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "ۋە نائاراھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:14.631286223Z",
+  "model": "glm-5.3"
+}

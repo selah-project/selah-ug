@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 116,
+  "translation": "ئالدىراشلىقىمدا مەن ئېيتتىم: «ھەممە ئىنسان يالغانچى».",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ئېيتتىم"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ئالدىراشلىقىمدا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "يالغانچى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:41:44.544784836Z",
+  "model": "glm-5.3"
+}

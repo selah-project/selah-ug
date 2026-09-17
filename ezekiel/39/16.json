@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 39,
+  "translation": "ھەم شەھەرنىڭ ئىسمى ھاموناھ بولىدۇ؛ ⟨شۇنداق قىلىپ⟩ زېمىننى پاكلايدۇ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئىسمى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شەھەرنىڭ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "ھاموناھ"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "پاكلايدۇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىننى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:54:59.094555828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ۋە ⟨ئۇ⟩ ئۇنىڭ ئۆيىدىن چىقىپ كېتىپ، بېرىپ باشقا بىر ئەرگە ⟨خوتۇن⟩ بولسا.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ۋە چىقسا"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ئۇنىڭ ئۆيىدىن"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ۋە كەتسە"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ۋە بولسا"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بىر ئەرگە"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "باشقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:40:15.860497015Z",
+  "model": "glm-5.3"
+}

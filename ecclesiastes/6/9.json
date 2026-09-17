@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "كۆزنىڭ كۆرگىنى نەپەسنىڭ كېزىشىدىن ياخشىدۇر؛ بۇمۇ ھەبەل ۋە روھنىڭ رەزىللىكى.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "كۆرگىنى"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "كۆزنىڭ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "كېزىشىدىن"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نەپەسنىڭ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بۇمۇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ھەبەل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ۋە رەزىللىكى"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:59.278434908Z",
+  "model": "glm-5.3"
+}

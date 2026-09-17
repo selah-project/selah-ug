@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە ئەزۇبە ئۆلدى، ۋە كالەب ئۆزىگە ⟨את⟩ ئەپراتنى ئالدى، ۋە ئۇ ئۇنىڭغا ⟨את⟩ خۇرنى تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ۋە ئۆلدى"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "ئەزۇبە"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ۋە ئالدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۆزىگە"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كالەب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەپراتنى"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "ئەپرات"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ۋە تۇغدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خۇرنى"
+    },
+    {
+      "surface": "חור",
+      "gloss": "خۇر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:40:08.697591076Z",
+  "model": "glm-5.3"
+}

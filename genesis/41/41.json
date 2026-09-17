@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 41,
+  "translation": "پىرئون يۇسۇپقا ئېيتتى: «قارا، مەن ⟨את⟩ سېنى پۈتۈن مىسىر زېمىنىنىڭ ئۈستىگە قويدۇم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پىرئون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يۇسۇپ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "قويدۇم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "سېنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىنى"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مىسىر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:33:58.775622290Z",
+  "model": "glm-5.3"
+}

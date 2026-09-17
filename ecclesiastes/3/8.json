@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "سۆيۈش ⟨ئۈچۈن⟩ ۋاقىت، ۋە نەپرەتلىنىش ⟨ئۈچۈن⟩ ۋاقىت؛ ئۇرۇش ۋاقتى، ۋە تىنچلىق ۋاقتى.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "سۆيۈش"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە ۋاقىت"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "نەپرەتلىنىش"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە ۋاقىت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "تىنچلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:59.978923590Z",
+  "model": "glm-5.3"
+}

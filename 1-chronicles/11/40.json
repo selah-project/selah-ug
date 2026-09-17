@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئىرا ھايىترىيي، گارېب ھايىترىيي.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ئىرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ھايىترىيي"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گارېب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ھايىترىيي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:46.150338507Z",
+  "model": "glm-5.3"
+}

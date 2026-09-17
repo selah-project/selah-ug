@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "داۋىد قورغاندا ئولتۇردى؛ شۇنىڭ ئۈچۈن ئۇنىڭغا «داۋىد شەھىرى» دېپ ئاتالدى.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ئولتۇردى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋىد"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "قورغاندا"
+    },
+    {
+      "surface": "על",
+      "gloss": "شۇنىڭ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئۈچۈن"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ئاتالدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شەھىرى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋىد"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:06.968750047Z",
+  "model": "glm-5.3"
+}

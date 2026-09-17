@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "رەئۇئېلنىڭ ئوغۇللىرى: ناھات، زېراخ، شامماھ ۋە مىززاھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رەئۇئېل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ناھات"
+    },
+    {
+      "surface": "زרח",
+      "gloss": "زېراخ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شامماھ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ۋە مىززاھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:11.763441801Z",
+  "model": "glm-5.3"
+}

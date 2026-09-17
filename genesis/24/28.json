@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "قىز يۈگۈردى-يۈگۈردى ۋە بۇ سۆزلەرنى ئانىسىنىڭ ئۆيىگە يەتكۈزدى.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "يۈگۈردى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "قىز"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "يەتكۈزدى"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ئۆيىگە"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ئانىسىنىڭ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "بۇ سۆزلەرنى"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:52.352335647Z",
+  "model": "glm-5.3"
+}

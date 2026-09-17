@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "سۇسلىرىڭ بىلەن دېڭىزنى دەسسەپ ئۆتتۈڭ — كۆپ سۇلارنىڭ كۆپىكىنى.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "دەسسەپ ئۆتتۈڭ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "دېڭىزنى"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "سۇسلىرىڭ بىلەن"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "كۆپىكىنى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلارنىڭ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كۆپ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:12:56.051730437Z",
+  "model": "glm-5.3"
+}

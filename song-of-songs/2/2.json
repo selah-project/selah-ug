@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "تىكەنلەر ئىچىدىكى نەرگىزگە ئوخشاش، سۆيگۈنۈم قىزلار ئىچىدە شۇنداق.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "نەرگىزگە ئوخشاش"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ئىچىدىكى"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "تىكەنلەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "سۆيگۈنۈم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ئىچىدە"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "قىزلار"
+    }
+  ],
+  "timestamp": "2026-09-17T00:10:30.909469542Z",
+  "model": "glm-5.3"
+}

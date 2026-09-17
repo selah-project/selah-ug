@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئۇنىڭ قىسقۇچلىرى ۋە كۈل قاچىلىرى ساپ ئالتۇندىن بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "قىسقۇچلىرى"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "كۈل قاچىلىرى"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ساپ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:49:08.954747598Z",
+  "model": "glm-5.3"
+}

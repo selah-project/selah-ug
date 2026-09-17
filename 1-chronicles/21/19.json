@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "داۋۇد ياھۋەھنىڭ نامى بىلەن سۆزلىگەن گادنىڭ سۆزى بىلەن چىقتى.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇد"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "سۆزى بىلەن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گادنىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلىگەن"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامى بىلەن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:00.820525427Z",
+  "model": "glm-5.3"
+}

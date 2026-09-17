@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ئەمدى جېنىمىز قۇرۇدى؛ كۆزىمىزگە ماننادىن باشقا ھېچنەرسە يوق.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ۋە ئەمدى"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "جېنىمىز"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "قۇرۇدى"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھېچنەرسە"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨دىن⟩"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ماننا"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "كۆزىمىزگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:33.937479641Z",
+  "model": "glm-5.3"
+}

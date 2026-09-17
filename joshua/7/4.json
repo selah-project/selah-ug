@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "خەلقتىن ئۇ يەرگە ئۈچ مىڭ كىشى چىقتى، ئەي كىشىلىرىنىڭ ئالدىدىن قېچىپ كەتتى.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ـدىن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئۇ يەرگە"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "قېچىپ كەتتى"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ئالدىدىن"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "كىشىلىرىنىڭ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ئەي"
+    }
+  ],
+  "timestamp": "2026-09-16T20:47:55.361266221Z",
+  "model": "glm-5.3"
+}

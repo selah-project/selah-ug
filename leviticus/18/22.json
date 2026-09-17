@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ۋە ⟨את⟩ ئەركەكنى ئايالنىڭ يېتىشىدەك ياتمايسەن — نەپرەتلىك ئىش ئۇ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەركەكنى"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ئەركەكنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ھەرگىز"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ياتمايسەن"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "يېتىشىدەك"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئايالنىڭ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "نەپرەتلىك ئىش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:03:54.335446224Z",
+  "model": "glm-5.3"
+}

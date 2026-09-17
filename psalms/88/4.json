@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 88,
+  "translation": "چۈنكى نەپسىم يامانلىقلارغا تويغان، ھاياتىم شېئولغا يەتتى",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "تويغان"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "يامانلىقلارغا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نەپسىم"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ھاياتىم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شېئولغا"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "يەتتى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:35:37.962356823Z",
+  "model": "glm-5.3"
+}

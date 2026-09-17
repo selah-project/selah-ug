@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "ۋە دان چېگرىسىنىڭ ئۈستىدە، شەرق تەرىپىدىن دېڭىز ⟨يېنى⟩غىچە: ئاشېر — بىر ⟨ئۈلۈش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ۋە ئۈستىدە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "چېگرىسى"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "تەرىپىدىن"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "شەرق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "غىچە"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "تەرىپى"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دېڭىز يېنىغا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشېر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-17T01:31:49.258785665Z",
+  "model": "glm-5.3"
+}

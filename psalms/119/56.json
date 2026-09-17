@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 119,
+  "translation": "بۇ ماڭا ⟨شۇنداق⟩ بولدى، چۈنكى سېنىڭ بۇيرۇقلىرىڭنى ساقلىدىم",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "سېنىڭ بۇيرۇقلىرىڭنى"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ساقلىدىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:42:32.863396502Z",
+  "model": "glm-5.3"
+}

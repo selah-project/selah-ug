@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "كۈن ⟨سۈرۈلگۈچە⟩ ۋە سايىلەر قاچقۇچە، مەن ئۆزۈمچە مۇر تېغىغا ۋە لادان ئېيىقىغا بارىمەن.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "غىچە"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "سۈرۈلگۈچە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "قاچقۇچە"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "سايىلەر"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "بارىمەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ئۆزۈمچە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-غا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تېغىغا"
+    },
+    {
+      "surface": "המור",
+      "gloss": "مۇر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە -غا"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ئېيىقى"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "لادان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:11:20.947594022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "قارا، بۇنى تاپتىم، دېدى قاھىلەت، بىر-بىرلەپ قوشۇپ ھېساباتنى تېپىش ⟨ئۈچۈن⟩",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بۇنى"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "تاپتىم"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قاھىلەت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "بىرلەپ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "تېپىش"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ھېسابات"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:02.390478410Z",
+  "model": "glm-5.3"
+}

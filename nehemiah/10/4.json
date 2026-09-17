@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "پاشحۇر، ئەمارىياھ، مالكىياھ.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "پاشحۇر"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمارىياھ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مالكىياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:14.245526638Z",
+  "model": "glm-5.3"
+}

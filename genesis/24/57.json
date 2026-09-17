@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئۇلار: «قىزنى چاقىرايلى، ئېغىزىدىن ⟨ئۇنى⟩ سورايلى» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ئۇلار دېدى"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "چاقىرايلى"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "قىزنى"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "سورايلى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئېغىزىنى"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ئېغىزىدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:19.003136446Z",
+  "model": "glm-5.3"
+}

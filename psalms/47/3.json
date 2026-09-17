@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 47,
+  "translation": "چۈنكى ياھۋەھ ئەليون قورقۇنچلۇقتۇر، پۈتۈن يەر ئۈستىدىكى بۈيۈك پادىشاھتۇر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ئەليون"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "قورقۇنچلۇق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بۈيۈك"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىكى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    }
+  ],
+  "timestamp": "2026-09-16T23:27:58.843782135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "قەلب ھەممە نەرسىدىن ئالدامچى، ئۇ ئەسلىگە كەلمەس — كىم ئۇنى بىلەلەيدۇ؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ئالدامچى"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "قەلب"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ھەممە نەرسىدىن"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ئەسلىگە كەلمەس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ئۇنى بىلەلەيدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:21:14.152752696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە يىزرەئەل، ۋە يوقدەئام، ۋە زانوئاھ",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "ۋە يىزرەئەل"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "ۋە يوقدەئام"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ۋە زانوئاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:17.725856750Z",
+  "model": "glm-5.3"
+}

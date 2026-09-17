@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ھەلەتس ھەپالتىي، ئىرا بەن ئىققەش ھەتەقۇئىي،",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "ھەلەتس"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "ھەپالتىي"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ئىرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بەن"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ئىققەش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ھەتەقۇئىي"
+    }
+  ],
+  "timestamp": "2026-09-16T21:27:57.433953676Z",
+  "model": "glm-5.3"
+}

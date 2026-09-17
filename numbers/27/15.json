@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 27,
+  "translation": "مۇسا ياھۋەھغا مۇنداق دېدى ⟨ئېيتىپ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ياھۋەھغا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "مۇنداق ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:14:53.979042480Z",
+  "model": "glm-5.3"
+}

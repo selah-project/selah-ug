@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "سەدۇم پادىشاھى ئەبرامغا: «كىشىلەرنى ماڭا بەر، مال-مۈلۈكنى بولسا ئۆزۈڭگە ئال» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سەدۇم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ئەبرام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بەر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "كىشىلەرنى"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "مال-مۈلۈكنى بولسا"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ئال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:21:34.313977688Z",
+  "model": "glm-5.3"
+}

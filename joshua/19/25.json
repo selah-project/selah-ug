@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە ئۇلارنىڭ چېگراسى ⟨بولدى⟩ — خېلكات، خالى، بېتېن ۋە ئاخشاف.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ئۇلارنىڭ چېگراسى"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "خېلكات"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "خالى"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "بېتېن"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "ئاخشاف"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:24.398507578Z",
+  "model": "glm-5.3"
+}

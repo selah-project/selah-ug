@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "زەكەرىيا بىن مەشەلەمىيا ئولتۇرۇش چېدىرىنىڭ ئېغىزىغا دەرۋازىبەن بولدى.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "زەكەرىيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بىن"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "مەشەلەمىيا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرۋازىبەن"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ئېغىزىغا"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "چېدىرىنىڭ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ئولتۇرۇش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:55.076820835Z",
+  "model": "glm-5.3"
+}

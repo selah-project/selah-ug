@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئاراخنىڭ ئوغۇللىرى ⟨ئىدى⟩، يەتتە يۈز ئەللىك بەش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ئاراخ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ئەللىك بەش"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "يەتمىش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:30.074816890Z",
+  "model": "glm-5.3"
+}

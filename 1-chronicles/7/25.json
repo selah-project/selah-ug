@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ۋە ئۇنىڭ ئوغلى رەفەھ، ۋە رەشەف، ۋە ئۇنىڭ ئوغلى تەلەھ، ۋە ئۇنىڭ ئوغلى تەھان.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "رەفەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "رەشەف"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "تەلەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "تەھان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:06.719566651Z",
+  "model": "glm-5.3"
+}

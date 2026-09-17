@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "نېۋونىڭ ⟨ئىككىنچى⟩ ⟨كىشىلىرى⟩ — ئەللىك ئىككى ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "كىشىلىرى"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نېۋو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨ئىككىنچى⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:59.068130942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئەگەر سەن چۈشۈشتىن قورقساڭ، سەن ۋە پۇراھ خىزمەتچىڭ لاگەرگە چۈشكىن.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "قورقساڭ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "چۈشۈشتىن"
+    },
+    {
+      "surface": "רד",
+      "gloss": "چۈشكىن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "پۇراھ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "خىزمەتچىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئىچىگە"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لاگەر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:56:19.858918395Z",
+  "model": "glm-5.3"
+}

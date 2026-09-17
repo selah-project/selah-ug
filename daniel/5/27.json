@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "تېكېل — تارازىدا تارتىلدىڭ ۋە كەم تاپتىڭ.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "تېكېل"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "تارتىلدىڭ"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "تارازىدا"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "ۋە تاپتىڭ"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "كەم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:23:13.564753922Z",
+  "model": "glm-5.3"
+}

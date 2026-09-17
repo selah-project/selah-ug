@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ساڭا كۆرسىتىلدى، بىلىشىڭ ئۈچۈنكى ياھۋەھ ⟨ئۇ⟩ ئېلوھىمدۇر؛ ئۇنىڭدىن باشقا يوقتۇر.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "كۆرسىتىلدى"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بىلىشكە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ئۇنىڭدىن باشقا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:31:30.720679074Z",
+  "model": "glm-5.3"
+}

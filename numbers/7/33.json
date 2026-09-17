@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر بۇقى — كالا بالىسى — بىر قوشاق، بىر قوزا، بىر ياشلىق، كۆيۈم قۇربانلىقى ئۈچۈن؛",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "بىر بۇقى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بالىسى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوشاق"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "قوزا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بالىسى"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "بىر ياشلىق"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "كۆيۈم قۇربانلىقى ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:12:34.815025624Z",
+  "model": "glm-5.3"
+}

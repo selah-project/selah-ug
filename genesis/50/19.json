@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 50,
+  "translation": "يوسېپ ئۇلارغا: «قورقماڭلار، چۈنكى مەن ئېلوھىمىنىڭ ئورنىدىمۇ؟» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسېپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨يوق⟩"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "قورقماڭلار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ئورنىدىمۇ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىمىنىڭ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    }
+  ],
+  "timestamp": "2026-09-16T19:37:46.696878815Z",
+  "model": "glm-5.3"
+}

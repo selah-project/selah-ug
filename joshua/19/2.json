@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ئۇلارنىڭ مىراسىدا بەئەر شەبەئ، شەبەئ ۋە مولاداھ بولدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارنىڭ"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "مىراسىدا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بەئەر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەبەئ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "شەبەئ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "مولاداھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:09.981621853Z",
+  "model": "glm-5.3"
+}

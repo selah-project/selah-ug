@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "شەلما بەيت-لەھەمنىڭ ئاتىسى، خارەف بەيت-گادەرنىڭ ئاتىسى ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "شەلما"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…نىڭ ئاتىسى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەھەم"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "خارەف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…نىڭ ئاتىسى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گادەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:54.195615732Z",
+  "model": "glm-5.3"
+}

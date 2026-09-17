@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "بىر ئادەمنىڭ ھۆكمىنى ئەل ئەليوننىڭ يۈزى ئالدىدا بۇرمىلاشنى ⟨ئۇ خالىمايدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "بۇرمىلاش"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ھۆكمىنى"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بىر ئادەمنىڭ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ئالدىدا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزى"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ئەل ئەليوننىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:43.519459018Z",
+  "model": "glm-5.3"
+}

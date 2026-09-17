@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "قوراھنىڭ ئوغۇللىرى بولسا ئۆلمىدى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراھنىڭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئۆلمىدى — ئىنكار بەلگىسى"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ئۆلمىدى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:22:27.294425254Z",
+  "model": "glm-5.3"
+}

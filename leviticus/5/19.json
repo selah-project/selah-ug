@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئۇ گۇناھ قۇربانلىقىدۇر؛ ئۇ ياھۋەھغا قارشى ئېنىق گۇناھكار بولغانىدى.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "گۇناھ قۇربانلىقى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گۇناھكار"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گۇناھكار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:58:05.458274110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 73,
+  "translation": "كۆكدە ماڭا ⟨كىم بار⟩؟ سەن بىلەن ⟨بولغاچقا⟩ يەردە ھېچنېمىنى خالىمىدىم.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "كۆكدە"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "سەن بىلەن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ھېچ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "خالىمىدىم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يەردە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:32:49.421180245Z",
+  "model": "glm-5.3"
+}

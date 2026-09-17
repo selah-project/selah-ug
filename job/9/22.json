@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "بىر ⟨ئىش⟩، شۇڭا ئېيتتىم: كامىلنى ۋە رەزىلنى ئۇ يوقىتىدۇ.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "شۇنىڭ ئۈستىگە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شۇڭا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ئېيتتىم"
+    },
+    {
+      "surface": "תם",
+      "gloss": "كامىلنى"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ۋە رەزىلنى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "يوقىتىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:00:02.657333863Z",
+  "model": "glm-5.3"
+}

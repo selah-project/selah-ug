@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "مەن ⟨את⟩ بەلباغنى ياھۋەھنىڭ سۆزى بويىچە ئېلىپ، بېلىمگە تاقىدىم.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "ئېلىپ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەلباغنى"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "بەلباغنى"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "سۆزى بويىچە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "تاقىدىم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "بېلىمگە"
+    }
+  ],
+  "timestamp": "2026-09-16T22:21:28.598327252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "مەن كۆڭلۈمدە دېدىم: كەلگىن، ئىلتىماس، خۇشاللىقتا سىناي، ياخشىنى كۆرەي — مانا، ئۇمۇ ھەبەل ئىكەن.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "كۆڭلۈمدە"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "كەلگىن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئىلتىماس"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "سىناي"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "خۇشاللىقتا"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ۋە كۆرەي"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ياخشىنى"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئۇمۇ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ھەبەل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:57.016315608Z",
+  "model": "glm-5.3"
+}

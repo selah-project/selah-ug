@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ئۇ ⟨ئۇلار›غا› زىياپەت قىلدى، ئۇلار يېدى ۋە ئىچتى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "مשתה",
+      "gloss": "زىياپەت"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "يېدى"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ئىچتى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:26:23.966052697Z",
+  "model": "glm-5.3"
+}

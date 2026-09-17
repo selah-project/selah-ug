@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "مۇسا بىلەن كاھىن ئەلئەزەر ياھۋەھ مۇساغا ⟨את⟩ بۇيرۇق بەرگىنىدەك قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "بىلەن ئەلئەزەر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاھىن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "دەك"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇق بەردى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۇسا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:26:10.179993372Z",
+  "model": "glm-5.3"
+}

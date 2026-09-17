@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "يەھداينىڭ ئوغۇللىرى ⟨بولسا⟩: رەگەم، يوتام، گەيشان، پەلەت، ئەيپەھ ۋە شائاف.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "يەھداينىڭ"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "رەگەم"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "گەيشان"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "پەلەت"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "ئەيپەھ"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "شائاف"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:58.773695422Z",
+  "model": "glm-5.3"
+}

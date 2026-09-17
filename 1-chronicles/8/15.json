@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە زەبەدىياھ، ۋە ئاراد، ۋە ئەدەر.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ۋە زەبەدىياھ"
+    },
+    {
+      "surface": "وערד",
+      "gloss": "ۋە ئاراد"
+    },
+    {
+      "surface": "وעדר",
+      "gloss": "ۋە ئەدەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:18.049584092Z",
+  "model": "glm-5.3"
+}

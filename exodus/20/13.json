@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ئۆلتۈرمە",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ھەرگىز"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ئۆلتۈرمە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:45:05.443285090Z",
+  "model": "glm-5.3"
+}

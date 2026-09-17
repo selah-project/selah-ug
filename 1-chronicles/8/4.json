@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ئەبىشۇئا، ۋە نائامان، ۋە ئەخوئاھ.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ئەبىشۇئا"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "نائامان"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "ئەخوئاھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:03.354604752Z",
+  "model": "glm-5.3"
+}

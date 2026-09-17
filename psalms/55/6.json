@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 55,
+  "translation": "قورقۇنچ ۋە تىترەش ئىچىمگە كىردى، ۋە ۋەھىمە مېنى ياپتى.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "قورقۇنچ"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ۋە تىترەش"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "كىردى"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ئىچىمگە"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ۋە مېنى ياپتى"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ۋەھىمە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:28:27.023076828Z",
+  "model": "glm-5.3"
+}

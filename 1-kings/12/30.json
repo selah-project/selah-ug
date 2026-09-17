@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "بۇ ئىش گۇناھ بولۇپ قالدى، خەلق بىرىنىڭ ئالدىغا دانغىچە باردى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئىش"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گۇناھ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "باردى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "ئالدىغا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "بىرىنىڭ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "دانغىچە"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-09-16T21:36:50.219026461Z",
+  "model": "glm-5.3"
+}

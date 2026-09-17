@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئاماريا، ماللۇك، خاتتۇش.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "ئاماريا"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ماللۇك"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "خاتتۇش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:08.688346017Z",
+  "model": "glm-5.3"
+}

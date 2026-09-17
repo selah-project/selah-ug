@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ئاتا باشلىرىنىڭ ⟨بارلىق⟩ سانى — جەسۇر پالۋانلاردىن — ئىككى مىڭ ئالتە يۈز ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "مספר",
+      "gloss": "سانى"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "باشلىرى"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ئاتا"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "پالۋانلاردىن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جەسۇر"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ئىككى مىڭ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-17T01:40:59.078695218Z",
+  "model": "glm-5.3"
+}

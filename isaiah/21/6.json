@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "چۈنكى ئادوناي ماڭا مۇنداق دېدى: بېرىپ كۆزەتچىنى تۇرغۇز، نېمىنى كۆرسە شۇنى ئېيتسۇن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כה",
+      "gloss": "مۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بار"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "تۇرغۇز"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "كۆزەتچى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "نېمىنى"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "كۆرسە"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ئېيتسۇن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:59:07.084023111Z",
+  "model": "glm-5.3"
+}

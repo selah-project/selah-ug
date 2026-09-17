@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "دەريا قوشۇلارى ئېچىلدى، ۋە ئوردا ئېرىپ تۈگىدى.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "قوشۇلارى"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "دەريانىڭ"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "ئېچىلدى"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "ۋە ئوردا"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ئېرىپ تۈگىدى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:10:52.071636370Z",
+  "model": "glm-5.3"
+}

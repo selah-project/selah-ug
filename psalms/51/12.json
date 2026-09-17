@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 51,
+  "translation": "ئى ئېلوھىم، مەندە پاك دىل ياراتقىن، ئىچىمدە تۈز روھنى يېڭىلىغىن.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دىل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاك"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ياراتقىن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مەندە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئى ئېلوھىم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ۋە روھ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تۈز"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "يېڭىلىغىن"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ئىچىمدە"
+    }
+  ],
+  "timestamp": "2026-09-16T23:28:28.914315129Z",
+  "model": "glm-5.3"
+}

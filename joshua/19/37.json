@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە قەدەش، ۋە ئەدرەئى، ۋە ئەيىن-ھاتسور",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "ۋە قەدەش"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ۋە ئەدرەئى"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ۋە ئەيىن"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ھاتسور"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:19.255248010Z",
+  "model": "glm-5.3"
+}

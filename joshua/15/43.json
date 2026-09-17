@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ۋە يىپتاھ، ۋە ئەشنەھ، ۋە نېتسىۋ",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ۋە يىپتاھ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ۋە ئەشنەھ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ۋە نېتسىۋ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:09.669329715Z",
+  "model": "glm-5.3"
+}

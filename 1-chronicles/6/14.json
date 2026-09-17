@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "مەرارىنىڭ ئوغۇللىرى: ماخلى؛ لىبنى ئۇنىڭ ئوغلى، شىمئى ئۇنىڭ ئوغلى، ئۇززا ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "مררי",
+      "gloss": "مەرارىنىڭ"
+    },
+    {
+      "surface": "مחלי",
+      "gloss": "ماخلى"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لىبنى"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شىمئى"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ئۇززا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:22.891230624Z",
+  "model": "glm-5.3"
+}

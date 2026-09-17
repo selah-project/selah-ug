@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ⟨את⟩ دائاھ، ۋە ⟨את⟩ ئاييە، ئۆز تۈرى بويىچە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دائاھ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "دائاھ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئاييە"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ئاييە"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ئۆز تۈرى بويىچە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:59:49.380568073Z",
+  "model": "glm-5.3"
+}

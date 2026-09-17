@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "پۈتۈن يەر يۈزىنىڭ ⟨بىر⟩ تىلى، سۆزلىرى بىر ئىدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ئىدى⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر يۈزىنىڭ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "تىلى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "سۆزلىرى"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:21:16.899587957Z",
+  "model": "glm-5.3"
+}

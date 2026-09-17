@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ئۇنىڭ كەينىدىن گابباي، ساللاي — توققۇز يۈز يىگىرمە سەككىز ⟨كىشى⟩.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "كەينىدىن"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "گابباي"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ساللاي"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "توققۇز"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "سەككىز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:42.110849759Z",
+  "model": "glm-5.3"
+}

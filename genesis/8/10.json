@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ئۇ يەنە باشقا يەتتە كۈن ساقلىدى ۋە كەپتەرنى ⟨את⟩ كېمىدىن يەنە ئۇچۇردى.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ساقلىدى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "يەنە قوشۇپ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ئۇچۇردى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كەپتەرنى"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "كەپتەر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–دىن"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "كېمە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:00.454737053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 50,
+  "translation": "زېمىندا جەڭ ئاۋازى ⟨بار⟩ ۋە چوڭ ۋەيرانچىلىق ⟨بار⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ئاۋازى"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جەڭ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زېمىندا"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ۋە ۋەيرانچىلىق"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "چوڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:27:35.050354876Z",
+  "model": "glm-5.3"
+}

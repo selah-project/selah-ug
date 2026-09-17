@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ئارپاخشاد ئوتتۇز بەش ياشقا كىرگەندە ⟨את⟩ شەلەخنى توغدى.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ئارپاخشاد"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ياشىدى ⟨ياشقا كىرگەندە⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ياش"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شەلەخنى"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شەلەخ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:44.254738105Z",
+  "model": "glm-5.3"
+}

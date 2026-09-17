@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "شەمەئىياھ، ۋە يويارىب، يەدائىياھ؛",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "شەمەئىياھ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "ۋە يويارىب"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يەدائىياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:58.362854771Z",
+  "model": "glm-5.3"
+}

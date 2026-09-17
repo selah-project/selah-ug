@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "قوي ۋە كالا — ھەممىسى، ھەتتا دالىنىڭ ھايۋانلىرىمۇ.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ۋە كالا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ھەممىسى"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ھەتتا"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ھايۋانلىرى"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "دالىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:20:01.352123334Z",
+  "model": "glm-5.3"
+}

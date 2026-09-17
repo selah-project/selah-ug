@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "گومەرنىڭ ئوغۇللىرى بولسا: ئەشكەناز، رىپات ۋە توگارما.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ۋە ئوغۇللىرى"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومەرنىڭ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ئەشكەناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "رىپات"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ۋە توگارما"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:53.259271317Z",
+  "model": "glm-5.3"
+}

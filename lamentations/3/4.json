@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "گۆشۈمنى ۋە تېرەمنى ئۇستاتتى، سۆڭەكلىرىمنى چاقتى.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "ئۇستاتتى"
+    },
+    {
+      "surface": "بשרי",
+      "gloss": "گۆشۈمنى"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "تېرەمنى"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "چاقتى"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "سۆڭەكلىرىمنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:59.888268904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "بۇزۇۋېتىلگەن، تېمى يوق شەھەر — روھىغا تىزگىن يوق ئادەم ⟨شۇنداقدۇر⟩.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "بۇزۇۋېتىلگەن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "تېمى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨كىمكى⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "تىزگىن"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "ئۇنىڭ روھىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:34.455217952Z",
+  "model": "glm-5.3"
+}

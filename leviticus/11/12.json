@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "سۇلاردا قاناتى ۋە قاسىرىقى يوق بولغان ھەممە نەرسە — سىلەرگە يىرگىنچتۇر.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەممە نەرسە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "قاناتى"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ۋە قاسىرىقى"
+    },
+    {
+      "surface": "במים",
+      "gloss": "سۇلاردا"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "يىرگىنچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "سىلەرگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:01.409227040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 97,
+  "translation": "چاقماقلىرى دۇنيانى يورۇتتى؛ زېمىن كۆردى ۋە تىترىدى.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "يورۇتتى"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "چاقماقلىرى"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دۇنيانى"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "كۆردى"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ۋە تىترىدى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:37:03.865534715Z",
+  "model": "glm-5.3"
+}

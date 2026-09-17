@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "سۈمۈرگۈچ قۇرتنىڭ ئىككى قىزى ⟨بار⟩: «بەر، بەر». ئۈچ نەرسە تويمىيدۇ، تۆتتىن «يەتەر» دېيىلمىدى.",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "سۈمۈرگۈچ قۇرتنىڭ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىزى"
+    },
+    {
+      "surface": "הב",
+      "gloss": "بەر"
+    },
+    {
+      "surface": "הב",
+      "gloss": "بەر"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "شۇلار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "تويمىيدۇ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "دېمىدى"
+    },
+    {
+      "surface": "הון",
+      "gloss": "يەتەر"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:01.637793080Z",
+  "model": "glm-5.3"
+}

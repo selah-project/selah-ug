@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ياھۋەھ — نېسىۋەم ۋە جامىم؛ سەن ⟨ئۇ⟩ گۆرالىمنى تۇتۇپ تۇرىسەن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "نېسىۋە"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "نېسىۋەم"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ۋە جامىم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "تۇتۇپ تۇرىسەن"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "گۆرالىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:20:45.008657886Z",
+  "model": "glm-5.3"
+}

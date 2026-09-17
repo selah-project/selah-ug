@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئەسلىگىن، ئى ياھۋەھ، بىزگە نېمە بولغانلىقىنى؛ قارىغىن ۋە كۆرگىن ⟨את⟩ خورلۇقىمىزنى.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ئەسلىگىن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولغانلىقىنى"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بىزگە"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "قارىغىن"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ۋە كۆرگىن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خورلۇقىمىزنى"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "خورلۇقىمىزنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.454424871Z",
+  "model": "glm-5.3"
+}

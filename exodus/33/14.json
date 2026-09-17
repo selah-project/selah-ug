@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ئۇ ⟨ئېيتتى⟩: چىرايىم ماڭىدۇ ۋە ساڭا راھەت بېرىمەن",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨ئېيتتى⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چىرايىم"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ماڭىدۇ"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "ۋە راھەت بېرىمەن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:53:51.931873518Z",
+  "model": "glm-5.3"
+}

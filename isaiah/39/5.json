@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 39,
+  "translation": "ئىسايا خىزقىياھقا: «ياھۋەھ سەبائوتنىڭ سۆزىنى ئاڭلا» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ئىسايا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خىزقىياھقا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خىزقىياھقا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ئاڭلا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەبائوت"
+    }
+  ],
+  "timestamp": "2026-09-17T01:24:50.097197763Z",
+  "model": "glm-5.3"
+}

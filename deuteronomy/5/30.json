@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "بار، ئۇلارغا ئېيت: چېدىرلىرىڭلارغا قايتىڭلار.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئېيت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "قايتىڭلار"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ئۆز⟩"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "چېدىرلىرىڭلارغا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:30:30.433053645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "يەنە ئىرا — يائىرىلىك — داۋۇدقا كاھىن ⟨بولدى⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ئىرا"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "يائىرىلىك"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاھىن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇدقا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:25:35.234561864Z",
+  "model": "glm-5.3"
+}

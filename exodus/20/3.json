@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "ساڭا باشقا ئېلوھىملار مېنىڭ يۈزۈمگە ⟨بولمايدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىملار"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "باشقا"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزۈمگە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:46:45.289249896Z",
+  "model": "glm-5.3"
+}

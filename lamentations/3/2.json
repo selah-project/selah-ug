@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "⟨ئۇ⟩ مېنى ⟨את⟩ ھەيدىدى ۋە قاراڭغۇلۇققا ماڭغۇزدى، نۇرغا ئەمەس.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "مېنى"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ھەيدىدى"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ماڭغۇزدى"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "قاراڭغۇلۇققا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نۇرغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:59.887899622Z",
+  "model": "glm-5.3"
+}

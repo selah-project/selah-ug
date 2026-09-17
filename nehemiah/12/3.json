@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "شېكانيا، رېھۇم، مېرېموت.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "شېكانيا"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رېھۇم"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "مېرېموت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:38:08.688505408Z",
+  "model": "glm-5.3"
+}

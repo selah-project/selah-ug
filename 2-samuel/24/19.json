@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "داۋۇد گادنىڭ سۆزى بويىچە چىقتى، ياھۋەھ بۇيرۇغىنىدەك.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داۋۇد"
+    },
+    {
+      "surface": "كדבר",
+      "gloss": "سۆزى بويىچە"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گادنىڭ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "دېگەندەك"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "بۇيرۇغىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:28:39.940248222Z",
+  "model": "glm-5.3"
+}

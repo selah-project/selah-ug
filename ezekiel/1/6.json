@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۇلارنىڭ ھەر بىرىگە تۆت چىراي، ھەر بىرىگە تۆت قانات ⟨بار⟩ ئىدى.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چىراي"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "بىرىگە"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "قانات"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "بىرىگە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارغا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:38:38.659300517Z",
+  "model": "glm-5.3"
+}

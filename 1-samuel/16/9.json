@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "يىشااي شاممانى ئۆتكۈزدى، ئۇ: «ياھۋەھ بۇنىمۇ تاللىمىدى» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ئۆتكۈزدى"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يىشااي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شاممانى"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "بۇنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "تاللىدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:10:38.613067523Z",
+  "model": "glm-5.3"
+}

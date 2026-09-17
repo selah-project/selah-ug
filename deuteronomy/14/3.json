@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ھېچقانداق يىرگىنچلىك نەرسە يېمە",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھېچقانداق"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "يىرگىنچلىك نەرسە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:05.383029466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "كۆز ئورنىغا كۆز، چىش ئورنىغا چىش، قول ئورنىغا قول، پۇت ئورنىغا پۇت.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "كۆز"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئورنىغا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "كۆز"
+    },
+    {
+      "surface": "שן",
+      "gloss": "چىش"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئورنىغا"
+    },
+    {
+      "surface": "שן",
+      "gloss": "چىش"
+    },
+    {
+      "surface": "יד",
+      "gloss": "قول"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئورنىغا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "قول"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پۇت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئورنىغا"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پۇت"
+    }
+  ],
+  "timestamp": "2026-09-16T19:47:18.171276629Z",
+  "model": "glm-5.3"
+}

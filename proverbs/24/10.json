@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئەگەر سەن بالانىڭ كۈنىدە بوشاپ قالساڭ — كۈچۈڭ تار ئىكەن.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "بوشاپ قالدىڭ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنىدە"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "بالانىڭ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تار"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "كۈچۈڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:42.491403395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 19:23",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "كاشكى ⟨ھازىر⟩ سۆزلىرىم يېزىلسا، كاشكى كىتابتا پۈتۈلسە!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "كاشكى"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بەرسە"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ھازىر"
+    },
+    {
+      "surface": "ויכתבון",
+      "gloss": "يېزىلسا"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "سۆزلىرىم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كاشكى"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بەرسە"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "كىتابتا"
+    },
+    {
+      "surface": "ויחקו",
+      "gloss": "پۈتۈلسە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:03:07.977647309Z",
+  "model": "glm-5.3"
+}

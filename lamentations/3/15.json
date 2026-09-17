@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ مېنى ئاچچىق نەرسىلەر بىلەن تويدۇردى، مېنى ئارچا يېغى بىلەن قاندۇردى.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "تويدۇردى"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "ئاچچىق نەرسىلەر"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "قاندۇردى"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "ئارچا يېغى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:59.152545149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "مەندىن يىراق بولما، چۈنكى قىيىنچىلىق يېقىن، چۈنكى ياردەم قىلغۇچى يوق.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بولما"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "يىراق"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مەندىن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "قىيىنچىلىق"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "يېقىن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ياردەم قىلغۇچى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:21:27.197386698Z",
+  "model": "glm-5.3"
+}

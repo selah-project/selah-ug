@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ھېكمەت مىراس بىلەن بىللە ⟨ياخشىدۇر⟩، كۈننى كۆرگۈچىلەرگە ئارتۇقچە پايدىدۇر.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ھېكمەت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىلەن بىللە"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "مىراس"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ئارتۇقچە پايدىدۇر"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "كۆرگۈچىلەرگە"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "كۈننى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:23.322826693Z",
+  "model": "glm-5.3"
+}

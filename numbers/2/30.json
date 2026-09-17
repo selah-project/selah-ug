@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئۇنىڭ قوشۇنى ۋە سانالغانلىرى — ئۈچ مىڭ ئەللىك مىڭ تۆت يۈز ⟨ئادەم⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "قوشۇنى ۋە"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "سانالغانلىرى"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-16T20:10:53.891544085Z",
+  "model": "glm-5.3"
+}

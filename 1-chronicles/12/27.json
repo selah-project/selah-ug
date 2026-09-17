@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "لېۋى ئوغۇللىرىدىن تۆت مىڭ ئالتە يۈز ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "مן",
+      "gloss": "-دىن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لېۋى"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:46:35.011592067Z",
+  "model": "glm-5.3"
+}

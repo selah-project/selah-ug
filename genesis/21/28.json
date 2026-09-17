@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 21,
+  "translation": "ئىبراھىم پادىدىن يەتتە ساغلىقنى ⟨את⟩ ئايرىم قويدى.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يەتتە ساغلىقنى"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ساغلىق"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "پادىدىن"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ئايرىم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:32.608395110Z",
+  "model": "glm-5.3"
+}

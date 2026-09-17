@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈنكى سۆز ساڭا ئىنتايىن يېقىن — ئېغىزىڭدا ۋە دىلىڭدا، ئۇنى ئورۇنلاش ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "يېقىن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ئىنتايىن"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ئېغىزىڭدا"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "ۋە دىلىڭدا"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ئۇنى ئورۇنلاش ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:44.033724153Z",
+  "model": "glm-5.3"
+}

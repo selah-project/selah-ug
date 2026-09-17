@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "جەمئىيەتكە سۇ بولمىدى، ئۇلار مۇسا ۋە ھارۇن ئۈستىگە توپلاندى.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "بولمىدى"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨بولدى⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "جەمئىيەتكە"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "توپلاندى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ۋە ... ئۈستىگە"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ھارۇن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:20:37.303595138Z",
+  "model": "glm-5.3"
+}

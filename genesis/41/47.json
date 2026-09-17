@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 41,
+  "translation": "زېمىن يەتتە مول يىلدا ئۇچۇم-ئۇچۇم ئۈندۈردى.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "ئۈندۈردى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "שני",
+      "gloss": "يىلدا"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "مول"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "ئۇچۇم-ئۇچۇم"
+    }
+  ],
+  "timestamp": "2026-09-16T19:34:02.856340881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "بىنيامىن، ماللۇك، شەماريا.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بىنيامىن"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ماللۇك"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شەماريا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:32:25.778118281Z",
+  "model": "glm-5.3"
+}

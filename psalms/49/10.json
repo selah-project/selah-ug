@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 49,
+  "translation": "ھەمدە ⟨ئۇ⟩ مەڭگۈ ياشىغىچى، ئازگالنى كۆرمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ھەمدە ياشىغىچى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "لנצח",
+      "gloss": "مەڭگۈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "كۆرمەيدۇ"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ئازگالنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:27:23.782676874Z",
+  "model": "glm-5.3"
+}

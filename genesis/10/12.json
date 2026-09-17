@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋە رەسەننى، نىنەۋى بىلەن كەلاخ ئارىسىدا — ئۇ بولسا ⟨بۈيۈك⟩ شەھەر.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨و⟨את⟩⟩",
+      "marks": "رەسەن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رەسەننى"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بىلەن ... ئارىسىدا"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نىنەۋى"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "بىلەن"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "كەلاخ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شەھەر"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "بۈيۈك"
+    }
+  ],
+  "timestamp": "2026-09-17T01:10:30.380139743Z",
+  "model": "glm-5.3"
+}

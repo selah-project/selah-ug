@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "تۆمۈرنى — شىمال تۆمۈرىنى ۋە مىسنى چاققىلى بولامدۇ؟",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "چاققىلى بولامدۇ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "تۆمۈرنى"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "تۆمۈر"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "شىمالدىن"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ۋە مىسنى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:20:35.331689172Z",
+  "model": "glm-5.3"
+}

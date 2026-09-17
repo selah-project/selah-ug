@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "سۇلار بېشىمنىڭ ئۈستىدىن ئاقتى، «ئۈزۈلدۈم» دېدىم.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ئاقتى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلار"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىن"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "بېشىمنىڭ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ئۈزۈلدۈم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:04.470778991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ياخشىدۇر ⟨ئىنسان⟩ ساقلىماق ۋە جىم تۇرماق ياھۋەھ نىڭ قۇتقۇزۇشى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ياخشىدۇر"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ساقلىماق ۋە"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "جىم تۇرماق"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "قۇتقۇزۇشى ئۈچۈن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:05.986147115Z",
+  "model": "glm-5.3"
+}

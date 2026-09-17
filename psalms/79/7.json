@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 79,
+  "translation": "چۈنكى <ئۇلار> ياقۇبنى يەۋەتتى ⟨את⟩ ۋە ⟨את⟩ ماكانىنى خاراب قىلدى.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يەۋەتتى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياقۇبنى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياقۇبنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ماكانىنى"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ماكانىنى"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "خاراب قىلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:35:11.429926228Z",
+  "model": "glm-5.3"
+}

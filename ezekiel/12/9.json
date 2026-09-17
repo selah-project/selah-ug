@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئى ئادەم ئوغلى، ئىسرائىل ئۆيى — بۇ ئاسىي ئۆي — ساڭا «سەن نېمە قىلىۋاتىسەن؟» دېمىدىمۇ؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئەمەسمۇ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "دېدىمۇ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆيى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "بית",
+      "gloss": "ئۆيى"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "ئاسىي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلىۋاتىسەن"
+    }
+  ],
+  "timestamp": "2026-09-16T22:42:11.021726362Z",
+  "model": "glm-5.3"
+}

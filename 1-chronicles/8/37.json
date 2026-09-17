@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە موتزا توغدى ⟨את⟩ بىنئانى؛ رافاھ ⟨ئۇنىڭ⟩ ئوغلى، ئەلئاساھ ⟨ئۇنىڭ⟩ ئوغلى، ئاتسەل ⟨ئۇنىڭ⟩ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ۋە موتزا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بىنئا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بىنئا"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "رافاھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ئەلئاساھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ئاتسەل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:55.800217190Z",
+  "model": "glm-5.3"
+}

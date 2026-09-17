@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئادوناي، نەپەس-جېنىمنىڭ دەۋاسىنى ئاقلىدىڭ، ھاياتىمنى فدىيە قىلدىڭ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "دەۋاسىنى ئاقلىدىڭ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "دەۋاسىنى"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نەپەس-جېنىمنىڭ"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "فدىيە قىلدىڭ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ھاياتىمنى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:58.161666463Z",
+  "model": "glm-5.3"
+}

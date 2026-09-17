@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئىنسان ئېگىلدى، ئەر پەسلەشتى — شۇڭا ئۇلارنى ⟨كۆتۈرۈۋالما⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ئېگىلدى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "پەسلەشتى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئەر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ھەمدە ئۇنداق"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "كۆتۈرۈۋالما"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ئۇلارنى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:52:40.479033139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ھەپەر مەكەراتىلىق، ئاھىيەھ پەلونىلىق ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ھەپەر"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "مەكەراتىلىق"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ئاھىيەھ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "پەلونىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:23.902571476Z",
+  "model": "glm-5.3"
+}

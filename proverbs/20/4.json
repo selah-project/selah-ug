@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "قىشتىن ھۇرۇن يەر سۇنمايدۇ؛ ھوسۇل ۋاقتىدا تىلەيدۇ — ۋە ھېچنەرسە يوق.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "قىشتىن"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ھۇرۇن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "يەر سۇرىدۇ"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "تىلەيدۇ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ھوسۇل ۋاقتىدا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ۋە يوق"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:01.113271668Z",
+  "model": "glm-5.3"
+}

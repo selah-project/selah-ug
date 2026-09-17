@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ماللۇك، ھارىم، بەئاناھ.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "ماللۇك"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ھارىم"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بەئاناھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:13.199226191Z",
+  "model": "glm-5.3"
+}

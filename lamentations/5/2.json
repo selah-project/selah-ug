@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مىراسلىرىمىز ئۆرۈلۈپ ياتلارغا ئۆتتى، ئۆيلىرىمىز ناتونۇشلارغا.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "مىراسلىرىمىز"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "ئۆرۈلۈپ ئۆتتى"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ياتلارغا"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ئۆيلىرىمىز"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ناتونۇشلارغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.454659278Z",
+  "model": "glm-5.3"
+}

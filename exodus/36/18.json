@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "ئۇ ⟨את⟩ ئۆينى چېتىش ئۈچۈن ئەللىك مىس قېسقۇچ ئىشلىدى، بىر بولۇشقا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ئىشلىدى"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "قېسقۇچ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مىس"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "چېتىش ئۈچۈن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۆينى"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ئۆينى"
+    },
+    {
+      "surface": "להית",
+      "gloss": "بولۇشقا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:55:26.184362221Z",
+  "model": "glm-5.3"
+}

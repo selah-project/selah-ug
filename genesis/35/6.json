@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 35,
+  "translation": "ۋە ياقۇپ كەنئان ئېلىدىكى لۇزغا كەلدى — ئۇ بەيت ئەلدۇر — ئۇ ۋە ئۇنىڭ بىلەن بولغان بارلىق خەلق.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "كەلدى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياقۇپ"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لۇزغا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ئېلىدىكى"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كەنئان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇدۇر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ۋە بارلىق"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ئۇنىڭ بىلەن بولغان"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:25.163630693Z",
+  "model": "glm-5.3"
+}

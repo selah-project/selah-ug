@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "قاراڭغۇلۇقلاردا مېنى ئولتۇرغۇزدى، ئەبەدىي ئۆلگەنلەردەك.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "قاراڭغۇلۇقلاردا"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "مېنى ئولتۇرغۇزدى"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ئۆلگەنلەردەك"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ئەبەدىي"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.384250131Z",
+  "model": "glm-5.3"
+}

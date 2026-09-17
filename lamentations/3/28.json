@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "يالغۇز ئولتۇرسۇن ۋە جىم تۇرسۇن، چۈنكى ⟨ئۇ يۈكنى⟩ ئۇنىڭ ئۈستىگە قويدى.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ئولتۇرسۇن"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "يالغۇز"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "جىم تۇرسۇن"
+    },
+    {
+      "surface": "كي",
+      "gloss": ""
+    },
+    {
+      "surface": "נטל",
+      "gloss": "قويدى"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ئۇنىڭ ئۈستىگە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:05.986457166Z",
+  "model": "glm-5.3"
+}

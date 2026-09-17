@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئەمما مەن ئەلگە يالۋۇرىمەن، ئېلوھىمغا سۆزۈمنى قويىمەن.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "ئەمما"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "يالۋۇرىمەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ھەم …غا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "قويىمەن"
+    },
+    {
+      "surface": "دברתי",
+      "gloss": "سۆزۈمنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:59:33.542039675Z",
+  "model": "glm-5.3"
+}

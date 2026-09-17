@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 33,
+  "translation": "ياھۋەھنىڭ سۆزى يىرمىياغا بولۇپ ئېيتىلدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولۇپ ئېيتىلدى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىيا"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ئېيتىش ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T22:29:28.036997638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئوق ۋە كىمان بىلەن ئۇ يەرگە كىرىلىدۇ، چۈنكى پۈتۈن زېمىن تىكەن-چۆپ بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "ئوق"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "كىمان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "كىرىلىدۇ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئۇ يەرگە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "تىكەن"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "چۆپ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:55:02.182226582Z",
+  "model": "glm-5.3"
+}

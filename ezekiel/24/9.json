@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "شۇڭا ئادوناي ياھۋەھ شۇنداق دەيدۇ: ۋاي قان شەھىرىگە! مەنمۇ ئوت دۆۋىسىنى چوڭايتىمەن.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "شۇڭا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ۋاي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شەھىرى"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "قان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "چوڭايتىمەن"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "ئوت دۆۋىسىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:48:33.088651180Z",
+  "model": "glm-5.3"
+}

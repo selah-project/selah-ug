@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئەساۋ كۆردىكى، كەنئان قىزلىرى دادىسى يىسھاقنىڭ كۆزىگە ياقمايدىكەن.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "كۆردىكى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ئەساۋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئىكەنلىكىنى"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "يامان"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "قىزلىرى"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كەنئان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "كۆزىگە"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يىسھاقنىڭ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "دادىسى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:21.967737995Z",
+  "model": "glm-5.3"
+}

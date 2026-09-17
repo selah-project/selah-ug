@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ئۇرۇش بولمىدى، ئاسانىڭ پادىشاھلىقىنىڭ ئوتتۇز بەشىنچى يىلىغىچە.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ئۇرۇش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بولمىدى"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨بولۇپ تۇرمىدى⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "غىچە"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "يىلى"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "بەشىنچى"
+    },
+    {
+      "surface": "لמלכות",
+      "gloss": "پادىشاھلىقىنىڭ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسانىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:58:55.778396704Z",
+  "model": "glm-5.3"
+}

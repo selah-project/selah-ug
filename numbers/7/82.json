@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بىر ئۆچكە تېكىسى، گۇناھ قۇربانلىقى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تېكە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ئۆچكىلەرنىڭ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گۇناھ قۇربانلىقى ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:14:16.967911611Z",
+  "model": "glm-5.3"
+}

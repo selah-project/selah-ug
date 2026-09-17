@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ئۈچىنچى كۈنى لابانغا يەتكۈزۈلدىكى، ياقۇپ قاچقان ئىكەن.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "يەتكۈزۈلدى"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "لابانغا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ئۈچىنچى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كى"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "قاچقان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياقۇپ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:40.862260651Z",
+  "model": "glm-5.3"
+}

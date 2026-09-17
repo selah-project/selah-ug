@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئەلىشامئا، ئەليادا ۋە ئەلىپالەت — توققۇز.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ئەلىشامئا"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ئەليادا"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ئەلىپالەت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "توققۇز"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:58.921517336Z",
+  "model": "glm-5.3"
+}

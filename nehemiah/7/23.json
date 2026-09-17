@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "بېزاينىڭ ئەۋلادلىرى ئۈچ يۈز يىگىرمە تۆت ⟨نەپەر⟩؛",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەۋلادلىرى"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "بېزاي"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تۆت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:55.184881130Z",
+  "model": "glm-5.3"
+}

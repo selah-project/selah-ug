@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەفرايم قەبىلىسىدىن — نۇننىڭ ئوغلى ھوشەئا.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئەفرايم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ھوشەئا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نۇن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:28.171040789Z",
+  "model": "glm-5.3"
+}

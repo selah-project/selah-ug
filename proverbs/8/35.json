@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "چۈنكى مېنى تاپقان كىشى ھاياتنى تاپىدۇ ۋە ياھۋەھدىن رازىلىق تاپىدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "مېنى تاپقان"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "تاپىدۇ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ھاياتنى"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ۋە… تاپىدۇ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رازىلىق"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ياھۋەھدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:55.516110119Z",
+  "model": "glm-5.3"
+}

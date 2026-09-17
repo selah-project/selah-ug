@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "لاشكىرىڭ دۈشمەنلىرىڭگە قارشى چىققان چاغدا، ھەر بىر يامان ئىشتىن ساقلىنىسەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چاغدا"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "چىقىدۇ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "لاشكىر"
+    },
+    {
+      "surface": "על",
+      "gloss": "قارشى"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دۈشمەنلىرىڭگە"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ساقلىنىسەن"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ھەر بىر…دىن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ئىش"
+    },
+    {
+      "surface": "רע",
+      "gloss": "يامان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:36.817197909Z",
+  "model": "glm-5.3"
+}

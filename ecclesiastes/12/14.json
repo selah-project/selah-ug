@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "چۈنكى ئېلوھىم ⟨את⟩ بارلىق ئەمەلنى سوتقا كەلتۈرىدۇ، بارلىق يوشۇرۇن ئىش ئۈستىگە — ياخشى بولسۇن ياكى يامان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بارلىق ئەمەلنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ئەمەلنى"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "كەلتۈرىدۇ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "سوتقا"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "يوشۇرۇن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "רע",
+      "gloss": "يامان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:56.910743235Z",
+  "model": "glm-5.3"
+}

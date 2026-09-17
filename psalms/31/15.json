@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "ئەمما مەن ساڭا تاياندىم، ئى ياھۋەھ؛ دېدىم: ئى ئېلوھىم، سەن ⟨ئۇسەن⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ئەمما مەن"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "تاياندىم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:23:27.658626805Z",
+  "model": "glm-5.3"
+}

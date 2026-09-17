@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ⟨את⟩ چوشقا — چۈنكى ئۇ تۇياق يېرىپ بېرىدۇ، تۇيىقى يېرىق-يېرىق، ئەمما كۆشلىمەيدۇ — ئۇ سىلەرگە ناپاك.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چوشقا"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "چوشقا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "تۇياق يېرىپ بېرىدۇ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "تۇياق"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "يېرىق"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "يېرىق"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "تۇيىقى"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ئەمما ئۇ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "كۆش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…مايدۇ"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "كۆشلىمەيدۇ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "سىلەرگە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:32.782472670Z",
+  "model": "glm-5.3"
+}

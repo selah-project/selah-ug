@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "يەتتىۋە ئۈلۈش بەرگىن، سەككىزگىمۇ، چۈنكى يەر يۈزىگە قانداق يامانلىق كېلىدىغانلىقىنى بىلمەيسەن.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "بەرگىن"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ئۈلۈش"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "يەتتىگە"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "سەككىزگە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "بىلمەيسەن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نىمىنىڭ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدىغانلىقىنى"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "يامانلىق"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:25.912682838Z",
+  "model": "glm-5.3"
+}

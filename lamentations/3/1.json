@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "مەن — ئۇ گەبەر ⟨ئۆزۈم⟩ نامراتلىقنى كۆردۈم، ⟨ئۇنىڭ⟩ غەزەب ھاسىسى ⟨ئاستىدا⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ئۇ گەبەر"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "עני",
+      "gloss": "نامراتلىقنى"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ھاسىسى ⟨ئاستىدا⟩"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "غەزەبى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:59.887658440Z",
+  "model": "glm-5.3"
+}

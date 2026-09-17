@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە ئېبرون، رېخوب، خاممون ۋە كانا — بۈيۈك سىدونغىچە.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "ئېبرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "رېخوب"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "خاممون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "كانا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-غىچە"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "سىدون"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بۈيۈك"
+    }
+  ],
+  "timestamp": "2026-09-16T20:51:24.399034308Z",
+  "model": "glm-5.3"
+}

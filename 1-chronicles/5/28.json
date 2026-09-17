@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "قەھاتنىڭ ئوغۇللىرى بولسا: ئەمرام، يىتسھار، خېبرون ۋە ئۇززىئەل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەھاتنىڭ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ئەمرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يىتسھار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "خېبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ئۇززىئەل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:21.364306680Z",
+  "model": "glm-5.3"
+}

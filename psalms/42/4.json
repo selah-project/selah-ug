@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 42,
+  "translation": "كۆز يېشىم ماڭا كۈندۈز ۋە كېچە نان بولدى، ئۇلار ماڭا كۈن بويى «ئېلوھىڭ قېنى؟» دېگەندە",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "كۆز يېشىم"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "كۈندۈز"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ۋە كېچە"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "دېگەندە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كۈن بويى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "איה",
+      "gloss": "قېنى؟"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئېلوھىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:26:38.749835732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ياھۋەھ مەڭگۈ ۋە ئەبەدىي ھۆكۈم سۈرىدۇ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ھۆكۈم سۈرىدۇ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "مەڭگۈ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ۋە ئەبەدىي"
+    }
+  ],
+  "timestamp": "2026-09-16T19:44:08.151252069Z",
+  "model": "glm-5.3"
+}

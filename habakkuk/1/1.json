@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ھەبەققۇق نەبىي كۆرگەن يۈك.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "يۈك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كۆرگەن ⟨ئىدى⟩"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "كۆرگەن"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ھەبەققۇق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نەبىي"
+    }
+  ],
+  "timestamp": "2026-09-16T23:11:40.630060603Z",
+  "model": "glm-5.3"
+}

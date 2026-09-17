@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ۋە زىزا — شىپھىينىڭ ئوغلى، ئاللوننىڭ ئوغلى، يېداياھنىڭ ئوغلى، شىمرىينىڭ ئوغلى، شەماياھنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "ۋە زىزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "شىپھىي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ئاللون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "يېداياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شىمرىي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شەماياھ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:22.232966567Z",
+  "model": "glm-5.3"
+}

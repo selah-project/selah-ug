@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "بۇلار ئاناھنىڭ ئوغۇللىرى: دىشون ۋە ئوھولىباماھ — ئاناھنىڭ قىزى.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ئاناھنىڭ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دىشون"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ۋە ئوھولىباماھ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزى"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ئاناھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:28.949596594Z",
+  "model": "glm-5.3"
+}

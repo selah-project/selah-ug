@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "يارمۇتنىڭ پادىشاھى بىر؛ لاكىشنىڭ پادىشاھى بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "يارمۇت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لاكىش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:29.381420767Z",
+  "model": "glm-5.3"
+}

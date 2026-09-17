@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ھەئسرو ھەكارمەلىلىك، پەئراي ھەئربىلىك.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ھەئسرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ھەكارمەلىلىك"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "پەئراي"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ھەئربىلىك"
+    }
+  ],
+  "timestamp": "2026-09-16T21:28:06.911679274Z",
+  "model": "glm-5.3"
+}

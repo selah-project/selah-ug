@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "داۋۇتنىڭ مىزمورى، ئەسلىتىش ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مىزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داۋۇتنىڭ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ئەسلىتىش ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:26:09.834428467Z",
+  "model": "glm-5.3"
+}

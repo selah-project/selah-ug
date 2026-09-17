@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ياقۇپ راھېلنى سۆيدى ۋە ئاۋازىنى ⟨את⟩ كۆتۈرۈپ يىغلىدى.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "سۆيدى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياقۇپ"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راھېلنى"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "كۆتۈرۈپ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاۋازىنى"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ئاۋازىنى"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "يىغلىدى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:27:04.538784225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئۇنىڭ قوشۇنى ۋە سانالغانلىرى — ئەللىك تۆت مىڭ تۆت يۈز كىشى.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ئۇنىڭ قوشۇنى"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "سانالغانلىرى"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    }
+  ],
+  "timestamp": "2026-09-16T20:10:46.958957707Z",
+  "model": "glm-5.3"
+}

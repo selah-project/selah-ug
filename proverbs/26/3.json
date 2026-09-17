@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "چۇۋۇچ ئاتقا، يۈگەن ئېشەككە، ۋە تاياق ئەخمەقلەرنىڭ دۈمبىسىگە ⟨تېگىدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "چۇۋۇچ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ئاتقا"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "يۈگەن"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ئېشەككە"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ۋە تاياق"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "دۈمبىسىگە"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ئەخمەقلەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:38.008792024Z",
+  "model": "glm-5.3"
+}

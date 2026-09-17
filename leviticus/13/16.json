@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ياكى تىرىك گۆش قايتىپ ئاققا ئۆرۈلسە، ئۇ كاهىننىڭ قېشىغا بارىدۇ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "قايتسا"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆش"
+    },
+    {
+      "surface": "החי",
+      "gloss": "تىرىك"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ئۆرۈلسە"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ئاققا"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "بارىدۇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قېشىغا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهىننىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:27.630368426Z",
+  "model": "glm-5.3"
+}

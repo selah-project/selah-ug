@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "مائازىيا، بىلگاي، شەماييا — بۇلار كاھىنلاردۇر.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "مائازىيا"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "بىلگاي"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شەماييا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "كاھىنلاردۇر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:14.037799876Z",
+  "model": "glm-5.3"
+}

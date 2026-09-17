@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "پادىشاھ ئۇنىڭغا: «ساڭا نېمە ⟨بولدى⟩؟» دېدى، ئۇ: «راست، مەن تۇل ئايالمەن، ئېرىم ئۆلدى» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "راست"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "تۇل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "ئېرىم"
+    }
+  ],
+  "timestamp": "2026-09-16T21:23:12.930776823Z",
+  "model": "glm-5.3"
+}

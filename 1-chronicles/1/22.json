@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ھەمدە ⟨את⟩ ئەيبالنى، ⟨את⟩ ئەبىمائەلنى ۋە ⟨את⟩ شەبانى ⟨تۇغدى⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەيبالنى"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ئەيبالنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەبىمائەلنى"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ئەبىمائەلنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شەبانى"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شەبانى"
+    }
+  ],
+  "timestamp": "2026-09-17T01:39:26.753719264Z",
+  "model": "glm-5.3"
+}

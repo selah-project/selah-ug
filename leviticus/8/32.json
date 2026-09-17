@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "گۆشتە ۋە ناندا ئېشىپ قالغىنىنى ئوتتا كۆيدۈرۈڭلار.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ئېشىپ قالغىنى"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "گۆشتە"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ۋە ناندا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ئوتتا"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "كۆيدۈرۈڭلار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:35.614599096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "شائۇل ئۆلدى، ئۇنىڭ ئۈچ ئوغلى ۋە پۈتۈن ئائىلىسى بىرلىكتە ئۆلدى.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائۇل"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "پۈتۈن"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ئائىلىسى"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بىرلىكتە"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ئۆلدى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:46:02.016184965Z",
+  "model": "glm-5.3"
+}

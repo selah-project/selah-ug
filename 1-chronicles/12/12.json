@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئاتتاي ⟨ئالتىنچى⟩، ئەليئەل ⟨يەتتىنچى⟩.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "ئاتتاي"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ئالتىنچى"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ئەليئەل"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "يەتتىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:51.189551016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "قۇياش ⟨زېمىن⟩ ئۈستىدىن چىقتى، لۇت زوئارغا كىردى.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "قۇياش"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زېمىن"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ۋە لۇت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كىردى"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "زوئارغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:02.225955194Z",
+  "model": "glm-5.3"
+}

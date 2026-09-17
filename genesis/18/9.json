@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ئۇلار ئۇنىڭغا: «ساراھ خوتۇنۇڭ قېنى؟» دېدى. ئۇ: «مانا، چادىردا» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ئۇلار ئېيتتى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "איה",
+      "gloss": "قېنى"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساراھ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "خوتۇنۇڭ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئۇ ئېيتتى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "چادىردا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:22:29.305320827Z",
+  "model": "glm-5.3"
+}

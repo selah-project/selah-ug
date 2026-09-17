@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ئاغزىنى چاڭ-توزانغا قويسۇن، بەلكىم ئۈمىد بولۇشى مۇمكىن.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "قويسۇن"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "چاڭ-توزانغا"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ئاغزىنى"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "بەلكىم"
+    },
+    {
+      "surface": "יש",
+      "gloss": "بولۇشى"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ئۈمىد"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:02.725179126Z",
+  "model": "glm-5.3"
+}

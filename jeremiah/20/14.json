@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 20,
+  "translation": "قارغىلالسۇن مېنىڭ تۇغۇلغان كۈنۈم، ئانامنىڭ مېنى تۇغقان كۈنى مۇبارەك بولمىسۇن.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "قارغىلالسۇن"
+    },
+    {
+      "surface": "היום",
+      "gloss": "كۈنۈم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "تۇغۇلغان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "تۇغقان"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ئانامنىڭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بولمىسۇن"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨بولسۇن⟩"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مۇبارەك"
+    }
+  ],
+  "timestamp": "2026-09-16T22:23:14.792224490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ئۇرغۇچىغا مەڭزىنى بەرسۇن، ھاقارەتتىن ⟨توقسۇن⟩.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "بەرسۇن"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ئۇرغۇچىغا"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "مەڭزىنى"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "توقسۇن"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ھاقارەتتىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:14:02.725405850Z",
+  "model": "glm-5.3"
+}

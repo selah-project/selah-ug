@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "مەن قايتىدىم ھەم كۆردۈم — قۇياش ئاستىدىكى ⟨يەنە بىر⟩ قۇرۇق نەرسە ⟨بار⟩.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ۋە مەن قايتىدىم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ۋە كۆردۈم"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "قۇرۇق نەرسە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ئاستىدىكى"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "قۇياش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:01.484721303Z",
+  "model": "glm-5.3"
+}

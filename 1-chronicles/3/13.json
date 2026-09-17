@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئاھاز ئوغلى، خىزقىياھۇ ئوغلى، مەنەششەھ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "ئاھاز"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خىزقىياھۇ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەششەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:41:58.182380761Z",
+  "model": "glm-5.3"
+}

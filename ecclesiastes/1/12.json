@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "مەن، قوهېلېت، ئىسرائىل ⟨ئۈستىدە⟩ پادىشاھ بولدۇم، يېرۇشالەمدە.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهېلېت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بولدۇم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يېرۇشالەمدە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:37:31.459498475Z",
+  "model": "glm-5.3"
+}

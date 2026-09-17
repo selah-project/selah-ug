@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 43,
+  "translation": "مەن، مەن ئۆزۈم ياھۋەھ، مەندىن باشقا قۇتقۇزغۇچى يوق.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن ئۆزۈم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ۋە يوق"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "مەندىن باشقا"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "قۇتقۇزغۇچى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:06:21.064299782Z",
+  "model": "glm-5.3"
+}

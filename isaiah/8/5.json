@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ياھۋەھ ماڭا يەنە سۆزلەپ قوشتى، دەپ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "قوشتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزلەپ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "يەنە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:56:09.866563520Z",
+  "model": "glm-5.3"
+}

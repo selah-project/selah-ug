@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئىبزان ئۆلدى ۋە بەيتلەھەمدە دەپنە قىلىندى.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ئىبزان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "دەپنە قىلىندى"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەھەمدە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:59:34.667793962Z",
+  "model": "glm-5.3"
+}

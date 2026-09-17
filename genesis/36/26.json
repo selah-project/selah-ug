@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "بۇلار دىشاننىڭ ئوغۇللىرى: ھەمدان، ئەشبان، يىتران ۋە كەران.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "بۇلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دىشاننىڭ"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "ھەمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ۋە ئەشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ۋە يىتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ۋە كەران"
+    }
+  ],
+  "timestamp": "2026-09-16T19:30:28.950103385Z",
+  "model": "glm-5.3"
+}

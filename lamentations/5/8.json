@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "قۇللار بىزنىڭ ئۈستىمىزدىن ھۆكۈم سۈردى؛ ئۇلارنىڭ قولىدىن قۇتقۇزغۇچى يوق.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "قۇللار"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ھۆكۈم سۈردى"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بىزنىڭ ئۈستىمىزدىن"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "قۇتقۇزغۇچى"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ئۇلارنىڭ قولىدىن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.435276641Z",
+  "model": "glm-5.3"
+}

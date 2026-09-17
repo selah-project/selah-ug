@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "نوھاھ تۆتىنچى، رافاھ بەشىنچى.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "نوھاھ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "تۆتىنچى"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "رافاھ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "بەشىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:03.354257751Z",
+  "model": "glm-5.3"
+}

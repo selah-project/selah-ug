@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ۋە ياھتساھ، ۋە قېدېموت ۋە مېپاعات.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ۋە ياھتساھ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ۋە قېدېموت"
+    },
+    {
+      "surface": "ومפעת",
+      "gloss": "ۋە مېپاعات"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:38.831524941Z",
+  "model": "glm-5.3"
+}

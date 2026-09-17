@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ۋە ياھۋەھ ماڭا ئېيتىپ دېدى: مەن كۆردۈم ⟨את⟩ ⟨بۇ⟩ خەلقنى، ۋە ئىبارەت، ئۇ قاتتىق گەجگە خەلقتۇر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ياھۋەھ ئېيتتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "كۆردۈم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خەلقنى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خەلقنى"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ۋە ئىبارەت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاتتىق"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گەجگە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:55.252940662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ۋە مىكانىڭ ئوغۇللىرى: پىتون، مېلەك ۋە تاخرېئا ئىدى.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مىكا"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پىتون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "مېلەك"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "تاخرېئا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:10.473221895Z",
+  "model": "glm-5.3"
+}

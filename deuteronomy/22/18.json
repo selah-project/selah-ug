@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ۋە ئۇ شەھەرنىڭ چوڭلىرى ئۇ كىشىنى ⟨את⟩ ئېلىپ، ئۇنى ⟨את⟩ جازالايدۇ.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ۋە ئالىدۇ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "چوڭلىرى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شەھەرنىڭ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇ كىشىنى"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "كىشىنى"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ۋە جازالايدۇ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئۇنى",
+      "marks": "ئۇ كىشى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:32.942489237Z",
+  "model": "glm-5.3"
+}

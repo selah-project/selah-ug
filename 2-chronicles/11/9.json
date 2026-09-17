@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ۋە ⟨את⟩ ئادورايىم، ۋە ⟨את⟩ لاكىش، ۋە ⟨את⟩ ئەزەكەنى ⟨ئۇ قۇرالدى⟩،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "ئادورايىم"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ئادورايىم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "لاكىش"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لاكىش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "ئەزەكە"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ئەزەكە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:56:41.492826514Z",
+  "model": "glm-5.3"
+}

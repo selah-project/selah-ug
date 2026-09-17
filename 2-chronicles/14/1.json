@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ئاسا ئۆز ئىلاھى ياھۋەھنىڭ ⟨ئۆز⟩ كۆزىدە ياخشى ۋە توغرىنى قىلدى",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ياخشىنى"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "توغرىنى"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "كۆزىدە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئىلاھى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:59:12.768547838Z",
+  "model": "glm-5.3"
+}

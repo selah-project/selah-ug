@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "خانوخ ئاتمىش بەش يىل ياشىدى ۋە مەتۇشالانى ⟨את⟩ توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خانوخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەتۇشالا"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مەتۇشالا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:32.220862894Z",
+  "model": "glm-5.3"
+}

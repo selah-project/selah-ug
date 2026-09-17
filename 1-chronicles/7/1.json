@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئىسساخارنىڭ ئوغۇللىرىدىن: تولا، پۇئا، ياشۇب ۋە شىمرون — تۆت ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ئوغۇللىرىدىن"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ئىسساخار"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تولا"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "پۇئا"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ياشۇب"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "شىمرون"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "تۆت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:21.707137695Z",
+  "model": "glm-5.3"
+}

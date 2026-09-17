@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "دان تاپىلاۋاتقان كالىنىڭ ئاغزىنى باغلىۋالما",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "باغلىۋالما"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ئاغزىنى باغلىۋالما"
+    },
+    {
+      "surface": "שור",
+      "gloss": "كالا"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "دان تاپىلاۋاتقان"
+    }
+  ],
+  "timestamp": "2026-09-16T20:39:29.924456797Z",
+  "model": "glm-5.3"
+}

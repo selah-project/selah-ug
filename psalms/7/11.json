@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "قالقانىم ئېلوھىم ⟨تەرەپتە⟩ — دىلى تۈز كىشىلەرنى قۇتقۇزغۇچى ⟨ئۇ⟩.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "قالقانىم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تەرەپتە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "قۇتقۇزغۇچى"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "تۈز"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دىل"
+    }
+  ],
+  "timestamp": "2026-09-16T23:18:18.569234486Z",
+  "model": "glm-5.3"
+}

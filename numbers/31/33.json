@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "چارۋىدىن ئىككى ۋە يەتمىش مىڭ ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "چارۋىدىن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ۋە يەتمىش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:25:06.435108941Z",
+  "model": "glm-5.3"
+}

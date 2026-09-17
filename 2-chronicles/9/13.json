@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "بىر يىلدا شىلوموھقا كەلگەن ئالتۇننىڭ ئېغىرلىقى ئالتە يۈز ئاتمىش ئالتە كىكار ئالتۇن بولدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ئېغىرلىقى"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ئالتۇننىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "شۇ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كەلگەن"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شىلوموھقا"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "يىلىدا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ئالتە"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "كىكار"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:57:01.384683721Z",
+  "model": "glm-5.3"
+}

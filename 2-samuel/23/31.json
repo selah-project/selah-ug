@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ئەبىئالۋون ئەرەباتلىق؛ ئەزماۋەت بەرھۇمىلىق.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ئەبى"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "ئالۋون"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ئەرەباتلىق"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ئەزماۋەت"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "بەرھۇمىلىق"
+    }
+  ],
+  "timestamp": "2026-09-16T21:28:04.801111561Z",
+  "model": "glm-5.3"
+}

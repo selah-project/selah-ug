@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "كاشكى بىلسەم ۋە ئۇنى تاپسام، ئورنىغا بارغىچا بارسام!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "كاشكى"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بەرسە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "بىلسەم"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ۋە ئۇنى تاپسام"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "barsam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بارغىچە"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "ئورنىغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:03:59.272973584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "تېيىزلار يوق چاغدا توغۇلدۇم، سۇلارغا توشقان بۇلاقلار يوق چاغدا.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "يوق چاغدا"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "تېيىزلار"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "توغۇلدۇم"
+    },
+    {
+      "surface": "באין",
+      "gloss": "يوق چاغدا"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "بۇلاقلار"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "توشقان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇلار"
+    }
+  ],
+  "timestamp": "2026-09-16T23:49:35.408544874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئۇنىڭ ئالقىنىنى كېسىۋېتىسەن؛ كۆزۈڭ ئۇنى ئايىمىسۇن.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "كېسىۋېتىسەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنىڭ ئالقىنىنى"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ئالقىنىنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…مىسۇن"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ئايىسۇن"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "كۆزۈڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:42.551536847Z",
+  "model": "glm-5.3"
+}

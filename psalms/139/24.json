@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 139,
+  "translation": "ۋە كۆر — ⟨ئەگەر⟩ مەندە ئازاب يولى بولسا، مېنى مەڭگۈلۈك يولىغا باشلا.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ۋە كۆر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "يول"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ئازاب"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مەندە"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "مېنى باشلا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "يولىغا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "مەڭگۈلۈك"
+    }
+  ],
+  "timestamp": "2026-09-16T23:45:59.124516873Z",
+  "model": "glm-5.3"
+}

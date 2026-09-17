@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "بىرىنچى كۈندە مۇقەددەس چاقىرىق ⟨بولىدۇ⟩؛ بارلىق خىزمەت-ئىشنى قىلمىغايسىلەر.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "كۈندە"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "بىرىنچى"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "چاقىرىق"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مۇقەددەس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "خىزمەت"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ئىش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ما"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "قىلمايسىلەر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:07:44.164925224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئاجىزنى، چۈنكى ئۇ ئاجىز، بۇلىما؛ دەرۋازادا نامراتنى دەسسىمە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بۇلىما"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "بۇلىما"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ئاجىزنى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ئاجىز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "دەسسىمە"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "دەسسىمە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "نامراتنى"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دەرۋازادا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:24.311552845Z",
+  "model": "glm-5.3"
+}

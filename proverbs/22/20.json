@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "مەسلىھەت ۋە بىلىم بىلەن ساڭا ئۈچ قات يازمىدىممۇ؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئەمەسمۇ"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "يازمىدىممۇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ئۈچ قات"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "مەسلىھەت بىلەن"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ۋە بىلىم"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:14.638522853Z",
+  "model": "glm-5.3"
+}

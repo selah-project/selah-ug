@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "ھەمدەپ يېشۇئادا، مولادادا ۋە بەيت-پالېتتا.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "يېشۇئادا"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "مولادادا"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "بەيت-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالېتتا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:37:26.581170450Z",
+  "model": "glm-5.3"
+}

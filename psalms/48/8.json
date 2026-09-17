@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 48,
+  "translation": "شەرق شامىلى بىلەن سەن تارشىش كېمىلىرىنى چېقىۋېتىسەن.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "شامىلى بىلەن"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "شەرق"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "چېقىۋېتىسەن"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "كېمىلىرىنى"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تارشىش"
+    }
+  ],
+  "timestamp": "2026-09-16T23:27:30.127388751Z",
+  "model": "glm-5.3"
+}

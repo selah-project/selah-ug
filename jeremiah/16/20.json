@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئىنسان ئۆزى ئۈچۈن ئېلوھىم ياسىۋالامدۇ؟ ئۇلار ئېلوھىم ئەمەسقۇ!",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ياسىۋالامدۇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۆزى ئۈچۈن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    }
+  ],
+  "timestamp": "2026-09-16T22:21:15.051532100Z",
+  "model": "glm-5.3"
+}

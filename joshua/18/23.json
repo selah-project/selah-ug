@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ھاۋۋىملار، ھاپپاراھ ۋە ئوفراھ،",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ھاۋۋىملار"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ھاپپاراھ"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ئوفراھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:29.713216763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "بۇ — ئۇنىڭدا چېچەك يارىسى بولغان، پاكلىنىشى ئۈچۈن قولى يەتمەيدىغان كىشىنىڭ شەرئىتى (توراتى)دۇر.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شەرئىتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭدا"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "يارا"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "چېچەك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "تשיג",
+      "gloss": "يېتەلمەيدۇ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "قولى"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "پاكلىنىشى ئۈچۈن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:35.674978881Z",
+  "model": "glm-5.3"
+}

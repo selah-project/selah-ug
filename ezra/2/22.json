@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "نەتوپانىڭ ئەركەكلىرى — ئەللىك ئالتە.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ئەركەكلىرى"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "نەتوپا"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ۋە ئالتە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:20.242907851Z",
+  "model": "glm-5.3"
+}

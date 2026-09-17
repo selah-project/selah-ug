@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئ‍‍اتىلىرىڭ بەلگىلىگەن قەدىمكى چېگرانى يۆتكىمە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "يۆتكىمە (ئ‍‍ىنكار)"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "يۆتكە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "چېگرا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "قەدىمكى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى <ئ‍‍ۇ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بەلگىلىگەن"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ئ‍‍اتىلىرىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:54:33.747267371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "ھالھۇل، بەيت-تسۇر ۋە گەدور.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ھالھۇل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەيت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسۇر"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ۋە گەدور"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:18.277729488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ئىشىكلەرنى ئېچىڭلار، سادىقەت ساقلىغان ھەق خەلق كىرسۇن.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ئېچىڭلار"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ئىشىكلەرنى"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "كىرسۇن"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "خەلق"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ھەق"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساقلىغان"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "سادىقەت"
+    }
+  ],
+  "timestamp": "2026-09-16T22:00:41.870110902Z",
+  "model": "glm-5.3"
+}

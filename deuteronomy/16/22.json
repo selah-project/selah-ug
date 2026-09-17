@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئۆزەڭ ئۈچۈن ماتسېۋاھ تىكلىمە — ئۇنى سېنىڭ ئېلوھىڭ ياھۋەھ ئۆچ كۆرىدۇ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ھەم …ما"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "تىكلىمە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزەڭ ئۈچۈن"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ماتسېۋاھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇنى"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ئۆچ كۆرىدۇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "سېنىڭ ئېلوھىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:01.074790024Z",
+  "model": "glm-5.3"
+}

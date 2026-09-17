@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "يوئېلنىڭ ئوغۇللىرى: شېمايەھ ئۇنىڭ ئوغلى، گوگ ئۇنىڭ ئوغلى، شىمىي ئۇنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوئېل"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شېمايەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گوگ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شىمىي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئۇنىڭ ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:37.250063137Z",
+  "model": "glm-5.3"
+}

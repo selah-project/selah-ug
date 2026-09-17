@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "يۇئاش كاھىن يېھويادانىڭ بارلىق كۈنلىرىدە ياھۋەھنىڭ كۆزىدە توغرىنى قىلدى.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يۇئاش"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "توغرىنى"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "كۆزىدە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرىدە"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يېھويادانىڭ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاھىن"
+    }
+  ],
+  "timestamp": "2026-09-17T01:02:18.618467351Z",
+  "model": "glm-5.3"
+}

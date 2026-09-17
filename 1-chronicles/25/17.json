@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "ئونىنچى — شىمئى، ئۇنىڭ ئوغۇللىرى ۋە قېرىنداشلىرى، ئون ئىككى ⟨نەپەر⟩؛",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "ئونىنچى"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شىمئى"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ئۇنىڭ ئوغۇللىرى"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ۋە قېرىنداشلىرى"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئون"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:27.183272487Z",
+  "model": "glm-5.3"
+}

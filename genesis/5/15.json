@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مەھەلەلئەل ئاتمىش ⟨ۋە⟩ بەش يىل ياشىدى، ⟨ئۇ⟩ ⟨את⟩ يارەدنى تۇغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مەھەلەلئەل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ئاتمىش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يارەدنى"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارەد"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:11.372002729Z",
+  "model": "glm-5.3"
+}

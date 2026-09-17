@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئون شېكېل ئالتۇندىن بىر ئالقان ⟨قوشۇق⟩، كۈjuk بىلەن توشقان.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ئالقان ⟨قوشۇق⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "توشقان"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "كۈjuk"
+    }
+  ],
+  "timestamp": "2026-09-16T20:13:56.982828893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "ئۇلارغا قارىتا ياھۋەھنىڭ غەزىپى تۇتتى، ⟨ئۇ⟩ كېتىپ قالدى.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "تۇتتى"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غەزىپى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "كېتىپ قالدى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:47.124765209Z",
+  "model": "glm-5.3"
+}

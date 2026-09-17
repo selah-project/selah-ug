@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "رەئۇبېن، شىمئون، لەۋىي ۋە يېھۇدا.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "رەئۇبېن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شىمئون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لەۋىي"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ۋە يېھۇدا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:38:17.101578372Z",
+  "model": "glm-5.3"
+}

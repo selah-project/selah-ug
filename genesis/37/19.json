@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 37,
+  "translation": "ئۇلار بىر-بىرىگە ئېيتتى: «قاراڭلار، چۈش ئىگىسىنىڭ ئۆزى كېلىۋاتىدۇ!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بىرى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بىرىگە"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "قېرىندىشى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "قاراڭلار"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ئىگىسى"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "چۈش"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ئۆزى"
+    },
+    {
+      "surface": "בא",
+      "gloss": "كېلىۋاتىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:31:51.215573952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "مىشماننا ⟨تۆتىنچى⟩، يىرمىياھ ⟨بەشىنچى⟩.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "مىشماننا"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "تۆتىنچى"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يىرمىياھ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "بەشىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:51.189400356Z",
+  "model": "glm-5.3"
+}

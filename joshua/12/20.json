@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "شىمررون-مەرون پادىشاھى — بىر؛ ئەكششاف پادىشاھى — بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شىمررون"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "مەرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ئەكششاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:38.580442389Z",
+  "model": "glm-5.3"
+}

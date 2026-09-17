@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "«ساڭا كەنعان زېمىنىنى بېرىمەن، ئۇ سىلەرنىڭ مىراسلىق چېگراڭلار» دەپ.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "بېرىمەن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زېمىنىنى"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كەنعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "چېگرا-بەلباغ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "مىراسلىق-سىلەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:13.856371681Z",
+  "model": "glm-5.3"
+}

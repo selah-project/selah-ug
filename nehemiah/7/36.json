@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "يېرىخونىڭ پەرزەنتلىرى — ئۈچ يۈز قىرىق بەش ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پەرزەنتلىرى"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يېرىخو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "قىرىق"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:35:59.068750766Z",
+  "model": "glm-5.3"
+}

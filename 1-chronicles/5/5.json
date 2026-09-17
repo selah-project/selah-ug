@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "مىكاھ ئوغلى، رەئايەھ ئوغلى، بەئەل ئوغلى.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "مىكاھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رەئايەھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بەئەل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:06.837096263Z",
+  "model": "glm-5.3"
+}

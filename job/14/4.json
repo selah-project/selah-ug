@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "كىم پاكنى پاسىقتىن چىقىرالايدۇ؟ بىرى ⟨يوق⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "چىقىرالايدۇ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاكنى"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "پاسىقتىن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىرى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:01:15.424457407Z",
+  "model": "glm-5.3"
+}

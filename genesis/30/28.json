@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ۋە دېدى: ئىش ھەققىڭنى ماڭا بەلگىلەپ بەرگىن، مەن ئۇنى بېرەي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "بەلگىلەپ بەرگىن"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "ئىش ھەققىڭنى"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "بېرەي"
+    }
+  ],
+  "timestamp": "2026-09-16T19:28:20.872640684Z",
+  "model": "glm-5.3"
+}

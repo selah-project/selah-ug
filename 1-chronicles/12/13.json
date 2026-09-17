@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "يۇھانان سەككىزىنچى، ئەلزاباد توققۇزىنچى.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "يۇھانان"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "سەككىزىنچى"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ئەلزاباد"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "توققۇزىنچى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:47:15.883909191Z",
+  "model": "glm-5.3"
+}

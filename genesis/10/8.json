@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "كۇش ⟨את⟩ نىمرودنى توغدى؛ ئۇ يەر يۈزىدە قۇدرەتلىك بولۇشقا باشلىدى.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "كۇش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نىمرودنى"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نىمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "باشلىدى"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بولۇشقا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "قۇدرەتلىك"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يەر يۈزىدە"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:45.490944519Z",
+  "model": "glm-5.3"
+}

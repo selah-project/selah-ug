@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ۋە بولدى، يەتتە كۈن ⟨توشقاندىن كېيىن⟩ تۇفان سۇلىرى يەر ئۈستىدە بولدى.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ۋە بولدى"
+    },
+    {
+      "surface": "لשבעת",
+      "gloss": "يەتتە"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ۋە سۇلىرى"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "تۇفان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بولدى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:50.065932611Z",
+  "model": "glm-5.3"
+}

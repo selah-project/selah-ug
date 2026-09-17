@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ياھۋەھ مۇسا بىلەن ئارونغا سۆزلەدى، ⟨ئېيتىپ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "سۆزلەدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "بىلەن ... غا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:11:41.247377766Z",
+  "model": "glm-5.3"
+}

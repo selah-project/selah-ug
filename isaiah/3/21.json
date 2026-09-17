@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۈزۈكلەر ۋە بۇرۇن ھالقىلىرى،",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ئۈزۈكلەر"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "ۋە ھالقىلىرى"
+    },
+    {
+      "surface": "האף",
+      "gloss": "بۇرۇننىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:54:41.125227066Z",
+  "model": "glm-5.3"
+}

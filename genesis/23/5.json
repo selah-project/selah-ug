@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "خەت پەرزەنتلىرى ⟨ئىبراھىمنى⟩ جاۋاب بېرىپ، ئۇنىڭغا مۇنداق دېدى:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "جاۋاب بېرىپ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پەرزەنتلىرى"
+    },
+    {
+      "surface": "חת",
+      "gloss": "خەت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئىبراھىمنى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەپ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:24:18.662406117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "كوھېن لاگەرنىڭ سىرتىغا چىقىدۇ، كوھېن كۆرىدۇ، مانا — تزاراعات دېغى بىماردىن ساقايغان بولسا،",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقىدۇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كوھېن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "غا"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "سىرتى"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لاگەرنىڭ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "كۆرىدۇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كوھېن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ساقايغان"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "تزاراعاتنىڭ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "بىمار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:01.331373163Z",
+  "model": "glm-5.3"
+}

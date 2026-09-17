@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "چۈنكى ئىسرائىل ئۆي ئىچىدە ئەمدى ھېچقانداق قۇرۇق كۆرۈنۈش ۋە سىلىق پەرەز بولمايدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولمايدۇ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئەمدى"
+    },
+    {
+      "surface": "كל",
+      "gloss": "ھېچقانداق"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "كۆرۈنۈش"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "قۇرۇق"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "ۋە پەرەز"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "سىلىق"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ئىچىدە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-16T22:42:26.514434670Z",
+  "model": "glm-5.3"
+}

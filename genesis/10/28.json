@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "ۋە ئوبالنى ⟨את⟩، ئابىمائەلنى ⟨את⟩ ۋە شەبانى ⟨את⟩ ⟨توغدى⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئوبالنى"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ئوبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئابىمائەلنى"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ئابىمائەل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شەبانى"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شەبا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:40.302434871Z",
+  "model": "glm-5.3"
+}

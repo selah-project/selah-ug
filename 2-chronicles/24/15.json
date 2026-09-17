@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "يېھويادا قېرىدى، كۈنلەرگە تويۇندى ۋە ئۆلدى؛ ئۆلگەندە يۈز ئوتتۇز ياش ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "قېرىدى"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يېھويادا"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "تويۇندى"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈنلەرگە"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ياش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ياش"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ئۆلگەندە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:03:48.443554286Z",
+  "model": "glm-5.3"
+}

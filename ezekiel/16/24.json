@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ۋە ئۆزۈڭگە بىر سۇپا سالدىڭ، ۋە ھەر بىر كەڭ كوچىدا ئۆزۈڭگە ئېگىز جاي ياسىدىڭ",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "سالدىڭ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    },
+    {
+      "surface": "גב",
+      "gloss": "سۇپا"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "ياسىدىڭ"
+    },
+    {
+      "surface": "لך",
+      "gloss": "ئۆزۈڭگە"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ئېگىز جاي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ھەر بىر"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "كەڭ كوچىدا"
+    }
+  ],
+  "timestamp": "2026-09-16T22:45:04.525946860Z",
+  "model": "glm-5.3"
+}

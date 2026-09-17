@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ۋە ⟨את⟩ ھەممە قاغىنى — تۈرى بويىچە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ھەممە قاغا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "قاغا"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "تۈرى بويىچە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:02.241657764Z",
+  "model": "glm-5.3"
+}

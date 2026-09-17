@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "تۆت تەرەپكە — شەرققە، غەربكە، شىمالغا ۋە جەنۇبقا — دەرۋازىبەنلەر بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "تەرەپكە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دەرۋازىبەنلەر"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "شەرققە"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "غەربكە"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شىمالغا"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "جەنۇبقا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:55.077606894Z",
+  "model": "glm-5.3"
+}

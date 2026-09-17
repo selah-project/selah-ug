@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "چۈنكى زۇلۇم ھېكمەت ئىگىسىنى ساراڭ قىلىدۇ، ۋە سوۋغا ⟨ئىت⟩ كۆڭۈلنى ۋەيران قىلىدۇ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "زۇلۇم"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ساراڭ قىلىدۇ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ھېكمەت ئىگىسىنى"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ۋەيران قىلىدۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كۆڭۈلنى"
+    },
+    {
+      "surface": "לב",
+      "gloss": "كۆڭۈلنى"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "سوۋغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:17:24.818779674Z",
+  "model": "glm-5.3"
+}

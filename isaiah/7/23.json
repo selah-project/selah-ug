@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 7:23",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ئۇ كۈنى بولىدۇ: مىڭ كۈمۈشكە مىڭ تال ئۈزۈم تۇرىدىغان جاينىڭ ھەممىسى تىكەن-چۆپكە ئايلىنىدۇ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاينىڭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئۇ يەردە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ئۈزۈم"
+    },
+    {
+      "surface": "באלף",
+      "gloss": "مىڭ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "كۈمۈش"
+    },
+    {
+      "surface": "לשמיר",
+      "gloss": "تىكەنگە"
+    },
+    {
+      "surface": "ולשית",
+      "gloss": "ۋە چۆپكە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:55:02.182029195Z",
+  "model": "glm-5.3"
+}

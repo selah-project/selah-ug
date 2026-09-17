@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 68,
+  "translation": "ئېلوھىمنىڭ تېغى بولۇپ باشان تېغى؛ چوققىلىرى كۆپ تاغ بولۇپ باشان تېغى.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "تېغى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىمنىڭ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تاغ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تاغ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "چوققىلىرى كۆپ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "تاغ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-09-16T23:31:19.323631334Z",
+  "model": "glm-5.3"
+}

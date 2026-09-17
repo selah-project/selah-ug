@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ماگبىش ئوغۇللىرى ⟨ئىدى⟩، بىر يۈز ئەللىك ئالتە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "ماگبىش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ئالتە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:42.499793921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ۋە ⟨את⟩ پوراتانى، ۋە ⟨את⟩ ئەدەليانى، ۋە ⟨את⟩ ئەرىداتانى",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پوراتانى"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "پوراتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەدەليانى"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ئەدەليا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ئەرىداتانى"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ئەرىداتا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:21:14.003024006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "موشەھنىڭ ئوغۇللىرى — گېرشوم ۋە ئېلىئەزەر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشەھنىڭ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گېرشوم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ۋە ئېلىئەزەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:47.825027462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ۋە سىلەر بىلەن ⟨את⟩ يالغۇز ⟨ئەمەس⟩ — مەن مۇشۇ ئەھدنى ⟨את⟩ ۋە مۇشۇ قارغىشنى ⟨את⟩ تۈزىمەن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ۋە ... ئەمەس"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "سىلەر بىلەن ⟨את⟩"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "يالغۇز"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "تۈزىمەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەھدنى"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ئەھد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "مۇشۇ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ۋە ⟨את⟩",
+      "marks": "قارغىشنى"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "قارغىش"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "مۇشۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:14.394562837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "نەتسىياھنىڭ بالىلىرى، خەتىفانىڭ بالىلىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نەتسىياھنىڭ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "خەتىفانىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:30:12.960612650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "lamentations 3:48",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "كۆزۈمدىن سۇ ئېرىقلىرى ئېقىپ چۈشىدۇ، خەلقىمنىڭ قىزىنىڭ بۇزۇلۇشى ئۈستىدىن.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ئېرىقلىرى"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ئېقىپ چۈشىدۇ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "كۆزۈمدىن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدىن"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "بۇزۇلۇشى"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزىنىڭ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "خەلقىمنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:42.272071957Z",
+  "model": "glm-5.3"
+}

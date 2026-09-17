@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "«بۇ جايدا ئۆزۈڭگە خوتۇن ئالما، سېنىڭ ئوغۇل-قىزلىرىڭ ⟨بولمىسۇن⟩.»",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئالما"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ئالما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ئۆزۈڭگە"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "خوتۇن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ھەم ئەمەس"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بولمىسۇن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "سېنىڭ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ئوغۇللار"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ۋە قىزلار"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "بۇ جايدا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:21:28.021457813Z",
+  "model": "glm-5.3"
+}

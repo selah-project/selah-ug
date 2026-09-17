@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئەقىل-پاراسەت سېنى ساقلايدۇ، تەپەككۇر سېنى قوغدايدۇ،",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "ئەقىل-پاراسەت"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ساقلايدۇ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "سېنى"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تەپەككۇر"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "قوغدايدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:47:51.307431030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "يېرۇسالەمنىڭ پادىشاھى بىر؛ خېبروننىڭ پادىشاھى بىر؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يېرۇسالەم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادىشاھى"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خېبرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    }
+  ],
+  "timestamp": "2026-09-16T20:48:29.381308310Z",
+  "model": "glm-5.3"
+}

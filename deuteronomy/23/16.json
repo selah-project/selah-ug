@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "تاپشۇرما قۇلنى ئىگىسىگە، ئۇ قاچقان بولسا سېنىڭ يېنىڭغا ئىگىسىنىڭ قولىدىن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "تاپشۇرما"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "تاپشۇرما"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "قۇلنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...غا"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ئىگىسىگە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "قاچقان بولسا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "سېنىڭ يېنىڭغا"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "...دىن"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ئىگىسىنىڭ قولىدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:47.482077858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "يىتسخارنىڭ ئوغلى، قېھاتنىڭ ئوغلى، لەۋىنىڭ ئوغلى، ئىسرائىلنىڭ ئوغلى ⟨شۇ⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يىتسخار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قېھات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لەۋى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:20.937385529Z",
+  "model": "glm-5.3"
+}

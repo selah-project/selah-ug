@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "بولمىسا سەن يەيسەن، توقىسەن، ياخشى ئۆيلەرنى سالىسەن ۋە ⟨ئۇلاردا⟩ ئولتۇرىسەن،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "بولمىسا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "يەيسەن"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "توقىسەن"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ئۆيلەرنى"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ياخشى"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "سالىسەن"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ئولتۇرىسەن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:32:00.420338700Z",
+  "model": "glm-5.3"
+}

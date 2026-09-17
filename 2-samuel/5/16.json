@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ئەلىشامئا، ئەليادا ۋە ئەلىپالەت ⟨بار ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ئەلىشامئا"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ئەليادا"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ئەلىپالەت"
+    }
+  ],
+  "timestamp": "2026-09-16T21:19:24.921002638Z",
+  "model": "glm-5.3"
+}

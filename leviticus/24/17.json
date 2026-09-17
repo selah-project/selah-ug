@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئەگەر بىر ئەر ھەرقانداق ئىنسان نەپىسىنى ئۇرسا، ئۆلۈمگە ئۆلتۈرۈلىدۇ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ئەگەر بىر ئەر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ئۇرسا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەرقانداق"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نەپىسىنى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ئۆلۈمگە"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ئۆلتۈرۈلىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:07:43.031548663Z",
+  "model": "glm-5.3"
+}

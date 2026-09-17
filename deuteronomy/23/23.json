@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "نەذر قىلىشتىن تىزلىسەڭ، سەندە گۇناھ بولمايدۇ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "تىزلىسەڭ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "نەذر قىلىشتىن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "سەندە"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گۇناھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:40.651130021Z",
+  "model": "glm-5.3"
+}

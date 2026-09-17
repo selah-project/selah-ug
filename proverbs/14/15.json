@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "ساددا ھەر بىر سۆزگە ئىشىنىدۇ، ئەقىللىق بولسا ئۆز يولىنى چۈشىنىدۇ.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "ساددا"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "ئىشىنىدۇ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ھەر بىر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزگە"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "ئەقىللىق"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "چۈشىنىدۇ"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "ئۆز يولىنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:51:30.637750621Z",
+  "model": "glm-5.3"
+}

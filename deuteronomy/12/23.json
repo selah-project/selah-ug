@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "پەقەت چىڭ تۇرغىن — قاننى يېمەسلىككە، چۈنكى قان ⟨ئۇ⟩ نەپەشتۇر، ۋە نەپەشنى گۆش بىلەن بىللە يېمە.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "پەقەت"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "چىڭ تۇرغىن"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "…ماسلىققا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "قاننى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "قان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئۇ⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نەپەشتۇر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "يېگىن ⟨يېمە⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نەپەشنى"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بىللە"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆش"
+    }
+  ],
+  "timestamp": "2026-09-16T20:34:27.690421228Z",
+  "model": "glm-5.3"
+}

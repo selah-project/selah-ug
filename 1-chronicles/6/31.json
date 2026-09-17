@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "ئەمتسىنىڭ ئوغلى، بانىنىڭ ئوغلى، شەمەرنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "ئەمتسىنىڭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانىنىڭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شەمەرنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:31.395679477Z",
+  "model": "glm-5.3"
+}

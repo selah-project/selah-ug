@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئېلامنىڭ ئوغۇللىرى ⟨ئىدى⟩، بىر مىڭ ئىككى يۈز ئەللىك تۆت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ئېلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "بىر مىڭ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ئىككى يۈز"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ئەللىك"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تۆت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:30.075359601Z",
+  "model": "glm-5.3"
+}

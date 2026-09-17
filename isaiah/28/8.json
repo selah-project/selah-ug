@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "چۈنكى بارلىق شىرەلەر قۇسۇق ۋە مەينەتچىلىك بىلەن تولغان، ⟨تازا⟩ يەر يوق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارلىق"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "شىرەلەر"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "تولغان"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "قۇسۇق"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "مەينەتچىلىك"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "يەر"
+    }
+  ],
+  "timestamp": "2026-09-16T22:01:33.107836476Z",
+  "model": "glm-5.3"
+}

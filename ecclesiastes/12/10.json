@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "قوھېلېت يېقىملىق سۆزلەرنى تېپىشنى ئىزدىدى، يېزىلغىنى رۇستۇر — راست سۆزلەر.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ئىزدىدى"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوھېلېت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "تېپىشنى"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سۆزلەرنى"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "يېقىملىق"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "يېزىلغىنى"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "رۇستۇر \/ توغرا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "سۆزلەر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راست"
+    }
+  ],
+  "timestamp": "2026-09-17T00:19:12.020938879Z",
+  "model": "glm-5.3"
+}

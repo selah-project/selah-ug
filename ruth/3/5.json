@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ⟨ئۇنىڭغا⟩ ئېيتتى: «سەن دېگەن ھەممە ئىشنى قىلىمەن.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ئۇنىڭغا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەممە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كې"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "دېگەن"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "قىلىمەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:12:08.879689900Z",
+  "model": "glm-5.3"
+}

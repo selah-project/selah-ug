@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ياھۋەھ نىڭ سۆزىنىڭ يۈكى — ئىسرائىل ئۈستىگە، مالئاكىنىڭ قولى ئارقىلىق.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "يۈك"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "قولى ئارقىلىق"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "مالئاكى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:17:41.102694745Z",
+  "model": "glm-5.3"
+}

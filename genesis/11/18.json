@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "پەلەگ ئوتتۇز يىل ياشىدى، ⟨את⟩ رەئۇنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پەلەگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ئوتتۇز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رەئۇنى"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رەئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:20:58.896332328Z",
+  "model": "glm-5.3"
+}

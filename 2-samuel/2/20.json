@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ۋە ئابنېر كەينىگە قارىدى ۋە: «سەن ئاشۇ ئاساھېلمۇ؟» دېدى. ئۇ: «مەن» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "قارىدى"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ئابنېر"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "كەينىگە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "سەنمۇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئاشۇ"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "ئاساھېل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:18:17.165715029Z",
+  "model": "glm-5.3"
+}

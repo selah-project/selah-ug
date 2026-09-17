@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 38,
+  "translation": "چۈنكى گۇناھىمنى ئېيتىمەن، گۇناھىمدىن ئەنسىرەيمەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "گۇناھىمنى"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ئېيتىمەن"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ئەنسىرەيمەن"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "گۇناھىمدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T23:25:57.648907293Z",
+  "model": "glm-5.3"
+}

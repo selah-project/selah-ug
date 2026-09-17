@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئۇنداقتا مەن يېرۇشالەيمگە كەلدىم ھەم ئۇ يەردە ئۈچ كۈن بولدۇم.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "كەلدىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يېنىغا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يېرۇشالەيم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "بولدۇم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئۇ يەردە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:34:37.102658654Z",
+  "model": "glm-5.3"
+}

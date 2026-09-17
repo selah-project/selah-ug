@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئېسىمگە ئالىمەن، ئېسىمدە تۇتىمەن، نەپسىم ⟨ئىچىمدە⟩ ئۆزىنى تاشلايدۇ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ئېسىمگە ئالىمەن"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ئېسىمدە تۇتىمەن"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ئۆزىنى تاشلايدۇ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ئىچىمدە⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نەپسىم"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:51.309679712Z",
+  "model": "glm-5.3"
+}

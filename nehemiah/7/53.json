@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "باقبۇق ئوغۇللىرى، جاقۇفا ئوغۇللىرى، حارحۇر ئوغۇللىرى.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "باقبۇق"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "جاقۇفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "حارحۇر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:20.077599527Z",
+  "model": "glm-5.3"
+}

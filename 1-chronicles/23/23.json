@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "مۇشىنىڭ ئوغۇللىرى: ماخلى، ئەدەر ۋە يېرىموت — ⟨ئۈچ ئوغۇل⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "مۇشىنىڭ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ماخلى"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ئەدەر"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "يېرىموت"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ئۈچ"
+    }
+  ],
+  "timestamp": "2026-09-17T01:40:33.943061708Z",
+  "model": "glm-5.3"
+}

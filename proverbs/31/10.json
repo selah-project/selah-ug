@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 31,
+  "translation": "قەدىرلىك ئايالنى كىم تاپالايدۇ؟ ئۇنىڭ قىممىتى مەرۋايىتتىن ⟨ئۈستۈن⟩.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ئايال"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قەدىرلىك"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "تاپالايدۇ"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ئۈستۈن"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "مەرۋايىتتىن"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "قىممىتى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:57:14.556588849Z",
+  "model": "glm-5.3"
+}

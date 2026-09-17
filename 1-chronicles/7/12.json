@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "شۇپپىم بىلەن ھۇپپىم — ئىرنىڭ ئوغۇللىرى؛ ھۇشىم بولسا ئاھەرنىڭ ئوغۇللىرىدۇر.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "شۇپپىم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ھۇپپىم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ئىر"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ھۇشىم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ئاھەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:44:05.763717768Z",
+  "model": "glm-5.3"
+}

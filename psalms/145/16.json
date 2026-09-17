@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 145,
+  "translation": "قولۇڭنى ئېچىسەن ھەم ⟨את⟩ ھەر بىر تىرىك جاننى رازى قىلىسەن.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ئېچىسەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قولۇڭنى"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "قولۇڭنى"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "رازى قىلىسەن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ھەر بىر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "تىرىك جاننى"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رازى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:47:09.076007470Z",
+  "model": "glm-5.3"
+}

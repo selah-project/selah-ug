@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "چۈنكى ⟨ئۇ⟩ نېمە بولىدىغانلىقىنى بىلمەيدۇ، چۈنكى بولغاندا كىم ئۇنىڭغا خەۋەر بېرەلەيدۇ؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ئەمەس ئۇ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بىلمەيدۇ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "بولىدىغانلىقىنى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "بولغاندا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولىدۇ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كىم"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "خەۋەر بېرەلەيدۇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:40.345478706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ياكىم، ۋە زىكرى، ۋە زابدى.",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "ۋە ياكىم"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ۋە زىكرى"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "ۋە زابدى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:43:46.982931699Z",
+  "model": "glm-5.3"
+}

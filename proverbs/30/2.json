@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈنكى مەن ئىنساندىنمۇ بەكرەك ھايۋانىيمەن، ئىنسان ئەقلىمۇ يوقتۇر مەندە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ھايۋانىيمەن"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ئىنساندىنمۇ بەكرەك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "يوقتۇر"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "ئەقلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مەندە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:36:38.118901186Z",
+  "model": "glm-5.3"
+}

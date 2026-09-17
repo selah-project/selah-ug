@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "تۇغۇت كۈنلىرى توشقاندا، قارا، قورسىقىدا قوشكېزەك ⟨بار⟩ ئىدى.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "توشقاندا"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "كۈنلىرى"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "تۇغۇت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "قارا"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "قوشكېزەك"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "قورسىقىدا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:25:27.684908869Z",
+  "model": "glm-5.3"
+}

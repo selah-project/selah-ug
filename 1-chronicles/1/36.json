@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئەلىپازنىڭ ئوغۇللىرى: تەيمان، ئومار، چەپى، غەئاتام، قەناز، تىمنا ۋە ئەمالەك.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلىپازنىڭ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تەيمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ئومار"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "چەپى"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "غەئاتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قەناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "تىمنا"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ئەمالەك"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:45.336158483Z",
+  "model": "glm-5.3"
+}

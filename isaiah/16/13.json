@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "بۇ ⟨ئۇ⟩ سۆز — ياھۋەھنىڭ مۇئابقا قارىتا ئەزەلدىن ئېيتقىنى.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ئېيتقىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قارىتا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۇئاب"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ئەزەلدىن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:58:12.455730720Z",
+  "model": "glm-5.3"
+}

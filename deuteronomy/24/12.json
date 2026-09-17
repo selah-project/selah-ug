@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 24,
+  "translation": "ئەگەر ئۇ كىشى نامرات بولسا، ئۇنىڭ كىپاراتى بىلەن ياتما.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كىشى"
+    },
+    {
+      "surface": "עני",
+      "gloss": "نامرات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ياتما"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "يات"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ئۇنىڭ كىپاراتى بىلەن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:38:53.344732476Z",
+  "model": "glm-5.3"
+}

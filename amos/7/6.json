@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ياھۋەھ بۇنىڭدىن ⟨ياندى⟩؛ ‹بۇمۇ بولمايدۇ› — دېدى ئادوناي ياھۋەھ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ياندى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۇنىڭدىن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "بۇنى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مۇ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بولمايدۇ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بول-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:07:30.659478229Z",
+  "model": "glm-5.3"
+}

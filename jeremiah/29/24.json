@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ۋە نېھالاملىق شىمئاياغا ئېيتقىن، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ۋە … غا"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شىمئاياغا"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "نېھالاملىق"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ئېيتقىن"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:27:30.037041645Z",
+  "model": "glm-5.3"
+}

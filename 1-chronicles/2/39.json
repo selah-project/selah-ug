@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "ئەزەريە ⟨את⟩ خېلېتسنى توغدى، خېلېتس ⟨את⟩ ئەلئەسەنى توغدى.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ئەزەريە"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خېلېتسنى"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "خېلېتس"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "خېلېتس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەلئەسەنى"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ئەلئەسە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:39:47.556736010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "بەرىكەتلىكسەن ⟨سەن⟩ شەھەردە، ۋە بەرىكەتلىكسەن ⟨سەن⟩ ئېتىزدا.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەرىكەتلىكسەن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شەھەردە"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ۋە بەرىكەتلىكسەن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "سەن"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ئېتىزدا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:05.719615731Z",
+  "model": "glm-5.3"
+}

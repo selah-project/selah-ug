@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "تۇغۇلۇشقا چاغ، ۋە ئۆلۈشكە چاغ؛ تىكىشكە چاغ، ۋە يىلغاننى يۇلۇشقا چاغ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "چاغ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "تۇغۇلۇشقا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە چاغ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ئۆلۈشكە"
+    },
+    {
+      "surface": "עת",
+      "gloss": "چاغ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "تىكىشكە"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە چاغ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "يۇلۇشقا"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "يىلغاننى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:27.601542091Z",
+  "model": "glm-5.3"
+}

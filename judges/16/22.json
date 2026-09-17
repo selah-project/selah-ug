@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "بېشىنىڭ چېچى ساقالانغىنىغا ئوخشاش ئۆسۈشكە باشلىدى.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "باشلىدى"
+    },
+    {
+      "surface": "שער",
+      "gloss": "چېچى"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "بېشىنىڭ"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "ئۆسۈشكە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ئوخشاش"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "ساقالانغىنىغا"
+    }
+  ],
+  "timestamp": "2026-09-16T21:02:16.693458575Z",
+  "model": "glm-5.3"
+}

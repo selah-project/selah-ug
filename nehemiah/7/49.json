@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "خانان بالىلىرى، گىددەل بالىلىرى، گاھار بالىلىرى،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "خانان"
+    },
+    {
+      "surface": "بני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گىددەل"
+    },
+    {
+      "surface": "بני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گاھار"
+    }
+  ],
+  "timestamp": "2026-09-17T00:36:01.898901780Z",
+  "model": "glm-5.3"
+}

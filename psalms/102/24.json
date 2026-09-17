@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 102,
+  "translation": "ئۇ يولدا كۈچۈمنى ئاجىزلاتتى، كۈنلىرىمنى قىسقارتتى.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ئاجىزلاتتى"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "يولدا"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "كۈچۈمنى"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "قىسقارتتى"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "كۈنلىرىمنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:38:05.861746963Z",
+  "model": "glm-5.3"
+}

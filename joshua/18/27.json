@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ۋە رەكەم ۋە يىرپىئەل ۋە تارالاھ",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "ۋە رەكەم"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "ۋە يىرپىئەل"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "ۋە تارالاھ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:54.186666048Z",
+  "model": "glm-5.3"
+}

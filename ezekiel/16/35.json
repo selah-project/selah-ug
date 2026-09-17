@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "شۇنىڭ ئۈچۈن، ئى زىناكار ئايال، ياھۋەھنىڭ سۆزىنى ئاڭلا!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "شۇنىڭ ئۈچۈن"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ئى زىناكار ئايال"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ئاڭلا"
+    },
+    {
+      "surface": "دבר",
+      "gloss": "سۆزىنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:45:36.743007884Z",
+  "model": "glm-5.3"
+}

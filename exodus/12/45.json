@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "تۇرغۇن ۋە ياللانما ئادەم ئۇنى يېمەيدۇ.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "تۇرغۇن"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ۋە ياللانما ئادەم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يەرمەيدۇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنى"
+    }
+  ],
+  "timestamp": "2026-09-16T19:42:33.089991011Z",
+  "model": "glm-5.3"
+}

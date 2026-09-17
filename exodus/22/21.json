@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ھەرقانداق تۇل ئايالنى ۋە يېتىمنى خورلىماڭلار.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھەرقانداق"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "تۇل ئايالنى"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ۋە يېتىمنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "خورلىماڭلار"
+    }
+  ],
+  "timestamp": "2026-09-16T19:47:34.857505048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "شۇڭا مەن ئاللىقاچان ئۆلگەن ئۆلۈكلەرنى ⟨את⟩ تېخى ھايات ياشاۋاتقان تىرىكلەردن ئارتۇق ماختايمەن.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ماختايمەن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۆلۈكلەرنى"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ئۆلۈكلەرنى"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ئاللىقاچان"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ئۆلگەن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دن"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "تىرىكلەردن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ھايات"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "تېخى ھازىرغىچە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:16:59.832790540Z",
+  "model": "glm-5.3"
+}

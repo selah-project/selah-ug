@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "گىببارنىڭ ئوغۇللىرى ⟨ئىدى⟩، توخسان بەش ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گىببار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "توخسان"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ۋە بەش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:43.491867916Z",
+  "model": "glm-5.3"
+}

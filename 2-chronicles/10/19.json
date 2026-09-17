@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "شۇنداق قىلىپ ئىسرائىل داۋۇت ئۆيىگە قارشى بۇزۇق چىقتى، مانا بۇ كۈنگىچە ⟨شۇنداق⟩.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "بۇزۇق چىقتى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئىسرائىل"
+    },
+    {
+      "surface": "بבית",
+      "gloss": "ئۆيىگە"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داۋۇت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "كۈنگىچە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "مانا بۇ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:56:42.710038218Z",
+  "model": "glm-5.3"
+}

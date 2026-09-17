@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ug",
+  "chapter": 12,
+  "translation": "باينىڭ قوي پادىلىرى ۋە كالىلىرى ناھايىتى كۆپ ئىدى.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "باينىڭ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بار ئىدى"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قوي پادىلىرى"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "كالىلىرى"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ناھايىتى كۆپ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بەك"
+    }
+  ],
+  "timestamp": "2026-09-16T21:23:08.610181628Z",
+  "model": "glm-5.3"
+}

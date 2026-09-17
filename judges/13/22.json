@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "مەنۇھاھ ئايالىغا: «چوقۇم ئۆلىمىز، چۈنكى ئېلوھىمنى كۆردۇق» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مەنۇھاھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…قا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ئايالى"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ئۆلـ"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ئۆلىمىز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىمنى"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "كۆردۇق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:59:48.974663308Z",
+  "model": "glm-5.3"
+}

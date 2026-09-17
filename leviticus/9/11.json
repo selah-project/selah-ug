@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "⟨את⟩ گۆش ۋە ⟨את⟩ تېرىنى ئوردۇگاھنىڭ سىرتىدا ئوتتا كۆيدۈردى.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گۆشنى"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆشنى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تېرىنى"
+    },
+    {
+      "surface": "העור",
+      "gloss": "تېرىنى"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "كۆيدۈردى"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ئوتتا"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "سىرتىدا"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ئوردۇگاھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:00:12.471994110Z",
+  "model": "glm-5.3"
+}

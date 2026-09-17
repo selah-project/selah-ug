@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ۋە ئاخىرىڭدا پۇچۇلىنىسەن، گۆشۈڭ ۋە بەدىنىڭ تۈگىگەندە",
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "ۋە پۇچۇلىنىسەن"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ئاخىرىڭدا"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "تۈگىگەندە"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "گۆشۈڭ"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "ۋە بەدىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:48:00.477330351Z",
+  "model": "glm-5.3"
+}

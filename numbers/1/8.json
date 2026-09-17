@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "يىسساخاردىن — نەتانېئەل، تسۇئارنىڭ ئوغلى.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "يىسساخاردىن"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتانېئەل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تسۇئارنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:09:12.963028224Z",
+  "model": "glm-5.3"
+}

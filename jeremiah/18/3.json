@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "مەن ساپالچىنىڭ ئۆيىگە چۈشتۈم، قارىسام ئۇ چاق ئۈستىدە بىر ئىش قىلىۋاتىدۇ.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "چۈشتۈم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ئۆيىگە"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ساپالچىنىڭ"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "قارىسام ئۇ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلىۋاتىدۇ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ئىش"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "چاق"
+    }
+  ],
+  "timestamp": "2026-09-16T22:23:47.771350213Z",
+  "model": "glm-5.3"
+}

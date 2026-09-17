@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 25,
+  "translation": "كۈمۈشتىن تۇزاقلارنى ئېلىۋەت، تاۋلىغۇچى ئۈچۈن قاچا چىقىدۇ.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ئېلىۋەت"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "تۇزاقلارنى"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "كۈمۈشتىن"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "چىقىدۇ"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "تاۋلىغۇچى ئۈچۈن"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "قاچا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:55:26.617961600Z",
+  "model": "glm-5.3"
+}

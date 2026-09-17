@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "موتسا ⟨את⟩ بىنئانى توغدى، رەفاييا ئۇنىڭ ئوغلى، ئەلئاسا ئۇنىڭ ئوغلى، ئاتسېل ئۇنىڭ ئوغلى ئىدى.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "موتسا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بىنئا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بىنئا"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "رەفاييا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ئەلئاسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ئاتسېل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ئوغلى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:45:10.473741488Z",
+  "model": "glm-5.3"
+}

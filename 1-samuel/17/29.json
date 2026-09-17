@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "داؤۇت ئېيتتى: «مەن ئەمدى نېمە قىلدىم؟ ئۇ ⟨پەقەت⟩ بىر سۆز ئەمەسمۇ؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤۇت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "قىلدىم"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئەمدى"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ئەمەسمۇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T21:11:49.453087330Z",
+  "model": "glm-5.3"
+}

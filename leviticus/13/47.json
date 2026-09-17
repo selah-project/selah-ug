@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ۋە ئۇ كىيىمدە ئەگەر تسارئات يارىسى بولسا — يۇڭ كىيىمدە ياكى كتەن كىيىمدە —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ۋە ئۇ كىيىم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولسا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭدا"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "يارا"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "تسارئات"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "كىيىمدە"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "يۇڭ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ياكى"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "كىيىمدە"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "كتەن"
+    }
+  ],
+  "timestamp": "2026-09-16T20:02:06.834876311Z",
+  "model": "glm-5.3"
+}

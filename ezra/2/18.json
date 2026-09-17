@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "يورانىڭ ئوغۇللىرى ⟨ئىدى⟩، بىر يۈز ئون ئىككى ⟨نەپەر⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "يورا"
+    },
+    {
+      "surface": "مאה",
+      "gloss": "بىر يۈز"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ئون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ئىككى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:28:43.491569250Z",
+  "model": "glm-5.3"
+}

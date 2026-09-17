@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "سىخون چىقتى — ئۇ ۋە ئۇنىڭ پۈتۈن خەلقى — بىزنىڭ ئالدىمىزغا، ئۇرۇشقا، يەھساتاھتا.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چىقتى"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سىخون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "بىزنىڭ ئالدىمىزغا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئۇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ۋە پۈتۈن"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خەلقى"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ئۇرۇشقا"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "يەھساتاھتا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:28:51.677423317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 19,
+  "translation": "ۋە لوت ئۇلارغا ئېيتتى: ئۆتۈنەي، ئادوناي، ئۇنداق بولمىسۇن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ۋە ئېيتتى"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ئۇلارغا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئۇنداق بولمىسۇن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئۆتۈنەي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادوناي"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:13.721908993Z",
+  "model": "glm-5.3"
+}

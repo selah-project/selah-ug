@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 1,
+  "translation": "ئۆردەننىڭ ئۇ قىرغىقىدا، موئاب يېرىدە، مۇسا بۇ تورانى ⟨את⟩ چۈشەندۈرۈشكە باشلىدى، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ئۇ قىرغىقىدا"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ئۆردەن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "يېرىدە"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "הואيل",
+      "gloss": "باشلىدى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۇسا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چۈشەندۈردى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۇ تورا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:29:01.521568230Z",
+  "model": "glm-5.3"
+}

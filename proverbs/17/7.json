@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 17,
+  "translation": "نادانغا ئارتۇق لەۋ ياراشمايدۇ، ناھايىتى ئېسىلزادىگىمۇ يالغان لەۋ ⟨ياراشمايدۇ⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ياراشمايدۇ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "نادانغا"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لەۋ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ئارتۇق"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ناھايىتى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ھەتتا"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ئېسىلزادىگىمۇ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لەۋ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "يالغان"
+    }
+  ],
+  "timestamp": "2026-09-17T01:35:33.142228618Z",
+  "model": "glm-5.3"
+}

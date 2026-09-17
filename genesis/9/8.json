@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ئېلوھىم نۇھقا ۋە ئۇنىڭ بىلەن بىللە ئوغۇللىرىغا ئېيتتى، مۇنداق دەپ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئېلوھىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۇھ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە …غا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ئوغۇللىرىغا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئۇنىڭ بىلەن"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "مۇنداق دەپ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:55.886457713Z",
+  "model": "glm-5.3"
+}

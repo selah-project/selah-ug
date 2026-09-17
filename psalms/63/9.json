@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 63,
+  "translation": "نەپىسىم ساڭا چاپلىشىدۇ، سېنىڭ ئوڭ قولۇڭ ⟨مېنى⟩ تۇتۇپ تۇرىدۇ.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "چاپلىشىدۇ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نەپىسىم"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مېنى"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "تۇتۇپ تۇرىدۇ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ئوڭ قولۇڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:29:51.907390407Z",
+  "model": "glm-5.3"
+}

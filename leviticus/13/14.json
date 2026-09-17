@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ئەمما ئۇنىڭدا تىرىك گۆش كۆرۈنگەن كۈنى، ئۇ پاسىك بولىدۇ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "كۈنى"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "كۆرۈنگەندە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئۇنىڭدا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆش"
+    },
+    {
+      "surface": "חי",
+      "gloss": "تىرىك"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پاسىك بولىدۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:01:27.630041754Z",
+  "model": "glm-5.3"
+}

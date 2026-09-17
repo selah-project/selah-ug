@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 10,
+  "translation": "يائىر ئۆلدى ۋە قاموندا دەپنە قىلىندى.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ئۆلدى"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائىر"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "دەپنە قىلىندى"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "قاموندا"
+    }
+  ],
+  "timestamp": "2026-09-16T20:59:03.831460469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئىزدەش ⟨ئۈچۈن⟩ ۋاقىت، ۋە يوقىتىش ⟨ئۈچۈن⟩ ۋاقىت؛ ساقلاش ⟨ئۈچۈن⟩ ۋاقىت، ۋە تاشلىۋېتىش ⟨ئۈچۈن⟩ ۋاقىت.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ئىزدەش"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "וە ۋاقىت"
+    },
+    {
+      "surface": "لאבד",
+      "gloss": "يوقىتىش"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ۋاقىت"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ساقلاش"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ۋە ۋاقىت"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "تاشلىۋېتىش"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:59.978652513Z",
+  "model": "glm-5.3"
+}

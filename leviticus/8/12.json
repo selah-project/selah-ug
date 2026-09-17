@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ug",
+  "chapter": 8,
+  "translation": "ۋە ئۇ مەشھ مېيىدىن ئاروننىڭ بېشىغا قۇيدى ھەمدە ⟨את⟩ ئۇنى مايلاپ مۇقەددەسلىدى.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "قۇيدى"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "مېيىدىن"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مەشھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "بېشى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئارون"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "مايلىدى"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئۇنى"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "مۇقەددەسلىمەك"
+    }
+  ],
+  "timestamp": "2026-09-16T19:59:49.195891141Z",
+  "model": "glm-5.3"
+}

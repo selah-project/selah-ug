@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "لەمەخ ياشىدى ⟨يۈز سەكسەن ئىككى يىل⟩،بىر ئوغۇل توغدى.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ياشىدى"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لەمەخ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ئىككى"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "سەكسەن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "يىل"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "توغدى"
+    },
+    {
+      "surface": "بן",
+      "gloss": "ئوغۇل"
+    }
+  ],
+  "timestamp": "2026-09-16T19:18:31.565161519Z",
+  "model": "glm-5.3"
+}

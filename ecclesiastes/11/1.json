@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ug",
+  "chapter": 11,
+  "translation": "نېنىڭنى سۇ يۈزىگە تاشلىغىن، چۈنكى كۆپ كۈنلەرنىڭ ⟨ئىچىدە⟩ ئۇنى تاپىسەن.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "تاشلىغىن"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "نېنىڭنى"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "يۈزىگە"
+    },
+    {
+      "surface": "המים",
+      "gloss": "سۇنىڭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "كۆپلىكىدە"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "كۈنلەرنىڭ"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ئۇنى تاپىسەن"
+    }
+  ],
+  "timestamp": "2026-09-17T00:18:25.912392065Z",
+  "model": "glm-5.3"
+}

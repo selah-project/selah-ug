@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "ياھۋەھ تەرەپتىن يىرمىياغا بولغان ⟨ئۇ⟩ سۆز ⟨ئىدى⟩، ⟨ئېيتىلىشىچە⟩:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "سۆز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "بولغان"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ئىدى⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تەرەپتىن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يىرمىياغا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىلىشىچە"
+    }
+  ],
+  "timestamp": "2026-09-17T01:26:39.398047577Z",
+  "model": "glm-5.3"
+}

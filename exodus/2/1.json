@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "لېۋى ئۆيىدىن بىر ئەر ماڭدى ۋە ⟨את⟩ لېۋىنىڭ قىزىنى ئالدى.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ماڭدى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بىر ئەر"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ئۆيىدىن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېۋى"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ئالدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لېۋىنىڭ قىزىنى"
+    },
+    {
+      "surface": "בת",
+      "gloss": "قىزىنى"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېۋىنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:38:29.740863558Z",
+  "model": "glm-5.3"
+}

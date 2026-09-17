@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "ۋە بىلھەھدە، ۋە ئەتسەمدە، ۋە تولادتا",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "ۋە بىلھەھدە"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "ۋە ئەتسەمدە"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "ۋە تولادتا"
+    }
+  ],
+  "timestamp": "2026-09-17T00:42:55.196329981Z",
+  "model": "glm-5.3"
+}

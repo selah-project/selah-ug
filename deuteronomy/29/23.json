@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ۋە بارچە مىللەتلەر دەيدۇ: نېمە ئۈچۈن ياھۋەھ بۇ زېمىنغا شۇنداق قىلدى؟ بۇ چوڭ غەزەپنىڭ قىزغىنلىقى نېمە؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "دەيدۇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بارچە"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "مىللەتلەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىدە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە ئۈچۈن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "شۇنداق"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زېمىنغا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "نېمە"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "قىزغىنلىقى"
+    },
+    {
+      "surface": "האף",
+      "gloss": "غەزەپنىڭ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "بۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T20:41:33.357867260Z",
+  "model": "glm-5.3"
+}

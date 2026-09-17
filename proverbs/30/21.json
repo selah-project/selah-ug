@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "ئۈچ نەرسىدىن يەر تىترەيدۇ، تۆت نەرسىدىن ⟨بولسا⟩ كۆتۈرەلمەيدۇ:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ئۈچ نەرسىدىن"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ئۈچ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "تىترەيدۇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "يەر"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تۆت نەرسىدىن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ئەمەس"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "كۆتۈرەلمەيدۇ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "كۆتۈرۈش"
+    }
+  ],
+  "timestamp": "2026-09-16T23:56:15.054447069Z",
+  "model": "glm-5.3"
+}

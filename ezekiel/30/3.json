@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 30,
+  "translation": "چۈنكى كۈن يېقىن، ۋە كۈن يېقىن — ياھۋەھنىڭ ⟨كۈنى⟩؛ بۇلۇت كۈنى، مىللەتلەر ۋاقتى بولغۇسى.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "يېقىن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ۋە يېقىن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "كۈن"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بۇلۇت"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ۋاقتى"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "مىللەتلەرنىڭ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بولغۇسى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:51:56.729333489Z",
+  "model": "glm-5.3"
+}

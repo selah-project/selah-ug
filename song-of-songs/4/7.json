@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ug",
+  "chapter": 4,
+  "translation": "پۈتۈنۈڭ گۈزەل، جۈپتۈم، سەندە ⟨ھېچقانداق⟩ ئىللەت يوق.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "پۈتۈنۈڭ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "گۈزەل"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "جۈپتۈم"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "ئىللەت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "בך",
+      "gloss": "سەندە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:11:20.947707593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "نۇھ بولسا ياھۋەھنىڭ كۆزىدە ئىلتىپات تاپتى.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ۋە نۇھ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "تاپتى"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ئىلتىپات"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "كۆزىدە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:06.714147051Z",
+  "model": "glm-5.3"
+}

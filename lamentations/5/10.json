@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "تېرىمىز تونۇردەك قارىدى، ئاچارچىلىقنىڭ غەزەپلىك ھارارىتىنىڭ يۈزىدىن.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "تېرىمىز"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "تونۇردەك"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "قارىدى"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "يۈزىدىن"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "غەزەپلىك ھارارىتى"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ئاچارچىلىقنىڭ"
+    }
+  ],
+  "timestamp": "2026-09-17T00:15:40.074424161Z",
+  "model": "glm-5.3"
+}

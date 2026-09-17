@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "سۇ سورىدى ⟨ئۇ⟩، سۈت بەردى؛ ئېسىللەرنىڭ تاۋىقىدا قايماق كەلتۈردى.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "سۇ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سورىدى"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "سۈت"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "بەردى"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "تاۋاقتا"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ئېسىللەرنىڭ"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "كەلتۈردى"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "قايماق"
+    }
+  ],
+  "timestamp": "2026-09-16T20:55:54.574775989Z",
+  "model": "glm-5.3"
+}

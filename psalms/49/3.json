@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 49,
+  "translation": "ھەم ئىنسان بالىلىرى، ھەم ئەر بالىلىرى، بىرلىكتە — بايمۇ، يوقسۇلمۇ",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئىنسان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بالىلىرى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئەر"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "بىرلىكتە"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "باي"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "يوقسۇلمۇ"
+    }
+  ],
+  "timestamp": "2026-09-16T23:27:41.970388318Z",
+  "model": "glm-5.3"
+}

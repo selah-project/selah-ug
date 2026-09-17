@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "قېھاتنىڭ ئوغۇللىرى — ئامرام، يىتسھار، خېۋرون ۋە ئۇززىئېل، تۆت ⟨ئىدى⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئوغۇللىرى"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قېھاتنىڭ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ئامرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يىتسھار"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خېۋرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ئۇززىئېل"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "تۆت"
+    }
+  ],
+  "timestamp": "2026-09-17T00:50:43.923650242Z",
+  "model": "glm-5.3"
+}

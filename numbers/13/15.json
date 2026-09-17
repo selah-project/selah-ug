@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "گاد قەبىلىسىدىن ← ماكىنىڭ ئوغلى گىئۇئېل.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قەبىلىسىدىن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "گىئۇئېل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ماكى"
+    }
+  ],
+  "timestamp": "2026-09-16T20:15:49.540365321Z",
+  "model": "glm-5.3"
+}

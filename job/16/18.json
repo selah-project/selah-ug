@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 16,
+  "translation": "ئى زېمىن، قېنىمنى ياپما، ۋە نالىيىمگە ئورۇن بولمىسۇن.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ئى زېمىن"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תכסי",
+      "gloss": "ياپما"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "قېنىمنى"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ۋە"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بولمىسۇن"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ئورۇن"
+    },
+    {
+      "surface": "לזעקתי",
+      "gloss": "نالىيىمگە"
+    }
+  ],
+  "timestamp": "2026-09-17T00:01:57.505134169Z",
+  "model": "glm-5.3"
+}

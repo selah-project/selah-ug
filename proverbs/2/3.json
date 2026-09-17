@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ug",
+  "chapter": 2,
+  "translation": "چۈنكى ئەگەر تونۇشنى چاقىرساڭ، چۈشىنىشكە ئاۋازىڭنى بەرسەڭ —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "تونۇشنى"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "چاقىرساڭ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "چۈشىنىشكە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بەرسەڭ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ئاۋازىڭنى"
+    }
+  ],
+  "timestamp": "2026-09-16T23:48:49.361291582Z",
+  "model": "glm-5.3"
+}

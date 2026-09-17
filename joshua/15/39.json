@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "لاكىش، بوزقات ۋە ئەگلون،",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "لاكىش"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "بوزقات"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "ئەگلون"
+    }
+  ],
+  "timestamp": "2026-09-16T20:50:06.404189316Z",
+  "model": "glm-5.3"
+}

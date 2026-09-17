@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "ug",
+  "chapter": 28,
+  "translation": "ئۈچىنچى قاتاردا لەشەم، شەۋو ۋە ئەھلەمەھ بولسۇن.",
+  "tokens": [
+    {
+      "surface": "وהטור",
+      "gloss": "قاتاردا"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ئۈچىنچى"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لەشەم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شەۋو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ۋە ئەھلەمەھ"
+    }
+  ],
+  "timestamp": "2026-09-16T19:50:10.875893808Z",
+  "model": "glm-5.3"
+}

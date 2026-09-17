@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 92,
+  "translation": "مىزمور، نەغمە — شابات كۈنى ئۈچۈن.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مىزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "نەغمە"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "كۈنى ئۈچۈن"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شابات"
+    }
+  ],
+  "timestamp": "2026-09-16T23:37:24.437806803Z",
+  "model": "glm-5.3"
+}

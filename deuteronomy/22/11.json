@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "شائاتنېز — يۇڭ بىلەن كەندىر بىللە توقۇلغان كىيىم — ھەرگىز كىيمە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ھەرگىز"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "كىيمە"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شائاتنېز"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "يۇڭ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "كەندىر"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بىللە"
+    }
+  ],
+  "timestamp": "2026-09-16T20:36:28.220795928Z",
+  "model": "glm-5.3"
+}

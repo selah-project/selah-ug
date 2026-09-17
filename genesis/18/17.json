@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 18,
+  "translation": "ياھۋەھ ئېيتتى: مەن قىلىۋاتقان ئىشىمنى ئىبراھىمدىن يوشۇرايمۇ؟",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئېيتتى"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "يوشۇرايمۇ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "ئىبراھىمدىن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "نەرسىنى"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مەن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "قىلىۋاتقان"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:02.513113891Z",
+  "model": "glm-5.3"
+}

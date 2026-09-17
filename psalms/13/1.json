@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ug",
+  "chapter": 13,
+  "translation": "ناغشاچىغا. داۋۇدنىڭ مەزمۇنى.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ناغشاچىغا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزمۇن"
+    },
+    {
+      "surface": "لדוד",
+      "gloss": "داۋۇدقا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:20:44.485817436Z",
+  "model": "glm-5.3"
+}

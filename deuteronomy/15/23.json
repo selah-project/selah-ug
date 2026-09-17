@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ug",
+  "chapter": 15,
+  "translation": "پەقەت ئۇنىڭ قېنىنى ⟨ئەت⟩ يېمە؛ ئۇنى يەر ئۈستىگە سۇغا ⟨ئوخشاش⟩ تۆكىسەن.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "پەقەت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۇنىڭ قېنىنى"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ئۇنىڭ قېنى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "يېمە"
+    },
+    {
+      "surface": "על",
+      "gloss": "ئۈستىگە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "يەر"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ئۇنى تۆكىسەن"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "سۇغا ئوخشاش"
+    }
+  ],
+  "timestamp": "2026-09-16T20:35:37.162065491Z",
+  "model": "glm-5.3"
+}

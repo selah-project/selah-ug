@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ug",
+  "chapter": 5,
+  "translation": "ماڭا سۆزلەۋاتقان پەرىشتەگە دېدىم: ئۇلار ئېفانى ⟨את⟩ قەيەرگە ئاپىرىدۇ؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "دېدىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…گە"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "پەرىشتە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "سۆزلەۋاتقان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "قەيەرگە"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ئاپىرىدۇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئېفا"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ئېفا"
+    }
+  ],
+  "timestamp": "2026-09-16T23:14:32.126298565Z",
+  "model": "glm-5.3"
+}

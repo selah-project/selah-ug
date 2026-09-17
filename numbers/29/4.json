@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ug",
+  "chapter": 29,
+  "translation": "ۋە يەتتە قوزىنىڭ ھەر بىرى ئۈچۈن بىر ئونلىق ئۇن.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ۋە ئونلىق"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بىر"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "قوزا ئۈچۈن"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ھەر بىرىنىڭ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "يەتتىنىڭ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "قوزىلار"
+    }
+  ],
+  "timestamp": "2026-09-16T20:24:02.712854076Z",
+  "model": "glm-5.3"
+}

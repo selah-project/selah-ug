@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ئەمما گۆشتنى — ئۆز نەپسى بىلەن، يەنى ئۆز قېنى بىلەن — يېمەڭلار.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ئەمما"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتنى"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ئۆز نەپسى بىلەن"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ئۆز قېنى بىلەن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ياق"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "يېمەڭلار"
+    }
+  ],
+  "timestamp": "2026-09-16T19:19:44.213454374Z",
+  "model": "glm-5.3"
+}

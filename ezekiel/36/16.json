@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 36,
+  "translation": "ياھۋەھنىڭ سۆزى ماڭا بولۇپ ئېيتىلدى:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بولۇپ ئۆتتى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "سۆزى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھنىڭ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماڭا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىلدى"
+    }
+  ],
+  "timestamp": "2026-09-16T22:54:30.500364933Z",
+  "model": "glm-5.3"
+}

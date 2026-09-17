@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 14,
+  "translation": "چۈنكى ھەتتا ئېتىزدىكى كىيىكمۇ تۇغدى ۋە ⟨ئۇنى⟩ تاشلىۋەتتى، چۈنكى ئوت يوق ئىدى.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەتتا"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "كىيىك"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ئېتىزدىكى"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "تۇغدى"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ۋە تاشلىۋەتتى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "يوق"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ئىدى"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ئوت"
+    }
+  ],
+  "timestamp": "2026-09-16T22:20:40.824414125Z",
+  "model": "glm-5.3"
+}

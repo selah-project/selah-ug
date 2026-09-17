@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ۋە ياھۋەھ شەمۇئېلنى چاقىردى، ئۇ: «مانا مەن!» دېدى.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "چاقىردى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…نى"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شەمۇئېل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "مانا مەن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:05:45.279096339Z",
+  "model": "glm-5.3"
+}

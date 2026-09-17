@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "ھىرام پادىشاھقا يۈز يىگىرمە تالانت ئالتۇن ئەۋەتتى.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ئەۋەتتى"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ھىرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پادىشاھقا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يۈز"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "يىگىرمە"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "تالانت"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ئالتۇن"
+    }
+  ],
+  "timestamp": "2026-09-16T21:34:50.027036815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "ug",
+  "chapter": 22,
+  "translation": "ئەلىپاز تەمانلىق جاۋاب بېرىپ ئېيتتى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جاۋاب بېرىپ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلىپاز"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "تەمانلىق"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ئېيتتى"
+    }
+  ],
+  "timestamp": "2026-09-17T00:03:51.227338341Z",
+  "model": "glm-5.3"
+}

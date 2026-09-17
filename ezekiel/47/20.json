@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "ug",
+  "chapter": 47,
+  "translation": "غەرب تەرەپ بولسا چوڭ دېڭىز — چېگرادىن خامات كىرىش ئېغىزى ئۇدۇلىغىچە. مانا بۇ غەرب تەرىپى.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "ۋە …تەرىپى"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دېڭىز"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دېڭىز"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "چېگرادىن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…غىچە"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ئۇدۇلىغا"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "كىرىش"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "خامات"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "مانا بۇ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "تەرىپى"
+    },
+    {
+      "surface": "ים",
+      "gloss": "غەرب"
+    }
+  ],
+  "timestamp": "2026-09-16T22:59:38.376509701Z",
+  "model": "glm-5.3"
+}

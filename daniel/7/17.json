@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "ug",
+  "chapter": 7,
+  "translation": "«بۇ چوڭ ھايۋانلار — ئۇلار تۆتتۇر — تۆت پادىشاھكى، ئۇلار يەردىن تۇرۇپ چىقىدۇ.»",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "بۇ"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "ھايۋانلار"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "چوڭ"
+    },
+    {
+      "surface": "די",
+      "gloss": "كى"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ئۇلار"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "تۆت"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "پادىشاھ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "تۇرۇپ چىقىدۇ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دىن"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "يەر"
+    }
+  ],
+  "timestamp": "2026-09-17T00:26:32.879203871Z",
+  "model": "glm-5.3"
+}

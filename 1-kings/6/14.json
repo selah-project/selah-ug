@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ug",
+  "chapter": 6,
+  "translation": "شۇنىڭ بىلەن سۇلايمان ئۆينى ⟨את⟩ سالدى ۋە ئۇنى تاماملىدى.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "سالدى"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سۇلايمان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئۆينى"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ئۆينى"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "تاماملىدى"
+    }
+  ],
+  "timestamp": "2026-09-16T21:32:23.197996541Z",
+  "model": "glm-5.3"
+}

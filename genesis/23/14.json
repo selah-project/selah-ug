@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ug",
+  "chapter": 23,
+  "translation": "ۋە ئەپرون ئىبراھىمغا ⟨את⟩ جاۋاب بېرىپ ئۇنىڭغا دېدى:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ۋە جاۋاب بېرىپ"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "ئەپرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئىبراھىمغا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئىبراھىمغا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دېدى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئۇنىڭغا"
+    }
+  ],
+  "timestamp": "2026-09-16T19:23:58.932264607Z",
+  "model": "glm-5.3"
+}

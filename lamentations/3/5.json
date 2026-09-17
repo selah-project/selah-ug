@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ug",
+  "chapter": 3,
+  "translation": "ئۇ ماڭا قارشى ⟨دىۋار⟩ قۇردى ۋە مېنى زەھەر ۋە پەرىشانچىلىق بىلەن قورشىۋالدى.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "قۇردى"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ماڭا قارشى"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "قورشىۋالدى"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "زەھەر"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "پەرىشانچىلىق"
+    }
+  ],
+  "timestamp": "2026-09-17T00:13:41.383974165Z",
+  "model": "glm-5.3"
+}

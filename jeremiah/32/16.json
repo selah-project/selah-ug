@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "ug",
+  "chapter": 32,
+  "translation": "سېتىۋېلىش خېتىنى نىرىيانىڭ ئوغلى بارۇخقا بەرگەندىن كېيىن مەن ياھۋەھغا دۇئا قىلدىم، ئېيتىپ:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "دۇئا قىلدىم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياھۋەھ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "كېيىن"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "بەرگەندىن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خېتى"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "خەت"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "سېتىۋېلىش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…غا"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بارۇخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ئوغلى"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "نىرىيا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ئېيتىپ"
+    }
+  ],
+  "timestamp": "2026-09-16T22:29:39.592454079Z",
+  "model": "glm-5.3"
+}

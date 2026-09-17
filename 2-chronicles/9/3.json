@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ug",
+  "chapter": 9,
+  "translation": "شەبا خانىشى شىلومونىڭ حېكمىتىنى ⟨את⟩ ۋە ئۇ سالغان ئۆينى كۆردى.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "كۆردى"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "خانىشى"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شەبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حېكمىتىنى"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حېكمىتىنى"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شىلومونىڭ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ئۆينى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كى"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "سالغان"
+    }
+  ],
+  "timestamp": "2026-09-17T00:58:14.068194966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "ug",
+  "chapter": 26,
+  "translation": "ساڭا يۆلەنگەن نىيەتنى سەن شالوم، شالوم ساقلايسەن، چۈنكى ئۇ ساڭا تەمكىن.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "نىيەتنى"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "يۆلەنگەن"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ساقلايسەن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چۈنكى"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ساڭا"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "تەمكىن"
+    }
+  ],
+  "timestamp": "2026-09-16T22:00:41.870293971Z",
+  "model": "glm-5.3"
+}
