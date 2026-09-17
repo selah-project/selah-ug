@@ -109,6 +109,63 @@ both generalise per language, but these are served text.
 
 ---
 
+## The graph load — what went wrong, for the next chair
+
+The corpus above is sound. The **ingest** is where this chair cost real
+time, and none of it was the engine's fault.
+
+`load-lang! :ug` ran **three times**. Two attempts died client-side — one
+`timeout 590 ./selah eval` SIGTERM, one harness OOM kill while a client JVM
+sat on ~0.8 GB for the whole load — while the engine-side work kept
+committing. Result: **69,106 translation entities for 23,213 verses** and
+**909,288 word-glosses for 305,325 tokens**, roughly 3× each.
+
+**The trap is documented at the bottom of `dev/scripts/dedupe_multilang_glosses.clj`
+and I did not read it first:**
+
+> *Pass B (inverse arrays) — REQUIRED, and note the trap: the loader's
+> idempotence check walks the parent-side to-many, which only Pass B fills,
+> so a second load before Pass B duplicates the entire language.*
+
+`find-translation` looks for existing work in `:tanakh/verse.translations`.
+Only Pass B populates it. Without Pass B the loader **cannot see its own
+prior work**, so every re-run inserts a full set. This is the Urdu failure
+of 2026-08-10, one run worse.
+
+### Three things I believed that were false
+
+1. **"Nothing is saved, the damage is in-memory."** The backend is
+   **`:tiered`** — writes go through to Tupl (`~/.selah/db/tupl/selah.db`,
+   15 GB, stamped as I wrote). The pickle was never the durability path.
+   There is no restart that discards these.
+2. **"`c/ids` showed 0, so nothing committed."** The loader's own docstring
+   names a *first-process new-tag blind spot*: the aggregator does not
+   maintain a freshly-registered tag. That is why `sync-tag-index!` exists.
+   The 0 meant nothing at all, and I re-ran on the strength of it.
+3. **"Conceptual has no delete."** `c/replace!` replaces a concept's keys
+   and values wholesale — its docstring says *"use replace! to be able to
+   remove properties."* An orphan is a reusable slot, not dead weight.
+
+### The order that actually works
+
+```clojure
+(require 'selah.lang.schema.gloss :reload)   ; PER-LAYER first
+(require 'selah.lang.schema       :reload)
+(db/in-db (schema/register!))
+(#'m/load-lang! :xx)                          ; print the result
+(db/in-db (#'m/sync-tag-index!))
+(scripts.dedupe-multilang-glosses/run! :xx)   ; PASS B — not optional
+(api/reset-translation-index!)
+```
+
+Dispatch anything long **engine-side as a `future` into a `defonce` atom and
+poll**. Never wrap it in a client-side `timeout`; never hold a client JVM
+across it.
+
+And measure progress by sampling `c/max-id` **inside** the engine across a
+real interval. `c/ids` does not move during a load by design, and two quick
+client-side polls sit closer together than they look.
+
 ## What this chair taught the instrument
 
 - **A repeated clean sample is not a clean corpus.** "Han 0 · Cyrillic 0 on
